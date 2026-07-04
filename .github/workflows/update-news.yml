@@ -1,0 +1,47 @@
+name: Hírek gyűjtése és összegzése
+
+on:
+  schedule:
+    - cron: '0 5,15 * * *'
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - 'sources.json'
+      - 'scripts/**'
+      - '.github/workflows/update-news.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repó kicheckoutolása
+        uses: actions/checkout@v4
+
+      - name: Node.js beállítása
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Függőségek telepítése
+        run: npm install
+
+      - name: Playwright Chromium telepítése
+        run: npx playwright install --with-deps chromium
+
+      - name: Hírek gyűjtése és összegzése
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: gemini-2.5-flash
+        run: npm run collect
+
+      - name: Frissített adatok commitolása
+        run: |
+          git config user.name "napi-szemle-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/summaries.json
+          git diff --quiet --cached || git commit -m "Hírek automatikus frissítése [ci skip]"
+          git push
