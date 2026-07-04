@@ -1,0 +1,17 @@
+{
+  "sources": [
+    { "name": "Telex", "rss": "https://telex.hu/rss", "scrapeUrl": "https://telex.hu/", "category": "politika" },
+    { "name": "24.hu", "rss": "https://24.hu/feed/", "scrapeUrl": "https://24.hu/", "category": "politika" },
+    { "name": "HVG", "rss": "https://hvg.hu/rss", "scrapeUrl": "https://hvg.hu/", "category": "politika" },
+    { "name": "Infostart Sport", "rss": "https://infostart.hu/sport/rss/", "scrapeUrl": "https://infostart.hu/sport", "category": "sport" },
+    { "name": "SG.hu", "rss": "https://sg.hu/rss", "scrapeUrl": "https://sg.hu/", "category": "technologia" },
+    { "name": "Portfolio.hu", "rss": "https://www.portfolio.hu/rss/all.xml", "scrapeUrl": "https://www.portfolio.hu/", "category": "gazdasag" }
+  ],
+  "categories": [
+    { "id": "politika", "name": "Politika" },
+    { "id": "sport", "name": "Sport" },
+    { "id": "technologia", "name": "Technológia" },
+    { "id": "gazdasag", "name": "Gazdaság" },
+    { "id": "kornyezet", "name": "Környezet" }
+  ]
+}
