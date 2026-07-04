@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2026-07-04T06:00:00.000Z",
+  "fx": {
+    "rate": 401.85,
+    "date": "2026-07-04T06:00:00.000Z",
+    "source": "Yahoo Finance"
+  },
+  "categories": {
+    "politika": {
+      "text": "Ez egy induló, minta-összefoglaló — az első automatikus futás után valódi tartalom váltja fel. Egyeztetést tartottak a kormány és az ellenzék képviselői a jövő évi költségvetésről, a felek több ponton közeledtek, de a legvitatottabb kérdésekben egyelőre nem született megállapodás. Új törvényjavaslatot nyújtottak be a helyi önkormányzatok finanszírozásának átalakításáról.",
+      "engine": "extractive",
+      "updatedAt": "2026-07-04T06:00:00.000Z",
+      "sourceLinks": [
+        { "name": "Telex", "link": "https://telex.hu/" },
+        { "name": "24.hu", "link": "https://24.hu/" },
+        { "name": "HVG", "link": "https://hvg.hu/" }
+      ],
+      "skipped": []
+    },
+    "sport": {
+      "text": "Ez egy induló, minta-összefoglaló — az első automatikus futás után valódi tartalom váltja fel. Hosszabbításban dőlt el a válogatott mérkőzése egy fontos selejtezőn, a csapat a ráadásban szerzett góllal biztosította be a győzelmet. Új edzőt nevezett ki a bajnokcsapat, a szakember három éves szerződést írt alá.",
+      "engine": "extractive",
+      "updatedAt": "2026-07-04T06:00:00.000Z",
+      "sourceLinks": [
+        { "name": "Infostart Sport", "link": "https://infostart.hu/sport" }
+      ],
+      "skipped": []
+    },
+    "technologia": {
+      "text": "Ez egy induló, minta-összefoglaló — az első automatikus futás után valódi tartalom váltja fel. Bemutatták az új mesterséges intelligencia alapú fejlesztést, amely a gyártó szerint jelentősen felgyorsítja a mindennapi feladatok elvégzését. Jelentősen nőtt a hazai szoftverfejlesztő cégek exportbevétele az elmúlt évben.",
+      "engine": "extractive",
+      "updatedAt": "2026-07-04T06:00:00.000Z",
+      "sourceLinks": [
+        { "name": "SG.hu", "link": "https://sg.hu/" }
+      ],
+      "skipped": []
+    },
+    "gazdasag": {
+      "text": "Ez egy induló, minta-összefoglaló — az első automatikus futás után valódi tartalom váltja fel. Tovább mérséklődött az infláció az elmúlt hónapban, elsősorban az élelmiszerárak emelkedésének lassulása miatt. Új beruházást jelentett be egy nemzetközi nagyvállalat, amely több száz új munkahelyet teremthet a régióban.",
+      "engine": "extractive",
+      "updatedAt": "2026-07-04T06:00:00.000Z",
+      "sourceLinks": [
+        { "name": "Portfolio.hu", "link": "https://www.portfolio.hu/" }
+      ],
+      "skipped": []
+    },
+    "kornyezet": {
+      "error": "Nincs beállított forrás ehhez a kategóriához. Adj hozzá egyet a sources.json fájlban.",
+      "updatedAt": "2026-07-04T06:00:00.000Z"
+    }
+  }
+}
