@@ -1,0 +1,70 @@
+{
+  "generatedAt": "2026-07-04T18:39:00.012Z",
+  "fx": {
+    "rate": 353.86,
+    "date": "2026-07-04T12:37:48.000Z",
+    "source": "Yahoo Finance"
+  },
+  "categories": {
+    "politika": {
+      "text": "Oroszországban Vlagyimir Putyin szavai és a valóság közötti szakadék egyre mélyül az ukrán dróntámadások okozta benzinhiány és a háború iránti növekvő elégedetlenség miatt. A magyar belpolitikában Magyar Péter továbbra is a figyelem középpontjában maradt, egy Áder János villájáról szóló videó megosztásával, ami korábban büntetéseket vont maga után, miközben Verebes István a politikus stílusát kritizálta. Vitézy Dávid szerint a sztrádakoncessziók „brutális, felfoghatatlan” összegeket fizettek ki az államnak, és valójában közpénz-kicsatornázási eszközök. A hazai politikai érdeklődésre utal, hogy a parlamenti élő közvetítések százezres nézettséget érnek el a YouTube-on. Ezen felül, Pikó András polgármester reagált egy 13 évvel ezelőtti ügyben történt elnézéskérésre, jelezve, hogy az nem teszi jóvá a történteket.",
+      "engine": "gemini",
+      "updatedAt": "2026-07-04T18:38:28.215Z",
+      "sourceLinks": [
+        {
+          "name": "Telex",
+          "link": "https://telex.hu/kulfold/2026/07/04/orosz-ukran-haboru-krim-putyin-interju-front-drontamadas-olajfinomito"
+        },
+        {
+          "name": "24.hu",
+          "link": "https://24.hu/tudomany/2026/07/04/borderline-szemelyisegzavar-vizin-gabriella-interju-24extra/"
+        },
+        {
+          "name": "HVG",
+          "link": "https://hvg.hu/elet/20260704_otos-lotto-nyeroszamai-27-het-szerencsejatek-lottohuzas-sorsolas-nyeremeny"
+        }
+      ],
+      "skipped": []
+    },
+    "sport": {
+      "text": "A labdarúgó-világbajnokság a nyolcaddöntő szakaszába lépett, ahol az erőviszonyokat elemző cikkek Svájc futballnagyhatalommá válását emelik ki, míg a szuperszámítógép Franciaországot tartja esélyesnek. Ezen a vb-n Lionel Messi egy rekordot döntő, nehéz győzelem után nyilatkozott a csapat szenvedéséről, miközben az egyiptomi kapitány a sikeres büntetőpárbaj titkát árulta el, amellyel ők is a 16 legjobb közé jutottak. Közben javaslat született Harry Kane, az angol válogatott csatárának lovaggá ütésére a labdarúgásban szerzett érdemeiért. A Forma-1-es Brit Nagydíj sprintfutamán Silverstone-ban Andrea Kimi Antonelli, a Mercedes olasz pilótája aratott győzelmet. Végül, de nem utolsósorban, július 5-én hatszáz résztvevővel rendezik meg az Open Water Tournament immár hagyományos 5 kilométeres úszóversenyét a szentendrei Duna-ágon, amely miatt teljes hajózár lesz érvényben.",
+      "engine": "gemini",
+      "updatedAt": "2026-07-04T18:38:36.283Z",
+      "sourceLinks": [
+        {
+          "name": "Infostart Sport",
+          "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/04/elemzes-a-vb-nyolcaddontok-elott-svajc-futballnagyhatalom-lett-a-szuperszamitogep-szerint-a-franciak-az-eselyesek"
+        }
+      ],
+      "skipped": []
+    },
+    "technologia": {
+      "text": "A mesterséges intelligencia (MI) terén kettős kép rajzolódik ki: míg egy önállóan működő MI-ügynök sikeresen hajtott végre zsarolóvírus támadást, új típusú fenyegetést teremtve, addig Kína humanoid robotjainak valós teljesítménye messze elmarad a látványos prezentációktól, rávilágítva a technológiai hype és a valóság közötti különbségre. Az ENSZ-jelentés szerint az MI tovább mélyítheti a globális egyenlőtlenségeket, különösen a fejlődő országokban. A technológiai szektorhoz köthető munkahelyek presztízse eltérő képet mutat: Dél-Koreában a Samsung és SK Hynix dolgozói váltak a legkeresettebb házassági partnerekké, azonban San Franciscóban már az évi 180 ezer dolláros fizetés is kevésnek bizonyul a megélhetési költségek miatt. Emellett egy fogadási piac körüli botrány a Spotify toplistáján rávilágított a technológiai platformok esetleges manipulációs kockázataira.",
+      "engine": "gemini",
+      "updatedAt": "2026-07-04T18:38:45.629Z",
+      "sourceLinks": [
+        {
+          "name": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/166013/kina-humanoid-robotjainak-valosaga-messze-elmarad-a-latvanytol"
+        }
+      ],
+      "skipped": []
+    },
+    "gazdasag": {
+      "text": "A hazai belpolitikai események során a gazdasági témák, különösen az uniós források és a költségvetés helyzete kerültek a fókuszba. Ezzel párhuzamosan egy átfogó energiatörvény-tervezet is napvilágot látott. A javaslat a hazai árampiacot reformálná meg a dinamikus tarifák bevezetésével és komoly bürokráciacsökkentéssel. Emellett az energiahatékonysági szabályok módosításáról is szó esik. Az idézett cikkekben a \"Gazdaság\" témakörre vonatkozóan nem merült fel ellentmondás.",
+      "engine": "gemini",
+      "updatedAt": "2026-07-04T18:38:59.961Z",
+      "sourceLinks": [
+        {
+          "name": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/global/20260704/cafoljak-az-ukranok-hogy-elesett-a-fontos-erodvaros-europa-mar-az-osszecsapasra-keszul-hireink-az-orosz-ukran-haborurol-szombaton-847566"
+        }
+      ],
+      "skipped": []
+    },
+    "kornyezet": {
+      "error": "Nincs beállított forrás ehhez a kategóriához.",
+      "updatedAt": "2026-07-04T18:38:59.961Z"
+    }
+  }
+}
