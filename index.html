@@ -1,0 +1,1259 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Napi Szemle</title>
+<meta name="description" content="AI által készített napi hírösszefoglaló a te forrásaidból.">
+<meta name="theme-color" content="#0D6E6E">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Napi Szemle">
+<meta name="mobile-web-app-capable" content="yes">
+<link rel="manifest" href="data:application/manifest+json,%7B%22name%22%3A%20%22Napi%20Szemle%22%2C%20%22short_name%22%3A%20%22Szemle%22%2C%20%22description%22%3A%20%22AI%20altal%20keszitett%20napi%20hirosszefoglalo%20a%20sajat%20forrasaidbol.%22%2C%20%22start_url%22%3A%20%22.%22%2C%20%22scope%22%3A%20%22.%22%2C%20%22display%22%3A%20%22standalone%22%2C%20%22background_color%22%3A%20%22%23F3EFE4%22%2C%20%22theme_color%22%3A%20%22%230D6E6E%22%2C%20%22lang%22%3A%20%22hu%22%2C%20%22orientation%22%3A%20%22portrait-primary%22%2C%20%22icons%22%3A%20%5B%7B%22src%22%3A%20%22data%3Aimage/png%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAMAAAADACAIAAADdvvtQAAADuElEQVR4nO3bMU4bQRiG4RClDF0qboCUKlKkXCFn4A4uaREt98gZcoVIkVJFyg2oKDlAipUQAgtsvp2df0bPU4Jlr3df/lmvl5PT3e4dvNX73hvA2AREREBEBEREQEQERERARAREREBEBEREQEQERERARAREREBEBEREQEQERERARAREREBEBEREQEQERERARD5s8zK315fbvBCPnV3dtH6Jk9b/2iyd7ppm1HYJU08FTY9CqwkknYJajCIn0USaBGT81NTiuKwfkHoqW/3oWMKIrByQ8VPfusfIBCIiICICIiIgIht9mUriz7fvz3/45dfP7bfkOQGVtjedx7/qnpElrK4X6jnqMU0JqKjDy%2BjbkIAqOraJjg0JqJy31dCrIQEREVAtySDpMoQERERARAREREBEBEREQEQEVEvy5WiXL1YFRERA5bxtkPS6r6Pc/UDnn7/23oQSfnz8dPiDO94VVCgg6Tx2cX93YEN97ymzhNV1cX/36mO635FYZQIZP3stDe0dRRf3d//%2B/t58i56qEhAvOGQU9WIJI1IloArTeCxF9liVgBhUoXOg5U/K2fSrisyeRaGAFqX2Dq%2ByhBEREBEBEREQEQERERARAREpdx1oyguJE1/cKhTQlOkslrc2ZUaWMCJVApp4/DyY8j1WCYhBCYhIlYCmPMF8Ysr3WCUgBlXoY/zEN5RNOXsWhQJaTLyvp2QJIyIgIgIiIiAiAiIiICICIlLuOtCUFxKPMtaVsEIBSWcx1t1nljAiVQIyfp4YZYdUCYhBCYhIlYBGOWfczCg7pEpADKrQx/iJbyg7yiizZ1EooMVYuw9LGBEBEREQEQERERARAREREJFy14HKXkh0gWqvQgGVTWcx1n1em7GEEakSUPHx82CU7dxMlYAYlICIVAlolJPTUbZzM1UCYlCFPsYXv6HM7NmrUEALx2ksljAiAiIiICICIiIgIgIiIiAiAiIiICICIiIgIgIiIiAiAiIiICICIiIgIgIiIiAiAiIiICICIiIgIgIiIiAiAiIiICICIiIgIgIiIiAiAiIiICICIiIgIgIiIiAiAiIiICICIiIgIgIisnJAZ1c36z4hq1v3GJlARNYPyBCqbPWj02QCaaimFsfFEkbk5HS3a/fst9eX7Z6cw7VbE9pOIGtZBU2PQtsJ9MAo6mKDP%2BCNAmJWTqKJCIiIgIgIiIiAiAiIiICICIiIgIgIiIiAiAiIiICICIiIgIgIiIiAiAiIiICICIiIgIgIiIiAiAiIyH8XbaobL1IWWAAAAABJRU5ErkJggg%3D%3D%22%2C%20%22sizes%22%3A%20%22192x192%22%2C%20%22type%22%3A%20%22image/png%22%2C%20%22purpose%22%3A%20%22any%22%7D%2C%20%7B%22src%22%3A%20%22data%3Aimage/png%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAIAAAB7GkOtAAALMElEQVR4nO3cMW4cRxqA0dGC4TrbyDcQoMiAgL3CnsF3YOjUcOp77Bl8BQMCNhKgGzhy6ANsIIGQJXFIzvR0Vdf3XizTBVTV/003iXn13f39CYCef4xeAABjCABAlAAARAkAQJQAAEQJAECUAABECQBAlAAARAkAQJQAAEQJAECUAABECQBAlAAARAkAQJQAAEQJAECUAABECQBAlAAARAkAQJQAAEQJAECUAABECQBAlAAARAkAQJQAAEQJAECUAABECQBAlAAARAkAQJQAAEQJAECUAABECQBAlAAARAkAQJQAAEQJAECUAABECQBAlAAARAkAQJQAAEQJAECUAABECQBAlAAARAkAQJQAAEQJAECUAABECQBAlAAARAkAQJQAAEQJAECUAABECQBAlAAARAkAQJQAAEQJAECUAABECQBAlAAARAkAQNTd6AXM7o9ffhq9BOBy3//86%2BglzOvVd/f3o9cwHUMfliQGXxCAvzH6YXky8EAATidzH5KUwC%2BBTX%2BIcvfTTwC2HziFHwW6TwCmP/BRdhpEA5Ddb%2BCbmjOhGIDmTgPnBSdDLgDBPQaeqTYfWgGo7S7wUqkpEQpAal%2BBi3VmRSUAnR0FrheZGIkARPYS2FBhbiQCAMDX1g9AIePALSw/PRYPwPL7B9zU2jNk8QAA8BgBAIhaOQBrP7sB%2B1h4kqwcAADOWDYAC0cb2Nmq82TZAABwngAARAkAQNSaAVj1hR0wypJTZc0AAPAkAQCIEgCAKAEAiBIAgCgBAIgSAICou9ELABb3v3//5/w/%2BOH33/ZZCV8QAGB7Tw79x/6xGOxJAIAtvWj0P/afy8A%2BBADYxpWj/%2BsfJQO3JgDAtTYc/V//WBm4HX8FBFzlRtN/t59fJgDA5faZzhpwI14BAZfYeSh7HXQLngCAFxv1kdyjwLYEAHiZsVNYAzYkAABRAgC8wAwfwGdYwxoEAHiueSbvPCs5NAEAnmW2mTvbeo5IAACiBAB42pwft%2Bdc1YEIAECUAABPmPmD9sxrm58AAEQJAHDO/B%2Bx51/htAQAIEoAAKIEACBKAIBHHeX1%2BlHWORsBAIgSAIAoAQCIEgCAKAEAiBIAgCgBAIgSAIAoAQCIEgCAKAEAHvXD77%2BNXsKzHGWdsxEAgCgBAIgSAIAoAQDOmf/1%2BvwrnJYAAEQJAPCEmT9iz7y2%2BQkAQJQAAE%2Bb84P2nKs6EAEAiBIA4Flm%2B7g923qOSACA55pn5s6zkkMTAOAFZpi8M6xhDQIAEHU3egF88vrN29FLgOf67z//Nep/7eP/hgRgMHOfI/rxrz%2BHNMD035YAjGT6c1w//vXnacdHAaP/FvwOYBjTnwV8zMCtmf43IgBjmP4s49YNMP1vxyugAUx/FnOj10FG/60JwN5Mf1a1YQaM/n0IALClKzNg9O9JAIDtff6LgSdj8Pk//nCrFfENArAr738IetFviV%2B/efvh/bvbLYbP%2BSsggCgBAIgSAIAoAQCIEgCAKAHYlT9vgPPckT0JAECUAABECcDePOHCY9yOnQnAAE45fM292J8AjOGsw%2BfciCEEYBgnHj5yF0YRgJGce3ALBvJtoIM9nH5fFEqKuT8DAZiF%2BwDszCsggCgBAIgSAIAoAQCIEgCAKAEAiBIAgCgBAIgSAIAoAQCIEgCAKAEAiBIAgCgBAIgSAIAoAQCIEgCAKAEAiBIAgCgBAIgSAICou9EL4JPXb96OXgIH8OH9u9FLYB0CMJi5z4s8HBgl4HpeAY1k%2BnMxh4frCcAwLjBXcoS4kgCM4eqyCQeJawjAAC4tG3KcuJgA7M11ZXMOFZcRAIAoAQCIEoBdeVTnRhwtLiAAAFECABAlAABRAgAQJQAAUQKwK9/gyI04WlxAAACiBAAgSgD25lGdzTlUXEYABnBd2ZDjxMUEYAyXlk04SFxDAIZxdbmSI8SVBGAkF5iLOTxc7270AuoerrFvc%2BQ5zH02JACzcLGBnXkFBBAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQdTd6AXzy%2Bs3b0UuAR314/270EtieAAxm7nMIDwdVCVbiFdBIpj%2BH49CuRACGcZE4KEd3GQIwhivEoTnAaxCAAVweFuAYL0AA9ubasAyH%2BegEACBKAACiBGBXHplZjCN9aAIAECUAAFECABAlAABRAgAQJQC78k2KLMaRPjQBAIgSAIAoAdibR2aW4TAfnQAM4NqwAMd4AQIwhsvDoTnAaxCAYVwhDsrRXYYAjOQicTgO7UruRi%2Bg7uE6%2BVZFZmbuL0kAZuGCATvzCgggSgAAogQAIEoAAKIEACBKAACiBAAgSgAAogQAIEoAAKIEACBKAACiBAAgSgAAogQAIEoAAKIEACBKAACiBAAgSgAAogQAIOpu9AL45PWbt6OXwOnD%2B3ejlwD7EYDBzP2pPGyHElDgFdBIpv%2B0bA0FAjCMETM5G8TyBGAMw%2BUQbBNrE4ABjJUDsVksTAD2ZqAcji1jVQIAECUAAFECsCsvEw7KxrEkAQCIEgCAKAEAiBIAgCgBAIgSgF35jsmDsnEsSQAAogQAIEoA9uZlwuHYMlYlAAMYKAdis1iYAIxhrByCbWJtAjCM4TI5G8TyBGAkI2ZatoaCu9ELqHsYNL5vcgbmPikCMAujB9iZV0AAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQtWYAvv/519FLAJay5FRZMwAAPEkAAKIEACBq2QAs%2BcIOGGLVebJsAAA4b%2BUArBptYE8LT5KVAwDAGQIAELV4ABZ%2BdgN2sPYMWTwAp9X3D7id5afH%2BgEA4JsSAVg%2B48DmCnMjEYBTYy%2BBrUQmRiUAp8yOAlfqzIpQAE6lfQUuk5oSrQCcYrsLvEhtPuQCcOrtMfAcwclQDMApudPAGc2ZEA3AqbrfwNey0%2BDVd/f3o9cw2B%2B//DR6CcAY2dH/UfcJ4EH8BECWu%2B8J4G88DcDyzP0HAvANMgBLMvq/IABPEAM4NEP/DAEAiPJLYIAoAQCIEgCAKAEAiBIAgCgBAIgSAIAoAQCIEgCAKAEAiBIAgCgBAIgSAIAoAQCIEgCAKAEAiBIAgCgBAIgSAIAoAQCIEgCAKAEAiBIAgCgBAIgSAIAoAQCIEgCAKAEAiBIAgCgBAIgSAIAoAQCIEgCAKAEAiBIAgCgBAIgSAIAoAQCIEgCAKAEAiBIAgCgBAIgSAIAoAQCIEgCAKAEAiBIAgCgBAIgSAIAoAQCIEgCAKAEAiBIAgCgBAIgSAIAoAQCIEgCAKAEAiBIAgCgBAIgSAIAoAQCIEgCAKAEAiBIAgCgBAIgSAIAoAQCIEgCAqP8Dxkm3kxA6dlUAAAAASUVORK5CYII%3D%22%2C%20%22sizes%22%3A%20%22512x512%22%2C%20%22type%22%3A%20%22image/png%22%2C%20%22purpose%22%3A%20%22any%22%7D%2C%20%7B%22src%22%3A%20%22data%3Aimage/png%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAIAAAB7GkOtAAAK70lEQVR4nO3cMW4kxxmAUa3B0Js50g0IMBJAwFfwGXQHhkoFpbqHz6ArCFjA0QK8gSKFOoADGeOFac7OkNNd1fW9F6%2BoQlfX//U0ifnw8enpGwB6/jJ6AQCMIQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAEHU3egG86reffhi9BLiNb3/8efQS%2BD8%2BfHx6Gr0G/svQZ3liMA8BmIXRT4oMzEAABjP3iVOCgfwSeCTTH5yCgXwCGMNND//DR4H9%2BQQwgOkPLzkX%2BxOAvbnL4TVOx84EYFfubzjPGdmTAOzHnQ2XcFJ2IwA7cU/D5ZyXfQjAHtzNcC2nZgcCsDn3MbyNs7M1AdiWOxjewwnalAAARAnAhjy8wPs5R9sRgK24a%2BFWnKaNCABAlAAARAnAJnxihdtyprYgAABRAnB7HlVgC07WzQkAQJQAAEQJAECUANyY15SwHefrtgQAIEoAAKIEACBKAACiBAAgSgAAogQAIOpu9AKAPfzr7/84/w%2B%2B%2B/WXfVbCPAQAlvXVof/aPxaDCAGABV01%2Bl/7z2VgeQIAS3nn6H/5o2RgYQIAi7jh6H/5Y2VgSf4KCFaw0fTf7eczhADA4e0znTVgPV4BwYHtPJS9DlqMTwBwVKMeyX0UWIYAwCGNncIasAYBAIgSADieGR7AZ1gD7yQAcDDzTN55VsLbCAAcyWwzd7b1cBUBAIgSADiMOR%2B351wVlxAAgCgBgGOY%2BUF75rVxhgAARAkAHMD8j9jzr5CXBAAgSgAAogQAIEoAYHZHeb1%2BlHVyIgAAUQIAECUAAFECABAlAABRAgAQJQAAUQIAECUAAFECABAlADC77379ZfQSLnKUdXIiAABRAgAQJQAAUQIABzD/6/X5V8hLAgAQJQBwDDM/Ys%2B8Ns4QAIAoAYDDmPNBe85VcQkBAIgSADiS2R63Z1sPVxEAOJh5Zu48K%2BFtBACOZ4bJO8MaeCcBAIi6G70Axrt/eBy9BN7in3/926j/tcf/NQhAl7l/dN//8fuQBpj%2ByxCAKNN/Dd//8fs3O34UMPoX43cARab/Yv7MwNZM//UIQI7pv6StG2D6L8kroBbTf2EbvQ4y%2BhcmACGmf8ENM2D0L08AYEHvzIDRHyEAsKwvfzHw1Rh8%2BY%2Bft1oRcxGACu9/4q76LfH9w%2BPz50/bLYZJ%2BCsggCgBAIgSAIAoAQCIEgCAKAGo8EcdXM7dEiEAAFECABAlACE%2B13MJ90mHALQ425znDkkRgBwnnNe4N2oEoMg55yV3RZAARDntfMn90OTbQLtOZ94XhWaZ%2B3ECgCkAUV4BAUQJAECUAABECQBAlAAARAkAQJQAAEQJAECUAABECQBAlAAARAkAQJQAAEQJAECUAABECQBAlAAARAkAQJQAAEQJAECUAABE3Y1eAOPdPzyOXkLI8%2BdPo5cA/yEAXeb%2BEKfLrgQM5xVQlOk/nC1gOAEoMnomYSMYSwByDJ2p2A4GEoAW42ZCNoVRBCDEoJmWrWEIAQCIEgCAKAGo8JJhcjaI/QkAQJQAAEQJAECUAABECQBAlABU%2BO7Jydkg9icAAFECABAlACFeMkzL1jCEALQYNBOyKYwiADnGzVRsBwMJQJGhMwkbwVgCEGX0DGcLGO5u9AIY5jSAfA/lnsx95iEAGEkQ5RUQQJQAAEQJAECUAABECQBAlAAARAkAQJQAAEQJAECUAABECQBAlAAARAkAQJQAAEQJAECUAABECQBAlAAARAkAQJQAAEQJAEDU3egFMN79w%2BPoJfAuz58/jV4ChyQAXeb%2BMk5bqQRcxSugKNN/SbaVqwhAkTGxMJvL5QQgx4BYni3mQgLQYjRE2GguIQAhhkKK7earBAAgSgAAogSgwguBIJvOeQIAECUAAFECABAlAABRAgAQJQAVvicyyKZzngAARAkAQJQAhHghkGK7%2BSoBaDEUImw0lxCAHKNhebaYCwlAkQGxMJvL5QQgyphYkm3lKnejF8Awp2HhOyOPztznbQQA4wOivAICiBIAgCgBAIgSAIAoAQCIEgCAKAEAiBIAgCgBAIgSAIAoAQCIEgCAKAEAiBIAgCgBAIgSAIAoAQCIEgCAKAEAiBIAgCgBAIi6G70Axrt/eBy9hJGeP38avQQYQwC64nP/5HQdlIAar4CiTP%2BXXBNqBKDIpHuNK0OKAOSYcee5PnQIQIvpdglXiQgBCDHXLudaUSAAAFECABAlABXeaVzLFWN5AgAQJQAAUQIAECUAAFECABAlABW%2B6vJarhjLEwCAKAEAiBKAEO80LudaUSAALebaJVwlIgQgx3Q7z/WhQwCKzLjXuDKkCECUSfeSa0LN3egFMMxp3sW/9tLcJ0sAMAEhyisggCgBAIgSAIAoAQCIEgCAKAEAiBIAgCgBAIgSAIAoAQCIEgCAKAEAiBIAgCgBAIgSAIAoAQCIEgCAKAEAiBIAgCgBAIgSgBv79sefRy8BluV83ZYAAEQJAECUAABECcDteU0JW3Cybk4AAKIEYBMeVeC2nKktCABAlAAARAnAVnxihVtxmjYiABty18L7OUfbEQCAKAHYlocXeA8naFMCsDl3MLyNs7M1AdiD%2Bxiu5dTsQAB24m6Gyzkv%2BxCA/bin4RJOym4EYFfubDjPGdmTAOzN/Q2vcTp2JgADuMvhJedifx8%2BPj2NXkPXbz/9MHoJMJ7RP4pPACO578EpGMgngFn4NECKuT8DAZiLDLA8o38eAjAvMWAZhv6cBAAgyi%2BBAaIEACBKAACiBAAgSgAAogQAIEoAAKIEACBKAACiBAAgSgAAogQAIEoAAKIEACBKAACiBAAgSgAAogQAIEoAAKIEACBKAACiBAAgSgAAogQAIEoAAKIEACBKAACiBAAgSgAAogQAIEoAAKIEACBKAACiBAAgSgAAogQAIEoAAKIEACBKAACiBAAgSgAAogQAIEoAAKIEACBKAACiBAAgSgAAogQAIEoAAKIEACBKAACiBAAgSgAAogQAIEoAAKIEACBKAACiBAAgSgAAogQAIEoAAKIEACBKAACiBAAgSgAAogQAIEoAAKIEACBKAACiBAAgSgAAogQAIEoAAKIEACBKAACiBAAgSgAAogQAIEoAAKIEACBKAACiBAAgSgAAogQAIEoAAKIEACBKAACiBAAgSgAAogQAIEoAAKIEACBKAACiBAAgSgAAogQAIEoAAKIEACBKAACiBAAgSgAAogQAIEoAAKIEACBKAACiBAAgSgAAogQAIEoAAKIEACDq3702t5Pv%2BY6nAAAAAElFTkSuQmCC%22%2C%20%22sizes%22%3A%20%22512x512%22%2C%20%22type%22%3A%20%22image/png%22%2C%20%22purpose%22%3A%20%22maskable%22%7D%5D%7D">
+<link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAIAAADdvvtQAAADuElEQVR4nO3bMU4bQRiG4RClDF0qboCUKlKkXCFn4A4uaREt98gZcoVIkVJFyg2oKDlAipUQAgtsvp2df0bPU4Jlr3df/lmvl5PT3e4dvNX73hvA2AREREBEBEREQEQERERARAREREBEBEREQEQERERARAREREBEBEREQEQERERARAREREBEBEREQEQERERARD5s8zK315fbvBCPnV3dtH6Jk9b/2iyd7ppm1HYJU08FTY9CqwkknYJajCIn0USaBGT81NTiuKwfkHoqW/3oWMKIrByQ8VPfusfIBCIiICICIiIgIht9mUriz7fvz3/45dfP7bfkOQGVtjedx7/qnpElrK4X6jnqMU0JqKjDy+jbkIAqOraJjg0JqJy31dCrIQEREVAtySDpMoQERERARAREREBEBEREQEQEVEvy5WiXL1YFRERA5bxtkPS6r6Pc/UDnn7/23oQSfnz8dPiDO94VVCgg6Tx2cX93YEN97ymzhNV1cX/36mO635FYZQIZP3stDe0dRRf3d//+/t58i56qEhAvOGQU9WIJI1IloArTeCxF9liVgBhUoXOg5U/K2fSrisyeRaGAFqX2Dq+yhBEREBEBEREQEQERERARAREpdx1oyguJE1/cKhTQlOkslrc2ZUaWMCJVApp4/DyY8j1WCYhBCYhIlYCmPMF8Ysr3WCUgBlXoY/zEN5RNOXsWhQJaTLyvp2QJIyIgIgIiIiAiAiIiICICIlLuOtCUFxKPMtaVsEIBSWcx1t1nljAiVQIyfp4YZYdUCYhBCYhIlYBGOWfczCg7pEpADKrQx/iJbyg7yiizZ1EooMVYuw9LGBEBEREQEQERERARAREREJFy14HKXkh0gWqvQgGVTWcx1n1em7GEEakSUPHx82CU7dxMlYAYlICIVAlolJPTUbZzM1UCYlCFPsYXv6HM7NmrUEALx2ksljAiAiIiICICIiIgIgIiIiAiAiIiICICIiIgIgIiIiAiAiIiICICIiIgIgIiIiAiAiIiICICIiIgIgIiIiAiAiIiICICIiIgIgIiIiAiAiIiICICIiIgIgIiIiAiAiIiICICIiIgIgIisnJAZ1c36z4hq1v3GJlARNYPyBCqbPWj02QCaaimFsfFEkbk5HS3a/fst9eX7Z6cw7VbE9pOIGtZBU2PQtsJ9MAo6mKDP+CNAmJWTqKJCIiIgIgIiIiAiAiIiICICIiIgIgIiIiAiAiIiICICIiIgIgIiIiAiAiIiICICIiIgIgIiIiAiAiIyH8XbaobL1IWWAAAAABJRU5ErkJggg==">
+<link rel="apple-touch-icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAIAAADdvvtQAAADuElEQVR4nO3bMU4bQRiG4RClDF0qboCUKlKkXCFn4A4uaREt98gZcoVIkVJFyg2oKDlAipUQAgtsvp2df0bPU4Jlr3df/lmvl5PT3e4dvNX73hvA2AREREBEBEREQEQERERARAREREBEBEREQEQERERARAREREBEBEREQEQERERARAREREBEBEREQEQERERARD5s8zK315fbvBCPnV3dtH6Jk9b/2iyd7ppm1HYJU08FTY9CqwkknYJajCIn0USaBGT81NTiuKwfkHoqW/3oWMKIrByQ8VPfusfIBCIiICICIiIgIht9mUriz7fvz3/45dfP7bfkOQGVtjedx7/qnpElrK4X6jnqMU0JqKjDy+jbkIAqOraJjg0JqJy31dCrIQEREVAtySDpMoQERERARAREREBEBEREQEQEVEvy5WiXL1YFRERA5bxtkPS6r6Pc/UDnn7/23oQSfnz8dPiDO94VVCgg6Tx2cX93YEN97ymzhNV1cX/36mO635FYZQIZP3stDe0dRRf3d//+/t58i56qEhAvOGQU9WIJI1IloArTeCxF9liVgBhUoXOg5U/K2fSrisyeRaGAFqX2Dq+yhBEREBEBEREQEQERERARAREpdx1oyguJE1/cKhTQlOkslrc2ZUaWMCJVApp4/DyY8j1WCYhBCYhIlYCmPMF8Ysr3WCUgBlXoY/zEN5RNOXsWhQJaTLyvp2QJIyIgIgIiIiAiAiIiICICIlLuOtCUFxKPMtaVsEIBSWcx1t1nljAiVQIyfp4YZYdUCYhBCYhIlYBGOWfczCg7pEpADKrQx/iJbyg7yiizZ1EooMVYuw9LGBEBEREQEQERERARAREREJFy14HKXkh0gWqvQgGVTWcx1n1em7GEEakSUPHx82CU7dxMlYAYlICIVAlolJPTUbZzM1UCYlCFPsYXv6HM7NmrUEALx2ksljAiAiIiICICIiIgIgIiIiAiAiIiICICIiIgIgIiIiAiAiIiICICIiIgIgIiIiAiAiIiICICIiIgIgIiIiAiAiIiICICIiIgIgIiIiAiAiIiICICIiIgIgIiIiAiAiIiICICIiIgIgIisnJAZ1c36z4hq1v3GJlARNYPyBCqbPWj02QCaaimFsfFEkbk5HS3a/fst9eX7Z6cw7VbE9pOIGtZBU2PQtsJ9MAo6mKDP+CNAmJWTqKJCIiIgIgIiIiAiAiIiICICIiIgIgIiIiAiAiIiICICIiIgIgIiIiAiAiIiICICIiIgIgIiIiAiAiIyH8XbaobL1IWWAAAAABJRU5ErkJggg==">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#F3EFE4;
+  --paper-raised:#FAF8F2;
+  --ink:#1C1B19;
+  --teal:#0D6E6E;
+  --teal-dark:#0A5757;
+  --red:#C1272D;
+  --gold:#A9824C;
+  --gray:#6B665C;
+  --line:rgba(28,27,25,0.14);
+  --radius:10px;
+  --font-display:'Fraunces', serif;
+  --font-body:'Inter', sans-serif;
+  --font-mono:'IBM Plex Mono', monospace;
+}
+
+*{box-sizing:border-box;}
+html,body{margin:0;padding:0;}
+body{
+  background:var(--paper);
+  color:var(--ink);
+  font-family:var(--font-body);
+  line-height:1.5;
+  padding-bottom:3rem;
+  -webkit-font-smoothing:antialiased;
+}
+
+a{color:var(--teal-dark);}
+
+/* ---------- ticker (signature motion) ---------- */
+.ticker{
+  background:var(--ink);
+  color:var(--paper);
+  font-family:var(--font-mono);
+  font-size:0.72rem;
+  letter-spacing:0.08em;
+  text-transform:uppercase;
+  padding:0.35rem 0;
+  overflow:hidden;
+  white-space:nowrap;
+}
+.ticker span{display:inline-block;padding:0 1.5rem;opacity:0.85;}
+.ticker-fx{
+  font-weight:600;
+  color:#F3D9A6;
+  opacity:1 !important;
+}
+.ticker-fx-error{
+  color:rgba(243,239,228,0.55);
+  font-weight:400;
+}
+@media (prefers-reduced-motion: no-preference){
+  .ticker-track{display:inline-block;animation:scroll-ticker 28s linear infinite;}
+  @keyframes scroll-ticker{from{transform:translateX(0);}to{transform:translateX(-50%);}}
+}
+@media (prefers-reduced-motion: reduce){
+  .ticker-track{display:inline-block;}
+}
+
+/* ---------- masthead ---------- */
+.masthead{
+  padding:1.1rem 1.1rem 0.9rem;
+  border-bottom:3px solid var(--ink);
+}
+.masthead-row{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+}
+.masthead-title{
+  font-family:var(--font-display);
+  font-weight:700;
+  font-size:2rem;
+  letter-spacing:-0.01em;
+  margin:0;
+}
+.masthead-meta{
+  font-family:var(--font-mono);
+  font-size:0.75rem;
+  color:var(--gray);
+  text-transform:uppercase;
+  letter-spacing:0.06em;
+  margin-top:0.15rem;
+  padding-bottom:0.8rem;
+  border-bottom:1px solid var(--gold);
+}
+.refresh-all{width:100%;margin-top:0.9rem;}
+.status-line{
+  font-family:var(--font-mono);
+  font-size:0.75rem;
+  color:var(--gray);
+  min-height:1.1em;
+  margin:0.4rem 0 0;
+}
+
+.icon-btn{
+  background:none;
+  border:1px solid var(--line);
+  border-radius:50%;
+  width:40px;height:40px;
+  display:flex;align-items:center;justify-content:center;
+  color:var(--ink);
+  cursor:pointer;
+}
+.icon-btn:hover{background:rgba(28,27,25,0.06);}
+.icon-btn:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, a:focus-visible{
+  outline:3px solid var(--teal);
+  outline-offset:2px;
+}
+
+/* ---------- buttons ---------- */
+.btn{
+  font-family:var(--font-body);
+  font-weight:600;
+  font-size:0.9rem;
+  border-radius:var(--radius);
+  padding:0.65rem 1rem;
+  border:1px solid transparent;
+  cursor:pointer;
+}
+.btn-primary{background:var(--teal);color:#fff;}
+.btn-primary:hover{background:var(--teal-dark);}
+.btn-secondary{background:var(--ink);color:var(--paper);width:100%;margin-top:0.9rem;}
+.btn-secondary:hover{background:#000;}
+.btn-danger{background:transparent;border-color:var(--red);color:var(--red);width:100%;margin-top:0.6rem;}
+.btn-danger:hover{background:rgba(193,39,45,0.08);}
+.btn-ghost{
+  background:transparent;border:1px solid var(--line);color:var(--ink);
+  font-family:var(--font-mono);font-size:0.75rem;text-transform:uppercase;letter-spacing:0.05em;
+  border-radius:6px;padding:0.4rem 0.7rem;cursor:pointer;
+}
+.btn-ghost:hover{border-color:var(--teal);color:var(--teal-dark);}
+
+/* ---------- category cards ---------- */
+.card-stack{
+  padding:1rem;
+  display:flex;
+  flex-direction:column;
+  gap:1rem;
+  max-width:640px;
+  margin:0 auto;
+}
+
+.fx-strip{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:0.6rem;
+  background:var(--ink);
+  color:var(--paper);
+  border-radius:6px;
+  padding:0.5rem 0.9rem;
+  box-sizing:border-box;
+  width:calc(100% - 2rem);
+  max-width:608px;
+  margin:0.7rem auto 0;
+}
+.fx-strip-text{
+  font-family:var(--font-mono);
+  font-size:0.76rem;
+  letter-spacing:0.01em;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+.fx-strip-text strong{color:var(--gold);}
+.fx-strip-btn{
+  flex-shrink:0;
+  background:none;
+  border:1px solid rgba(243,239,228,0.35);
+  color:var(--paper);
+  border-radius:6px;
+  width:26px;height:26px;
+  font-size:0.9rem;
+  line-height:1;
+  cursor:pointer;
+}
+.fx-strip-btn:hover{border-color:var(--gold);color:var(--gold);}
+.fx-strip-btn:disabled{opacity:0.5;cursor:default;}
+.category-card{
+  background:var(--paper-raised);
+  border:1px solid var(--line);
+  border-radius:var(--radius);
+  padding:1rem 1.1rem 1.1rem;
+  position:relative;
+  overflow:hidden;
+}
+.card-top{
+  display:flex;
+  align-items:flex-start;
+  justify-content:space-between;
+  gap:0.75rem;
+}
+.eyebrow{
+  font-family:var(--font-mono);
+  font-size:0.7rem;
+  letter-spacing:0.12em;
+  text-transform:uppercase;
+  color:var(--teal-dark);
+  margin:0 0 0.15rem;
+}
+.category-name{
+  font-family:var(--font-display);
+  font-size:1.25rem;
+  font-weight:600;
+  margin:0;
+}
+.card-summary{
+  margin:0.8rem 0 0;
+  font-size:0.95rem;
+}
+.card-summary.placeholder{color:var(--gray);font-style:italic;}
+.card-summary.error{color:var(--red);}
+
+.stamp{
+  position:absolute;
+  top:0.9rem;
+  right:1rem;
+  transform:rotate(-7deg);
+  border:2px solid var(--teal);
+  color:var(--teal-dark);
+  font-family:var(--font-mono);
+  font-size:0.62rem;
+  letter-spacing:0.09em;
+  text-transform:uppercase;
+  padding:0.18rem 0.4rem;
+  border-radius:4px;
+  opacity:0.85;
+  white-space:nowrap;
+}
+.stamp.extractive{border-color:var(--gold);color:var(--gold);}
+
+.card-meta{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:0.6rem;
+  margin-top:0.9rem;
+  padding-top:0.7rem;
+  border-top:1px dashed var(--line);
+}
+.timestamp{
+  font-family:var(--font-mono);
+  font-size:0.7rem;
+  color:var(--gray);
+}
+.source-chips{
+  display:flex;
+  flex-wrap:wrap;
+  gap:0.4rem;
+  margin-top:0.7rem;
+}
+.source-chip{
+  font-family:var(--font-mono);
+  font-size:0.68rem;
+  border:1px solid var(--line);
+  border-radius:20px;
+  padding:0.15rem 0.55rem;
+  text-decoration:none;
+  color:var(--ink);
+}
+.source-chip:hover{border-color:var(--teal);color:var(--teal-dark);}
+.card-warning{
+  font-size:0.75rem;
+  color:var(--gray);
+  margin-top:0.5rem;
+}
+
+.empty-state{
+  max-width:520px;
+  margin:2rem auto;
+  text-align:center;
+  color:var(--gray);
+  padding:0 1.2rem;
+}
+
+.app-footer{
+  text-align:center;
+  font-family:var(--font-mono);
+  font-size:0.68rem;
+  color:var(--gray);
+  margin-top:2rem;
+  padding:0 1rem;
+}
+.app-footer span{display:block;}
+.footer-copy{margin-top:0.3rem;opacity:0.8;}
+
+/* ---------- drawer / settings ---------- */
+.overlay{
+  position:fixed;inset:0;
+  background:rgba(28,27,25,0.45);
+  z-index:20;
+}
+.drawer{
+  position:fixed;
+  top:0;right:0;bottom:0;
+  width:min(92vw, 400px);
+  background:var(--paper-raised);
+  z-index:30;
+  overflow-y:auto;
+  padding:1.1rem;
+  box-shadow:-8px 0 24px rgba(0,0,0,0.18);
+}
+.drawer-header{
+  display:flex;align-items:center;justify-content:space-between;
+  border-bottom:2px solid var(--ink);
+  padding-bottom:0.6rem;
+  margin-bottom:0.9rem;
+}
+.drawer-header h2{
+  font-family:var(--font-display);
+  margin:0;font-size:1.35rem;
+}
+.drawer-section{
+  border-top:1px solid var(--line);
+  padding:1rem 0;
+}
+.drawer-section:first-of-type{border-top:none;}
+.drawer-section h3{
+  font-family:var(--font-mono);
+  font-size:0.75rem;
+  text-transform:uppercase;
+  letter-spacing:0.08em;
+  color:var(--gray);
+  margin:0 0 0.7rem;
+}
+
+.field-label{
+  display:block;
+  font-size:0.78rem;
+  font-weight:600;
+  margin:0.6rem 0 0.25rem;
+}
+input[type="text"],input[type="url"],input[type="password"],select{
+  width:100%;
+  padding:0.55rem 0.6rem;
+  border:1px solid var(--line);
+  border-radius:6px;
+  font-family:var(--font-body);
+  font-size:0.9rem;
+  background:#fff;
+  color:var(--ink);
+}
+.radio-row{
+  display:flex;
+  gap:0.6rem;
+  align-items:flex-start;
+  font-size:0.87rem;
+  margin-bottom:0.6rem;
+  cursor:pointer;
+}
+.radio-row input{margin-top:0.2rem;}
+.sub-fields{
+  margin-top:0.5rem;
+  padding:0.7rem;
+  background:rgba(13,110,110,0.06);
+  border-radius:8px;
+}
+.hint{
+  font-size:0.75rem;
+  color:var(--gray);
+  margin:0.5rem 0 0;
+}
+
+.quick-add{margin-top:0.9rem;font-size:0.85rem;}
+.quick-add summary{cursor:pointer;font-weight:600;}
+.quick-add-list{
+  display:flex;flex-direction:column;gap:0.4rem;
+  margin-top:0.6rem;
+}
+.quick-add-item{
+  display:flex;align-items:center;justify-content:space-between;
+  gap:0.5rem;
+  border:1px solid var(--line);
+  border-radius:6px;
+  padding:0.4rem 0.6rem;
+  font-size:0.82rem;
+}
+
+.source-list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:0.5rem;}
+.source-item{
+  display:flex;align-items:center;justify-content:space-between;
+  gap:0.5rem;
+  border:1px solid var(--line);
+  border-radius:6px;
+  padding:0.5rem 0.6rem;
+  font-size:0.83rem;
+}
+.source-item .meta{overflow:hidden;}
+.source-item .name{font-weight:600;display:block;}
+.source-item .cat{
+  font-family:var(--font-mono);
+  font-size:0.68rem;
+  color:var(--teal-dark);
+  text-transform:uppercase;
+}
+.source-item button{
+  background:none;border:none;color:var(--red);cursor:pointer;
+  font-size:0.75rem;font-family:var(--font-mono);
+  flex-shrink:0;
+}
+
+@media (min-width:720px){
+  .masthead-title{font-size:2.4rem;}
+}
+
+</style>
+</head>
+<body>
+
+<div class="ticker" id="ticker" aria-hidden="true"></div>
+
+<header class="masthead">
+  <div class="masthead-row">
+    <h1 class="masthead-title">Napi Szemle</h1>
+    <button id="settingsBtn" class="icon-btn" aria-label="Beállítások" aria-haspopup="dialog">
+      <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .34 1.87l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.7 1.7 0 0 0-1.87-.34 1.7 1.7 0 0 0-1.04 1.56V21a2 2 0 1 1-4 0v-.09A1.7 1.7 0 0 0 9 19.4a1.7 1.7 0 0 0-1.87.34l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06A1.7 1.7 0 0 0 4.6 15a1.7 1.7 0 0 0-1.56-1.04H3a2 2 0 1 1 0-4h.09A1.7 1.7 0 0 0 4.6 9a1.7 1.7 0 0 0-.34-1.87l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06A1.7 1.7 0 0 0 9 4.6a1.7 1.7 0 0 0 1.04-1.56V3a2 2 0 1 1 4 0v.09A1.7 1.7 0 0 0 15 4.6a1.7 1.7 0 0 0 1.87-.34l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06A1.7 1.7 0 0 0 19.4 9a1.7 1.7 0 0 0 1.56 1.04H21a2 2 0 1 1 0 4h-.09A1.7 1.7 0 0 0 19.4 15z"/></svg>
+    </button>
+  </div>
+  <div class="masthead-meta" id="masthead-meta"><!-- dátum · szám --></div>
+  <button id="refreshAllBtn" class="btn btn-primary refresh-all">Összes frissítése</button>
+  <p id="refreshAllStatus" class="status-line" role="status" aria-live="polite"></p>
+</header>
+
+<div id="fxCard" class="fx-strip">
+  <span class="fx-strip-text" id="fxStripText">EUR/HUF árfolyam betöltése…</span>
+  <button id="fxRefreshBtn" class="fx-strip-btn" aria-label="Árfolyam frissítése" title="Árfolyam frissítése">⟳</button>
+</div>
+
+<main id="cardStack" class="card-stack">
+  <!-- kategória-kártyák JS-ből -->
+</main>
+
+<p id="emptyState" class="empty-state" hidden>
+  Még nincs egyetlen hírforrásod sem. Nyisd meg a beállításokat (fogaskerék ikon), és adj hozzá legalább egyet.
+</p>
+
+<footer class="app-footer">
+  <span>Napi Szemle · a hírek és összefoglalók csak a te böngésződben tárolódnak</span>
+  <span class="footer-copy">© <span id="footerYear"></span> Tomán Design. Minden jog fenntartva.</span>
+</footer>
+
+<!-- Beállítások panel -->
+<div id="overlay" class="overlay" hidden></div>
+<aside id="settingsPanel" class="drawer" role="dialog" aria-modal="true" aria-labelledby="settingsTitle" hidden>
+  <div class="drawer-header">
+    <h2 id="settingsTitle">Beállítások</h2>
+    <button id="closeSettingsBtn" class="icon-btn" aria-label="Bezárás">
+      <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 6l12 12M18 6L6 18"/></svg>
+    </button>
+  </div>
+
+  <section class="drawer-section">
+    <h3>AI összegzés módja</h3>
+    <label class="radio-row">
+      <input type="radio" name="aiMode" value="none">
+      <span><strong>Kulcs nélküli</strong> — egyszerű, böngészőben futó kivonatolás, nincs regisztráció</span>
+    </label>
+    <label class="radio-row">
+      <input type="radio" name="aiMode" value="gemini">
+      <span><strong>Google Gemini</strong> — valódi AI-összefoglaló, ingyenes API-kulccsal</span>
+    </label>
+    <div id="geminiFields" class="sub-fields" hidden>
+      <label class="field-label" for="geminiKey">Gemini API-kulcs</label>
+      <input type="password" id="geminiKey" placeholder="AIza..." autocomplete="off">
+      <label class="field-label" for="geminiModel">Modell</label>
+      <input type="text" id="geminiModel" placeholder="gemini-2.5-flash">
+      <p class="hint">Ingyenes kulcsot az <a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener">aistudio.google.com/apikey</a> oldalon kapsz. A kulcs csak ezen a gépen, a böngésződben tárolódik.</p>
+    </div>
+  </section>
+
+  <section class="drawer-section">
+    <h3>Hírforrás hozzáadása</h3>
+    <form id="addSourceForm">
+      <label class="field-label" for="srcName">Név</label>
+      <input type="text" id="srcName" placeholder="pl. Telex" required>
+      <label class="field-label" for="srcUrl">RSS URL</label>
+      <input type="url" id="srcUrl" placeholder="https://példa.hu/rss" required>
+      <label class="field-label" for="srcCategory">Kategória</label>
+      <select id="srcCategory"></select>
+      <div id="customCategoryWrap" class="sub-fields" hidden>
+        <label class="field-label" for="srcCategoryCustom">Egyéni kategória neve</label>
+        <input type="text" id="srcCategoryCustom" placeholder="pl. kultúra">
+      </div>
+      <button type="submit" class="btn btn-secondary">Forrás hozzáadása</button>
+    </form>
+
+    <details class="quick-add">
+      <summary>Gyors hozzáadás – ismert magyar hírportálok</summary>
+      <div id="quickAddList" class="quick-add-list"></div>
+      <p class="hint">Ellenőrizd a linkeket – a portálok időnként megváltoztatják az RSS-címüket.</p>
+    </details>
+  </section>
+
+  <section class="drawer-section">
+    <h3>Forrásaid</h3>
+    <ul id="sourceList" class="source-list"></ul>
+  </section>
+
+  <section class="drawer-section">
+    <h3>Egyéb</h3>
+    <label class="field-label" for="rss2jsonKey">rss2json API-kulcs (opcionális)</label>
+    <input type="text" id="rss2jsonKey" placeholder="csak sok forrás esetén szükséges">
+    <p class="hint">A hírek lekéréséhez az app az ingyenes rss2json.com szolgáltatást használja. Ha sok forrásod van és hibát kapsz, kérj tőlük is egy ingyenes kulcsot.</p>
+    <button id="clearAllBtn" class="btn btn-danger">Minden adat törlése ezen a gépen</button>
+  </section>
+</aside>
+
+<script>
+'use strict';
+
+/* ============ Alap adatok ============ */
+
+const DEFAULT_CATEGORIES = [
+  { id: 'politika', name: 'Politika' },
+  { id: 'sport', name: 'Sport' },
+  { id: 'technologia', name: 'Technológia' },
+  { id: 'gazdasag', name: 'Gazdaság' },
+  { id: 'kornyezet', name: 'Környezet' },
+];
+
+const QUICK_ADD_SOURCES = [
+  { name: 'Index – 24 óra', url: 'https://index.hu/24ora/rss/', category: 'politika' },
+  { name: 'Origo', url: 'https://www.origo.hu/rss/origo.xml', category: 'politika' },
+  { name: 'Infostart – Sport', url: 'https://infostart.hu/sport/rss/', category: 'sport' },
+  { name: 'SG.hu (IT/Tech)', url: 'https://sg.hu/rss', category: 'technologia' },
+  { name: 'Infostart – Gazdaság', url: 'https://infostart.hu/gazdasag/rss/', category: 'gazdasag' },
+  { name: 'Infostart – Tudomány', url: 'https://infostart.hu/tudomany/rss/', category: 'technologia' },
+];
+
+const DEFAULT_SOURCES = [
+  { name: 'Telex', url: 'https://telex.hu/rss', category: 'politika' },
+  { name: '24.hu', url: 'https://24.hu/feed/', category: 'politika' },
+  { name: 'HVG', url: 'https://hvg.hu/rss', category: 'politika' },
+  { name: 'Infostart – Sport', url: 'https://infostart.hu/sport/rss/', category: 'sport' },
+  { name: 'SG.hu (IT/Tech)', url: 'https://sg.hu/rss', category: 'technologia' },
+  { name: 'Portfolio.hu', url: 'https://www.portfolio.hu/rss/all.xml', category: 'gazdasag' },
+];
+
+const STORAGE_KEY = 'napiszemle_state_v1';
+
+const HU_STOPWORDS = new Set(('a az egy és hogy is nem de mint vagy ez azt ha meg már csak még ' +
+  'mert amely amelyek kell van volt lesz majd így ezt arra erre ki be fel le el át össze szerint ' +
+  'miatt között során illetve valamint azonban ugyanakkor mivel míg amikor ahol aki akik ami amik ' +
+  'ő ők őt nekik neki mi mit ti ön önök mi mik e ennek annak azért ezért tehát pedig vagyis viszont ' +
+  'majdnem szinte igen nem-e talán persze aztán után előtt alatt fölött között felé ellen nélkül ' +
+  'számára része miatt kapcsán ügyében szerdán csütörtökön pénteken hétfőn kedden szombaton ' +
+  'vasárnap ma tegnap holnap most jelenleg korábban').split(/\s+/));
+
+/* ============ Állapotkezelés ============ */
+
+function loadState() {
+  let raw;
+  try { raw = localStorage.getItem(STORAGE_KEY); } catch (e) { raw = null; }
+  let state = raw ? JSON.parse(raw) : null;
+  if (!state) {
+    state = {
+      sources: DEFAULT_SOURCES.map((s, i) => ({ id: 'src_default_' + i, ...s })),
+      customCategories: [],
+      aiMode: 'none',
+      geminiKey: '',
+      geminiModel: 'gemini-2.5-flash',
+      rss2jsonKey: '',
+      demoMode: false,
+      summaries: {}, // categoryId -> {text, updatedAt, sourceLinks:[{name,link}], error, skipped:[names], engine}
+    };
+  }
+  state.sources = state.sources || [];
+  state.customCategories = state.customCategories || [];
+  state.summaries = state.summaries || {};
+  return state;
+}
+
+let state = loadState();
+
+function saveState() {
+  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); }
+  catch (e) { console.error('Nem sikerült menteni az állapotot', e); }
+}
+
+function allCategories() {
+  return DEFAULT_CATEGORIES.concat(state.customCategories);
+}
+
+function categoryName(id) {
+  const c = allCategories().find(c => c.id === id);
+  return c ? c.name : id;
+}
+
+function slugify(str) {
+  return str.toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '') || ('kat-' + Date.now());
+}
+
+/* ============ RSS lekérés (rss2json proxy) ============ */
+
+async function fetchSourceArticles(source) {
+  const base = 'https://api.rss2json.com/v1/api.json';
+  const params = new URLSearchParams({ rss_url: source.url, count: '8' });
+  if (state.rss2jsonKey) params.set('api_key', state.rss2jsonKey);
+  const res = await fetch(base + '?' + params.toString());
+  if (!res.ok) throw new Error('HTTP ' + res.status);
+  const data = await res.json();
+  if (data.status !== 'ok') throw new Error(data.message || 'rss2json hiba');
+  return (data.items || []).slice(0, 5).map(it => ({
+    title: stripHtml(it.title || ''),
+    desc: stripHtml(it.description || '').slice(0, 400),
+    link: it.link,
+    pubDate: it.pubDate,
+    source: source.name,
+  }));
+}
+
+function stripHtml(html) {
+  const tmp = document.createElement('div');
+  tmp.innerHTML = html;
+  return (tmp.textContent || tmp.innerText || '').replace(/\s+/g, ' ').trim();
+}
+
+/* ============ Kulcs nélküli, kivonatoló összegzés ============ */
+
+function extractiveSummarize(articles, maxSentences = 5) {
+  const fullText = articles.map(a => a.title + '. ' + a.desc).join(' ');
+  const sentences = fullText
+    .split(/(?<=[.!?])\s+/)
+    .map(s => s.trim())
+    .filter(s => s.split(/\s+/).length >= 5);
+
+  const freq = {};
+  sentences.forEach(s => {
+    s.toLowerCase().replace(/[^a-záéíóöőúüű0-9\s]/gi, '').split(/\s+/).forEach(w => {
+      if (w.length < 3 || HU_STOPWORDS.has(w)) return;
+      freq[w] = (freq[w] || 0) + 1;
+    });
+  });
+
+  const scored = sentences.map((s, idx) => {
+    const words = s.toLowerCase().replace(/[^a-záéíóöőúüű0-9\s]/gi, '').split(/\s+/);
+    const score = words.reduce((sum, w) => sum + (freq[w] || 0), 0) / Math.sqrt(words.length + 1);
+    return { s, idx, score };
+  });
+
+  scored.sort((a, b) => b.score - a.score);
+  const picked = scored.slice(0, maxSentences).sort((a, b) => a.idx - b.idx);
+  if (!picked.length) return 'Nem sikerült elegendő szöveget kinyerni az összegzéshez.';
+  return picked.map(p => p.s).join(' ');
+}
+
+/* ============ Gemini hívás ============ */
+
+async function summarizeWithGemini(categoryName, articles) {
+  const model = state.geminiModel || 'gemini-2.5-flash';
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(model)}:generateContent?key=${encodeURIComponent(state.geminiKey)}`;
+
+  const list = articles.map(a => `- [${a.source}] ${a.title}: ${a.desc}`).join('\n');
+  const prompt = `Az alábbi friss cikkek alapján írj egy 4-6 mondatos, tényszerű, semleges hangvételű magyar nyelvű összefoglalót "${categoryName}" témakörben. ` +
+    `Szintetizáld a lényeget, ne forrásonként sorold fel a híreket. Ha a cikkek ellentmondanak egymásnak, jelezd ezt röviden. ` +
+    `Ne használj felsorolásjeleket, folyó szöveget írj.\n\nCikkek:\n${list}`;
+
+  const res = await fetch(url, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] }),
+  });
+
+  if (!res.ok) {
+    const errBody = await res.text().catch(() => '');
+    throw new Error(`Gemini API hiba (${res.status}): ${errBody.slice(0, 200)}`);
+  }
+  const data = await res.json();
+  const text = data?.candidates?.[0]?.content?.parts?.map(p => p.text).join(' ').trim();
+  if (!text) throw new Error('A Gemini nem adott vissza szöveget.');
+  return text;
+}
+
+/* ============ Demó adatok (hálózat nélküli előnézethez) ============ */
+
+const MOCK_ARTICLE_BANK = {
+  politika: [
+    { t: 'Egyeztetést tartottak a kormány és az ellenzék képviselői a jövő évi költségvetésről', d: 'A tárgyaláson a felek több ponton közeledtek, de a legvitatottabb kérdésekben egyelőre nem született megállapodás. A folytatást jövő hétre halasztották.' },
+    { t: 'Új törvényjavaslatot nyújtottak be a helyi önkormányzatok finanszírozásának átalakításáról', d: 'A javaslat szerint a támogatások elosztása átláthatóbbá válna, a szakértők szerint azonban a kisebb települések járhatnak rosszabbul.' },
+    { t: 'Nemzetközi csúcstalálkozóra utazik a küldöttség a jövő héten', d: 'A megbeszélések középpontjában a regionális együttműködés és a kereskedelmi kapcsolatok bővítése áll majd.' },
+  ],
+  sport: [
+    { t: 'Hosszabbításban dőlt el a válogatott mérkőzése', d: 'A csapat a 89. percben egyenlített, majd a ráadásban szerzett góllal biztosította be a győzelmet a fontos selejtezőn.' },
+    { t: 'Új edzőt nevezett ki a bajnokcsapat', d: 'A klub vezetése hosszú egyeztetés után döntött a váltás mellett, a szakember három éves szerződést írt alá.' },
+    { t: 'Magyar sportoló állított fel nemzeti csúcsot a hétvégi versenyen', d: 'Az eredmény jelentősen javítja az esélyeit a nyári nemzetközi versenyre való kijutásra.' },
+  ],
+  technologia: [
+    { t: 'Bemutatták az új mesterséges intelligencia alapú fejlesztést', d: 'A vállalat szerint a rendszer jelentősen felgyorsítja a mindennapi feladatok elvégzését, a szakértők ugyanakkor adatvédelmi kérdéseket is felvetnek.' },
+    { t: 'Jelentősen nőtt a hazai szoftverfejlesztő cégek exportbevétele', d: 'Az ágazati adatok szerint a növekedés elsősorban a nemzetközi megrendelések bővülésének köszönhető.' },
+    { t: 'Biztonsági rést fedeztek fel egy széles körben használt alkalmazásban', d: 'A fejlesztők már dolgoznak a javításon, a felhasználóknak addig is a frissítések telepítését javasolják.' },
+  ],
+  gazdasag: [
+    { t: 'Tovább mérséklődött az infláció az elmúlt hónapban', d: 'A statisztikai adatok szerint elsősorban az élelmiszerárak emelkedése lassult, ami enyhítheti a háztartások terheit.' },
+    { t: 'Új beruházást jelentett be egy nemzetközi nagyvállalat', d: 'A fejlesztés több száz új munkahelyet teremthet a régióban, a részletekről a jövő héten tájékoztatják a nyilvánosságot.' },
+    { t: 'Emelkedtek a tőzsdei árfolyamok a nyitáskor', d: 'Az elemzők szerint a kedvező nemzetközi hangulat és a vártnál jobb vállalati eredmények álltak a mozgás hátterében.' },
+  ],
+  kornyezet: [
+    { t: 'Rekordmagas hőmérsékletet mértek a hét elején', d: 'A meteorológusok szerint a hőhullám még napokig eltarthat, és fokozott figyelmet kérnek a veszélyeztetett csoportoktól.' },
+    { t: 'Új nemzeti park létrehozásáról döntöttek', d: 'A védett terület kialakítása több ritka faj élőhelyét óvná meg, a munkálatok jövőre kezdődhetnek.' },
+    { t: 'Csökkent a légszennyezettség a fővárosban az elmúlt évben', d: 'A javulás hátterében a szakértők szerint részben a közlekedési korlátozások, részben az enyhébb téli időjárás állhat.' },
+  ],
+};
+
+function mockArticlesFor(categoryId, sources) {
+  const bank = MOCK_ARTICLE_BANK[categoryId] || MOCK_ARTICLE_BANK.politika;
+  return sources.flatMap((src, si) => bank.map((a, ai) => ({
+    title: a.t,
+    desc: a.d,
+    link: 'https://example.com/demo/' + categoryId + '/' + si + '-' + ai,
+    pubDate: new Date().toISOString(),
+    source: src.name,
+  })));
+}
+
+const NAME_DAYS = {
+  '01-01': 'Fruzsina', '01-02': 'Ábel', '01-03': 'Genovéva', '01-04': 'Titusz', '01-05': 'Simon',
+  '01-06': 'Boldizsár', '01-07': 'Attila', '01-08': 'Gyöngyvér', '01-09': 'Marcell', '01-10': 'Melánia',
+  '01-11': 'Ágota', '01-12': 'Ernő', '01-13': 'Veronika', '01-14': 'Bódog', '01-15': 'Lóránd',
+  '01-16': 'Gusztáv', '01-17': 'Antal', '01-18': 'Piroska', '01-19': 'Sára', '01-20': 'Fábián',
+  '01-21': 'Ágnes', '01-22': 'Vince', '01-23': 'Zelma', '01-24': 'Timót', '01-25': 'Pál',
+  '01-26': 'Vanda', '01-27': 'Angelika', '01-28': 'Károly', '01-29': 'Adél', '01-30': 'Martina',
+  '01-31': 'Marcella', '02-01': 'Ignác', '02-02': 'Karolina', '02-03': 'Balázs', '02-04': 'Ráhel',
+  '02-05': 'Ágota', '02-06': 'Dorottya', '02-07': 'Tódor', '02-08': 'Aranka', '02-09': 'Abigél',
+  '02-10': 'Elvira', '02-11': 'Bertold', '02-12': 'Lívia', '02-13': 'Ella', '02-14': 'Bálint',
+  '02-15': 'Georgina', '02-16': 'Julianna', '02-17': 'Donát', '02-18': 'Bernadett', '02-19': 'Zsuzsanna',
+  '02-20': 'Aladár', '02-21': 'Eleonóra', '02-22': 'Gerzson', '02-23': 'Alfréd', '02-24': 'Mátyás',
+  '02-25': 'Géza', '02-26': 'Edina', '02-27': 'Ákos', '02-28': 'Elemér', '03-01': 'Albin',
+  '03-02': 'Lujza', '03-03': 'Kornélia', '03-04': 'Kázmér', '03-05': 'Adorján', '03-06': 'Leonóra',
+  '03-07': 'Tamás', '03-08': 'Zoltán', '03-09': 'Franciska', '03-10': 'Ildikó', '03-11': 'Szilárd',
+  '03-12': 'Gergely', '03-13': 'Krisztián', '03-14': 'Matild', '03-15': 'Kristóf', '03-16': 'Henrietta',
+  '03-17': 'Gertrúd', '03-18': 'Sándor', '03-19': 'József', '03-20': 'Klaudia', '03-21': 'Benedek',
+  '03-22': 'Beáta', '03-23': 'Emőke', '03-24': 'Gábor', '03-25': 'Irén', '03-26': 'Emánuel',
+  '03-27': 'Hajnalka', '03-28': 'Johanna', '03-29': 'Auguszta', '03-30': 'Zalán', '03-31': 'Árpád',
+  '04-01': 'Hugó', '04-02': 'Áron', '04-03': 'Richárd', '04-04': 'Izidor', '04-05': 'Vince',
+  '04-06': 'Vilmos', '04-07': 'Herman', '04-08': 'Dénes', '04-09': 'Erhard', '04-10': 'Zsolt',
+  '04-11': 'Leó', '04-12': 'Gyula', '04-13': 'Ida', '04-14': 'Tibor', '04-15': 'Anasztázia',
+  '04-16': 'Csongor', '04-17': 'Rudolf', '04-18': 'Andrea', '04-19': 'Emma', '04-20': 'Tivadar',
+  '04-21': 'Konrád', '04-22': 'Csilla', '04-23': 'Béla', '04-24': 'György', '04-25': 'Márk',
+  '04-26': 'Ervin', '04-27': 'Zita', '04-28': 'Valéria', '04-29': 'Péter', '04-30': 'Katalin',
+  '05-01': 'Fülöp', '05-02': 'Zsigmond', '05-03': 'Tímea', '05-04': 'Mónika', '05-05': 'Györgyi',
+  '05-06': 'Ivett', '05-07': 'Gizella', '05-08': 'Mihály', '05-09': 'Gergely', '05-10': 'Ármin',
+  '05-11': 'Ferenc', '05-12': 'Pongrác', '05-13': 'Szervác', '05-14': 'Bonifác', '05-15': 'Zsófia',
+  '05-16': 'Botond', '05-17': 'Paszkál', '05-18': 'Erik', '05-19': 'Ivó', '05-20': 'Bernát',
+  '05-21': 'Konstantin', '05-22': 'Júlia', '05-23': 'Dezső', '05-24': 'Eszter', '05-25': 'Orbán',
+  '05-26': 'Fülöp', '05-27': 'Hella', '05-28': 'Emil', '05-29': 'Magdolna', '05-30': 'Zsanett',
+  '05-31': 'Angéla', '06-01': 'Tünde', '06-02': 'Kármen', '06-03': 'Klotild', '06-04': 'Bulcsú',
+  '06-05': 'Fatime', '06-06': 'Norbert', '06-07': 'Róbert', '06-08': 'Medárd', '06-09': 'Félix',
+  '06-10': 'Margit', '06-11': 'Barnabás', '06-12': 'Villő', '06-13': 'Antal', '06-14': 'Vazul',
+  '06-15': 'Vid', '06-16': 'Jusztin', '06-17': 'Laura', '06-18': 'Arnold', '06-19': 'Gyárfás',
+  '06-20': 'Rafael', '06-21': 'Alajos', '06-22': 'Paulina', '06-23': 'Zoltán', '06-24': 'Iván',
+  '06-25': 'Vilmos', '06-26': 'János', '06-27': 'László', '06-28': 'Levente', '06-29': 'Péter és Pál',
+  '06-30': 'Pál', '07-01': 'Tihamér', '07-02': 'Ottó', '07-03': 'Kornél', '07-04': 'Ulrik',
+  '07-05': 'Sarolta', '07-06': 'Csaba', '07-07': 'Apollónia', '07-08': 'Ellák', '07-09': 'Lukrécia',
+  '07-10': 'Amália', '07-11': 'Nóra', '07-12': 'Izabella', '07-13': 'Jenő', '07-14': 'Stella',
+  '07-15': 'Henrik', '07-16': 'Valter', '07-17': 'Endre', '07-18': 'Frigyes', '07-19': 'Emília',
+  '07-20': 'Illés', '07-21': 'Dániel', '07-22': 'Magdolna', '07-23': 'Lenke', '07-24': 'Kinga',
+  '07-25': 'Kristóf', '07-26': 'Anna', '07-27': 'Olga', '07-28': 'Szabolcs', '07-29': 'Márta',
+  '07-30': 'Judit', '07-31': 'Oszkár', '08-01': 'Boglárka', '08-02': 'Lehel', '08-03': 'Hermina',
+  '08-04': 'Domonkos', '08-05': 'Krisztina', '08-06': 'Bettina', '08-07': 'Ibolya', '08-08': 'László',
+  '08-09': 'Emőd', '08-10': 'Lőrinc', '08-11': 'Zsuzsanna', '08-12': 'Klára', '08-13': 'Ipoly',
+  '08-14': 'Marcell', '08-15': 'Mária', '08-16': 'Ábrahám', '08-17': 'Jácint', '08-18': 'Ilona',
+  '08-19': 'Huba', '08-20': 'István', '08-21': 'Sámuel', '08-22': 'Menyhért', '08-23': 'Bence',
+  '08-24': 'Bertalan', '08-25': 'Lajos', '08-26': 'Izsó', '08-27': 'Gáspár', '08-28': 'Ágoston',
+  '08-29': 'Erna', '08-30': 'Rózsa', '08-31': 'Erika', '09-01': 'Egyed', '09-02': 'Rebeka',
+  '09-03': 'Hilda', '09-04': 'Rozália', '09-05': 'Viktor', '09-06': 'Zakariás', '09-07': 'Regina',
+  '09-08': 'Adrienn', '09-09': 'Ádám', '09-10': 'Hunor', '09-11': 'Teodóra', '09-12': 'Mária',
+  '09-13': 'Kornél', '09-14': 'Szeréna', '09-15': 'Enikő', '09-16': 'Edit', '09-17': 'Zsófia',
+  '09-18': 'Diána', '09-19': 'Vilhelmina', '09-20': 'Friderika', '09-21': 'Máté', '09-22': 'Móric',
+  '09-23': 'Tekla', '09-24': 'Gellért', '09-25': 'Eufrozina', '09-26': 'Jusztina', '09-27': 'Adalbert',
+  '09-28': 'Vencel', '09-29': 'Mihály', '09-30': 'Jeromos', '10-01': 'Malvin', '10-02': 'Petra',
+  '10-03': 'Helga', '10-04': 'Ferenc', '10-05': 'Aurél', '10-06': 'Brúnó', '10-07': 'Amália',
+  '10-08': 'Koppány', '10-09': 'Dénes', '10-10': 'Gedeon', '10-11': 'Brigitta', '10-12': 'Miksa',
+  '10-13': 'Kálmán', '10-14': 'Helén', '10-15': 'Teréz', '10-16': 'Gál', '10-17': 'Hedvig',
+  '10-18': 'Lukács', '10-19': 'Nándor', '10-20': 'Vendel', '10-21': 'Orsolya', '10-22': 'Előd',
+  '10-23': 'Gyöngyi', '10-24': 'Salamon', '10-25': 'Blanka', '10-26': 'Dömötör', '10-27': 'Szabina',
+  '10-28': 'Szimonetta', '10-29': 'Nárcisz', '10-30': 'Alfonz', '10-31': 'Farkas', '11-01': 'Marianna',
+  '11-02': 'Achilles', '11-03': 'Győző', '11-04': 'Károly', '11-05': 'Imre', '11-06': 'Lénárd',
+  '11-07': 'Rezső', '11-08': 'Zsombor', '11-09': 'Tivadar', '11-10': 'Réka', '11-11': 'Márton',
+  '11-12': 'Jónás', '11-13': 'Szilvia', '11-14': 'Aliz', '11-15': 'Albert', '11-16': 'Ödön',
+  '11-17': 'Hortenzia', '11-18': 'Jenő', '11-19': 'Erzsébet', '11-20': 'Jolán', '11-21': 'Olivér',
+  '11-22': 'Cecília', '11-23': 'Klementina', '11-24': 'Emma', '11-25': 'Katalin', '11-26': 'Virág',
+  '11-27': 'Virgil', '11-28': 'Stefánia', '11-29': 'Taksony', '11-30': 'András', '12-01': 'Elza',
+  '12-02': 'Melinda', '12-03': 'Ferenc', '12-04': 'Borbála', '12-05': 'Vilma', '12-06': 'Miklós',
+  '12-07': 'Ambrus', '12-08': 'Mária', '12-09': 'Natália', '12-10': 'Judit', '12-11': 'Árpád',
+  '12-12': 'Gabriella', '12-13': 'Luca', '12-14': 'Szilárda', '12-15': 'Valér', '12-16': 'Etelka',
+  '12-17': 'Lázár', '12-18': 'Auguszta', '12-19': 'Viola', '12-20': 'Teofil', '12-21': 'Tamás',
+  '12-22': 'Zénó', '12-23': 'Viktória', '12-24': 'Ádám és Éva', '12-25': 'Eugénia', '12-26': 'István',
+  '12-27': 'János', '12-28': 'Kamilla', '12-29': 'Tamás', '12-30': 'Dávid', '12-31': 'Szilveszter',
+};
+
+function todayNameDay() {
+  const now = new Date();
+  const key = String(now.getMonth() + 1).padStart(2, '0') + '-' + String(now.getDate()).padStart(2, '0');
+  return NAME_DAYS[key] || null;
+}
+
+/* ============ EUR/HUF árfolyam (fix kártya a fejléc alatt) ============ */
+
+async function fetchEurHufFromYahoo() {
+  const yahooUrl = 'https://query1.finance.yahoo.com/v8/finance/chart/EURHUF=X?range=1d&interval=1d';
+  const proxied = 'https://api.allorigins.win/raw?url=' + encodeURIComponent(yahooUrl);
+  const res = await fetch(proxied);
+  if (!res.ok) throw new Error('HTTP ' + res.status);
+  const data = await res.json();
+  const result = data && data.chart && data.chart.result && data.chart.result[0];
+  if (!result || !result.meta || !result.meta.regularMarketPrice) {
+    throw new Error((data.chart && data.chart.error && data.chart.error.description) || 'Nincs árfolyamadat a Yahoo válaszában.');
+  }
+  return {
+    rate: result.meta.regularMarketPrice,
+    date: new Date((result.meta.regularMarketTime || Date.now() / 1000) * 1000).toISOString(),
+    source: 'Yahoo Finance',
+  };
+}
+
+async function fetchEurHufFromFrankfurter() {
+  const res = await fetch('https://api.frankfurter.app/latest?from=EUR&to=HUF');
+  if (!res.ok) throw new Error('HTTP ' + res.status);
+  const data = await res.json();
+  const rate = data && data.rates && data.rates.HUF;
+  if (!rate) throw new Error('Nincs árfolyamadat a válaszban.');
+  return { rate, date: data.date, source: 'ECB referencia (Frankfurter.app) — tartalék, mert a Yahoo Finance nem volt elérhető' };
+}
+
+async function fetchEurHufRate() {
+  try {
+    return await fetchEurHufFromYahoo();
+  } catch (yahooErr) {
+    try {
+      return await fetchEurHufFromFrankfurter();
+    } catch (fallbackErr) {
+      throw new Error(`Yahoo Finance: ${yahooErr.message} · Tartalék forrás is sikertelen: ${fallbackErr.message}`);
+    }
+  }
+}
+
+/* ============ Kategória frissítése ============ */
+
+async function refreshCategory(categoryId) {
+  const sources = state.sources.filter(s => s.category === categoryId);
+  const catName = categoryName(categoryId);
+  if (!sources.length) return;
+
+  setCardStatus(categoryId, 'loading');
+
+  let articles = [];
+  let failed = [];
+  let failReasons = [];
+
+  if (state.demoMode) {
+    articles = mockArticlesFor(categoryId, sources);
+  } else {
+    const results = await Promise.allSettled(sources.map(fetchSourceArticles));
+    results.forEach((r, i) => {
+      if (r.status === 'fulfilled') articles.push(...r.value);
+      else { failed.push(sources[i].name); failReasons.push(`${sources[i].name}: ${r.reason && r.reason.message ? r.reason.message : r.reason}`); }
+    });
+  }
+
+  if (!articles.length) {
+    state.summaries[categoryId] = {
+      error: failed.length
+        ? `Egyik forrás sem válaszolt. Részletek — ${failReasons.join(' | ')}`
+        : 'Nem érkezett cikk ebből a kategóriából.',
+      updatedAt: Date.now(),
+    };
+    saveState();
+    renderCard(categoryId);
+    return;
+  }
+
+  try {
+    let text, engine;
+    if (state.aiMode === 'gemini' && state.geminiKey) {
+      text = await summarizeWithGemini(catName, articles);
+      engine = 'gemini';
+    } else {
+      text = extractiveSummarize(articles);
+      engine = 'extractive';
+    }
+    state.summaries[categoryId] = {
+      text,
+      engine,
+      updatedAt: Date.now(),
+      sourceLinks: dedupeLinks(articles),
+      skipped: failed,
+    };
+  } catch (err) {
+    const prev = state.summaries[categoryId];
+    state.summaries[categoryId] = {
+      ...(prev && prev.text ? prev : {}),
+      error: err.message || 'Ismeretlen hiba történt az összegzés közben.',
+      updatedAt: prev ? prev.updatedAt : Date.now(),
+    };
+  }
+  saveState();
+  renderCard(categoryId);
+}
+
+function dedupeLinks(articles) {
+  const seen = new Set();
+  const out = [];
+  articles.forEach(a => {
+    const key = a.source;
+    if (seen.has(key)) return;
+    seen.add(key);
+    out.push({ name: a.source, link: a.link });
+  });
+  return out;
+}
+
+async function refreshAll() {
+  const cats = [...new Set(state.sources.map(s => s.category))];
+  if (!cats.length) return;
+  const statusEl = document.getElementById('refreshAllStatus');
+  const btn = document.getElementById('refreshAllBtn');
+  btn.disabled = true;
+  updateFx();
+  for (let i = 0; i < cats.length; i++) {
+    statusEl.textContent = `Frissítés: ${categoryName(cats[i])} (${i + 1}/${cats.length})`;
+    await refreshCategory(cats[i]);
+  }
+  statusEl.textContent = 'Kész.';
+  btn.disabled = false;
+  setTimeout(() => { if (statusEl.textContent === 'Kész.') statusEl.textContent = ''; }, 4000);
+}
+
+/* ============ Renderelés ============ */
+
+function timeAgo(ts) {
+  if (!ts) return '';
+  const diffMin = Math.round((Date.now() - ts) / 60000);
+  if (diffMin < 1) return 'most frissült';
+  if (diffMin < 60) return `${diffMin} perce frissült`;
+  const diffH = Math.round(diffMin / 60);
+  if (diffH < 24) return `${diffH} órája frissült`;
+  return `${Math.round(diffH / 24)} napja frissült`;
+}
+
+function setCardStatus(categoryId, status) {
+  const card = document.getElementById('card-' + categoryId);
+  if (!card) return;
+  const summaryEl = card.querySelector('.card-summary');
+  if (status === 'loading') {
+    summaryEl.textContent = 'Frissítés folyamatban…';
+    summaryEl.className = 'card-summary placeholder';
+  }
+}
+
+function renderTicker() {
+  const cats = allCategories().filter(c => state.sources.some(s => s.category === c.id));
+  const el = document.getElementById('ticker');
+  if (!cats.length) { el.innerHTML = ''; return; }
+  const items = cats.map(c => `<span>${escapeHtml(c.name.toUpperCase())}</span>`).join('');
+  el.innerHTML = `<span class="ticker-track">${items}${items}</span>`;
+}
+
+let lastFx = null; // { rate, date, source } | { error: string } | null (még nem töltődött be)
+
+function renderFxCard() {
+  const el = document.getElementById('fxStripText');
+  if (!lastFx) { el.innerHTML = 'EUR/HUF árfolyam betöltése…'; return; }
+  if (lastFx.error) { el.innerHTML = `EUR/HUF árfolyam nem elérhető — ${escapeHtml(lastFx.error)}`; return; }
+  const rate = Number(lastFx.rate).toFixed(2).replace('.', ',');
+  const timeStr = lastFx.date
+    ? new Date(lastFx.date).toLocaleString('hu-HU', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' })
+    : '';
+  el.innerHTML = `EUR/HUF <strong>${rate} Ft</strong> · ${escapeHtml(lastFx.source || 'Yahoo Finance')} · ${escapeHtml(timeStr)}`;
+}
+
+async function updateFx() {
+  const btn = document.getElementById('fxRefreshBtn');
+  if (btn) btn.disabled = true;
+  try {
+    if (state.demoMode) {
+      lastFx = { rate: 401.85 + (Math.random() * 2 - 1), date: new Date().toISOString(), source: 'Yahoo Finance (demo adat)' };
+    } else {
+      lastFx = await fetchEurHufRate();
+    }
+  } catch (err) {
+    lastFx = { error: err.message || 'ismeretlen hiba' };
+  }
+  renderFxCard();
+  if (btn) btn.disabled = false;
+}
+
+function renderMastheadMeta() {
+  const now = new Date();
+  const dateStr = now.toLocaleDateString('hu-HU', { year: 'numeric', month: 'long', day: 'numeric', weekday: 'long' });
+  const nameDay = todayNameDay();
+  document.getElementById('masthead-meta').textContent = nameDay
+    ? `${dateStr} · ${nameDay} napja`
+    : dateStr;
+}
+
+function renderCardStack() {
+  const stack = document.getElementById('cardStack');
+  const usedCats = [...new Set(state.sources.map(s => s.category))];
+  const empty = document.getElementById('emptyState');
+  if (!usedCats.length) {
+    stack.innerHTML = '';
+    empty.hidden = false;
+    return;
+  }
+  empty.hidden = true;
+  stack.innerHTML = usedCats.map(id => cardTemplate(id)).join('');
+  usedCats.forEach(id => {
+    document.getElementById('refresh-' + id).addEventListener('click', () => refreshCategory(id));
+  });
+}
+
+function cardTemplate(categoryId) {
+  return `<article class="category-card" id="card-${categoryId}">
+    <div class="card-top">
+      <div>
+        <p class="eyebrow">Rovat</p>
+        <h2 class="category-name">${escapeHtml(categoryName(categoryId))}</h2>
+      </div>
+      <button id="refresh-${categoryId}" class="btn-ghost">Frissítés</button>
+    </div>
+    <div class="card-body"></div>
+  </article>`;
+}
+
+function renderCard(categoryId) {
+  const card = document.getElementById('card-' + categoryId);
+  if (!card) return;
+  const body = card.querySelector('.card-body');
+  const summary = state.summaries[categoryId];
+
+  let existingStamp = card.querySelector('.stamp');
+  if (existingStamp) existingStamp.remove();
+
+  if (!summary) {
+    body.innerHTML = `<p class="card-summary placeholder">Még nincs összegzés — nyomd meg a Frissítés gombot.</p>`;
+    return;
+  }
+
+  if (summary.error && !summary.text) {
+    body.innerHTML = `<p class="card-summary error">${escapeHtml(summary.error)}</p>
+      <p class="timestamp">${timeAgo(summary.updatedAt)}</p>`;
+    return;
+  }
+
+  const stamp = document.createElement('span');
+  stamp.className = 'stamp' + (summary.engine === 'extractive' ? ' extractive' : '');
+  stamp.textContent = summary.engine === 'gemini' ? 'AI összefoglaló · Gemini' : 'Kivonat · kulcs nélkül';
+  card.appendChild(stamp);
+
+  const chips = (summary.sourceLinks || []).map(s =>
+    `<a class="source-chip" href="${escapeAttr(s.link)}" target="_blank" rel="noopener">${escapeHtml(s.name)}</a>`
+  ).join('');
+
+  const warn = summary.skipped && summary.skipped.length
+    ? `<p class="card-warning">${summary.skipped.length} forrás nem válaszolt: ${escapeHtml(summary.skipped.join(', '))}</p>`
+    : (summary.error ? `<p class="card-warning">${escapeHtml(summary.error)}</p>` : '');
+
+  body.innerHTML = `
+    <p class="card-summary">${escapeHtml(summary.text)}</p>
+    <div class="card-meta">
+      <span class="timestamp">${timeAgo(summary.updatedAt)}</span>
+    </div>
+    <div class="source-chips">${chips}</div>
+    ${warn}
+  `;
+}
+
+function renderAllCards() {
+  [...new Set(state.sources.map(s => s.category))].forEach(renderCard);
+}
+
+function escapeHtml(str) {
+  const d = document.createElement('div');
+  d.textContent = str == null ? '' : String(str);
+  return d.innerHTML;
+}
+function escapeAttr(str) { return escapeHtml(str).replace(/"/g, '&quot;'); }
+
+/* ============ Beállítások panel ============ */
+
+function renderCategorySelect() {
+  const sel = document.getElementById('srcCategory');
+  sel.innerHTML = allCategories().map(c => `<option value="${c.id}">${escapeHtml(c.name)}</option>`).join('')
+    + `<option value="__custom__">+ Új kategória…</option>`;
+}
+
+function renderQuickAdd() {
+  const wrap = document.getElementById('quickAddList');
+  wrap.innerHTML = QUICK_ADD_SOURCES.map((s, i) => `
+    <div class="quick-add-item">
+      <span>${escapeHtml(s.name)} <span style="color:var(--gray)">· ${escapeHtml(categoryName(s.category))}</span></span>
+      <button type="button" class="btn-ghost" data-quickadd="${i}">Hozzáad</button>
+    </div>`).join('');
+  wrap.querySelectorAll('[data-quickadd]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const s = QUICK_ADD_SOURCES[Number(btn.dataset.quickadd)];
+      addSource(s.name, s.url, s.category);
+    });
+  });
+}
+
+function renderSourceList() {
+  const ul = document.getElementById('sourceList');
+  if (!state.sources.length) {
+    ul.innerHTML = '<li class="hint">Még nincs hozzáadott forrás.</li>';
+    return;
+  }
+  ul.innerHTML = state.sources.map(s => `
+    <li class="source-item">
+      <span class="meta">
+        <span class="name">${escapeHtml(s.name)}</span>
+        <span class="cat">${escapeHtml(categoryName(s.category))}</span>
+      </span>
+      <button type="button" data-remove="${s.id}">Törlés</button>
+    </li>`).join('');
+  ul.querySelectorAll('[data-remove]').forEach(btn => {
+    btn.addEventListener('click', () => removeSource(btn.dataset.remove));
+  });
+}
+
+function addSource(name, url, category) {
+  state.sources.push({ id: 'src_' + Date.now() + '_' + Math.random().toString(36).slice(2, 7), name, url, category });
+  saveState();
+  renderSourceList();
+  renderCardStack();
+  renderAllCards();
+  renderTicker();
+}
+
+function removeSource(id) {
+  state.sources = state.sources.filter(s => s.id !== id);
+  saveState();
+  renderSourceList();
+  renderCardStack();
+  renderAllCards();
+  renderTicker();
+}
+
+function openSettings() {
+  document.getElementById('overlay').hidden = false;
+  document.getElementById('settingsPanel').hidden = false;
+}
+function closeSettings() {
+  document.getElementById('overlay').hidden = true;
+  document.getElementById('settingsPanel').hidden = true;
+}
+
+/* ============ Inicializálás ============ */
+
+function initSettingsForm() {
+  renderCategorySelect();
+  renderQuickAdd();
+  renderSourceList();
+
+  document.querySelectorAll('input[name="aiMode"]').forEach(r => {
+    r.checked = r.value === state.aiMode;
+    r.addEventListener('change', () => {
+      state.aiMode = document.querySelector('input[name="aiMode"]:checked').value;
+      document.getElementById('geminiFields').hidden = state.aiMode !== 'gemini';
+      saveState();
+    });
+  });
+  document.getElementById('geminiFields').hidden = state.aiMode !== 'gemini';
+
+  const keyInput = document.getElementById('geminiKey');
+  keyInput.value = state.geminiKey || '';
+  keyInput.addEventListener('input', () => { state.geminiKey = keyInput.value.trim(); saveState(); });
+
+  const modelInput = document.getElementById('geminiModel');
+  modelInput.value = state.geminiModel || 'gemini-2.5-flash';
+  modelInput.addEventListener('input', () => { state.geminiModel = modelInput.value.trim() || 'gemini-2.5-flash'; saveState(); });
+
+  const rssKeyInput = document.getElementById('rss2jsonKey');
+  rssKeyInput.value = state.rss2jsonKey || '';
+  rssKeyInput.addEventListener('input', () => { state.rss2jsonKey = rssKeyInput.value.trim(); saveState(); });
+
+  const catSelect = document.getElementById('srcCategory');
+  const customWrap = document.getElementById('customCategoryWrap');
+  catSelect.addEventListener('change', () => {
+    customWrap.hidden = catSelect.value !== '__custom__';
+  });
+
+  document.getElementById('addSourceForm').addEventListener('submit', (e) => {
+    e.preventDefault();
+    const name = document.getElementById('srcName').value.trim();
+    const url = document.getElementById('srcUrl').value.trim();
+    let category = catSelect.value;
+    if (category === '__custom__') {
+      const customName = document.getElementById('srcCategoryCustom').value.trim();
+      if (!customName) return;
+      const id = slugify(customName);
+      if (!allCategories().some(c => c.id === id)) {
+        state.customCategories.push({ id, name: customName });
+      }
+      category = id;
+    }
+    if (!name || !url || !category) return;
+    addSource(name, url, category);
+    renderCategorySelect();
+    e.target.reset();
+    customWrap.hidden = true;
+  });
+
+  document.getElementById('clearAllBtn').addEventListener('click', () => {
+    if (!confirm('Biztosan törlöd az összes forrást, beállítást és összefoglalót ezen a gépen? Ez nem vonható vissza.')) return;
+    localStorage.removeItem(STORAGE_KEY);
+    state = loadState();
+    initSettingsForm();
+    renderCardStack();
+    renderAllCards();
+    renderTicker();
+  });
+}
+
+function init() {
+  renderMastheadMeta();
+  document.getElementById('footerYear').textContent = new Date().getFullYear();
+  renderCardStack();
+  renderAllCards();
+  renderTicker();
+  updateFx();
+  initSettingsForm();
+
+  document.getElementById('settingsBtn').addEventListener('click', openSettings);
+  document.getElementById('closeSettingsBtn').addEventListener('click', closeSettings);
+  document.getElementById('overlay').addEventListener('click', closeSettings);
+  document.getElementById('refreshAllBtn').addEventListener('click', refreshAll);
+  document.getElementById('fxRefreshBtn').addEventListener('click', updateFx);
+
+  // Egyfajlos build: nincs kulon service worker.
+}
+
+document.addEventListener('DOMContentLoaded', init);
+
+</script>
+</body>
+</html>
