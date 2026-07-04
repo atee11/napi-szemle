@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T18:39:00.012Z",
+  "generatedAt": "2026-07-04T18:54:54.665Z",
   "fx": {
     "rate": 353.86,
     "date": "2026-07-04T12:37:48.000Z",
@@ -7,9 +7,9 @@
   },
   "categories": {
     "politika": {
-      "text": "Oroszországban Vlagyimir Putyin szavai és a valóság közötti szakadék egyre mélyül az ukrán dróntámadások okozta benzinhiány és a háború iránti növekvő elégedetlenség miatt. A magyar belpolitikában Magyar Péter továbbra is a figyelem középpontjában maradt, egy Áder János villájáról szóló videó megosztásával, ami korábban büntetéseket vont maga után, miközben Verebes István a politikus stílusát kritizálta. Vitézy Dávid szerint a sztrádakoncessziók „brutális, felfoghatatlan” összegeket fizettek ki az államnak, és valójában közpénz-kicsatornázási eszközök. A hazai politikai érdeklődésre utal, hogy a parlamenti élő közvetítések százezres nézettséget érnek el a YouTube-on. Ezen felül, Pikó András polgármester reagált egy 13 évvel ezelőtti ügyben történt elnézéskérésre, jelezve, hogy az nem teszi jóvá a történteket.",
+      "text": "Nemzetközi téren az ukrán dróntámadások okozta benzinhiány nyomán az orosz elnök, Vlagyimir Putyin szavai és a valóság közötti szakadék egyre szembetűnőbbé válik, növelve az elégedetlenséget a háborúval szemben. A magyar belpolitikában Magyar Péter alkotmánymódosítási javaslatot nyújtott be, amely Sulyok Tamás leváltását is célozza, emellett megosztotta a Kutyapárt videóját Áder János állítólagos villájáról, ami korábban bírságot és NAV-vizsgálatot eredményezett a készítőknek. Vitézy Dávid közpénz-kicsatornázásnak nevezte a sztrádakoncessziókat, „brutális, felfoghatatlan” állami kifizetésekre hivatkozva. Fény derült egy NKA-ügyre is, ahol pályázat nélkül ajánlottak támogatást egy énekesnőnek, miközben Pikó András polgármester egy korábbi bocsánatkérésre reagált. Eközben az Országgyűlés élő YouTube-közvetítései továbbra is százezres nézettséggel futnak, és Harry herceg családja rendőri védelem nélkül utazik Londonba.",
       "engine": "gemini",
-      "updatedAt": "2026-07-04T18:38:28.215Z",
+      "updatedAt": "2026-07-04T18:54:22.841Z",
       "sourceLinks": [
         {
           "name": "Telex",
@@ -17,7 +17,7 @@
         },
         {
           "name": "24.hu",
-          "link": "https://24.hu/tudomany/2026/07/04/borderline-szemelyisegzavar-vizin-gabriella-interju-24extra/"
+          "link": "https://24.hu/sport/foci/2026/07/04/foci-vb-2026-anglia-harry-kane-ketszavas-mantra/"
         },
         {
           "name": "HVG",
@@ -27,21 +27,21 @@
       "skipped": []
     },
     "sport": {
-      "text": "A labdarúgó-világbajnokság a nyolcaddöntő szakaszába lépett, ahol az erőviszonyokat elemző cikkek Svájc futballnagyhatalommá válását emelik ki, míg a szuperszámítógép Franciaországot tartja esélyesnek. Ezen a vb-n Lionel Messi egy rekordot döntő, nehéz győzelem után nyilatkozott a csapat szenvedéséről, miközben az egyiptomi kapitány a sikeres büntetőpárbaj titkát árulta el, amellyel ők is a 16 legjobb közé jutottak. Közben javaslat született Harry Kane, az angol válogatott csatárának lovaggá ütésére a labdarúgásban szerzett érdemeiért. A Forma-1-es Brit Nagydíj sprintfutamán Silverstone-ban Andrea Kimi Antonelli, a Mercedes olasz pilótája aratott győzelmet. Végül, de nem utolsósorban, július 5-én hatszáz résztvevővel rendezik meg az Open Water Tournament immár hagyományos 5 kilométeres úszóversenyét a szentendrei Duna-ágon, amely miatt teljes hajózár lesz érvényben.",
+      "text": "A sportvilágban aktuálisan zajló események között kiemelkedik a wimbledoni teniszbajnokság női egyes versenye, ahol nagy meglepetések születtek: búcsúzott a második kiemelt Jelena Ribakina, a címvédő Iga Swiatek és a tavalyi döntős Amanda Anisimova is. Eközben a labdarúgó-világbajnokság egyenes kieséses szakasza is megkezdődött, ahol Lionel Messi nehéz győzelmet aratott, és a szuperszámítógép szerint a franciák számítanak a legesélyesebbeknek a végső győzelemre. Ezzel párhuzamosan felmerült a javaslat Harry Kane, az angol válogatott csatárának lovaggá ütésére a sportban nyújtott szolgálataiért. A motorsport kedvelői számára érdekes hír, hogy a Forma-1-es Brit Nagydíj sprintfutamán Andrea Kimi Antonelli, a világbajnoki pontverseny éllovasa győzött Silverstone-ban. Magyarországon az Open Water Tournament keretében rendeznek hagyományos úszóversenyt a Dunán, melyre teljes hajózárat rendeltek el egy szakaszon.",
       "engine": "gemini",
-      "updatedAt": "2026-07-04T18:38:36.283Z",
+      "updatedAt": "2026-07-04T18:54:30.588Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/04/elemzes-a-vb-nyolcaddontok-elott-svajc-futballnagyhatalom-lett-a-szuperszamitogep-szerint-a-franciak-az-eselyesek"
+          "link": "https://infostart.hu/sport/2026/07/04/elkepeszto-csillaghullas-wimbledonban"
         }
       ],
       "skipped": []
     },
     "technologia": {
-      "text": "A mesterséges intelligencia (MI) terén kettős kép rajzolódik ki: míg egy önállóan működő MI-ügynök sikeresen hajtott végre zsarolóvírus támadást, új típusú fenyegetést teremtve, addig Kína humanoid robotjainak valós teljesítménye messze elmarad a látványos prezentációktól, rávilágítva a technológiai hype és a valóság közötti különbségre. Az ENSZ-jelentés szerint az MI tovább mélyítheti a globális egyenlőtlenségeket, különösen a fejlődő országokban. A technológiai szektorhoz köthető munkahelyek presztízse eltérő képet mutat: Dél-Koreában a Samsung és SK Hynix dolgozói váltak a legkeresettebb házassági partnerekké, azonban San Franciscóban már az évi 180 ezer dolláros fizetés is kevésnek bizonyul a megélhetési költségek miatt. Emellett egy fogadási piac körüli botrány a Spotify toplistáján rávilágított a technológiai platformok esetleges manipulációs kockázataira.",
+      "text": "A technológia világa számos új fejleményt és kihívást tartogat. Míg a mesterséges intelligencia autonóm ügynökei már zsarolóvírus támadásokat képesek végrehajtani, ezzel új szintre emelve a kiberbiztonsági fenyegetéseket, az ENSZ jelentése szerint az MI tovább mélyítheti a globális egyenlőtlenségeket. Kína humanoid robotjai a látvány ellenére valóságban még elmaradnak a fejlett képességektől. Gazdasági szempontból a technológiai szektor rendkívül vonzó: Dél-Koreában a chipgyártó vállalatok munkavállalói váltak a legkeresettebb házassági partnerekké, ugyanakkor az olyan technológiai központokban, mint San Francisco, már a magas fizetés sem elegendő a megélhetéshez. Mindeközben új típusú botrányok is felütik a fejüket, mint a Spotify toplistáját érintő manipuláció egy fogadási piac révén.",
       "engine": "gemini",
-      "updatedAt": "2026-07-04T18:38:45.629Z",
+      "updatedAt": "2026-07-04T18:54:38.013Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
@@ -51,20 +51,20 @@
       "skipped": []
     },
     "gazdasag": {
-      "text": "A hazai belpolitikai események során a gazdasági témák, különösen az uniós források és a költségvetés helyzete kerültek a fókuszba. Ezzel párhuzamosan egy átfogó energiatörvény-tervezet is napvilágot látott. A javaslat a hazai árampiacot reformálná meg a dinamikus tarifák bevezetésével és komoly bürokráciacsökkentéssel. Emellett az energiahatékonysági szabályok módosításáról is szó esik. Az idézett cikkekben a \"Gazdaság\" témakörre vonatkozóan nem merült fel ellentmondás.",
+      "text": "Az Egyesült Államok keleti és középnyugati részén uralkodó rekordhőség miatt több július 4-i rendezvényt le kellett mondani, ami kihat a helyi gazdaságokra és a szolgáltatói szektorra. A geopolitikai feszültségek is befolyásolják a gazdaságot: Ukrajna oroszországi dróntámadásai miatt Finnország átmenetileg korlátozta a légi és tengeri forgalmat a Finn-öböl keleti térségében, ami hatással van a regionális logisztikára. Az orosz-ukrán háború frontjain alig történik elmozdulás, ám ellentmondásos hírek érkeztek Kosztyantinyivka erődváros státuszáról: Oroszország elfoglaltnak tekinti, és tűzszünetet javasolt a holttestek cseréjére, míg Ukrajna cáfolja az elfoglalást. Eközben az európai NATO-tagállamok orosz provokációtól tartanak, ami potenciálisan növelheti a védelmi kiadásokat és a piaci bizonytalanságot. Ezek az események egyaránt globális gazdasági kihívásokra utalnak, a klímaváltozás és a háborús konfliktusok tükrében.",
       "engine": "gemini",
-      "updatedAt": "2026-07-04T18:38:59.961Z",
+      "updatedAt": "2026-07-04T18:54:54.618Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20260704/cafoljak-az-ukranok-hogy-elesett-a-fontos-erodvaros-europa-mar-az-osszecsapasra-keszul-hireink-az-orosz-ukran-haborurol-szombaton-847566"
+          "link": "https://www.portfolio.hu/global/20260704/ukran-drontamadas-miatt-korlatoztak-a-legi-kozlekedest-egy-eu-tagallamban-847620"
         }
       ],
       "skipped": []
     },
     "kornyezet": {
       "error": "Nincs beállított forrás ehhez a kategóriához.",
-      "updatedAt": "2026-07-04T18:38:59.961Z"
+      "updatedAt": "2026-07-04T18:54:54.618Z"
     }
   }
 }
