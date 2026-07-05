@@ -1,71 +1,38 @@
-// scripts/update-fx.mjs
-//
-// Könnyű, gyors szkript, ami CSAK az EUR/HUF árfolyamot frissíti a
-// data/summaries.json-ban, a kategóriák (hírek) érintése nélkül.
-// Ezért futhat sokkal gyakrabban (óránként), mint a nehéz, Playwrightot
-// használó hírgyűjtés — nincs benne semmi, ami ezt megdrágítaná vagy lelassítaná.
+name: Árfolyam frissítése
 
-import { readFile, writeFile } from 'node:fs/promises';
-import path from 'node:path';
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch: {}
 
-const ROOT = path.resolve(new URL('.', import.meta.url).pathname, '..');
-const OUTPUT_PATH = path.join(ROOT, 'data', 'summaries.json');
+permissions:
+  contents: write
 
-function log(...args) {
-  console.log(new Date().toISOString(), '—', ...args);
-}
+concurrency:
+  group: napi-szemle-data-write
+  cancel-in-progress: false
 
-async function fetchFx() {
-  try {
-    const res = await fetch('https://query1.finance.yahoo.com/v8/finance/chart/EURHUF=X?range=1d&interval=1d', {
-      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; NapiSzemleBot/1.0)' },
-    });
-    if (!res.ok) throw new Error('HTTP ' + res.status);
-    const data = await res.json();
-    const result = data?.chart?.result?.[0];
-    if (!result?.meta?.regularMarketPrice) throw new Error('Nincs Yahoo árfolyamadat.');
-    return {
-      rate: result.meta.regularMarketPrice,
-      date: new Date((result.meta.regularMarketTime || Date.now() / 1000) * 1000).toISOString(),
-      source: 'Yahoo Finance',
-    };
-  } catch (yahooErr) {
-    log('Yahoo Finance árfolyam sikertelen:', yahooErr.message, '— Frankfurter/ECB tartalék');
-    try {
-      const res = await fetch('https://api.frankfurter.app/latest?from=EUR&to=HUF');
-      if (!res.ok) throw new Error('HTTP ' + res.status);
-      const data = await res.json();
-      if (!data?.rates?.HUF) throw new Error('Nincs Frankfurter árfolyamadat.');
-      return { rate: data.rates.HUF, date: data.date, source: 'ECB referencia (Frankfurter.app) — tartalék' };
-    } catch (fallbackErr) {
-      log('Frankfurter árfolyam is sikertelen:', fallbackErr.message);
-      return null;
-    }
-  }
-}
+jobs:
+  update-fx:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repó kicheckoutolása
+        uses: actions/checkout@v4
 
-async function main() {
-  let current;
-  try {
-    current = JSON.parse(await readFile(OUTPUT_PATH, 'utf-8'));
-  } catch {
-    current = { generatedAt: new Date().toISOString(), fx: null, categories: {} };
-  }
+      - name: Node.js beállítása
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
 
-  const fx = await fetchFx();
-  if (!fx) {
-    log('Nem sikerült árfolyamot szerezni, a meglévő adat marad.');
-    return;
-  }
+      - name: Árfolyam frissítése
+        run: node scripts/update-fx.mjs
 
-  current.fx = fx;
-  current.fxUpdatedAt = new Date().toISOString();
+      - name: Frissített árfolyam commitolása
+        run: |
+          git config user.name "napi-szemle-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/summaries.json
+          git diff --quiet --cached || git commit -m "Árfolyam automatikus frissítése [ci skip]"
+          git pull --rebase
+          git push
 
-  await writeFile(OUTPUT_PATH, JSON.stringify(current, null, 2), 'utf-8');
-  log('Árfolyam frissítve:', fx.rate, fx.source);
-}
-
-main().catch((err) => {
-  console.error('Hiba az árfolyam-frissítés közben:', err);
-  process.exit(1);
-});
