@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T12:01:39.560Z",
+  "generatedAt": "2026-07-05T12:16:58.387Z",
   "fx": {
     "rate": 353.86,
     "date": "2026-07-04T12:37:48.000Z",
@@ -9,44 +9,44 @@
     "politika": {
       "items": [
         {
-          "text": "A város, ahol Elon Musk és Donald Trump váltja valóra az álmait.",
+          "text": "A Fidesz kommunikációs igazgatója kritikát fogalmazott meg a választási vereség miatti sokkban lévő fideszeseknek.",
           "source": "Telex",
-          "link": "https://telex.hu/gazdasag/2026/07/05/elon-musk-spacex-texas-uripar-trump",
-          "scope": "kulfold"
+          "link": "https://telex.hu/belfold/2026/07/05/havasi-bertalan-der-stefi-hir-tv-piacrol-megelni-nehez",
+          "scope": "belfold"
         },
         {
-          "text": "Hamarosan Donald Trump is csatlakozott hozzá a saját megalomán projektjével, az egésszel pedig a helyeik járnak a legrosszabbul.",
-          "source": "Telex",
-          "link": "https://telex.hu/gazdasag/2026/07/05/elon-musk-spacex-texas-uripar-trump",
-          "scope": "kulfold"
+          "text": "Török Gábor politológus sorvezetőt készített az Alaptörvény-módosítás értelmezéséhez.",
+          "source": "HVG",
+          "link": "https://hvg.hu/itthon/20260705_torok-gabor-alkotmanymodositas-tisza-hataskorok-onkorlatozas",
+          "scope": "belfold"
         },
         {
-          "text": "The post Nyolc embert, köztük négy gyereket lőttek meg a függetlenség napján New Yorkban first appeared on 24.hu.",
-          "source": "24.hu",
-          "link": "https://24.hu/kulfold/2026/07/05/new-york-lovoldozes-julius-4-nyolc-serult/",
-          "scope": "kulfold"
+          "text": "Az MCC Brussels vezetője szerint Magyar Péter nem számolhat fel egy jó munkát végző intézményt.",
+          "source": "HVG",
+          "link": "https://hvg.hu/gazdasag/20260705_mcc-brussels-frank-furedi-rendezveny-forrashiany-kekva",
+          "scope": "belfold"
         },
         {
-          "text": "The post Putyinnal és Zelenszkijjel is telefonon egyeztetett Donald Trump first appeared on 24.hu.",
-          "source": "24.hu",
-          "link": "https://24.hu/kulfold/2026/07/05/putyinnal-es-zelenszkijjel-is-telefonon-egyeztetett-donald-trump/",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Vitézy Dávid közlekedési miniszter szerint Lázár János saját ciklusán túlmutató módon ásta alá a vasútfejlesztés lehetőségét, amikor beszerzéseket állított le.",
+          "text": "Vitézy Dávid közlekedési miniszter szerint Lázár János aláásta a vasútfejlesztés lehetőségét beszerzések leállításával.",
           "source": "HVG",
           "link": "https://hvg.hu/gazdasag/20260705_vasuti-jarmuvek-atlageletkor-vitezy-david-mav-magyarorszag",
+          "scope": "belfold"
+        },
+        {
+          "text": "Donald Trump elnök és az amerikai kormány támadja a tudományos intézményeket.",
+          "source": "24.hu",
+          "link": "https://24.hu/tudomany/2026/07/05/ertelmiseg-populizmus-cenzura-tortenelem-history/",
           "scope": "kulfold"
         },
         {
-          "text": "És miért esszük olyan magától értetődően kenyérrel, mintha ez lenne a világ legtermészetesebb párosítása?",
-          "source": "HVG",
-          "link": "https://hvg.hu/360/20260705_gorogdinnye-7-tipp-dinnye-recept",
+          "text": "Bukarestben Donald Trumpról elnevezett tematikus Amerika-parkot építenek.",
+          "source": "Telex",
+          "link": "https://telex.hu/transtelex/2026/07/05/donald-trumprol-elnevezett-tematikus-amerika-parkot-epitenek-bukarestbe",
           "scope": "kulfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-07-05T12:01:10.761Z",
+      "engine": "gemini",
+      "updatedAt": "2026-07-05T12:16:57.775Z",
       "sourceLinks": [
         {
           "name": "Telex",
@@ -54,11 +54,11 @@
         },
         {
           "name": "24.hu",
-          "link": "https://24.hu/sport/foci/2026/07/05/foci-vb-2026-egri-viktor-carlo-ancelotti-norvegia/"
+          "link": "https://24.hu/tudomany/2026/07/05/mohacs-gyozelem-tomori-szapolyai/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/itthon/20260705_torok-gabor-alkotmanymodositas-tisza-hataskorok-onkorlatozas"
+          "link": "https://hvg.hu/tudomany/20260705_canyon-predict-orszaguti-kerekpar-okos-funkciok-elorejelzes-baleset"
         }
       ],
       "skipped": []
@@ -79,7 +79,7 @@
         }
       ],
       "engine": "extractive",
-      "updatedAt": "2026-07-05T12:01:11.379Z",
+      "updatedAt": "2026-07-05T12:16:57.879Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
@@ -104,7 +104,7 @@
         }
       ],
       "engine": "extractive",
-      "updatedAt": "2026-07-05T12:01:12.097Z",
+      "updatedAt": "2026-07-05T12:16:57.991Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
@@ -116,36 +116,24 @@
     "gazdasag": {
       "items": [
         {
-          "text": "Egy kereskedelmi hajó vészjelzést adott le vasárnap a Vörös-tengeren, miután fegyveresek támadták meg Jemen partjainál.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20260705/veszjelzest-adtak-le-a-voros-tengeren-847656",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A Bank of America elemzése szerint Japán késve érkező résztvevője a globális kötvénypiaci fordulatnak, nem pedig annak oka.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/deviza/20260705/mi-van-ha-mindent-rosszul-tudtunk-a-globalis-hozamemelkedesrol-847370",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Ukrán dróntámadás érte Szentpétervárt és egy jelentős orosz olajexportot bonyolító balti-tengeri kikötőt.",
+          "text": "Orosz források a védelmi minisztériumra hivatkozva arról írnak, hogy Oroszország kész átadni Ukrajnának az elesett katonák holttestét Koszt",
           "source": "Portfolio.hu",
           "link": "https://www.portfolio.hu/global/20260705/orosz-nagyvarosokat-lonek-az-ukranok-varatlanul-tuzszunetet-ajanlott-moszkva-ukrajnai-haborus-hireink-vasarnap-847624",
           "scope": "kulfold"
         },
         {
-          "text": "A Tisza-kormány megkezdte a korábban megkötött autópálya-koncesszió átvilágítását, melyre az elmúlt négy évben 1024 milliárd forintot fizettek ki.",
+          "text": "Az ukrán védelmi erők júniusban több mint kétszázezer orosz haditechnikai eszközt semmisítettek meg vagy találtak el – írta meg az Ukrajinszka Pravda.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20260705/tisza-kormany-1000-milliard-feletti-osszeg-ment-az-autopalya-koncessziokra-12-pontban-modosul-az-alaptorveny-847626",
-          "scope": "belfold"
+          "link": "https://www.portfolio.hu/global/20260705/kijev-bejelentette-rekordszamu-fegyver-pusztult-el-a-fronton-hatalmas-bajban-az-orosz-utanpotlas-847654",
+          "scope": "kulfold"
         }
       ],
-      "engine": "gemini",
-      "updatedAt": "2026-07-05T12:01:21.870Z",
+      "engine": "extractive",
+      "updatedAt": "2026-07-05T12:16:58.119Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20260705/veszjelzest-adtak-le-a-voros-tengeren-847656"
+          "link": "https://www.portfolio.hu/gazdasag/20260705/a-hoseg-vagy-a-hideg-okozza-tobb-ember-halalat-a-kutato-szerint-rossz-szamokra-hivatkozik-a-who-846734"
         }
       ],
       "skipped": []
@@ -153,38 +141,14 @@
     "kornyezet": {
       "items": [
         {
-          "text": "A Greenfo online felületén hírlevél-feliratkozásra van lehetőség.",
-          "source": "Greenfo",
-          "link": "https://greenfo.hu/hirlevel-feliratkozas/",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Greenfo elindította Iránytű című podcast műsorát.",
-          "source": "Greenfo",
-          "link": "https://greenfo.hu/hirek/podcastok/podcast/",
-          "scope": "belfold"
-        },
-        {
-          "text": "Új podcast érhető el Zöld hét – Hírháttér címmel a Greenfo kínálatában.",
+          "text": "Zöld hét – Hírháttér podcast.",
           "source": "Greenfo",
           "link": "https://greenfo.hu/hirek/podcastok/zold-het/",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Greenfo támogatást kér olvasóitól működéséhez.",
-          "source": "Greenfo",
-          "link": "https://greenfo.hu/tamogatas/",
-          "scope": "belfold"
-        },
-        {
-          "text": "Lehetőség van egyes Greenfo rovatok támogatójává válni.",
-          "source": "Greenfo",
-          "link": "https://greenfo.hu/tamogatas/",
-          "scope": "belfold"
+          "scope": "kulfold"
         }
       ],
-      "engine": "gemini",
-      "updatedAt": "2026-07-05T12:01:38.984Z",
+      "engine": "extractive",
+      "updatedAt": "2026-07-05T12:16:58.227Z",
       "sourceLinks": [
         {
           "name": "Greenfo",
@@ -196,20 +160,20 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Merész jóslat érkezett: ide érkezhet meg az olaj ára az év végére – a Citi azt is elmondta, mit kell most tenniük a befektetőknek.",
+          "text": "Csányi Sándor kihúzhatja magát: élete formájában az OTP – záporoznak az elismerések, a csúcson túl is folytatódhat a rali.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/07/olaj-brent-elemzes-citi-iran-hormuzi-szoros",
+          "link": "https://www.vg.hu/penz-es-tokepiac/2026/07/otp-reszveny-arfolyam-csucs-csanyi-hongkong-forbes",
           "scope": "kulfold"
         },
         {
-          "text": "Az amerikai nagybank optimista forgatókönyve szerint 2026 végére az év eleji szintre mérséklődhet a Brent típusú nyersolaj hordónkénti ára..",
+          "text": "Történelmi csúcsra értek a legnagyobb magyar bank részvényei, miközben az OTP megítélése kiváló a szakma, a befektetők és az elemzők körében is..",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/07/olaj-brent-elemzes-citi-iran-hormuzi-szoros",
+          "link": "https://www.vg.hu/penz-es-tokepiac/2026/07/otp-reszveny-arfolyam-csucs-csanyi-hongkong-forbes",
           "scope": "kulfold"
         }
       ],
       "engine": "extractive",
-      "updatedAt": "2026-07-05T12:01:39.517Z",
+      "updatedAt": "2026-07-05T12:16:58.322Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
