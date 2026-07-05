@@ -4,10 +4,15 @@
     { "name": "24.hu", "rss": "https://24.hu/feed/", "scrapeUrl": "https://24.hu/", "category": "politika" },
     { "name": "HVG", "rss": "https://hvg.hu/rss", "scrapeUrl": "https://hvg.hu/", "category": "politika" },
     { "name": "Infostart Sport", "rss": "https://infostart.hu/sport/rss/", "scrapeUrl": "https://infostart.hu/sport", "category": "sport" },
+    { "name": "Nemzeti Sport", "rss": "https://www.nemzetisport.hu/rss", "scrapeUrl": "https://www.nemzetisport.hu/", "category": "sport" },
     { "name": "SG.hu", "rss": "https://sg.hu/rss", "scrapeUrl": "https://sg.hu/", "category": "technologia" },
+    { "name": "Infostart Tudomány", "rss": "https://infostart.hu/tudomany/rss/", "scrapeUrl": "https://infostart.hu/tudomany", "category": "technologia" },
     { "name": "Portfolio.hu", "rss": "https://www.portfolio.hu/rss/all.xml", "scrapeUrl": "https://www.portfolio.hu/", "category": "gazdasag" },
+    { "name": "Infostart Gazdaság", "rss": "https://infostart.hu/gazdasag/rss/", "scrapeUrl": "https://infostart.hu/gazdasag", "category": "gazdasag" },
     { "name": "Greenfo", "rss": "https://greenfo.hu/rss.xml", "scrapeUrl": "https://greenfo.hu/hir/", "category": "kornyezet" },
-    { "name": "VG.hu", "rss": "https://www.vg.hu/rss", "scrapeUrl": "https://www.vg.hu/", "category": "vilaggazdasag" }
+    { "name": "Qubit", "rss": "https://qubit.hu/rss", "scrapeUrl": "https://qubit.hu/", "category": "kornyezet" },
+    { "name": "VG.hu", "rss": "https://www.vg.hu/rss", "scrapeUrl": "https://www.vg.hu/", "category": "vilaggazdasag" },
+    { "name": "MFOR.hu", "rss": "https://mfor.hu/rss", "scrapeUrl": "https://mfor.hu/", "category": "vilaggazdasag" }
   ],
   "categories": [
     { "id": "politika", "name": "Politika" },
@@ -18,3 +23,5 @@
     { "id": "vilaggazdasag", "name": "Tőzsde / Világgazdaság" }
   ]
 }
+
+
