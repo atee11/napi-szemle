@@ -6,6 +6,7 @@ const CATEGORY_NAMES = {
   technologia: 'Technológia',
   gazdasag: 'Gazdaság',
   kornyezet: 'Környezet',
+  vilaggazdasag: 'Tőzsde / Világgazdaság',
 };
 
 const NAME_DAYS = {
@@ -131,6 +132,18 @@ function renderFxStrip(fx) {
   el.innerHTML = `EUR/HUF <strong>${rate} Ft</strong> · ${escapeHtml(fx.source || '')} · ${escapeHtml(timeStr)}`;
 }
 
+function summaryItemsHtml(items) {
+  if (!items || !items.length) return '';
+  return items.map((it) => {
+    const label = it.source
+      ? (it.link
+          ? `<a class="source-pill" href="${escapeAttr(it.link)}" target="_blank" rel="noopener">${escapeHtml(it.source)}</a>`
+          : `<span class="source-pill">${escapeHtml(it.source)}</span>`)
+      : '';
+    return `<p class="summary-item">${escapeHtml(it.text)} ${label}</p>`;
+  }).join('');
+}
+
 function cardHtml(categoryId, data) {
   const name = CATEGORY_NAMES[categoryId] || categoryId;
 
@@ -141,7 +154,7 @@ function cardHtml(categoryId, data) {
     </article>`;
   }
 
-  if (data.error && !data.text) {
+  if (data.error && !(data.items && data.items.length)) {
     return `<article class="category-card">
       <div class="card-top"><div><p class="eyebrow">Rovat</p><h2 class="category-name">${escapeHtml(name)}</h2></div></div>
       <p class="card-summary error">${escapeHtml(data.error)}</p>
@@ -161,7 +174,7 @@ function cardHtml(categoryId, data) {
   return `<article class="category-card">
     <span class="stamp${stampClass}">${escapeHtml(stampText)}</span>
     <div class="card-top"><div><p class="eyebrow">Rovat</p><h2 class="category-name">${escapeHtml(name)}</h2></div></div>
-    <p class="card-summary">${escapeHtml(data.text)}</p>
+    <div class="summary-list">${summaryItemsHtml(data.items)}</div>
     <div class="card-meta"><span class="timestamp">${timeAgo(data.updatedAt)}</span></div>
     <div class="source-chips">${chips}</div>
     ${warn}
@@ -179,9 +192,14 @@ function render(dataObj) {
     || '<p class="card-summary placeholder">Még nincs adat — az első automatikus futás után jelenik meg tartalom.</p>';
 
   const status = document.getElementById('footerStatus');
-  status.textContent = dataObj.generatedAt
-    ? `Frissítve: ${new Date(dataObj.generatedAt).toLocaleString('hu-HU')}`
-    : 'Frissítés ideje ismeretlen';
+  if (dataObj.generatedAt) {
+    const d = new Date(dataObj.generatedAt);
+    const datePart = d.toLocaleDateString('hu-HU', { year: 'numeric', month: '2-digit', day: '2-digit' });
+    const timePart = d.toLocaleTimeString('hu-HU', { hour: '2-digit', minute: '2-digit' });
+    status.textContent = `Frissítve: ${datePart} ${timePart}`;
+  } else {
+    status.textContent = 'Frissítés ideje ismeretlen';
+  }
 }
 
 async function loadData() {
