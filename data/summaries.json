@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T06:19:06.895Z",
+  "generatedAt": "2026-07-05T08:09:18.338Z",
   "fx": {
     "rate": 353.86,
     "date": "2026-07-04T12:37:48.000Z",
@@ -9,50 +9,50 @@
     "politika": {
       "items": [
         {
-          "text": "Donald Trump amerikai elnök július 4-i ünnepi beszédében „lúzer kommunistákkal” riogatott.",
-          "source": "24.hu",
-          "link": "https://24.hu/kulfold/2026/07/05/donald-trump-julius-4-beszed-kommunistak/"
-        },
-        {
-          "text": "Egy riport szerint sok ukrán katonában eltűnt a motiváció, hogy tevőlegesen tegyenek Ukrajnáért, ami a hadseregből való dezertálásokhoz vezet.",
+          "text": "Nyílt pályázaton keresik az egyetemeket fenntartó alapítványok kuratóriumi és felügyelőbizottsági tagjait, melyek jövő augusztusban megszűnnek.",
           "source": "Telex",
-          "link": "https://telex.hu/kulfold/2026/07/05/usa-donald-trump-julius-4-i-beszed"
+          "link": "https://telex.hu/belfold/2026/07/05/kekva-palyazati-felhivas-lannert-judit-kuratorium-felugyelobizottsag"
         },
         {
-          "text": "Magyar Péter szerint az a Gulyás Gergely aggódik az Alaptörvényért, aki Szájer Józseffel „viccet csinált az alkotmányozásból”.",
+          "text": "Vlagyimir Putyin és Volodimir Zelenszkij is felhívta Donald Trumpot július 4-e alkalmából.",
+          "source": "Telex",
+          "link": "https://telex.hu/belfold/2026/07/05/kekva-palyazati-felhivas-lannert-judit-kuratorium-felugyelobizottsag"
+        },
+        {
+          "text": "A kormány tervei szerint 180 törvényt kell átírni a vármegye megyére, a főispán pedig kormánymegbízottra cserélése miatt, ami 557 millió forintba kerül.",
+          "source": "Telex",
+          "link": "https://telex.hu/belfold/2026/07/05/kekva-palyazati-felhivas-lannert-judit-kuratorium-felugyelobizottsag"
+        },
+        {
+          "text": "Lázár János volt közlekedési miniszter is beszállt az Áder-Magyar vitába Magyar Péter működésével kapcsolatban.",
           "source": "24.hu",
-          "link": "https://24.hu/kulfold/2026/07/05/donald-trump-julius-4-beszed-kommunistak/"
+          "link": "https://24.hu/belfold/2026/07/05/lazar-janos-magyar-peter-ader-janos-reagalas/"
         },
         {
-          "text": "A lengyel-ukrán kapcsolatokat máig kísérti a százezer ember bestiális meggyilkolása, ami egyre durvább történelmi vitához vezet Varsó és Kijev között.",
+          "text": "Donald Trump elnök lúzer kommunistákkal riogatott július 4-i ünnepi beszédében.",
           "source": "24.hu",
-          "link": "https://24.hu/kulfold/2026/07/05/donald-trump-julius-4-beszed-kommunistak/"
+          "link": "https://24.hu/belfold/2026/07/05/lazar-janos-magyar-peter-ader-janos-reagalas/"
         },
         {
-          "text": "Megszűnt a szuverenitásvédelminek nevezett hivatal.",
+          "text": "A Vas megyei kormányhivatal egy 24 millió forintos pickupot vásárolt hivatalosan élelmiszerlánc-biztonsági feladatokra, amivel az egyik vezető vadászgatott.",
           "source": "HVG",
-          "link": "https://hvg.hu/tudomany/20260705_uj-szuperszamitogep-flyer-us-air-force-afrl"
-        },
-        {
-          "text": "Egy ukrán drónegység brit hírszerzési adatok alapján hajtott végre dróntámadásokat Moszkvánál, ezzel a háborút Putyin küszöbéig eljuttatva.",
-          "source": "HVG",
-          "link": "https://hvg.hu/tudomany/20260705_uj-szuperszamitogep-flyer-us-air-force-afrl"
+          "link": "https://hvg.hu/tudomany/20260705_xiaomi18-varhato-specifikacioi"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-07-05T06:19:06.365Z",
+      "updatedAt": "2026-07-05T08:07:59.304Z",
       "sourceLinks": [
         {
           "name": "Telex",
-          "link": "https://telex.hu/kulfold/2026/07/05/usa-donald-trump-julius-4-i-beszed"
+          "link": "https://telex.hu/belfold/2026/07/05/kekva-palyazati-felhivas-lannert-judit-kuratorium-felugyelobizottsag"
         },
         {
           "name": "24.hu",
-          "link": "https://24.hu/kulfold/2026/07/05/donald-trump-julius-4-beszed-kommunistak/"
+          "link": "https://24.hu/belfold/2026/07/05/lazar-janos-magyar-peter-ader-janos-reagalas/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/tudomany/20260705_uj-szuperszamitogep-flyer-us-air-force-afrl"
+          "link": "https://hvg.hu/tudomany/20260705_xiaomi18-varhato-specifikacioi"
         }
       ],
       "skipped": []
@@ -60,18 +60,38 @@
     "sport": {
       "items": [
         {
-          "text": "Mbappé ezzel utolérte Messit és hétgólos, a franciák a Kanadát 3-0-ra legyőző Marokkóval játszanak a négy közé jutásért.",
+          "text": "Franciaország 1-0-ra legyőzte Paraguayt a labdarúgó-világbajnokság nyolcaddöntőjében.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/05/a-franciak-nagy-nehezen-lebirkoztak-paraguayt-es-a-legjobb-8-koze-jutottak-a-foci-vb-n"
         },
         {
-          "text": "A magyar férfi vízilabda-válogatott fölényesen, 17-13-ra legyőzte az olimpiai és Európa-bajnok szerb csapatot szombaton, az OTP Kupa második fordulójában, a Hajós Alfréd Nemzeti Sportuszodában.",
+          "text": "A magyar férfi vízilabda-válogatott 17-13-ra legyőzte Szerbiát az OTP Kupa második fordulójában.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/05/a-franciak-nagy-nehezen-lebirkoztak-paraguayt-es-a-legjobb-8-koze-jutottak-a-foci-vb-n"
+        },
+        {
+          "text": "Marokkó 3-0-ra legyőzte Kanadát, ezzel a negyeddöntőbe jutott a labdarúgó-világbajnokságon.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/05/a-franciak-nagy-nehezen-lebirkoztak-paraguayt-es-a-legjobb-8-koze-jutottak-a-foci-vb-n"
+        },
+        {
+          "text": "A magyar női párbajtőrvívó-válogatott ezüstérmet szerzett a franciaországi Európa-bajnokságon.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/05/a-franciak-nagy-nehezen-lebirkoztak-paraguayt-es-a-legjobb-8-koze-jutottak-a-foci-vb-n"
+        },
+        {
+          "text": "Muhari Eszter egyéniben harmadik helyen végzett az Európa-bajnokságon párbajtőrvívásban.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/05/a-franciak-nagy-nehezen-lebirkoztak-paraguayt-es-a-legjobb-8-koze-jutottak-a-foci-vb-n"
+        },
+        {
+          "text": "A wimbledoni teniszversenyen kiesett a második kiemelt Jelena Ribakina és a címvédő Iga Swiatek is.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/05/a-franciak-nagy-nehezen-lebirkoztak-paraguayt-es-a-legjobb-8-koze-jutottak-a-foci-vb-n"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-07-05T06:19:06.510Z",
+      "engine": "gemini",
+      "updatedAt": "2026-07-05T08:08:10.576Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
@@ -83,22 +103,42 @@
     "technologia": {
       "items": [
         {
-          "text": "A Samsung és az SK Hynix dolgozói lettek Dél Korea legkeresettebb házassági partnerei.",
+          "text": "A PlayStation 6 fejlesztése során új irányt vehet a konzol a rekordmagas hardverárak következtében.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166013/kina-humanoid-robotjainak-valosaga-messze-elmarad-a-latvanytol"
+          "link": "https://sg.hu/cikkek/jatek/166016/teljesen-uj-iranyt-vehet-a-playstation-6-a-rekordmagas-hardverarak-miatt"
         },
         {
-          "text": "Először hajtott végre zsarolóvírus támadást egy önállóan működő MI-ügynök.",
+          "text": "A memóriagyártók ellenzik az amerikai kormány piaci beavatkozását.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166013/kina-humanoid-robotjainak-valosaga-messze-elmarad-a-latvanytol"
+          "link": "https://sg.hu/cikkek/jatek/166016/teljesen-uj-iranyt-vehet-a-playstation-6-a-rekordmagas-hardverarak-miatt"
+        },
+        {
+          "text": "Kína humanoid robotjai a valóságban messze elmaradnak a bemutatott látványtól.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/jatek/166016/teljesen-uj-iranyt-vehet-a-playstation-6-a-rekordmagas-hardverarak-miatt"
+        },
+        {
+          "text": "Az ENSZ jelentése szerint a mesterséges intelligencia tovább mélyítheti a globális egyenlőtlenségeket.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/jatek/166016/teljesen-uj-iranyt-vehet-a-playstation-6-a-rekordmagas-hardverarak-miatt"
+        },
+        {
+          "text": "Dél-Koreában a Samsung és az SK Hynix dolgozói lettek a legkeresettebb házassági partnerek.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/jatek/166016/teljesen-uj-iranyt-vehet-a-playstation-6-a-rekordmagas-hardverarak-miatt"
+        },
+        {
+          "text": "San Franciscóban már az évi 180 ezer dolláros fizetés sem elegendő a megélhetéshez.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/jatek/166016/teljesen-uj-iranyt-vehet-a-playstation-6-a-rekordmagas-hardverarak-miatt"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-07-05T06:19:06.593Z",
+      "engine": "gemini",
+      "updatedAt": "2026-07-05T08:08:15.365Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166013/kina-humanoid-robotjainak-valosaga-messze-elmarad-a-latvanytol"
+          "link": "https://sg.hu/cikkek/jatek/166016/teljesen-uj-iranyt-vehet-a-playstation-6-a-rekordmagas-hardverarak-miatt"
         }
       ],
       "skipped": []
@@ -106,22 +146,32 @@
     "gazdasag": {
       "items": [
         {
-          "text": "Magyar Péter miniszterelnök szombaton bejelentette, hogy a Tisza-kormány nevében be",
+          "text": "A Tisza-kormány megkezdte a korábban megkötött autópálya-koncessziók átvilágítását.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20260705/tisza-kormany-1000-milliard-feletti-osszeg-ment-az-autopalya-koncessziokra-12-pontban-modosul-az-alaptorveny-847626"
+          "link": "https://www.portfolio.hu/global/20260705/egymas-utan-puccsoljak-meg-a-veteranokat-a-sajat-szavazoik-erik-a-radikalis-baloldali-fordulat-847598"
         },
         {
-          "text": "Orosz nagyvárosokat lőnek az ukránok, váratlanul tűzszünetet ajánlott Moszkva – Ukrajnai háborús híreink vasárnap.",
+          "text": "Az elmúlt négy évben 1024 milliárd forintot fizettek ki az autópálya-koncesszornak a 35 éves szerződés keretében.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20260705/tisza-kormany-1000-milliard-feletti-osszeg-ment-az-autopalya-koncessziokra-12-pontban-modosul-az-alaptorveny-847626"
+          "link": "https://www.portfolio.hu/global/20260705/egymas-utan-puccsoljak-meg-a-veteranokat-a-sajat-szavazoik-erik-a-radikalis-baloldali-fordulat-847598"
+        },
+        {
+          "text": "Új részletek derültek ki az iskolakezdési támogatásokról a Tisza-kormány kormányszóvivője által.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/global/20260705/egymas-utan-puccsoljak-meg-a-veteranokat-a-sajat-szavazoik-erik-a-radikalis-baloldali-fordulat-847598"
+        },
+        {
+          "text": "Ukrán dróntámadások értek egy jelentős orosz olajexportot bonyolító balti-tengeri kikötőt.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/global/20260705/egymas-utan-puccsoljak-meg-a-veteranokat-a-sajat-szavazoik-erik-a-radikalis-baloldali-fordulat-847598"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-07-05T06:19:06.667Z",
+      "engine": "gemini",
+      "updatedAt": "2026-07-05T08:08:23.270Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20260705/tisza-kormany-1000-milliard-feletti-osszeg-ment-az-autopalya-koncessziokra-12-pontban-modosul-az-alaptorveny-847626"
+          "link": "https://www.portfolio.hu/global/20260705/egymas-utan-puccsoljak-meg-a-veteranokat-a-sajat-szavazoik-erik-a-radikalis-baloldali-fordulat-847598"
         }
       ],
       "skipped": []
@@ -129,13 +179,13 @@
     "kornyezet": {
       "items": [
         {
-          "text": "Zöld hét – Hírháttér podcast.",
+          "text": "A Greenfo Zöld hét címmel hírháttér podcastot sugároz.",
           "source": "Greenfo",
           "link": "https://greenfo.hu/hirlevel-feliratkozas/"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-07-05T06:19:06.738Z",
+      "engine": "gemini",
+      "updatedAt": "2026-07-05T08:08:58.736Z",
       "sourceLinks": [
         {
           "name": "Greenfo",
@@ -147,18 +197,33 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Ásványkincsek: ezek az országok uralják a világ legnagyobb készleteit – rajtuk múlik, hogy lesz-e háború a jövőben.",
+          "text": "A tőzsdei árfolyamadatok 15 perces késleltetéssel jelennek meg.",
           "source": "VG.hu",
           "link": "https://www.vg.hu/reszvenyek"
         },
         {
-          "text": "Rekordfogadások, rekordkifizetések: pénzeső helyett drága mulatság lett a vb a világ legnagyobb bukmékereinek.",
+          "text": "A labdarúgó-világbajnokság alatt rekordmennyiségű fogadás történt.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/reszvenyek"
+        },
+        {
+          "text": "A világbajnokság kapcsán rekordösszegű kifizetések valósultak meg.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/reszvenyek"
+        },
+        {
+          "text": "A rekordfogadások és kifizetések ellenére a labdarúgó-világbajnokság drága mulatsággá vált a bukmékerek számára.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/reszvenyek"
+        },
+        {
+          "text": "A világ legnagyobb bukmékereinek a labdarúgó-világbajnokság nem hozott pénzesőt.",
           "source": "VG.hu",
           "link": "https://www.vg.hu/reszvenyek"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-07-05T06:19:06.824Z",
+      "engine": "gemini",
+      "updatedAt": "2026-07-05T08:09:18.294Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
