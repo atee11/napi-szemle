@@ -132,20 +132,42 @@ function renderFxStrip(fx) {
   el.innerHTML = `EUR/HUF <strong>${rate} Ft</strong> · ${escapeHtml(fx.source || '')} · ${escapeHtml(timeStr)}`;
 }
 
-function summaryItemsHtml(items) {
-  if (!items || !items.length) return '';
-  return items.map((it) => {
-    const label = it.source
-      ? (it.link
-          ? `<a class="source-pill" href="${escapeAttr(it.link)}" target="_blank" rel="noopener">${escapeHtml(it.source)}</a>`
-          : `<span class="source-pill">${escapeHtml(it.source)}</span>`)
-      : '';
-    return `<p class="summary-item">${escapeHtml(it.text)} ${label}</p>`;
-  }).join('');
+const SOURCE_COLORS = ['#0D6E6E', '#A9824C', '#7B4FA0', '#C1272D', '#2E6F40', '#B0562B', '#3C6E9A', '#8A5A44'];
+function colorForSource(name) {
+  if (!name) return '#6B665C';
+  let hash = 0;
+  for (let i = 0; i < name.length; i++) hash = (hash * 31 + name.charCodeAt(i)) >>> 0;
+  return SOURCE_COLORS[hash % SOURCE_COLORS.length];
 }
 
-function cardHtml(categoryId, data) {
+function summaryItemsHtml(items) {
+  if (!items || !items.length) return '';
+  const groups = { belfold: [], kulfold: [] };
+  items.forEach((it) => { (groups[it.scope] || groups.belfold).push(it); });
+
+  const renderGroup = (label, list) => {
+    if (!list.length) return '';
+    const rows = list.map((it) => {
+      const dot = it.source ? `<span class="source-dot" style="background:${colorForSource(it.source)}"></span>` : '';
+      const label = it.source
+        ? (it.link
+            ? `<a class="source-pill" href="${escapeAttr(it.link)}" target="_blank" rel="noopener">${dot}${escapeHtml(it.source)}</a>`
+            : `<span class="source-pill">${dot}${escapeHtml(it.source)}</span>`)
+        : '';
+      return `<p class="summary-item">${escapeHtml(it.text)} ${label}</p>`;
+    }).join('');
+    return `<div class="scope-group">
+      <p class="scope-label">${label}</p>
+      ${rows}
+    </div>`;
+  };
+
+  return renderGroup('Belföld', groups.belfold) + renderGroup('Külföld', groups.kulfold);
+}
+
+function cardHtml(categoryId, data, isNew) {
   const name = CATEGORY_NAMES[categoryId] || categoryId;
+  const newDot = isNew ? '<span class="new-dot" title="Frissült a legutóbbi látogatásod óta"></span>' : '';
 
   if (!data) {
     return `<article class="category-card">
@@ -173,12 +195,21 @@ function cardHtml(categoryId, data) {
 
   return `<article class="category-card">
     <span class="stamp${stampClass}">${escapeHtml(stampText)}</span>
-    <div class="card-top"><div><p class="eyebrow">Rovat</p><h2 class="category-name">${escapeHtml(name)}</h2></div></div>
+    <div class="card-top"><div><p class="eyebrow">Rovat</p><h2 class="category-name">${newDot}${escapeHtml(name)}</h2></div></div>
     <div class="summary-list">${summaryItemsHtml(data.items)}</div>
     <div class="card-meta"><span class="timestamp">${timeAgo(data.updatedAt)}</span></div>
     <div class="source-chips">${chips}</div>
     ${warn}
   </article>`;
+}
+
+const LAST_SEEN_KEY = 'napiszemle_lastseen_v1';
+
+function loadLastSeen() {
+  try { return JSON.parse(localStorage.getItem(LAST_SEEN_KEY) || '{}'); } catch { return {}; }
+}
+function saveLastSeen(obj) {
+  try { localStorage.setItem(LAST_SEEN_KEY, JSON.stringify(obj)); } catch { /* nincs teendő, ha nem elérhető */ }
 }
 
 function render(dataObj) {
@@ -187,9 +218,20 @@ function render(dataObj) {
   renderTicker(ids.length ? ids : Object.keys(CATEGORY_NAMES));
   renderFxStrip(dataObj.fx);
 
+  const lastSeen = loadLastSeen();
   const stack = document.getElementById('cardStack');
-  stack.innerHTML = ids.map((id) => cardHtml(id, categories[id])).join('')
-    || '<p class="card-summary placeholder">Még nincs adat — az első automatikus futás után jelenik meg tartalom.</p>';
+  stack.innerHTML = ids.map((id) => {
+    const data = categories[id];
+    const isNew = data && data.updatedAt && lastSeen[id] && new Date(data.updatedAt) > new Date(lastSeen[id]);
+    const isFirstVisit = data && data.updatedAt && !lastSeen[id];
+    return cardHtml(id, data, isNew && !isFirstVisit);
+  }).join('') || '<p class="card-summary placeholder">Még nincs adat — az első automatikus futás után jelenik meg tartalom.</p>';
+
+  const updatedLastSeen = { ...lastSeen };
+  ids.forEach((id) => {
+    if (categories[id] && categories[id].updatedAt) updatedLastSeen[id] = categories[id].updatedAt;
+  });
+  saveLastSeen(updatedLastSeen);
 
   const status = document.getElementById('footerStatus');
   if (dataObj.generatedAt) {
@@ -204,6 +246,8 @@ function render(dataObj) {
 
 async function loadData() {
   const status = document.getElementById('footerStatus');
+  const fxBtn = document.getElementById('fxRefreshBtn');
+  if (fxBtn) fxBtn.disabled = true;
   try {
     const res = await fetch('data/summaries.json?t=' + Date.now());
     if (!res.ok) throw new Error('HTTP ' + res.status);
@@ -211,6 +255,8 @@ async function loadData() {
     render(data);
   } catch (err) {
     status.textContent = 'Nem sikerült betölteni az adatokat: ' + err.message;
+  } finally {
+    if (fxBtn) fxBtn.disabled = false;
   }
 }
 
@@ -226,6 +272,7 @@ function init() {
   document.getElementById('closeInfoBtn').addEventListener('click', closeInfo);
   document.getElementById('overlay').addEventListener('click', closeInfo);
   document.getElementById('manualRefreshBtn').addEventListener('click', loadData);
+  document.getElementById('fxRefreshBtn').addEventListener('click', loadData);
 }
 
 document.addEventListener('DOMContentLoaded', init);

@@ -14,6 +14,22 @@
   --font-mono:'IBM Plex Mono', monospace;
 }
 
+@media (prefers-color-scheme: dark){
+  :root{
+    --paper:#171614;
+    --paper-raised:#211F1C;
+    --ink:#F2EEE4;
+    --teal:#4FBFBF;
+    --teal-dark:#7ED4D4;
+    --red:#E36A6F;
+    --gold:#D8B989;
+    --gray:#A39C8E;
+    --line:rgba(242,238,228,0.14);
+  }
+  .fx-strip{background:#0A0908;}
+  .masthead{border-bottom-color:var(--ink);}
+}
+
 *{box-sizing:border-box;}
 html,body{margin:0;padding:0;}
 body{
@@ -104,6 +120,12 @@ code{background:rgba(28,27,25,0.07);padding:0.1rem 0.3rem;border-radius:4px;font
   white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
 }
 .fx-strip-text strong{color:var(--gold);}
+.fx-strip-btn{
+  flex-shrink:0;background:none;border:1px solid rgba(243,239,228,0.35);color:var(--paper);
+  border-radius:6px;width:26px;height:26px;font-size:0.9rem;line-height:1;cursor:pointer;
+}
+.fx-strip-btn:hover{border-color:var(--gold);color:var(--gold);}
+.fx-strip-btn:disabled{opacity:0.5;cursor:default;}
 
 /* ---------- category cards ---------- */
 .card-stack{
@@ -120,11 +142,24 @@ code{background:rgba(28,27,25,0.07);padding:0.1rem 0.3rem;border-radius:4px;font
   color:var(--teal-dark);margin:0 0 0.15rem;
 }
 .category-name{font-family:var(--font-display);font-size:1.25rem;font-weight:600;margin:0;}
+.new-dot{
+  display:inline-block;width:8px;height:8px;border-radius:50%;
+  background:var(--red);margin-right:0.4rem;vertical-align:middle;
+}
 .summary-list{margin-top:0.7rem;}
+.scope-group{margin-bottom:0.6rem;}
+.scope-group:last-child{margin-bottom:0;}
+.scope-label{
+  font-family:var(--font-mono);font-size:0.66rem;letter-spacing:0.1em;text-transform:uppercase;
+  color:var(--gray);margin:0 0 0.3rem;
+}
 .summary-item{
   font-size:0.95rem;margin:0 0 0.55rem;line-height:1.5;
 }
 .summary-item:last-child{margin-bottom:0;}
+.source-dot{
+  display:inline-block;width:7px;height:7px;border-radius:50%;margin-right:0.35rem;vertical-align:1px;
+}
 .source-pill{
   display:inline-block;
   font-family:var(--font-mono);font-size:0.66rem;letter-spacing:0.03em;
