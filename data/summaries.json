@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T11:59:38.828Z",
+  "generatedAt": "2026-07-05T12:01:39.560Z",
   "fx": {
     "rate": 353.86,
     "date": "2026-07-04T12:37:48.000Z",
@@ -9,44 +9,44 @@
     "politika": {
       "items": [
         {
-          "text": "A Fidesz kommunikációs igazgatója kemény kritikát fogalmazott meg a választási vereség miatt még kóválygó fideszeseknek.",
+          "text": "A város, ahol Elon Musk és Donald Trump váltja valóra az álmait.",
           "source": "Telex",
-          "link": "https://telex.hu/belfold/2026/07/05/havasi-bertalan-der-stefi-hir-tv-piacrol-megelni-nehez",
-          "scope": "belfold"
+          "link": "https://telex.hu/gazdasag/2026/07/05/elon-musk-spacex-texas-uripar-trump",
+          "scope": "kulfold"
         },
         {
-          "text": "Donald Trump telefonon egyeztetett Putyinnal és Zelenszkijjel a jövő heti NATO-csúcs előtt.",
+          "text": "Hamarosan Donald Trump is csatlakozott hozzá a saját megalomán projektjével, az egésszel pedig a helyeik járnak a legrosszabbul.",
+          "source": "Telex",
+          "link": "https://telex.hu/gazdasag/2026/07/05/elon-musk-spacex-texas-uripar-trump",
+          "scope": "kulfold"
+        },
+        {
+          "text": "The post Nyolc embert, köztük négy gyereket lőttek meg a függetlenség napján New Yorkban first appeared on 24.hu.",
+          "source": "24.hu",
+          "link": "https://24.hu/kulfold/2026/07/05/new-york-lovoldozes-julius-4-nyolc-serult/",
+          "scope": "kulfold"
+        },
+        {
+          "text": "The post Putyinnal és Zelenszkijjel is telefonon egyeztetett Donald Trump first appeared on 24.hu.",
           "source": "24.hu",
           "link": "https://24.hu/kulfold/2026/07/05/putyinnal-es-zelenszkijjel-is-telefonon-egyeztetett-donald-trump/",
           "scope": "kulfold"
         },
         {
-          "text": "Török Gábor politológus sorvezetőt készített az Alaptörvény-módosítás értelmezéséhez.",
-          "source": "HVG",
-          "link": "https://hvg.hu/itthon/20260705_torok-gabor-alkotmanymodositas-tisza-hataskorok-onkorlatozas",
-          "scope": "belfold"
-        },
-        {
-          "text": "Az MCC Brussels vezetője szerint Magyar Péter nem számolhat fel egy jól működő intézményt.",
-          "source": "HVG",
-          "link": "https://hvg.hu/gazdasag/20260705_mcc-brussels-frank-furedi-rendezveny-forrashiany-kekva",
-          "scope": "belfold"
-        },
-        {
-          "text": "Vitézy Dávid közlekedési miniszter szerint Lázár János aláásta a vasútfejlesztés lehetőségét a beszerzések leállításával.",
+          "text": "Vitézy Dávid közlekedési miniszter szerint Lázár János saját ciklusán túlmutató módon ásta alá a vasútfejlesztés lehetőségét, amikor beszerzéseket állított le.",
           "source": "HVG",
           "link": "https://hvg.hu/gazdasag/20260705_vasuti-jarmuvek-atlageletkor-vitezy-david-mav-magyarorszag",
-          "scope": "belfold"
+          "scope": "kulfold"
         },
         {
-          "text": "Donald Trump elnök és az amerikai kormány támadta a tudományos intézményeket.",
-          "source": "24.hu",
-          "link": "https://24.hu/tudomany/2026/07/05/ertelmiseg-populizmus-cenzura-tortenelem-history/",
+          "text": "És miért esszük olyan magától értetődően kenyérrel, mintha ez lenne a világ legtermészetesebb párosítása?",
+          "source": "HVG",
+          "link": "https://hvg.hu/360/20260705_gorogdinnye-7-tipp-dinnye-recept",
           "scope": "kulfold"
         }
       ],
-      "engine": "gemini",
-      "updatedAt": "2026-07-05T11:59:26.400Z",
+      "engine": "extractive",
+      "updatedAt": "2026-07-05T12:01:10.761Z",
       "sourceLinks": [
         {
           "name": "Telex",
@@ -66,44 +66,20 @@
     "sport": {
       "items": [
         {
-          "text": "A magyar férfi vízilabda-válogatott 17-13-ra legyőzte a szerb csapatot az OTP Kupa második fordulójában.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/07/04/siman-legyozte-a-szerbeket-a-magyar-polovalogatott",
-          "scope": "belfold"
-        },
-        {
-          "text": "A magyar női párbajtőrvívó-válogatott ezüstérmet szerzett a franciaországi Európa-bajnokságon, és a világbajnokságra készül.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/07/04/muhari-eszter-nincs-piheno-a-sikeres-europa-bajnoksag-utan-mindjart-itt-a-vb",
-          "scope": "belfold"
-        },
-        {
-          "text": "Franciaország 1-0-ra legyőzte Paraguayt Mbappé büntetőjével a labdarúgó-világbajnokság nyolcaddöntőjében, ezzel bejutott a legjobb 8 közé.",
+          "text": "Mbappé ezzel utolérte Messit és hétgólos, a franciák a Kanadát 3-0-ra legyőző Marokkóval játszanak a négy közé jutásért.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/05/a-franciak-nagy-nehezen-lebirkoztak-paraguayt-es-a-legjobb-8-koze-jutottak-a-foci-vb-n",
           "scope": "kulfold"
         },
         {
-          "text": "Marokkó 3-0-ra legyőzte Kanadát a labdarúgó-világbajnokság nyolcaddöntőjében, és elsőként jutott a negyeddöntőbe.",
+          "text": "Marokkó 3-0-ra legyőzte Kanadát, és ezzel a negyeddöntőbe jutott a labdarúgó-világbajnokságon.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/04/megkezdodtek-a-nyolcaddontok-a-foci-vb-n-marokko-jutott-eloszor-a-legjobb-8-koze",
           "scope": "kulfold"
-        },
-        {
-          "text": "A paraguayi sajtó a Paraguay–Franciaország nyolcaddöntő elvesztése után a saját csapatát dicsérte, Mbappét pedig nagyképűnek és arrogánsnak nevezte.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/05/a-paraguayiak-dicserik-a-sajat-csapatukat-es-biraljak-a-nagykepu-es-arrogans-mbappet",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Didier Deschamps, a francia edző szerint a paraguayiak sértegették nemrég elhunyt édesanyját a Paraguay elleni meccsen, amit a paraguayi vezetőedző tagad.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/05/a-franciak-szerint-a-paraguayiak-deschamps-halott-edesanyjat-sertegettek",
-          "scope": "kulfold"
         }
       ],
-      "engine": "gemini",
-      "updatedAt": "2026-07-05T11:59:38.361Z",
+      "engine": "extractive",
+      "updatedAt": "2026-07-05T12:01:11.379Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
@@ -128,7 +104,7 @@
         }
       ],
       "engine": "extractive",
-      "updatedAt": "2026-07-05T11:59:38.460Z",
+      "updatedAt": "2026-07-05T12:01:12.097Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
@@ -140,20 +116,32 @@
     "gazdasag": {
       "items": [
         {
-          "text": "Orosz nagyvárosokat lőnek az ukránok, váratlanul tűzszünetet ajánlott Moszkva – Ukrajnai háborús híreink vasárnap.",
+          "text": "Egy kereskedelmi hajó vészjelzést adott le vasárnap a Vörös-tengeren, miután fegyveresek támadták meg Jemen partjainál.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/global/20260705/veszjelzest-adtak-le-a-voros-tengeren-847656",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Bank of America elemzése szerint Japán késve érkező résztvevője a globális kötvénypiaci fordulatnak, nem pedig annak oka.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/deviza/20260705/mi-van-ha-mindent-rosszul-tudtunk-a-globalis-hozamemelkedesrol-847370",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Ukrán dróntámadás érte Szentpétervárt és egy jelentős orosz olajexportot bonyolító balti-tengeri kikötőt.",
           "source": "Portfolio.hu",
           "link": "https://www.portfolio.hu/global/20260705/orosz-nagyvarosokat-lonek-az-ukranok-varatlanul-tuzszunetet-ajanlott-moszkva-ukrajnai-haborus-hireink-vasarnap-847624",
           "scope": "kulfold"
         },
         {
-          "text": "Orosz források a védelmi minisztériumra hivatkozva arról írnak, hogy Oroszország kész átadni Ukrajnának az elesett katonák holttestét Koszt",
+          "text": "A Tisza-kormány megkezdte a korábban megkötött autópálya-koncesszió átvilágítását, melyre az elmúlt négy évben 1024 milliárd forintot fizettek ki.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20260705/orosz-nagyvarosokat-lonek-az-ukranok-varatlanul-tuzszunetet-ajanlott-moszkva-ukrajnai-haborus-hireink-vasarnap-847624",
-          "scope": "kulfold"
+          "link": "https://www.portfolio.hu/gazdasag/20260705/tisza-kormany-1000-milliard-feletti-osszeg-ment-az-autopalya-koncessziokra-12-pontban-modosul-az-alaptorveny-847626",
+          "scope": "belfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-07-05T11:59:38.587Z",
+      "engine": "gemini",
+      "updatedAt": "2026-07-05T12:01:21.870Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
@@ -165,14 +153,38 @@
     "kornyezet": {
       "items": [
         {
-          "text": "Zöld hét – Hírháttér podcast.",
+          "text": "A Greenfo online felületén hírlevél-feliratkozásra van lehetőség.",
+          "source": "Greenfo",
+          "link": "https://greenfo.hu/hirlevel-feliratkozas/",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Greenfo elindította Iránytű című podcast műsorát.",
+          "source": "Greenfo",
+          "link": "https://greenfo.hu/hirek/podcastok/podcast/",
+          "scope": "belfold"
+        },
+        {
+          "text": "Új podcast érhető el Zöld hét – Hírháttér címmel a Greenfo kínálatában.",
           "source": "Greenfo",
           "link": "https://greenfo.hu/hirek/podcastok/zold-het/",
-          "scope": "kulfold"
+          "scope": "belfold"
+        },
+        {
+          "text": "A Greenfo támogatást kér olvasóitól működéséhez.",
+          "source": "Greenfo",
+          "link": "https://greenfo.hu/tamogatas/",
+          "scope": "belfold"
+        },
+        {
+          "text": "Lehetőség van egyes Greenfo rovatok támogatójává válni.",
+          "source": "Greenfo",
+          "link": "https://greenfo.hu/tamogatas/",
+          "scope": "belfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-07-05T11:59:38.682Z",
+      "engine": "gemini",
+      "updatedAt": "2026-07-05T12:01:38.984Z",
       "sourceLinks": [
         {
           "name": "Greenfo",
@@ -197,7 +209,7 @@
         }
       ],
       "engine": "extractive",
-      "updatedAt": "2026-07-05T11:59:38.785Z",
+      "updatedAt": "2026-07-05T12:01:39.517Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
