@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T12:16:58.387Z",
+  "generatedAt": "2026-07-05T12:18:33.256Z",
   "fx": {
     "rate": 353.86,
     "date": "2026-07-04T12:37:48.000Z",
@@ -9,44 +9,44 @@
     "politika": {
       "items": [
         {
-          "text": "A Fidesz kommunikációs igazgatója kritikát fogalmazott meg a választási vereség miatti sokkban lévő fideszeseknek.",
+          "text": "A Fidesz kommunikációs igazgatója kemény kritikát fogalmazott meg a választási vereség miatti sokkban lévő fideszeseknek.",
           "source": "Telex",
           "link": "https://telex.hu/belfold/2026/07/05/havasi-bertalan-der-stefi-hir-tv-piacrol-megelni-nehez",
           "scope": "belfold"
         },
         {
-          "text": "Török Gábor politológus sorvezetőt készített az Alaptörvény-módosítás értelmezéséhez.",
+          "text": "Török Gábor politológus sorvezetőt készített az Alaptörvény-módosítás értelmezéséhez, vizsgálva a Tisza Pártra és az önkorlátozásra vonatkozó változtatásokat.",
           "source": "HVG",
           "link": "https://hvg.hu/itthon/20260705_torok-gabor-alkotmanymodositas-tisza-hataskorok-onkorlatozas",
           "scope": "belfold"
         },
         {
-          "text": "Az MCC Brussels vezetője szerint Magyar Péter nem számolhat fel egy jó munkát végző intézményt.",
+          "text": "Az MCC Brussels vezetője szerint Magyar Péter nem számolhat fel egy jól működő intézményt, bár a kormányfőnek joga van rendelkezni a közpénzekről.",
           "source": "HVG",
           "link": "https://hvg.hu/gazdasag/20260705_mcc-brussels-frank-furedi-rendezveny-forrashiany-kekva",
           "scope": "belfold"
         },
         {
-          "text": "Vitézy Dávid közlekedési miniszter szerint Lázár János aláásta a vasútfejlesztés lehetőségét beszerzések leállításával.",
+          "text": "Magyarországon a legöregebbek a vasúti járművek egész Európában, Vitézy Dávid szerint Lázár János miniszter ásta alá a vasútfejlesztés lehetőségét a beszerzések leállításával.",
           "source": "HVG",
           "link": "https://hvg.hu/gazdasag/20260705_vasuti-jarmuvek-atlageletkor-vitezy-david-mav-magyarorszag",
           "scope": "belfold"
         },
         {
-          "text": "Donald Trump elnök és az amerikai kormány támadja a tudományos intézményeket.",
-          "source": "24.hu",
-          "link": "https://24.hu/tudomany/2026/07/05/ertelmiseg-populizmus-cenzura-tortenelem-history/",
+          "text": "Texasban Donald Trump is csatlakozott egy megalomán projekthez, ahol Elon Musk már felépített egy teljes várost az űrprojektjéhez.",
+          "source": "Telex",
+          "link": "https://telex.hu/gazdasag/2026/07/05/elon-musk-spacex-texas-uripar-trump",
           "scope": "kulfold"
         },
         {
-          "text": "Bukarestben Donald Trumpról elnevezett tematikus Amerika-parkot építenek.",
-          "source": "Telex",
-          "link": "https://telex.hu/transtelex/2026/07/05/donald-trumprol-elnevezett-tematikus-amerika-parkot-epitenek-bukarestbe",
+          "text": "Donald Trump elnök és az amerikai kormány tudományos intézmények elleni támadása a szakértőkkel szembeni bizalmatlanság egyik mai példája.",
+          "source": "24.hu",
+          "link": "https://24.hu/tudomany/2026/07/05/ertelmiseg-populizmus-cenzura-tortenelem-history/",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-07-05T12:16:57.775Z",
+      "updatedAt": "2026-07-05T12:18:32.719Z",
       "sourceLinks": [
         {
           "name": "Telex",
@@ -72,18 +72,34 @@
           "scope": "kulfold"
         },
         {
-          "text": "Marokkó 3-0-ra legyőzte Kanadát, és ezzel a negyeddöntőbe jutott a labdarúgó-világbajnokságon.",
+          "text": "A magyar férfi vízilabda-válogatott fölényesen, 17-13-ra legyőzte az olimpiai és Európa-bajnok szerb csapatot szombaton, az OTP Kupa második fordulójában, a Hajós Alfréd Nemzeti Sportuszodában.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/04/megkezdodtek-a-nyolcaddontok-a-foci-vb-n-marokko-jutott-eloszor-a-legjobb-8-koze",
+          "link": "https://infostart.hu/sport/2026/07/04/siman-legyozte-a-szerbeket-a-magyar-polovalogatott",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Joe Hart a franciák tizenegyese előtt történtekről: „Gusztustalan, amit Paraguay művelt!”Thomas Hitzlsperger szerint Mbappéék örülhetnek, hogy sérülés nélkül megúszták a dél-amerikaiak ámokfutását..",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/foci-vb-2026/2026/07/joe-hart-gusztustalan-amit-paraguay-muvelt",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Ibrahimovic: Én négy piros lapot kaptam volna Paraguay ellen!A 2023-ban visszavonult svéd klasszis a francia válogatott nyugalmát dicsérte a nyolcaddöntő után..",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/foci-vb-2026/2026/07/ibrahimovic-en-negy-piros-lapot-kaptam-volna",
           "scope": "kulfold"
         }
       ],
       "engine": "extractive",
-      "updatedAt": "2026-07-05T12:16:57.879Z",
+      "updatedAt": "2026-07-05T12:18:32.820Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
           "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/05/a-paraguayiak-dicserik-a-sajat-csapatukat-es-biraljak-a-nagykepu-es-arrogans-mbappet"
+        },
+        {
+          "name": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/nso-hirek"
         }
       ],
       "skipped": []
@@ -91,9 +107,9 @@
     "technologia": {
       "items": [
         {
-          "text": "Kína humanoid robotjainak valósága messze elmarad a látványtól.",
+          "text": "ENSZ-jelentés: A mesterséges intelligencia tovább mélyítheti a globális egyenlőtlenségeket.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166013/kina-humanoid-robotjainak-valosaga-messze-elmarad-a-latvanytol",
+          "link": "https://sg.hu/cikkek/it-tech/166010/ensz-jelentes-a-mesterseges-intelligencia-tovabb-melyitheti-a-globalis-egyenlotl",
           "scope": "kulfold"
         },
         {
@@ -101,14 +117,30 @@
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/166012/a-samsung-es-az-sk-hynix-dolgozoi-lettek-del-korea-legkeresettebb-hazassagi-part",
           "scope": "kulfold"
+        },
+        {
+          "text": "Javult Európa levegőminősége: folyamatosan csökken a főbb légszennyező anyagok kibocsátása az évtizedek óta tartó környezetvédelmi politikáknak, a technológiai fejlődésnek, valamint a tisztább ipari és közlekedési rendszereknek köszönhetően - állapította meg a Copernicus Légkör-megfigyelő Szolgálat (CAMS) a tavalyi európai levegőminőségről szóló éves értékelő jelentésében.",
+          "source": "Infostart Tudomány",
+          "link": "https://infostart.hu/tudomany/2026/07/05/bejelentest-tettek-europa-levegojerol-ez-mindenkit-meglepett",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Míg az európai egyetemek – köztük számos magyar intézmény – elszigetelt kísérletekkel keresik a mesterséges intelligencia (MI) helyét az oktatásban, a sanghaji Fudan Egyetem már egy működőképes, egységes rendszerbe integrálta a technológiát.",
+          "source": "Infostart Tudomány",
+          "link": "https://infostart.hu/tudomany/2026/07/05/a-vedekezo-szakasz-lezarult-sanghajbol-mutatnak-mi-iranyt-az-europai-oktatasnak",
+          "scope": "kulfold"
         }
       ],
       "engine": "extractive",
-      "updatedAt": "2026-07-05T12:16:57.991Z",
+      "updatedAt": "2026-07-05T12:18:32.916Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
           "link": "https://sg.hu/cikkek/jatek/166016/teljesen-uj-iranyt-vehet-a-playstation-6-a-rekordmagas-hardverarak-miatt"
+        },
+        {
+          "name": "Infostart Tudomány",
+          "link": "https://infostart.hu/tudomany/2026/07/05/bejelentest-tettek-europa-levegojerol-ez-mindenkit-meglepett"
         }
       ],
       "skipped": []
@@ -116,9 +148,9 @@
     "gazdasag": {
       "items": [
         {
-          "text": "Orosz források a védelmi minisztériumra hivatkozva arról írnak, hogy Oroszország kész átadni Ukrajnának az elesett katonák holttestét Koszt",
+          "text": "A térség a Vörös-tenger déli részén, a Bab el-Mandeb-szoros közelében található, több mint 2000 kilométerre a Perzsa-öböl kijáratát jelentő Hormuzi-szorostól, ugyanakkor a globális kereskedelem szempontjából szintén ku",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20260705/orosz-nagyvarosokat-lonek-az-ukranok-varatlanul-tuzszunetet-ajanlott-moszkva-ukrajnai-haborus-hireink-vasarnap-847624",
+          "link": "https://www.portfolio.hu/global/20260705/veszjelzest-adtak-le-a-voros-tengeren-847656",
           "scope": "kulfold"
         },
         {
@@ -126,14 +158,30 @@
           "source": "Portfolio.hu",
           "link": "https://www.portfolio.hu/global/20260705/kijev-bejelentette-rekordszamu-fegyver-pusztult-el-a-fronton-hatalmas-bajban-az-orosz-utanpotlas-847654",
           "scope": "kulfold"
+        },
+        {
+          "text": "A Duna vízhőmérséklete lecsökkent annyira, hogy a Paksi atomerőmű pénteken elkezdhette visszaemelni a teljesítményét - írta Kapitány István gazdasági és energetikai miniszter Facebook-oldalán.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/07/03/ujra-felporoghet-a-paksi-atomeromu",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Július 2-án megnyílt két, összesen több mint 500 milliárd forint értékű energetikai pályázat benyújtási lehetősége – jelentette be Kapitány István gazdasági és energiaügyi miniszter a közösségi oldalán.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/07/03/hatalmas-osszeg-megujulo-energiara-bejelentest-tett-kapitany-istvan",
+          "scope": "kulfold"
         }
       ],
       "engine": "extractive",
-      "updatedAt": "2026-07-05T12:16:58.119Z",
+      "updatedAt": "2026-07-05T12:18:33.021Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
           "link": "https://www.portfolio.hu/gazdasag/20260705/a-hoseg-vagy-a-hideg-okozza-tobb-ember-halalat-a-kutato-szerint-rossz-szamokra-hivatkozik-a-who-846734"
+        },
+        {
+          "name": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/07/05/csath-magdolna-figyelmeztetett-az-euro-onmagaban-nem-csodaszer-nincs-itt-az-ideje"
         }
       ],
       "skipped": []
@@ -145,14 +193,30 @@
           "source": "Greenfo",
           "link": "https://greenfo.hu/hirek/podcastok/zold-het/",
           "scope": "kulfold"
+        },
+        {
+          "text": "Ha volt ellenszenv Elon Musk vállalatával szemben, oldódni kezdett: a Tesla eladásai 25 százalékos növekedést mutatnak az előző év hasonló időszakához képest.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/07/03/magahoz-tert-a-tesla-egyre-jobbak-a-szamaik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Ha volt ellenszenv Elon Musk vállalatával szemben, oldódni kezdett: a Tesla eladásai 25 százalékos növekedést mutatnak az előző év hasonló időszakához képest.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/07/03/magahoz-tert-a-tesla-a-masodik-negyedevben-egyre-jobbak-a-szamaik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
         }
       ],
       "engine": "extractive",
-      "updatedAt": "2026-07-05T12:16:58.227Z",
+      "updatedAt": "2026-07-05T12:18:33.106Z",
       "sourceLinks": [
         {
           "name": "Greenfo",
           "link": "https://greenfo.hu/hirlevel-feliratkozas/"
+        },
+        {
+          "name": "Qubit",
+          "link": "https://qubit.hu/2026/07/05/gaspar-most-ballagott-el-az-altalanosbol-de-mar-kutatokent-utazik-egy-rangos-san-francisco-i-ai-konferenciara?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": []
@@ -170,14 +234,30 @@
           "source": "VG.hu",
           "link": "https://www.vg.hu/penz-es-tokepiac/2026/07/otp-reszveny-arfolyam-csucs-csanyi-hongkong-forbes",
           "scope": "kulfold"
+        },
+        {
+          "text": "Magyar Péter bemondta: ennyi közpénzt kaphatott Áder János alapítványa a választások előtt.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/kozelet/magyar-peter-bemondta-ennyi-kozpenzt-kaphatott-ader-janos-alapitvanya-a-valasztasok-elott.html?utm_source=rss&utm_medium=referral",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Berobbantak a multik Magyarországon, zsinóron rángatják a magyar ipart.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/makro/berobbantak-a-multik-magyarorszagon-zsinoron-rangatjak-a-magyar-ipart.html?utm_source=rss&utm_medium=referral",
+          "scope": "kulfold"
         }
       ],
       "engine": "extractive",
-      "updatedAt": "2026-07-05T12:16:58.322Z",
+      "updatedAt": "2026-07-05T12:18:33.197Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
           "link": "https://www.vg.hu/reszvenyek"
+        },
+        {
+          "name": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/makro/foci-vb-rettegnek-az-angolok--nem-csak-a-palyan-tamadnak-a-mexikoiak.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
