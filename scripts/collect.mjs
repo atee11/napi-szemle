@@ -119,41 +119,67 @@ async function collectSourceArticles(source, browser) {
 }
 
 /* ============ Összegzés: Gemini elsődleges, kivonatolás a tartalék ============ */
+/* Mindkét módszer nem egy összemosott bekezdést ad vissza, hanem külön-külön
+   rövid állításokat, mindegyiket a forrásához kötve — ez oldja meg, hogy ne
+   keveredjen ömlesztve a bel- és külföld, és hogy a UI forrásonként tudjon
+   címkézni. */
 
-function extractiveSummarize(articles, maxSentences = 5) {
-  const fullText = articles.map((a) => `${a.title}. ${a.desc}`).join(' ');
-  const sentences = fullText
-    .split(/(?<=[.!?])\s+/)
-    .map((s) => s.trim())
-    .filter((s) => s.split(/\s+/).length >= 5);
+function extractiveItems(articles, maxItems = 6) {
+  const bySentence = [];
+  articles.forEach((a) => {
+    const text = `${a.title}. ${a.desc}`;
+    const sentences = text.split(/(?<=[.!?])\s+/).map((s) => s.trim()).filter((s) => s.split(/\s+/).length >= 5);
+    sentences.forEach((s) => bySentence.push({ s, source: a.source }));
+  });
 
   const freq = {};
-  sentences.forEach((s) => {
+  bySentence.forEach(({ s }) => {
     s.toLowerCase().replace(/[^a-záéíóöőúüű0-9\s]/gi, '').split(/\s+/).forEach((w) => {
       if (w.length < 3 || HU_STOPWORDS.has(w)) return;
       freq[w] = (freq[w] || 0) + 1;
     });
   });
 
-  const scored = sentences.map((s, idx) => {
-    const words = s.toLowerCase().replace(/[^a-záéíóöőúüű0-9\s]/gi, '').split(/\s+/);
+  const scored = bySentence.map((item, idx) => {
+    const words = item.s.toLowerCase().replace(/[^a-záéíóöőúüű0-9\s]/gi, '').split(/\s+/);
     const score = words.reduce((sum, w) => sum + (freq[w] || 0), 0) / Math.sqrt(words.length + 1);
-    return { s, idx, score };
+    return { ...item, idx, score };
   });
 
   scored.sort((a, b) => b.score - a.score);
-  const picked = scored.slice(0, maxSentences).sort((a, b) => a.idx - b.idx);
-  if (!picked.length) return 'Nem sikerült elegendő szöveget kinyerni az összegzéshez.';
-  return picked.map((p) => p.s).join(' ');
+
+  // Forrásonként max 2 mondat, hogy ne egyetlen portál uralja az összefoglalót.
+  const perSourceCount = {};
+  const picked = [];
+  for (const item of scored) {
+    const count = perSourceCount[item.source] || 0;
+    if (count >= 2) continue;
+    picked.push(item);
+    perSourceCount[item.source] = count + 1;
+    if (picked.length >= maxItems) break;
+  }
+  picked.sort((a, b) => a.idx - b.idx);
+
+  if (!picked.length) return [{ text: 'Nem sikerült elegendő szöveget kinyerni az összegzéshez.', source: null }];
+  return picked.map((p) => ({ text: p.s, source: p.source }));
 }
 
-async function summarizeWithGemini(categoryName, articles) {
+async function summarizeWithGemini(categoryName, articles, sourceNames) {
   if (!GEMINI_API_KEY) throw new Error('Nincs beállítva GEMINI_API_KEY.');
   const url = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(GEMINI_MODEL)}:generateContent?key=${encodeURIComponent(GEMINI_API_KEY)}`;
   const list = articles.map((a) => `- [${a.source}] ${a.title}: ${a.desc}`).join('\n');
-  const prompt = `Az alábbi friss cikkek alapján írj egy 5-6 mondatos, tényszerű, semleges hangvételű magyar nyelvű összefoglalót "${categoryName}" témakörben. ` +
-    `Szintetizáld a lényeget, ne forrásonként sorold fel a híreket. Ha a cikkek ellentmondanak egymásnak, jelezd ezt röviden. ` +
-    `Ne használj felsorolásjeleket, folyó szöveget írj.\n\nCikkek:\n${list}`;
+  const prompt = `Az alábbi friss cikkek alapján készíts egy 4-6 elemű, magyar nyelvű, tényszerű, semleges hangvételű hírösszefoglalót "${categoryName}" témakörben.
+
+FONTOS FORMAI KÖVETELMÉNY: a válaszod KIZÁRÓLAG egy JSON tömb legyen, más szöveg, magyarázat vagy kódblokk-jelölés nélkül. Minden tömbelem egy objektum két mezővel:
+- "text": egy önálló, tömör, 1 mondatos állítás (ne mosd össze több hír tartalmát egy mondatban)
+- "source": pontosan az egyik forrásnév a következők közül: ${sourceNames.join(', ')}
+
+Ha egy témában több forrás is ír, azt külön-külön elemként add vissza, ne egyetlen összevont mondatban. Törekedj rá, hogy a belföldi és külföldi vonatkozású hírek külön elemek legyenek, ne keveredjenek egy mondatba.
+
+Cikkek:
+${list}
+
+Válasz (csak JSON tömb):`;
 
   const res = await fetch(url, {
     method: 'POST',
@@ -162,18 +188,36 @@ async function summarizeWithGemini(categoryName, articles) {
   });
   if (!res.ok) throw new Error(`Gemini API hiba (${res.status}): ${(await res.text()).slice(0, 200)}`);
   const data = await res.json();
-  const text = data?.candidates?.[0]?.content?.parts?.map((p) => p.text).join(' ').trim();
-  if (!text) throw new Error('A Gemini nem adott vissza szöveget.');
-  return text;
+  const raw = data?.candidates?.[0]?.content?.parts?.map((p) => p.text).join(' ').trim();
+  if (!raw) throw new Error('A Gemini nem adott vissza szöveget.');
+
+  const cleaned = raw.replace(/^```json\s*/i, '').replace(/^```\s*/, '').replace(/```\s*$/, '').trim();
+  let parsed;
+  try {
+    parsed = JSON.parse(cleaned);
+  } catch {
+    throw new Error('A Gemini válasza nem volt érvényes JSON.');
+  }
+  if (!Array.isArray(parsed) || !parsed.length) throw new Error('A Gemini üres vagy hibás listát adott vissza.');
+
+  const items = parsed
+    .filter((it) => it && typeof it.text === 'string' && it.text.trim())
+    .map((it) => ({
+      text: it.text.trim(),
+      source: sourceNames.includes(it.source) ? it.source : null,
+    }));
+  if (!items.length) throw new Error('A Gemini válaszában nem volt használható elem.');
+  return items;
 }
 
 async function summarizeCategory(categoryName, articles) {
+  const sourceNames = [...new Set(articles.map((a) => a.source))];
   try {
-    const text = await summarizeWithGemini(categoryName, articles);
-    return { text, engine: 'gemini' };
+    const items = await summarizeWithGemini(categoryName, articles, sourceNames);
+    return { items, engine: 'gemini' };
   } catch (err) {
     log(`Gemini összegzés sikertelen (${categoryName}): ${err.message} — kivonatolásra váltok`);
-    return { text: extractiveSummarize(articles), engine: 'extractive' };
+    return { items: extractiveItems(articles), engine: 'extractive' };
   }
 }
 
@@ -243,16 +287,23 @@ async function main() {
       continue;
     }
 
-    const { text, engine } = await summarizeCategory(cat.name, articles);
+    const { items, engine } = await summarizeCategory(cat.name, articles);
     const seenSrc = new Set();
     const sourceLinks = [];
+    const linkBySource = {};
     for (const a of articles) {
+      if (!linkBySource[a.source]) linkBySource[a.source] = a.link;
       if (seenSrc.has(a.source)) continue;
       seenSrc.add(a.source);
       sourceLinks.push({ name: a.source, link: a.link });
     }
+    const itemsWithLinks = items.map((it) => ({
+      text: it.text,
+      source: it.source,
+      link: it.source ? linkBySource[it.source] || null : null,
+    }));
     catResults[cat.id] = {
-      text,
+      items: itemsWithLinks,
       engine,
       updatedAt: new Date().toISOString(),
       sourceLinks,
