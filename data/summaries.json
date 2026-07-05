@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T06:15:23.468Z",
+  "generatedAt": "2026-07-05T06:19:06.895Z",
   "fx": {
     "rate": 353.86,
     "date": "2026-07-04T12:37:48.000Z",
@@ -9,24 +9,24 @@
     "politika": {
       "items": [
         {
-          "text": "Donald Trump amerikai elnök az ország 250. évfordulóját ünneplő július 4-ei beszédében Amerika aranykorának hajnalát hirdette.",
+          "text": "Donald Trump amerikai elnök július 4-i ünnepi beszédében „lúzer kommunistákkal” riogatott.",
+          "source": "24.hu",
+          "link": "https://24.hu/kulfold/2026/07/05/donald-trump-julius-4-beszed-kommunistak/"
+        },
+        {
+          "text": "Egy riport szerint sok ukrán katonában eltűnt a motiváció, hogy tevőlegesen tegyenek Ukrajnáért, ami a hadseregből való dezertálásokhoz vezet.",
           "source": "Telex",
           "link": "https://telex.hu/kulfold/2026/07/05/usa-donald-trump-julius-4-i-beszed"
         },
         {
-          "text": "Magyar Péter szerint az Alaptörvényért aggódó Gulyás Gergely Szájer Józseffel együtt „viccet csinált az alkotmányozásból”.",
+          "text": "Magyar Péter szerint az a Gulyás Gergely aggódik az Alaptörvényért, aki Szájer Józseffel „viccet csinált az alkotmányozásból”.",
           "source": "24.hu",
-          "link": "https://24.hu/kulfold/2026/07/05/leo-papa-kiatkozas-szent-x-piusz-vita-24extra/"
+          "link": "https://24.hu/kulfold/2026/07/05/donald-trump-julius-4-beszed-kommunistak/"
         },
         {
-          "text": "A lengyel-ukrán kapcsolatokban egyre durvul a „történelmi” vita százezer ember meggyilkolása miatt, ami lassan Ukrajna EU-csatlakozását is veszélyezteti.",
+          "text": "A lengyel-ukrán kapcsolatokat máig kísérti a százezer ember bestiális meggyilkolása, ami egyre durvább történelmi vitához vezet Varsó és Kijev között.",
           "source": "24.hu",
-          "link": "https://24.hu/kulfold/2026/07/05/leo-papa-kiatkozas-szent-x-piusz-vita-24extra/"
-        },
-        {
-          "text": "A „Magyar madarai” nevű ukrán drónegység brit hírszerzési adatok alapján dolgozva hajtott végre dróntámadásokat Moszkvánál.",
-          "source": "HVG",
-          "link": "https://hvg.hu/tudomany/20260705_uj-szuperszamitogep-flyer-us-air-force-afrl"
+          "link": "https://24.hu/kulfold/2026/07/05/donald-trump-julius-4-beszed-kommunistak/"
         },
         {
           "text": "Megszűnt a szuverenitásvédelminek nevezett hivatal.",
@@ -34,13 +34,13 @@
           "link": "https://hvg.hu/tudomany/20260705_uj-szuperszamitogep-flyer-us-air-force-afrl"
         },
         {
-          "text": "Orbán Viktor volt kormányfő agressziót, fenyegetőzést és megfélemlítést emlegetett a szombati eseményekről.",
+          "text": "Egy ukrán drónegység brit hírszerzési adatok alapján hajtott végre dróntámadásokat Moszkvánál, ezzel a háborút Putyin küszöbéig eljuttatva.",
           "source": "HVG",
           "link": "https://hvg.hu/tudomany/20260705_uj-szuperszamitogep-flyer-us-air-force-afrl"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-07-05T06:14:28.887Z",
+      "updatedAt": "2026-07-05T06:19:06.365Z",
       "sourceLinks": [
         {
           "name": "Telex",
@@ -48,7 +48,7 @@
         },
         {
           "name": "24.hu",
-          "link": "https://24.hu/kulfold/2026/07/05/leo-papa-kiatkozas-szent-x-piusz-vita-24extra/"
+          "link": "https://24.hu/kulfold/2026/07/05/donald-trump-julius-4-beszed-kommunistak/"
         },
         {
           "name": "HVG",
@@ -60,38 +60,18 @@
     "sport": {
       "items": [
         {
-          "text": "Franciaország 1-0-ra legyőzte Paraguayt a labdarúgó-vb nyolcaddöntőjében, ezzel a legjobb nyolc közé jutott.",
+          "text": "Mbappé ezzel utolérte Messit és hétgólos, a franciák a Kanadát 3-0-ra legyőző Marokkóval játszanak a négy közé jutásért.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/05/a-franciak-nagy-nehezen-lebirkoztak-paraguayt-es-a-legjobb-8-koze-jutottak-a-foci-vb-n"
         },
         {
-          "text": "A magyar férfi vízilabda-válogatott 17-13-ra legyőzte Szerbiát az OTP Kupa második fordulójában.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/05/a-franciak-nagy-nehezen-lebirkoztak-paraguayt-es-a-legjobb-8-koze-jutottak-a-foci-vb-n"
-        },
-        {
-          "text": "A magyar női párbajtőrvívó-válogatott ezüstérmes lett a franciaországi Európa-bajnokságon.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/05/a-franciak-nagy-nehezen-lebirkoztak-paraguayt-es-a-legjobb-8-koze-jutottak-a-foci-vb-n"
-        },
-        {
-          "text": "Muhari Eszter egyéniben harmadik helyen végzett a párbajtőrvívó Európa-bajnokságon.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/05/a-franciak-nagy-nehezen-lebirkoztak-paraguayt-es-a-legjobb-8-koze-jutottak-a-foci-vb-n"
-        },
-        {
-          "text": "Marokkó 3-0-ra legyőzte Kanadát, és ezzel a negyeddöntőbe jutott a labdarúgó-világbajnokságon.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/05/a-franciak-nagy-nehezen-lebirkoztak-paraguayt-es-a-legjobb-8-koze-jutottak-a-foci-vb-n"
-        },
-        {
-          "text": "A második kiemelt Jelena Ribakina és a címvédő Iga Swiatek is kiesett a wimbledoni tenisztornán.",
+          "text": "A magyar férfi vízilabda-válogatott fölényesen, 17-13-ra legyőzte az olimpiai és Európa-bajnok szerb csapatot szombaton, az OTP Kupa második fordulójában, a Hajós Alfréd Nemzeti Sportuszodában.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/05/a-franciak-nagy-nehezen-lebirkoztak-paraguayt-es-a-legjobb-8-koze-jutottak-a-foci-vb-n"
         }
       ],
-      "engine": "gemini",
-      "updatedAt": "2026-07-05T06:14:35.381Z",
+      "engine": "extractive",
+      "updatedAt": "2026-07-05T06:19:06.510Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
@@ -103,28 +83,18 @@
     "technologia": {
       "items": [
         {
-          "text": "Kína humanoid robotjainak valósága messze elmarad a látványtól.",
+          "text": "A Samsung és az SK Hynix dolgozói lettek Dél Korea legkeresettebb házassági partnerei.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/166013/kina-humanoid-robotjainak-valosaga-messze-elmarad-a-latvanytol"
         },
         {
-          "text": "Egy ENSZ-jelentés szerint a mesterséges intelligencia tovább mélyítheti a globális egyenlőtlenségeket.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166013/kina-humanoid-robotjainak-valosaga-messze-elmarad-a-latvanytol"
-        },
-        {
-          "text": "A Samsung és az SK Hynix dolgozói váltak Dél-Korea legkeresettebb házassági partnereivé.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166013/kina-humanoid-robotjainak-valosaga-messze-elmarad-a-latvanytol"
-        },
-        {
-          "text": "Először hajtott végre zsarolóvírus támadást egy önállóan működő mesterséges intelligencia ügynök.",
+          "text": "Először hajtott végre zsarolóvírus támadást egy önállóan működő MI-ügynök.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/166013/kina-humanoid-robotjainak-valosaga-messze-elmarad-a-latvanytol"
         }
       ],
-      "engine": "gemini",
-      "updatedAt": "2026-07-05T06:14:45.735Z",
+      "engine": "extractive",
+      "updatedAt": "2026-07-05T06:19:06.593Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
@@ -136,37 +106,22 @@
     "gazdasag": {
       "items": [
         {
-          "text": "Az ukrán dróntámadás egy jelentős orosz olajexportot bonyolító balti-tengeri kikötőt is érintett.",
+          "text": "Magyar Péter miniszterelnök szombaton bejelentette, hogy a Tisza-kormány nevében be",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20260705/orosz-nagyvarosokat-lonek-az-ukranok-varatlanul-tuzszunetet-ajanlott-moszkva-ukrajnai-haborus-hireink-vasarnap-847624"
+          "link": "https://www.portfolio.hu/gazdasag/20260705/tisza-kormany-1000-milliard-feletti-osszeg-ment-az-autopalya-koncessziokra-12-pontban-modosul-az-alaptorveny-847626"
         },
         {
-          "text": "A magyar háztartások a magas infláció ellenére is nagy mennyiségű készpénzt halmoztak fel otthonaikban.",
+          "text": "Orosz nagyvárosokat lőnek az ukránok, váratlanul tűzszünetet ajánlott Moszkva – Ukrajnai háborús híreink vasárnap.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20260705/orosz-nagyvarosokat-lonek-az-ukranok-varatlanul-tuzszunetet-ajanlott-moszkva-ukrajnai-haborus-hireink-vasarnap-847624"
-        },
-        {
-          "text": "A Magyar Nemzeti Bank kutatásai szerint a lakosság a készpénzt elsősorban biztonsági tartalékként kezeli.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20260705/orosz-nagyvarosokat-lonek-az-ukranok-varatlanul-tuzszunetet-ajanlott-moszkva-ukrajnai-haborus-hireink-vasarnap-847624"
-        },
-        {
-          "text": "A kormány energiatörvény-tervezete a dinamikus tarifák bevezetésével és bürokráciacsökkentéssel reformálná meg a hazai árampiacot.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20260705/orosz-nagyvarosokat-lonek-az-ukranok-varatlanul-tuzszunetet-ajanlott-moszkva-ukrajnai-haborus-hireink-vasarnap-847624"
-        },
-        {
-          "text": "Finnország átmenetileg korlátozta a légi és tengeri forgalmat a Finn-öböl keleti térségében az ukrán dróntámadások miatt.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20260705/orosz-nagyvarosokat-lonek-az-ukranok-varatlanul-tuzszunetet-ajanlott-moszkva-ukrajnai-haborus-hireink-vasarnap-847624"
+          "link": "https://www.portfolio.hu/gazdasag/20260705/tisza-kormany-1000-milliard-feletti-osszeg-ment-az-autopalya-koncessziokra-12-pontban-modosul-az-alaptorveny-847626"
         }
       ],
-      "engine": "gemini",
-      "updatedAt": "2026-07-05T06:14:56.248Z",
+      "engine": "extractive",
+      "updatedAt": "2026-07-05T06:19:06.667Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20260705/orosz-nagyvarosokat-lonek-az-ukranok-varatlanul-tuzszunetet-ajanlott-moszkva-ukrajnai-haborus-hireink-vasarnap-847624"
+          "link": "https://www.portfolio.hu/gazdasag/20260705/tisza-kormany-1000-milliard-feletti-osszeg-ment-az-autopalya-koncessziokra-12-pontban-modosul-az-alaptorveny-847626"
         }
       ],
       "skipped": []
@@ -174,33 +129,13 @@
     "kornyezet": {
       "items": [
         {
-          "text": "A Greenfo felületén lehetőség van hírlevelekre feliratkozni.",
-          "source": "Greenfo",
-          "link": "https://greenfo.hu/hirlevel-feliratkozas/"
-        },
-        {
-          "text": "A Greenfo Iránytű címmel podcast adást tesz közzé.",
-          "source": "Greenfo",
-          "link": "https://greenfo.hu/hirlevel-feliratkozas/"
-        },
-        {
-          "text": "A Greenfo kínálatában megtalálható a Zöld hét – Hírháttér című podcast is.",
-          "source": "Greenfo",
-          "link": "https://greenfo.hu/hirlevel-feliratkozas/"
-        },
-        {
-          "text": "A Greenfo arra kéri olvasóit, hogy támogassák a portál működését.",
-          "source": "Greenfo",
-          "link": "https://greenfo.hu/hirlevel-feliratkozas/"
-        },
-        {
-          "text": "Lehetőség van a Greenfo egyes rovatait is támogatni.",
+          "text": "Zöld hét – Hírháttér podcast.",
           "source": "Greenfo",
           "link": "https://greenfo.hu/hirlevel-feliratkozas/"
         }
       ],
-      "engine": "gemini",
-      "updatedAt": "2026-07-05T06:15:11.513Z",
+      "engine": "extractive",
+      "updatedAt": "2026-07-05T06:19:06.738Z",
       "sourceLinks": [
         {
           "name": "Greenfo",
@@ -212,23 +147,18 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Egyes országok uralják a világ legnagyobb ásványkincs-készleteit, ami befolyásolhatja a jövőbeni geopolitikai konfliktusokat.",
+          "text": "Ásványkincsek: ezek az országok uralják a világ legnagyobb készleteit – rajtuk múlik, hogy lesz-e háború a jövőben.",
           "source": "VG.hu",
           "link": "https://www.vg.hu/reszvenyek"
         },
         {
-          "text": "A Sony jelentős változásokat hoz a több milliárd dolláros videójáték-iparban.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/reszvenyek"
-        },
-        {
-          "text": "A világbajnokság jelentős veszteséget okozott a legnagyobb bukmékereknek, rekordfogadások és -kifizetések ellenére.",
+          "text": "Rekordfogadások, rekordkifizetések: pénzeső helyett drága mulatság lett a vb a világ legnagyobb bukmékereinek.",
           "source": "VG.hu",
           "link": "https://www.vg.hu/reszvenyek"
         }
       ],
-      "engine": "gemini",
-      "updatedAt": "2026-07-05T06:15:23.411Z",
+      "engine": "extractive",
+      "updatedAt": "2026-07-05T06:19:06.824Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
