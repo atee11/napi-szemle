@@ -124,12 +124,26 @@ async function collectSourceArticles(source, browser) {
    keveredjen ömlesztve a bel- és külföld, és hogy a UI forrásonként tudjon
    címkézni. */
 
+const FOREIGN_HINTS = new Set(('amerika amerikai usa egyesült államok európai unió eu brüsszel ukrajna orosz oroszország ' +
+  'putyin kína kínai kijev moszkva berlin párizs london washington nato náto németország francia franciaország ' +
+  'olasz olaszország spanyol spanyolország lengyel lengyelország szlovák szlovákia ausztria osztrák román románia ' +
+  'szerb szerbia horvát horvátország ukrán izrael gáza palesztin iráni irán trump biden zelenszkij eb-vb ' +
+  'világbajnokság európa-bajnokság bundesliga premier league la liga serie a bajnokok ligája fifa uefa').split(/\s+/));
+
+function guessScope(text) {
+  const lower = text.toLowerCase();
+  for (const hint of FOREIGN_HINTS) {
+    if (lower.includes(hint)) return 'kulfold';
+  }
+  return 'belfold';
+}
+
 function extractiveItems(articles, maxItems = 6) {
   const bySentence = [];
-  articles.forEach((a) => {
+  articles.forEach((a, articleIndex) => {
     const text = `${a.title}. ${a.desc}`;
     const sentences = text.split(/(?<=[.!?])\s+/).map((s) => s.trim()).filter((s) => s.split(/\s+/).length >= 5);
-    sentences.forEach((s) => bySentence.push({ s, source: a.source }));
+    sentences.forEach((s) => bySentence.push({ s, source: a.source, articleIndex }));
   });
 
   const freq = {};
@@ -160,26 +174,27 @@ function extractiveItems(articles, maxItems = 6) {
   }
   picked.sort((a, b) => a.idx - b.idx);
 
-  if (!picked.length) return [{ text: 'Nem sikerült elegendő szöveget kinyerni az összegzéshez.', source: null }];
-  return picked.map((p) => ({ text: p.s, source: p.source }));
+  if (!picked.length) return [{ text: 'Nem sikerült elegendő szöveget kinyerni az összegzéshez.', articleIndex: null, scope: 'belfold' }];
+  return picked.map((p) => ({ text: p.s, articleIndex: p.articleIndex, scope: guessScope(p.s) }));
 }
 
-async function summarizeWithGemini(categoryName, articles, sourceNames) {
+async function summarizeWithGemini(categoryName, articles) {
   if (!GEMINI_API_KEY) throw new Error('Nincs beállítva GEMINI_API_KEY.');
   const url = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(GEMINI_MODEL)}:generateContent?key=${encodeURIComponent(GEMINI_API_KEY)}`;
-  const list = articles.map((a) => `- [${a.source}] ${a.title}: ${a.desc}`).join('\n');
-  const prompt = `Az alábbi friss cikkek alapján készíts egy 4-6 elemű, magyar nyelvű, tényszerű, semleges hangvételű hírösszefoglalót "${categoryName}" témakörben.
+  const list = articles.map((a, i) => `[${i}] (${a.source}) ${a.title}: ${a.desc}`).join('\n');
+  const prompt = `Az alábbi, sorszámozott friss cikkek alapján készíts egy 4-6 elemű, magyar nyelvű, tényszerű, semleges hangvételű hírösszefoglalót "${categoryName}" témakörben.
 
-FONTOS FORMAI KÖVETELMÉNY: a válaszod KIZÁRÓLAG egy JSON tömb legyen, más szöveg, magyarázat vagy kódblokk-jelölés nélkül. Minden tömbelem egy objektum két mezővel:
-- "text": egy önálló, tömör, 1 mondatos állítás (ne mosd össze több hír tartalmát egy mondatban)
-- "source": pontosan az egyik forrásnév a következők közül: ${sourceNames.join(', ')}
+FONTOS FORMAI KÖVETELMÉNY: a válaszod KIZÁRÓLAG egy JSON tömb legyen, más szöveg, magyarázat vagy kódblokk-jelölés nélkül. Minden tömbelem egy objektum három mezővel:
+- "text": egy önálló, tömör, 1 mondatos állítás (ne mosd össze több cikk tartalmát egy mondatban)
+- "articleIndex": EGÉSZ SZÁM — pontosan annak a cikknek a szögletes zárójelben lévő sorszáma, amelyen ez az állítás alapul (kizárólag egy szám, ne szöveg)
+- "scope": "belfold" ha a hír elsősorban Magyarországról/magyar szereplőkről szól, vagy "kulfold" ha elsősorban külföldi (nemzetközi) vonatkozású
 
-Ha egy témában több forrás is ír, azt külön-külön elemként add vissza, ne egyetlen összevont mondatban. Törekedj rá, hogy a belföldi és külföldi vonatkozású hírek külön elemek legyenek, ne keveredjenek egy mondatba.
+Ha egy témában több cikk is ír, azt külön-külön tömbelemként add vissza, a megfelelő articleIndex-szel és scope-pal, ne egyetlen összevont mondatban. A belföldi és külföldi vonatkozású hírek mindig külön tömbelemek legyenek, ne keveredjenek egy mondatba.
 
 Cikkek:
 ${list}
 
-Válasz (csak JSON tömb):`;
+Válasz (csak JSON tömb, minden elemben valós articleIndex és scope mezővel):`;
 
   const res = await fetch(url, {
     method: 'POST',
@@ -202,18 +217,19 @@ Válasz (csak JSON tömb):`;
 
   const items = parsed
     .filter((it) => it && typeof it.text === 'string' && it.text.trim())
-    .map((it) => ({
-      text: it.text.trim(),
-      source: sourceNames.includes(it.source) ? it.source : null,
-    }));
+    .map((it) => {
+      const idx = Number(it.articleIndex);
+      const valid = Number.isInteger(idx) && idx >= 0 && idx < articles.length;
+      const scope = it.scope === 'kulfold' ? 'kulfold' : 'belfold';
+      return { text: it.text.trim(), articleIndex: valid ? idx : null, scope };
+    });
   if (!items.length) throw new Error('A Gemini válaszában nem volt használható elem.');
   return items;
 }
 
 async function summarizeCategory(categoryName, articles) {
-  const sourceNames = [...new Set(articles.map((a) => a.source))];
   try {
-    const items = await summarizeWithGemini(categoryName, articles, sourceNames);
+    const items = await summarizeWithGemini(categoryName, articles);
     return { items, engine: 'gemini' };
   } catch (err) {
     log(`Gemini összegzés sikertelen (${categoryName}): ${err.message} — kivonatolásra váltok`);
@@ -290,18 +306,18 @@ async function main() {
     const { items, engine } = await summarizeCategory(cat.name, articles);
     const seenSrc = new Set();
     const sourceLinks = [];
-    const linkBySource = {};
     for (const a of articles) {
-      if (!linkBySource[a.source]) linkBySource[a.source] = a.link;
       if (seenSrc.has(a.source)) continue;
       seenSrc.add(a.source);
       sourceLinks.push({ name: a.source, link: a.link });
     }
-    const itemsWithLinks = items.map((it) => ({
-      text: it.text,
-      source: it.source,
-      link: it.source ? linkBySource[it.source] || null : null,
-    }));
+    // Az articleIndex alapján, a mi saját cikklistánkból (nem a modell szöveges
+    // állításából) nézzük ki a pontos forrást és linket — így garantáltan nem
+    // mutathat rossz cikkre a forráscímke.
+    const itemsWithLinks = items.map((it) => {
+      const art = it.articleIndex != null ? articles[it.articleIndex] : null;
+      return { text: it.text, source: art ? art.source : null, link: art ? art.link : null, scope: it.scope || 'belfold' };
+    });
     catResults[cat.id] = {
       items: itemsWithLinks,
       engine,
