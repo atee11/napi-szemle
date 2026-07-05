@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T12:18:33.256Z",
+  "generatedAt": "2026-07-05T12:31:34.085Z",
   "fx": {
     "rate": 353.86,
     "date": "2026-07-04T12:37:48.000Z",
@@ -9,44 +9,32 @@
     "politika": {
       "items": [
         {
-          "text": "A Fidesz kommunikációs igazgatója kemény kritikát fogalmazott meg a választási vereség miatti sokkban lévő fideszeseknek.",
+          "text": "A Fidesz kommunikációs igazgatója kritikát fogalmazott meg a választási vereség miatti sokkban lévő fideszeseknek.",
           "source": "Telex",
           "link": "https://telex.hu/belfold/2026/07/05/havasi-bertalan-der-stefi-hir-tv-piacrol-megelni-nehez",
           "scope": "belfold"
         },
         {
-          "text": "Török Gábor politológus sorvezetőt készített az Alaptörvény-módosítás értelmezéséhez, vizsgálva a Tisza Pártra és az önkorlátozásra vonatkozó változtatásokat.",
-          "source": "HVG",
-          "link": "https://hvg.hu/itthon/20260705_torok-gabor-alkotmanymodositas-tisza-hataskorok-onkorlatozas",
-          "scope": "belfold"
-        },
-        {
-          "text": "Az MCC Brussels vezetője szerint Magyar Péter nem számolhat fel egy jól működő intézményt, bár a kormányfőnek joga van rendelkezni a közpénzekről.",
-          "source": "HVG",
-          "link": "https://hvg.hu/gazdasag/20260705_mcc-brussels-frank-furedi-rendezveny-forrashiany-kekva",
-          "scope": "belfold"
-        },
-        {
-          "text": "Magyarországon a legöregebbek a vasúti járművek egész Európában, Vitézy Dávid szerint Lázár János miniszter ásta alá a vasútfejlesztés lehetőségét a beszerzések leállításával.",
-          "source": "HVG",
-          "link": "https://hvg.hu/gazdasag/20260705_vasuti-jarmuvek-atlageletkor-vitezy-david-mav-magyarorszag",
-          "scope": "belfold"
-        },
-        {
-          "text": "Texasban Donald Trump is csatlakozott egy megalomán projekthez, ahol Elon Musk már felépített egy teljes várost az űrprojektjéhez.",
+          "text": "Magyarországon közlekednek a legöregebb vonatok az EU-n belül, a járműállomány átlagéletkora 42 év.",
           "source": "Telex",
-          "link": "https://telex.hu/gazdasag/2026/07/05/elon-musk-spacex-texas-uripar-trump",
-          "scope": "kulfold"
+          "link": "https://telex.hu/belfold/2026/07/05/mav-vonat-atlageletkor-lemaradas-gki-vitezy-david",
+          "scope": "belfold"
         },
         {
-          "text": "Donald Trump elnök és az amerikai kormány tudományos intézmények elleni támadása a szakértőkkel szembeni bizalmatlanság egyik mai példája.",
+          "text": "Donald Trump elnök és az amerikai kormány tudományos intézmények elleni támadásokat hajtott végre.",
           "source": "24.hu",
           "link": "https://24.hu/tudomany/2026/07/05/ertelmiseg-populizmus-cenzura-tortenelem-history/",
           "scope": "kulfold"
+        },
+        {
+          "text": "Török Gábor politológus elemzést készített az Alaptörvény-módosítás lehetséges hatásairól a Tisza Pártra és az önkorlátozásokra vonatkozóan.",
+          "source": "HVG",
+          "link": "https://hvg.hu/itthon/20260705_torok-gabor-alkotmanymodositas-tisza-hataskorok-onkorlatozas",
+          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-07-05T12:18:32.719Z",
+      "updatedAt": "2026-07-05T12:30:53.642Z",
       "sourceLinks": [
         {
           "name": "Telex",
@@ -58,7 +46,7 @@
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/tudomany/20260705_canyon-predict-orszaguti-kerekpar-okos-funkciok-elorejelzes-baleset"
+          "link": "https://hvg.hu/vilag/20260705_a-garazs-mentette-meg-egy-magyar-csalad-eletet-venezuelaban"
         }
       ],
       "skipped": []
@@ -66,32 +54,44 @@
     "sport": {
       "items": [
         {
-          "text": "Mbappé ezzel utolérte Messit és hétgólos, a franciák a Kanadát 3-0-ra legyőző Marokkóval játszanak a négy közé jutásért.",
+          "text": "Franciaország 1-0-ra győzött Paraguay ellen Mbappé büntetőjével, ezzel továbbjutottak a labdarúgó-világbajnokság nyolcaddöntőjéből.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/05/a-franciak-nagy-nehezen-lebirkoztak-paraguayt-es-a-legjobb-8-koze-jutottak-a-foci-vb-n",
           "scope": "kulfold"
         },
         {
-          "text": "A magyar férfi vízilabda-válogatott fölényesen, 17-13-ra legyőzte az olimpiai és Európa-bajnok szerb csapatot szombaton, az OTP Kupa második fordulójában, a Hajós Alfréd Nemzeti Sportuszodában.",
+          "text": "Marokkó 3-0-ra legyőzte Kanadát, ezzel elsőként jutott a negyeddöntőbe a labdarúgó-világbajnokságon.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/04/megkezdodtek-a-nyolcaddontok-a-foci-vb-n-marokko-jutott-eloszor-a-legjobb-8-koze",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A paraguayi sajtó kritikusan értékelte az elveszített nyolcaddöntőt, bírálva Mbappét és Franciaországot.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/05/a-paraguayiak-dicserik-a-sajat-csapatukat-es-biraljak-a-nagykepu-es-arrogans-mbappet",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A magyar férfi vízilabda-válogatott 17-13-ra legyőzte az olimpiai és Európa-bajnok szerb csapatot az OTP Kupa második fordulójában.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/2026/07/04/siman-legyozte-a-szerbeket-a-magyar-polovalogatott",
-          "scope": "kulfold"
+          "scope": "belfold"
         },
         {
-          "text": "Joe Hart a franciák tizenegyese előtt történtekről: „Gusztustalan, amit Paraguay művelt!”Thomas Hitzlsperger szerint Mbappéék örülhetnek, hogy sérülés nélkül megúszták a dél-amerikaiak ámokfutását..",
-          "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/foci-vb-2026/2026/07/joe-hart-gusztustalan-amit-paraguay-muvelt",
-          "scope": "kulfold"
+          "text": "A magyar női párbajtőrvívó-válogatott ezüstérmet szerzett a franciaországi Európa-bajnokságon, és a világbajnokságra készül.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/07/04/muhari-eszter-nincs-piheno-a-sikeres-europa-bajnoksag-utan-mindjart-itt-a-vb",
+          "scope": "belfold"
         },
         {
-          "text": "Ibrahimovic: Én négy piros lapot kaptam volna Paraguay ellen!A 2023-ban visszavonult svéd klasszis a francia válogatott nyugalmát dicsérte a nyolcaddöntő után..",
+          "text": "A magyar férfi vízilabda-válogatott Grúziát is legyőzte, és hibátlan maradt az OTP Kupán.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/foci-vb-2026/2026/07/ibrahimovic-en-negy-piros-lapot-kaptam-volna",
-          "scope": "kulfold"
+          "link": "https://www.nemzetisport.hu/vizilabda/2026/07/gruzia-sem-okozott-gondot-ferfi-polosaink-hibatlanok-maradtak-az-otp-kupan",
+          "scope": "belfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-07-05T12:18:32.820Z",
+      "engine": "gemini",
+      "updatedAt": "2026-07-05T12:31:07.039Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
@@ -107,32 +107,44 @@
     "technologia": {
       "items": [
         {
-          "text": "ENSZ-jelentés: A mesterséges intelligencia tovább mélyítheti a globális egyenlőtlenségeket.",
+          "text": "Teljesen új irányt vehet a PlayStation 6 fejlesztése a rekordmagas hardverárak miatt.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/jatek/166016/teljesen-uj-iranyt-vehet-a-playstation-6-a-rekordmagas-hardverarak-miatt",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Kína humanoid robotjainak valósága messze elmarad a látványtól.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/166013/kina-humanoid-robotjainak-valosaga-messze-elmarad-a-latvanytol",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Az ENSZ egy jelentése szerint a mesterséges intelligencia tovább mélyítheti a globális egyenlőtlenségeket.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/166010/ensz-jelentes-a-mesterseges-intelligencia-tovabb-melyitheti-a-globalis-egyenlotl",
           "scope": "kulfold"
         },
         {
-          "text": "A Samsung és az SK Hynix dolgozói lettek Dél Korea legkeresettebb házassági partnerei.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166012/a-samsung-es-az-sk-hynix-dolgozoi-lettek-del-korea-legkeresettebb-hazassagi-part",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Javult Európa levegőminősége: folyamatosan csökken a főbb légszennyező anyagok kibocsátása az évtizedek óta tartó környezetvédelmi politikáknak, a technológiai fejlődésnek, valamint a tisztább ipari és közlekedési rendszereknek köszönhetően - állapította meg a Copernicus Légkör-megfigyelő Szolgálat (CAMS) a tavalyi európai levegőminőségről szóló éves értékelő jelentésében.",
+          "text": "Számos magyar intézmény elszigetelt kísérletekkel keresi a mesterséges intelligencia helyét az oktatásban.",
           "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/07/05/bejelentest-tettek-europa-levegojerol-ez-mindenkit-meglepett",
-          "scope": "kulfold"
+          "link": "https://infostart.hu/tudomany/2026/07/05/a-vedekezo-szakasz-lezarult-sanghajbol-mutatnak-mi-iranyt-az-europai-oktatasnak",
+          "scope": "belfold"
         },
         {
-          "text": "Míg az európai egyetemek – köztük számos magyar intézmény – elszigetelt kísérletekkel keresik a mesterséges intelligencia (MI) helyét az oktatásban, a sanghaji Fudan Egyetem már egy működőképes, egységes rendszerbe integrálta a technológiát.",
+          "text": "A sanghaji Fudan Egyetem egy működőképes, egységes rendszerbe integrálta a mesterséges intelligencia technológiáját az oktatásban.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/07/05/a-vedekezo-szakasz-lezarult-sanghajbol-mutatnak-mi-iranyt-az-europai-oktatasnak",
           "scope": "kulfold"
+        },
+        {
+          "text": "Megalkották a Tetris és a Rubik-kocka ötvözetét, amely az egyik legnehezebb fejtörő játék.",
+          "source": "Infostart Tudomány",
+          "link": "https://infostart.hu/tudomany/2026/07/04/megalkottak-a-tetris-es-a-rubik-kocka-otvozetet-ez-most-az-egyik-legnehezebb-fejtoro-jatek",
+          "scope": "kulfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-07-05T12:18:32.916Z",
+      "engine": "gemini",
+      "updatedAt": "2026-07-05T12:31:23.052Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
@@ -148,15 +160,15 @@
     "gazdasag": {
       "items": [
         {
-          "text": "A térség a Vörös-tenger déli részén, a Bab el-Mandeb-szoros közelében található, több mint 2000 kilométerre a Perzsa-öböl kijáratát jelentő Hormuzi-szorostól, ugyanakkor a globális kereskedelem szempontjából szintén ku",
+          "text": "Vitézy Dávid közlekedési és beruházás miniszter Facebook-videóban számolt be róla, hogy a kormány elkezdte a korábban megkötött autópálya-koncesszió átvilágátását.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20260705/veszjelzest-adtak-le-a-voros-tengeren-847656",
+          "link": "https://www.portfolio.hu/gazdasag/20260705/tisza-kormany-1000-milliard-feletti-osszeg-ment-az-autopalya-koncessziokra-12-pontban-modosul-az-alaptorveny-847626",
           "scope": "kulfold"
         },
         {
-          "text": "Az ukrán védelmi erők júniusban több mint kétszázezer orosz haditechnikai eszközt semmisítettek meg vagy találtak el – írta meg az Ukrajinszka Pravda.",
+          "text": "Vitézy Dávid közlekedési miniszter újabb éjszakai járatokat jelentett be, amelyekről hétvégente közvetlenül a belvárosból is el lehet jutni a Budapest környéki településekre.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20260705/kijev-bejelentette-rekordszamu-fegyver-pusztult-el-a-fronton-hatalmas-bajban-az-orosz-utanpotlas-847654",
+          "link": "https://www.portfolio.hu/gazdasag/20260705/vitezy-david-tovabb-boviti-a-pest-kornyeki-buszok-ejszakai-jaratait-847658",
           "scope": "kulfold"
         },
         {
@@ -173,11 +185,11 @@
         }
       ],
       "engine": "extractive",
-      "updatedAt": "2026-07-05T12:18:33.021Z",
+      "updatedAt": "2026-07-05T12:31:23.126Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20260705/a-hoseg-vagy-a-hideg-okozza-tobb-ember-halalat-a-kutato-szerint-rossz-szamokra-hivatkozik-a-who-846734"
+          "link": "https://www.portfolio.hu/gazdasag/20260705/tisza-kormany-1000-milliard-feletti-osszeg-ment-az-autopalya-koncessziokra-12-pontban-modosul-az-alaptorveny-847626"
         },
         {
           "name": "Infostart Gazdaság",
@@ -208,7 +220,7 @@
         }
       ],
       "engine": "extractive",
-      "updatedAt": "2026-07-05T12:18:33.106Z",
+      "updatedAt": "2026-07-05T12:31:23.195Z",
       "sourceLinks": [
         {
           "name": "Greenfo",
@@ -224,32 +236,38 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Csányi Sándor kihúzhatja magát: élete formájában az OTP – záporoznak az elismerések, a csúcson túl is folytatódhat a rali.",
+          "text": "Moszkvában nyolcszázezres fizetésért keresnek embereket a város védelmére, tapasztalat nélkül.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/07/orosz-ukran-haboru-moszkva",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Az iPhone-összeszerelő vállalat bevétele megugrott, azonban az alkatrészpiac sorsa Irántól is függ.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/penz-es-tokepiac/2026/07/iphone-apple-bergyarto-foxconn-bevetel-mi",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Az OTP kiemelkedő formában van, számos elismerést kap, és a részvények további emelkedése várható.",
           "source": "VG.hu",
           "link": "https://www.vg.hu/penz-es-tokepiac/2026/07/otp-reszveny-arfolyam-csucs-csanyi-hongkong-forbes",
-          "scope": "kulfold"
+          "scope": "belfold"
         },
         {
-          "text": "Történelmi csúcsra értek a legnagyobb magyar bank részvényei, miközben az OTP megítélése kiváló a szakma, a befektetők és az elemzők körében is..",
+          "text": "A legnagyobb magyar bank, az OTP részvényei történelmi csúcsra értek.",
           "source": "VG.hu",
           "link": "https://www.vg.hu/penz-es-tokepiac/2026/07/otp-reszveny-arfolyam-csucs-csanyi-hongkong-forbes",
-          "scope": "kulfold"
+          "scope": "belfold"
         },
         {
-          "text": "Magyar Péter bemondta: ennyi közpénzt kaphatott Áder János alapítványa a választások előtt.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozelet/magyar-peter-bemondta-ennyi-kozpenzt-kaphatott-ader-janos-alapitvanya-a-valasztasok-elott.html?utm_source=rss&utm_medium=referral",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Berobbantak a multik Magyarországon, zsinóron rángatják a magyar ipart.",
+          "text": "A multinacionális vállalatok magyarországi megjelenése húzza a hazai ipart, különösen Hajdú-Bihar és Komárom-Esztergom megyékben.",
           "source": "MFOR.hu",
           "link": "https://mfor.hu/cikkek/makro/berobbantak-a-multik-magyarorszagon-zsinoron-rangatjak-a-magyar-ipart.html?utm_source=rss&utm_medium=referral",
-          "scope": "kulfold"
+          "scope": "belfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-07-05T12:18:33.197Z",
+      "engine": "gemini",
+      "updatedAt": "2026-07-05T12:31:34.003Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -257,7 +275,7 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/foci-vb-rettegnek-az-angolok--nem-csak-a-palyan-tamadnak-a-mexikoiak.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/egeszsegugy/hegedus-zsolt-fontos-bejelentest-tett.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
