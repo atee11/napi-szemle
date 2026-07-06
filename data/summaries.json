@@ -1,64 +1,64 @@
 {
-  "generatedAt": "2026-07-05T12:40:34.306Z",
+  "generatedAt": "2026-07-06T05:59:58.375Z",
   "fx": {
-    "rate": 353.1,
-    "date": "2026-07-06T05:15:33.000Z",
+    "rate": 353.31,
+    "date": "2026-07-06T05:59:51.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "A Déli Körvasút bővítésével a Bartók Béla út felett a korábbi két régi vágány helyett a jövőben négy új vágány fog átvezetni.",
+          "text": "Az ausztrál miniszterelnök bocsánatot kért egy Kylie Minogue-gal kapcsolatos megjegyzéséért.",
           "source": "Telex",
-          "link": "https://telex.hu/belfold/2026/07/05/deli-korvasut-regi-hid-kiemeles-bartok-bela-ut",
+          "link": "https://telex.hu/kulfold/2026/07/06/ausztralia-anthony-albanese-kylie-minogue-bocsanatkeres",
           "scope": "kulfold"
         },
         {
-          "text": "„Tetszettünk volna választást nyerni” – mondta a Fidesz kommunikációs igazgatója, és kemény kritikát fogalmazott meg a vereség miatti sokk miatt még mindig kóválygó fideszeseknek.",
+          "text": "Orosz rakéták és drónok okoztak halálos áldozatokat Kijevben egy hajnali támadásban.",
           "source": "Telex",
-          "link": "https://telex.hu/belfold/2026/07/05/havasi-bertalan-der-stefi-hir-tv-piacrol-megelni-nehez",
+          "link": "https://telex.hu/kulfold/2026/07/06/ukrajna-oroszorszag-kijev-raketa-tamadas-aldozatok-megrongalt-epuletek",
           "scope": "kulfold"
         },
         {
-          "text": "The post Magyar Péter bevallotta, mit tart a legnagyobb nehézségnek miniszterelnökként first appeared on 24.hu.",
+          "text": "Óbuda volt MSZP-s alpolgármestere, Czeglédy Gergő beismerő vallomásban számolt be a kerületi korrupcióról.",
+          "source": "Telex",
+          "link": "https://telex.hu/belfold/2026/07/06/obuda-korrupcio-czegledy-gergo-puskas-peter-fidesz-mszp-lopas-vallomas",
+          "scope": "belfold"
+        },
+        {
+          "text": "Őszre várható ítélet a 175 milliárdos \"orbáni örökségről\" szóló ügyben.",
           "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/07/05/magyar-peter-miniszterelnok-vallomas-magany/",
-          "scope": "kulfold"
+          "link": "https://24.hu/belfold/2026/07/06/kiss-ambrus-175-milliard-kormany-per-szolidaritasi-ado/",
+          "scope": "belfold"
         },
         {
-          "text": "The post Nyolc embert, köztük négy gyereket lőttek meg a függetlenség napján New Yorkban first appeared on 24.hu.",
+          "text": "Donald Trump és Volodimir Zelenszkij a NATO-csúcson személyesen fognak tárgyalni a háború befejezéséről.",
           "source": "24.hu",
-          "link": "https://24.hu/kulfold/2026/07/05/new-york-lovoldozes-julius-4-nyolc-serult/",
+          "link": "https://24.hu/kulfold/2026/07/06/trump-zelenszkij-nato-haboru/",
           "scope": "kulfold"
         },
         {
-          "text": "A Fidesz kommunikációs igazgatója szerint választást kellett volna nyerni, mert akkor a kormány továbbra is tudná támogatni a fideszes médiát.",
+          "text": "A parlament Magyar Péter nélkül ül össze, és Vitézy Dávid szólal fel a miniszterelnök helyett.",
           "source": "HVG",
-          "link": "https://hvg.hu/gazdasag/20260705_deri-stefi-hir-tv-havasi-bertalan-fidesz-media-piacrol-elni-nehez",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Mindössze 27 évet élt Gruber Béla festőművész, aki rövid idő alatt is hatalmas életművet hozott létre.",
-          "source": "HVG",
-          "link": "https://hvg.hu/360/20260705_gruber-belatarlat-tragikus-sors-alig-ismert-eletmu-isten-fogta-akezet-hvg",
-          "scope": "kulfold"
+          "link": "https://hvg.hu/itthon/20260706_orszaggyules-rendkivuli-ules-napirend-magyar-peter",
+          "scope": "belfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-07-05T12:40:33.728Z",
+      "engine": "gemini",
+      "updatedAt": "2026-07-06T05:59:57.810Z",
       "sourceLinks": [
         {
           "name": "Telex",
-          "link": "https://telex.hu/sport/2026/07/05/a-real-madrid-leigazolta-a-holland-denzel-dumfriest"
+          "link": "https://telex.hu/kulfold/2026/07/06/ausztralia-anthony-albanese-kylie-minogue-bocsanatkeres"
         },
         {
           "name": "24.hu",
-          "link": "https://24.hu/belfold/2026/07/05/magyar-peter-miniszterelnok-vallomas-magany/"
+          "link": "https://24.hu/sport/foci/2026/07/06/foci-vb-2026-anglia-jordan-henderson-serules/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/gazdasag/20260705_deri-stefi-hir-tv-havasi-bertalan-fidesz-media-piacrol-elni-nehez"
+          "link": "https://hvg.hu/cegauto/20260706_kamu-kezi-valto-ferrari-12cilindri-manuale-szivo-v12"
         }
       ],
       "skipped": []
@@ -66,36 +66,36 @@
     "sport": {
       "items": [
         {
-          "text": "A franciák szerint a paraguayiak Deschamps halott édesanyját sértegették.",
+          "text": "Az angol válogatott 3–2-re legyőzte a társházigazda mexikói csapatot vasárnap a labdarúgó-világbajnokság mexikóvárosi nyolcaddöntőjében.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/05/a-franciak-szerint-a-paraguayiak-deschamps-halott-edesanyjat-sertegettek",
+          "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/06/tiz-emberrel-is-megcsinalta-anglia",
           "scope": "kulfold"
         },
         {
-          "text": "Mbappé ezzel utolérte Messit és hétgólos, a franciák a Kanadát 3-0-ra legyőző Marokkóval játszanak a négy közé jutásért.",
+          "text": "Erling Haaland két góljával Norvégia 2-1-re verte Brazíliát a labdarúgó-világbajnokság nyolcaddöntőjében.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/05/a-franciak-nagy-nehezen-lebirkoztak-paraguayt-es-a-legjobb-8-koze-jutottak-a-foci-vb-n",
+          "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/06/haaland-kiejtette-braziliat-norvegia-a-legjobb-8-kozott",
           "scope": "kulfold"
         },
         {
-          "text": "Ibrahimovic: Én négy piros lapot kaptam volna Paraguay ellen!A 2023-ban visszavonult svéd klasszis a francia válogatott nyugalmát dicsérte a nyolcaddöntő után..",
+          "text": "Harry Kane megelőzte Puskás Ferencet a válogatottban szerzett gólokat tekintveAz angolok gólrekorderének mindehhez harmincnéggyel több mérkőzés kellett..",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/foci-vb-2026/2026/07/ibrahimovic-en-negy-piros-lapot-kaptam-volna",
+          "link": "https://www.nemzetisport.hu/foci-vb-2026/2026/07/harry-kane-megelozte-puskas-ferencet-a-valogatottban-szerzett-golokat-tekintve",
           "scope": "kulfold"
         },
         {
-          "text": "17 ezer rendőr, példátlan biztonsági előkészületek a mexikói–angol vb-nyolcaddöntő előttSok szigetországi drukker úgy döntött, hogy ezúttal nem viseli a háromoroszlános mezét..",
+          "text": "Ezt érdemes végighallgatni: Harry Kane-nek nem maradt hangja a meccs végi interjúra – VIDEÓAz angol válogatott immár hatgólos csatára beszélt volna, csak nem igazán tudott..",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/foci-vb-2026/2026/07/17-ezer-rendor-peldatlan-biztonsagi-elokeszuletek-a-mexikoi-angol-vb-nyolcaddonto-elott",
+          "link": "https://www.nemzetisport.hu/foci-vb-2026/2026/07/ezt-erdemes-vegighallgatni-harry-kane-nek-nem-maradt-hangja-a-meccs-vegi-interjura-video",
           "scope": "kulfold"
         }
       ],
       "engine": "extractive",
-      "updatedAt": "2026-07-05T12:40:33.804Z",
+      "updatedAt": "2026-07-06T05:59:57.904Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/05/pedig-az-uzbeg-biro-felkeszult-a-paraguayiak-stilusabol"
+          "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/06/tovabb-bovul-a-vb-utani-tavozok-listaja"
         },
         {
           "name": "Nemzeti Sport",
@@ -107,15 +107,15 @@
     "technologia": {
       "items": [
         {
-          "text": "ENSZ-jelentés: A mesterséges intelligencia tovább mélyítheti a globális egyenlőtlenségeket.",
+          "text": "Kína humanoid robotjainak valósága messze elmarad a látványtól.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166010/ensz-jelentes-a-mesterseges-intelligencia-tovabb-melyitheti-a-globalis-egyenlotl",
+          "link": "https://sg.hu/cikkek/it-tech/166013/kina-humanoid-robotjainak-valosaga-messze-elmarad-a-latvanytol",
           "scope": "kulfold"
         },
         {
-          "text": "A Samsung és az SK Hynix dolgozói lettek Dél Korea legkeresettebb házassági partnerei.",
+          "text": "ENSZ-jelentés: A mesterséges intelligencia tovább mélyítheti a globális egyenlőtlenségeket.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166012/a-samsung-es-az-sk-hynix-dolgozoi-lettek-del-korea-legkeresettebb-hazassagi-part",
+          "link": "https://sg.hu/cikkek/it-tech/166010/ensz-jelentes-a-mesterseges-intelligencia-tovabb-melyitheti-a-globalis-egyenlotl",
           "scope": "kulfold"
         },
         {
@@ -132,7 +132,7 @@
         }
       ],
       "engine": "extractive",
-      "updatedAt": "2026-07-05T12:40:33.929Z",
+      "updatedAt": "2026-07-06T05:59:57.999Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
@@ -140,7 +140,7 @@
         },
         {
           "name": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/07/05/bejelentest-tettek-europa-levegojerol-ez-mindenkit-meglepett"
+          "link": "https://infostart.hu/tudomany/2026/07/06/sci-fi-jellegu-csata-zajlik-az-usa-es-kina-kozott"
         }
       ],
       "skipped": []
@@ -148,40 +148,40 @@
     "gazdasag": {
       "items": [
         {
-          "text": "Vitézy Dávid közlekedési és beruházás miniszter Facebook-videóban számolt be róla, hogy a kormány elkezdte a korábban megkötött autópálya-koncesszió átvilágátását.",
+          "text": "Jelentősen csökkentette inflációs előrejelzését június végén a Magyar Nemzeti Bank (MNB), a márciusban várt 3,8 százalék helyett már csak 1,8 százalékos áremelkedési ütemre számítanak idén éves átlagban.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20260705/tisza-kormany-1000-milliard-feletti-osszeg-ment-az-autopalya-koncessziokra-12-pontban-modosul-az-alaptorveny-847626",
+          "link": "https://www.portfolio.hu/gazdasag/20260706/lepett-az-mnb-rogton-mindenki-ujragondolta-a-szamait-ezt-mindannyian-a-zsebunkon-erezzuk-meg-847466",
           "scope": "kulfold"
         },
         {
-          "text": "Vitézy Dávid közlekedési miniszter újabb éjszakai járatokat jelentett be, amelyekről hétvégente közvetlenül a belvárosból is el lehet jutni a Budapest környéki településekre.",
+          "text": "Az AI-részvények eladási hulláma, az iráni konfliktus enyhülése és a várakozásoknál gyengébb amerikai munkaerőpiaci adatok határozták meg az elmúlt hét kereskedését, miközben a vezető amerikai és európai indexek, köztük a Dow Jones és a DAX, de még a BUX is történelmi csúcsot döntöttek.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20260705/vitezy-david-tovabb-boviti-a-pest-kornyeki-buszok-ejszakai-jaratait-847658",
+          "link": "https://www.portfolio.hu/gazdasag/20260706/tortenelmi-csucsra-lottek-a-tozsdeket-de-a-heten-igazi-stresszteszt-kovetkezik-847640",
           "scope": "kulfold"
         },
         {
-          "text": "A Duna vízhőmérséklete lecsökkent annyira, hogy a Paksi atomerőmű pénteken elkezdhette visszaemelni a teljesítményét - írta Kapitány István gazdasági és energetikai miniszter Facebook-oldalán.",
+          "text": "Kritikák kereszttüzébe került a Velencei-tó partján 51 milliárd forintból felépült Kovács Katalin Nemzeti Kajak-Kenu Akadémia, miután a tó vízállása miatt az egyetemi világbajnokságot is Szegedre kellett áthelyezni.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/07/03/ujra-felporoghet-a-paksi-atomeromu",
+          "link": "https://infostart.hu/gazdasag/2026/07/05/kiszarado-velencei-to-magyarazza-a-bizonyitvanyt-a-kajak-kenu-szovetseg-elnoke",
           "scope": "kulfold"
         },
         {
-          "text": "Július 2-án megnyílt két, összesen több mint 500 milliárd forint értékű energetikai pályázat benyújtási lehetősége – jelentette be Kapitány István gazdasági és energiaügyi miniszter a közösségi oldalán.",
+          "text": "Schmidt Gábor, a Magyar Kajak-Kenu Szövetség képviselője a bírálatokra reagálva hangsúlyozta: a szövetségnek sem a létesítmény megépítéséhez, sem a működtetéséhez nincs köze.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/07/03/hatalmas-osszeg-megujulo-energiara-bejelentest-tett-kapitany-istvan",
+          "link": "https://infostart.hu/gazdasag/2026/07/05/kiszarado-velencei-to-magyarazza-a-bizonyitvanyt-a-kajak-kenu-szovetseg-elnoke",
           "scope": "kulfold"
         }
       ],
       "engine": "extractive",
-      "updatedAt": "2026-07-05T12:40:33.996Z",
+      "updatedAt": "2026-07-06T05:59:58.123Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20260705/tisza-kormany-1000-milliard-feletti-osszeg-ment-az-autopalya-koncessziokra-12-pontban-modosul-az-alaptorveny-847626"
+          "link": "https://www.portfolio.hu/uzlet/20260706/mi-jon-ma-a-tozsdeken-847712"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/07/05/csath-magdolna-figyelmeztetett-az-euro-onmagaban-nem-csodaszer-nincs-itt-az-ideje"
+          "link": "https://infostart.hu/gazdasag/2026/07/06/meglepoen-magas-hofokra-kell-allitani-nyaron-a-klimat-de-nem-annyira"
         }
       ],
       "skipped": []
@@ -208,7 +208,7 @@
         }
       ],
       "engine": "extractive",
-      "updatedAt": "2026-07-05T12:40:34.115Z",
+      "updatedAt": "2026-07-06T05:59:58.227Z",
       "sourceLinks": [
         {
           "name": "Greenfo",
@@ -216,7 +216,7 @@
         },
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/07/05/gaspar-most-ballagott-el-az-altalanosbol-de-mar-kutatokent-utazik-egy-rangos-san-francisco-i-ai-konferenciara?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/07/06/megvaltozott-hogy-mire-hasznaljuk-az-ai-t-es-az-uj-helyzet-kinanak-kedvez?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": []
@@ -224,32 +224,32 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Csányi Sándor kihúzhatja magát: élete formájában az OTP – záporoznak az elismerések, a csúcson túl is folytatódhat a rali.",
+          "text": "Varga Mihálynak egyelőre semmi nem állhatja útját: kedden akár egy újabb meglepetés is jöhet a magyar gazdaságból.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/penz-es-tokepiac/2026/07/otp-reszveny-arfolyam-csucs-csanyi-hongkong-forbes",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/07/varga-mihaly-inflacio-ksh-junius-jegybank",
           "scope": "kulfold"
         },
         {
-          "text": "Történelmi csúcsra értek a legnagyobb magyar bank részvényei, miközben az OTP megítélése kiváló a szakma, a befektetők és az elemzők körében is..",
+          "text": "Szokatlanul jól alakul az idei év az infláció szempontjából, amin a június sem változtatott..",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/penz-es-tokepiac/2026/07/otp-reszveny-arfolyam-csucs-csanyi-hongkong-forbes",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/07/varga-mihaly-inflacio-ksh-junius-jegybank",
           "scope": "kulfold"
         },
         {
-          "text": "Magyar Péter bemondta: ennyi közpénzt kaphatott Áder János alapítványa a választások előtt.",
+          "text": "Ne csodálkozzon: Magyar Pétert ezért keresi hiába belföldön.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozelet/magyar-peter-bemondta-ennyi-kozpenzt-kaphatott-ader-janos-alapitvanya-a-valasztasok-elott.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/kozelet/ne-csodalkozzon-magyar-petert-ezert-keresi-hiaba-belfoldon.html?utm_source=rss&utm_medium=referral",
           "scope": "kulfold"
         },
         {
-          "text": "Berobbantak a multik Magyarországon, zsinóron rángatják a magyar ipart.",
+          "text": "Zelenszkij előre tudta: robbanások egész sorával folytatódott a vérontás.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/berobbantak-a-multik-magyarorszagon-zsinoron-rangatjak-a-magyar-ipart.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/kulpolitika/zelenszkij-elore-tudta-robbanasok-egesz-sora-verontas.html?utm_source=rss&utm_medium=referral",
           "scope": "kulfold"
         }
       ],
       "engine": "extractive",
-      "updatedAt": "2026-07-05T12:40:34.184Z",
+      "updatedAt": "2026-07-06T05:59:58.333Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -257,11 +257,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/egeszsegugy/hegedus-zsolt-fontos-bejelentest-tett.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/befektetes/furcsan-ebredt-forint-deviza.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-07-06T05:17:25.919Z"
+  }
 }
