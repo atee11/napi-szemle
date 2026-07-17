@@ -1,58 +1,64 @@
 {
-  "generatedAt": "2026-07-17T07:25:29.574Z",
+  "generatedAt": "2026-07-17T16:23:26.778Z",
   "fx": {
-    "rate": 362.395,
-    "date": "2026-07-17T16:19:40.000Z",
+    "rate": 362.44,
+    "date": "2026-07-17T16:23:20.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "Jeszenszky volt külügyminiszter szerint Szijjártó Péternek nincs visszaútja a magyar politikába.",
+          "text": "A kormány a nagy érdeklődés miatt jócskán bővíti a szélenergia-fejlesztések keretét.",
           "source": "Telex",
-          "link": "https://telex.hu/belfold/2026/07/17/jeszenszky-geza-szijjarto-peter-byd",
+          "link": "https://telex.hu/gazdasag/2026/07/17/kapitany-istvan-szelenergia-halozati-csatlakozas-bovites",
           "scope": "belfold"
         },
         {
-          "text": "Donald Trump közösségi médiája fizetés ellenében információs előnyt biztosítana.",
+          "text": "Benyújtották a százezer forintos iskolakezdési támogatás bevezetéséhez szükséges törvényjavaslatot.",
           "source": "Telex",
-          "link": "https://telex.hu/gazdasag/2026/07/17/donald-trump-kozossegi-media-truth-social-tozsde-eric-donald-jr",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A HVG szerint több mint 387 millió forint közpénz ment el Sulyok Tamás utazásaira.",
-          "source": "Telex",
-          "link": "https://telex.hu/belfold/2026/07/17/sulyok-tamas-koztarsasagi-elnok-kulfoldi-utazasok-koltsegei",
+          "link": "https://telex.hu/gazdasag/2026/07/17/iskolakezdesi-tamogatas-torvenyjavaslat-benyujtas",
           "scope": "belfold"
         },
         {
-          "text": "Egy szakértő szerint a Fidesz népszerűsége hamarosan tíz százalékra süllyedhet.",
+          "text": "Százmilliós kártérítést ítéltek meg egy meleg házaspárnak a Mediaworks lejárató kampánya miatt.",
+          "source": "Telex",
+          "link": "https://telex.hu/belfold/2026/07/17/hlatky-schlichter-hubert-per-mediaworks-pesti-sracok-112-millio-beranyasag-lmbtq",
+          "scope": "belfold"
+        },
+        {
+          "text": "Szijjártó Péter a politikának, Gulyás Gergely pedig a frakcióvezetésnek mondott búcsút a héten.",
           "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/07/17/jo-uton-halad-a-veg-fele-a-fidesz-a-szakerto-szerint/",
+          "link": "https://24.hu/belfold/2026/07/17/podcast-haromharmad-szijjarto-gulyas-orban/",
           "scope": "belfold"
         },
         {
-          "text": "Bóka János vállalná a Fidesz-frakció vezetését Gulyás Gergely lemondása után.",
-          "source": "HVG",
-          "link": "https://hvg.hu/itthon/20260717_boka-janos-fidesz-frakcio-vezetes-gulyas-gergely-lemondas",
+          "text": "Magyar Péter öt adónem eltörlését és a levegőterhelési díj megduplázását jelentette be.",
+          "source": "24.hu",
+          "link": "https://24.hu/fn/gazdasag/2026/07/17/magyar-peter-tisza-kormany-adocsomag-nav-alapitvany/",
           "scope": "belfold"
+        },
+        {
+          "text": "Az EU-s Chat Control kapcsán óriási a felháborodás.",
+          "source": "24.hu",
+          "link": "https://24.hu/tech/2026/07/17/europai-unio-parlament-chat-control-rendelet-magyar-peter/",
+          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-07-17T07:24:16.275Z",
+      "updatedAt": "2026-07-17T16:22:15.265Z",
       "sourceLinks": [
         {
           "name": "Telex",
-          "link": "https://telex.hu/sport/2026/07/17/foci-vb-2026-gyoztese-gyurut-kap"
+          "link": "https://telex.hu/belfold/2026/07/17/baja-duna-vizallas-klimavaltozas"
         },
         {
           "name": "24.hu",
-          "link": "https://24.hu/kultura/2026/07/17/peter-jackson-uj-film/"
+          "link": "https://24.hu/belfold/2026/07/17/podcast-haromharmad-szijjarto-gulyas-orban/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/tudomany/20260717_spacex-starship-tesztrepules-megszakitas-raptor-hajtomu-hiba-video"
+          "link": "https://hvg.hu/elet/20260717_mediaworks-karterites-meleg-hazaspar-per-112-millio"
         }
       ],
       "skipped": []
@@ -60,48 +66,48 @@
     "sport": {
       "items": [
         {
-          "text": "A Ferencváros kettős győzelemmel jutott tovább az Európa-liga-selejtező első fordulójában, miután 3-0-ra verte otthon a szerbiai Vojvodinát.",
+          "text": "Szoboszlai Dominik 2031-ig szóló hosszú távú szerződést írt alá a Liverpoollal.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/07/16/ftc-europa-liga",
+          "link": "https://infostart.hu/sport/2026/07/17/itt-a-nagy-hir-szoboszlai-dominik-alairt",
           "scope": "belfold"
         },
         {
-          "text": "A továbbjutó Ferencváros a holland Twente ellen lép pályára az Európa-liga-selejtező második fordulójában.",
+          "text": "Szoboszlai Dominik menedzsere, Esterházy Mátyás szerint a játékos és a Liverpool FC közös akarata eredményezte a szerződéshosszabbítást.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/07/16/ftc-europa-liga",
+          "link": "https://infostart.hu/sport/2026/07/17/reszleteket-arult-el-szoboszlai-dominik-menedzsere-a-targyalasokrol",
           "scope": "belfold"
         },
         {
-          "text": "Szoboszlai Dominik lapinformációk szerint közel áll szerződése hosszú távú meghosszabbításához a Liverpoolnál.",
+          "text": "Lőrincz Tamást választották meg a Magyar Birkózó Szövetség (MBSZ) elnökévé.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/07/16/szoboszlai-dominik-kozel-az-attoreshez",
+          "link": "https://infostart.hu/sport/2026/07/17/nemeth-szilard-utan-olimpiai-legenda-kerult-az-mbsz-elere",
           "scope": "belfold"
         },
         {
-          "text": "Gyulay Zsolt, a MOB elnöke szerint az olimpiákat a jövőben a nézettség és a pénz fogja meghatározni, ami rossz hír lehet a tradicionális magyar sikersportágaknak.",
+          "text": "Egy szlovén játékvezető vezeti a vasárnapi spanyol-argentin foci-vb döntőt.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/07/16/gyulay-zsolt-uj-szintre-emelik-az-olimpiat-es-ez-egyes-magyar-sikersportagaknak-rossz-hir",
-          "scope": "belfold"
-        },
-        {
-          "text": "Egy brit szuperszámítógép Spanyolországot tartja esélyesebbnek Argentínánál a futball-világbajnokság megnyerésére.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/16/44-56-ilyen-vb-dontot-josol-a-szuperszamitogep",
+          "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/17/mar-tudni-ki-vezeti-vasarnap-a-foci-vb-dontojet-video",
           "scope": "kulfold"
         },
         {
-          "text": "Slavko Vincic vezeti a spanyol–argentin labdarúgó-világbajnoki döntőt.",
+          "text": "Pelé 1958-as világbajnoki meze közel 4,9 millió dollárért kelt el.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/foci-vb-2026/2026/07/17/tortenelmi-osszegert-cserelt-gazdat-pele-ikonikus-meze",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Antonelli vette át a vezetést Norris és Verstappen előtt a második spái edzésen.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/foci-vb-2026/2026/07/slavko-vincic-vezeti-a-spanyol-argentin-vb-dontot",
+          "link": "https://www.nemzetisport.hu/f1/2026/07/antonelli-vette-at-a-vezetest-norris-es-verstappen-elott-a-masodik-spai-edzesen",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-07-17T07:24:28.724Z",
+      "updatedAt": "2026-07-17T16:22:27.534Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/07/17/a-foci-vb-bronzmeccs-es-donto-elotti-utolso-nagy-lelegzetvetel-sport-a-teveben"
+          "link": "https://infostart.hu/sport/2026/07/17/sportkozgazdasz-tulzas-nelkul-vilagsztar-szoboszlai-dominik-sokkal-tobbet-er-egy-stadionnal-is"
         },
         {
           "name": "Nemzeti Sport",
@@ -113,48 +119,48 @@
     "technologia": {
       "items": [
         {
-          "text": "A OnePlus okostelefon-gyártó 2026. július 17-től megszűnik Európában és Amerikában.",
+          "text": "Európai reptereket megzavaró drónok szállnak fel a Kreml orosz árnyékflottájáról.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/tudomany/166052/a-kreml-orosz-arnyekflottajarol-szallnak-fel-az-europai-reptereket-megzavaro-dro",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A OnePlus eltűnik az európai és amerikai piacokról.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/166160/a-oneplus-eltunik-europabol-es-amerikabol",
           "scope": "kulfold"
         },
         {
-          "text": "Az Európai Unió amerikai nyomásra lazít az okoseszközök szabályozásán.",
+          "text": "Az ASML újabb rekordokra készül a mesterséges intelligencia chipéhsége miatt.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166153/az-eu-amerikai-nyomasra-lazitja-az-okoseszkozok-szabalyozasat",
+          "link": "https://sg.hu/cikkek/it-tech/166167/az-asml-ujabb-rekordokra-keszul-az-mi-chipehseg-miatt",
           "scope": "kulfold"
         },
         {
-          "text": "Az új uniós digitális határellenőrzési rendszer nem tudja kezelni az ikreket.",
+          "text": "Az Európai Unió megnyitja az Androidot a mesterséges intelligencia versenytársai előtt.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166150/nem-tudja-kezelni-az-ikreket-az-uj-unios-digitalis-hatarellenorzesi-rendszer",
+          "link": "https://sg.hu/cikkek/it-tech/166162/az-europai-unio-megnyitja-az-androidot-az-mi-versenytarsai-elott",
           "scope": "kulfold"
         },
         {
-          "text": "A Microsoft vezetője az MI-modellek rejtett árára figyelmeztet.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166152/a-microsoft-vezetoje-az-mi-modellek-rejtett-arara-figyelmeztet",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az OpenAI bemutatta első saját hardverét.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166149/bemutatta-elso-sajat-hardveret-az-openai",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Magyar kutatók mesterséges intelligencián alapuló kamerarendszert fejlesztettek ki a koraszülött csecsemők monitorozására.",
+          "text": "Magyar kutatók mesterséges intelligencián alapuló kamerarendszert fejlesztettek koraszülött csecsemők monitorozására.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/07/13/vilagszinvonalu-magyar-fejlesztes-szuletett-a-koraszulott-ellatasban",
           "scope": "belfold"
+        },
+        {
+          "text": "Egyre gyakrabban használnak mesterséges intelligencia alapú alkalmazásokat egészségügyi kérdésekben.",
+          "source": "Infostart Tudomány",
+          "link": "https://infostart.hu/tudomany/2026/07/13/mi-van-ha-korhazba-kuld-a-mesterseges-intelligencia",
+          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-07-17T07:24:39.359Z",
+      "updatedAt": "2026-07-17T16:22:38.131Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166160/a-oneplus-eltunik-europabol-es-amerikabol"
+          "link": "https://sg.hu/cikkek/tudomany/166052/a-kreml-orosz-arnyekflottajarol-szallnak-fel-az-europai-reptereket-megzavaro-dro"
         },
         {
           "name": "Infostart Tudomány",
@@ -166,38 +172,44 @@
     "gazdasag": {
       "items": [
         {
-          "text": "A nemzetközi részvénypiacokon rossz hangulat uralkodott pénteken, különösen a chipgyártók és a mesterséges intelligenciához kapcsolódó vállalatok részvényeit ütötték.",
+          "text": "Az ukrán erők csapást mértek egy jaroszlavli olajfinomítóra, ami súlyos üzemanyaghiányt idéz elő Oroszországban.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/uzlet/20260717/lefordulas-a-tozsdeken-utik-a-chipgyartok-ai-cegek-reszvenyeit-850278",
+          "link": "https://www.portfolio.hu/global/20260717/langokban-all-egy-orosz-finomito-az-ukran-tamadas-utan-no-a-nyomas-moszkvan-850508",
           "scope": "kulfold"
         },
         {
-          "text": "Hszi Csin-ping kínai elnök felvázolta országa törekvéseit, hogy a mesterséges intelligencia területén az Egyesült Államok globális vetélytársává váljon.",
+          "text": "Mérsékelt eséssel indult a pénteki kereskedés az európai tőzsdéken, a technológiai részvények globális eladási hullámára és a Fed kamatpolitikájára reagálva.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20260717/hszi-csin-ping-dramai-figyelmeztetese-elveszithetjuk-az-ellenorzest-a-mesterseges-intelligencia-felett-850320",
+          "link": "https://www.portfolio.hu/uzlet/20260717/mersekelt-eses-az-europai-tozsdeken-nyomas-alatt-a-tech-reszvenyek-850278",
           "scope": "kulfold"
         },
         {
-          "text": "A magyar befektetési alapok legnyereségesebb ágazata 19%-os hozamot produkált az elmúlt egy évben.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/befektetes/20260717/itt-csukott-szemmel-is-lehetett-19-szazalekot-kaszalni-mutatjuk-a-legsikeresebb-magyar-befekteteseket-850212",
+          "text": "A Nestlé az év végén bezárja diósgyőri üzemét a szezonális édességek iránti kereslet visszaesése miatt.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/07/17/bezarja-egyik-magyarorszagi-gyarat-a-nestle",
           "scope": "belfold"
         },
         {
-          "text": "A Mol 100 millió dolláros első biztosítói részfizetésre számít júliusban a Dunai Finomító tűzesetével összefüggésben.",
+          "text": "A magyar részvények 2026 július közepéig 28 százalékos hozamot értek el.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/07/17/reszvenypiaci-viharok-a-vilagban-es-magyarorszagon-itt-az-elso-felev-merlege",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Mol 100 millió dolláros biztosítói részfizetésre számít júliusban a Dunai Finomító tűzesete miatt.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/07/16/hatalmas-biztositasi-penzre-szamit-a-mol-a-dunai-finomito-tuzesete-utan",
           "scope": "belfold"
         },
         {
-          "text": "Májusban a teljes munkaidőben alkalmazásban állók bruttó átlagkeresete 764 100 forint, a nettó átlagkereset pedig 535 900 forint volt.",
+          "text": "A 4iG elnyerte a Microsoft Cloud Solution Provider partneri státuszt és ismét jogosulttá vált Microsoft licencek értékesítésére.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/07/16/ennyit-keres-most-egy-atlagos-magyar-friss-szamok-erkeztek",
+          "link": "https://infostart.hu/gazdasag/2026/07/16/uj-szintre-lepett-a-4ig-egyuttmukodese-a-microsofttal",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-07-17T07:24:49.410Z",
+      "updatedAt": "2026-07-17T16:22:51.275Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
@@ -205,7 +217,7 @@
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/07/16/hatalmas-biztositasi-penzre-szamit-a-mol-a-dunai-finomito-tuzesete-utan"
+          "link": "https://infostart.hu/gazdasag/2026/07/17/bezarja-egyik-magyarorszagi-gyarat-a-nestle"
         }
       ],
       "skipped": []
@@ -213,26 +225,32 @@
     "kornyezet": {
       "items": [
         {
-          "text": "Amerikai bolygókutatók szerint az LHS 1140b exobolygó körül észlelt légkör miatt ez az objektum a Naprendszeren kívüli élet keresésének legígéretesebb célpontjává vált.",
+          "text": "Az MME közönségszavazásán három bagolyfaj, a gyöngybagoly, a macskabagoly és a füleskuvik pályázik a 2027-es év madara címre.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/07/17/egy-heliumot-eregeto-bolygo-valt-a-naprendszeren-kivuli-elet-keresesenek-legigeretesebb-celpontjava-allitja-egy-amerikai-bolygokutato?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/07/17/kielezett-verseny-alakult-ki-a-2027-es-ev-madara-cimeert-a-vegso-gyoztes-csak-rajtad-mulik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "belfold"
+        },
+        {
+          "text": "Kutatók egy narancsszínű ajkú, eddig ismeretlen majomfajt fedeztek fel a Kongói Demokratikus Köztársaság esőerdeinek mélyén.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/07/17/narancsszinu-ajku-eddig-ismeretlen-majomfajt-fedeztek-fel-a-kongoi-esoerdoben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Svájci kutatók azon dolgoznak, hogy pontosabb előrejelzések révén javítsák a mezőgazdasági vízkészletek és a vízfelhasználás kezelését.",
+          "text": "Magyar kutatók kimutatták, hogy az internetre feltöltött, manipulált adathalmazokkal félrevezethetők a tudományos kutatásokhoz használt AI-ágensek.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/07/16/jo-lenne-pontosan-tudni-mire-eleg-a-mezogazdasagi-vizkeszletunk-de-az-elorejelzeseink-nagy-eltereseket-mutatnak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "kulfold"
+          "link": "https://qubit.hu/2026/07/17/magyar-kutato-figyelmeztet-konnyen-atverhetok-a-tudomanyos-kutatasokhoz-hasznalt-ai-agensek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "belfold"
         },
         {
-          "text": "A Greenfo környezetvédelmi portál „Zöld hét – Hírháttér” címmel rendszeresen podcastot tesz közzé.",
+          "text": "A Greenfo Zöld hét címmel jelentet meg Hírháttér podcastot.",
           "source": "Greenfo",
           "link": "https://greenfo.hu/hirek/podcastok/zold-het/",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-07-17T07:25:20.715Z",
+      "updatedAt": "2026-07-17T16:23:15.103Z",
       "sourceLinks": [
         {
           "name": "Greenfo",
@@ -240,7 +258,7 @@
         },
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/07/17/egy-heliumot-eregeto-bolygo-valt-a-naprendszeren-kivuli-elet-keresesenek-legigeretesebb-celpontjava-allitja-egy-amerikai-bolygokutato?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/07/17/magyar-kutato-figyelmeztet-konnyen-atverhetok-a-tudomanyos-kutatasokhoz-hasznalt-ai-agensek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": []
@@ -248,44 +266,44 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "A BMW-nél új HR-vezetőnek kell levezényelnie a kirúgásokat, ahol ezrek kerülhetnek az utcára a \"Kína-hatás\" miatt.",
+          "text": "A pesti tőzsde esett, az OTP-vel és az európai piacokkal együtt.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/07/bmw-leepites-hr-vezeto",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az OTP árfolyama esik, míg a Magyar Telekomé emelkedik.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/penz-es-tokepiac/2026/07/magyar-telekom-emelkedik-az-otp-esik",
+          "link": "https://www.vg.hu/penz-es-tokepiac/2026/07/forint-euro-dollar-bux-otp-mol-richter",
           "scope": "belfold"
         },
         {
-          "text": "Magyarország elveszítheti legnagyobb gyárait, mint az Audi vagy a BYD, ha egy bizonyos politikai helyzet eszkalálódik.",
+          "text": "A forint nagy zuhanás után próbál tapra állni.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/07/magyar-peter-vallalatok-gyori-audi-szegedi-byd-gyar",
+          "link": "https://www.vg.hu/penz-es-tokepiac/2026/07/forint-euro-dollar-bux-otp-mol-richter",
           "scope": "belfold"
         },
         {
-          "text": "A magyar gazdaság súlyos árat fizethet, ha a kormányfő nem változtat a hangnemén.",
+          "text": "Magyar Péter bejelentette az új magyar adószabályokat, amelyek eltörölnek és létrehoznak új sarcokat.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/07/magyar-peter-vallalatok-gyori-audi-szegedi-byd-gyar",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/07/magyar-peter-atfogo-adopolitikai-reform-tisza-kormany",
           "scope": "belfold"
         },
         {
-          "text": "Irán közlése szerint egy csepp olaj sem mehet át a Hormuzi-szoroson, amíg az országot lövik.",
+          "text": "A TISZA-kormány jelentős adópolitikai változásokról döntött.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/07/magyar-peter-atfogo-adopolitikai-reform-tisza-kormany",
+          "scope": "belfold"
+        },
+        {
+          "text": "A forintnak felemás napja volt pénteken.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kulpolitika/egy-csepp-olaj-sem-mehet-at-a-hormuzi-szoroson-kozolte-iran.html?utm_source=rss&utm_medium=referral",
-          "scope": "kulfold"
+          "link": "https://mfor.hu/cikkek/befektetes/nem-fog-pezsgot-bontani-ennyiert-adtak-az-eurot-penteken.html?utm_source=rss&utm_medium=referral",
+          "scope": "belfold"
         },
         {
-          "text": "Friss euró/forint árfolyamadatok érhetők el péntek reggel.",
+          "text": "A Magyar-kormány új javaslattal állt elő, melynek értelmében véget ér a kekvák adómentessége és adónemeket törölnek el.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/befektetes/bajban-van-a-forint-itt-van-mennyiert-adjak-az-eurot-pentek-reggel.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/makro/uj-javaslattal-allt-elo-a-magyar-kormany-veget-er-a-kekvak-adomentessege-adonemeket-torolnek-el.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-07-17T07:25:29.475Z",
+      "updatedAt": "2026-07-17T16:23:26.553Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -293,11 +311,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kulpolitika/ujabb-pusztito-legitamadast-szenvedett-el-ukrajna-pentek-hajnalban.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/befektetes/nem-fog-pezsgot-bontani-ennyiert-adtak-az-eurot-penteken.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-07-17T16:19:44.727Z"
+  }
 }
