@@ -1,64 +1,64 @@
 {
-  "generatedAt": "2026-07-31T07:58:01.955Z",
+  "generatedAt": "2026-07-31T16:51:32.812Z",
   "fx": {
-    "rate": 364.16,
-    "date": "2026-07-31T16:03:27.000Z",
+    "rate": 364.466,
+    "date": "2026-07-31T16:51:31.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "Az élő környezetért felelős miniszter szerint a mostani hőhullám tartósabb lesz, mint az előző.",
-          "source": "24.hu",
-          "link": "https://24.hu/tudomany/2026/07/31/gajdos-laszlo-hungaromet-hohullam-hokupola/",
+          "text": "A főváros támogatja a buszok és teherautók kanyarodási sebességének 10 km/h-ban való korlátozását.",
+          "source": "Telex",
+          "link": "https://telex.hu/belfold/2026/07/31/nagykorut-felujitas-kresz-nehezgepjarmu-kanyarodasi-sebesseg-holtter-baleset-gazolas-kerekparos",
           "scope": "belfold"
         },
         {
-          "text": "A Fidesz pártalapítványa Szabadság Tér néven indít új kezdeményezést, amely közösséget, védőhálót és emberi erőforrásközpontot kíván építeni.",
-          "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/07/31/fidesz-szabadsag-ter-kezdemenyezes/",
-          "scope": "belfold"
-        },
-        {
-          "text": "Magyar Péter szerint jelenleg az energiaszolgáltatás rendben üzemel.",
-          "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/07/31/magyar-plter-energia-valsag-paks/",
-          "scope": "belfold"
-        },
-        {
-          "text": "A paksi leállás az energetikai rendszer más hibáit is megmutatja, melyeket idejétmúlt jogszabályok és felkészületlen rendszer okoz.",
-          "source": "HVG",
-          "link": "https://hvg.hu/360/20260731_paksi-atomeromu-leallas-elavult-jogszabaly-tisza-kormany-krizishelyzet",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Hamász 2023. október 7-i támadása utáni háború miatt felerősödött az antiszemitizmus Nyugat-Európában.",
-          "source": "HVG",
-          "link": "https://hvg.hu/360/20260731_europaban-a-zsidok-csak-fegyveres-vedelemre-szamithatnak-a-tobbsegi-tarsadalom-onvizsgalatara-nem",
+          "text": "Románia eltereli a Duna egyik ágát a csernavodai atomerőmű 2-es reaktorának működése érdekében.",
+          "source": "Telex",
+          "link": "https://telex.hu/transtelex/2026/07/31/cernavoda-atomeromu-duna-eltereles-energiavalsag",
           "scope": "kulfold"
         },
         {
-          "text": "Magyar Péter szerint Paks egyelőre termel, és tegnap a tervezettnél kevesebb áramot fogyasztottak.",
+          "text": "Magyar Péter szerint a Paksi Atomerőmű leállítása nem jelent nukleáris veszélyt az országra.",
+          "source": "Telex",
+          "link": "https://telex.hu/gazdasag/2026/07/31/magyar-peter-kapitany-istvan-paksi-atomeromu-energiavalsag-hoseg-kanikula",
+          "scope": "belfold"
+        },
+        {
+          "text": "Oroszként azonosították a Lengyelországban lezuhant drónt.",
+          "source": "24.hu",
+          "link": "https://24.hu/kulfold/2026/07/31/lengyelorszag-lezuhant-dron-orosz/",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A miniszterelnök ellátogatott Paksra az atomerőmű körüli alacsony vízállás miatt.",
           "source": "HVG",
-          "link": "https://hvg.hu/gazdasag/20260731_magyar-peter-bejelentes-paks-atomeromu-termeles-fogyasztas-aram-energia-korlatozas",
+          "link": "https://hvg.hu/gazdasag/20260731_energiavalsag-paks-atomeromu-leallas-vizszint-duna-kepgaleria-alacsony-vizszint-uzemviz-csatorna",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Várkapitányság Nonprofit Zrt. adatai szerint 266 millió forintért lámpákat és 270 millió forintért orgonát szereztek be a Karmelitába.",
+          "source": "HVG",
+          "link": "https://hvg.hu/gazdasag/20260731_karmelita-kolostor-felujitas-varkapitanysag-szerzodes",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-07-31T07:57:01.021Z",
+      "updatedAt": "2026-07-31T16:50:17.247Z",
       "sourceLinks": [
         {
           "name": "Telex",
-          "link": "https://telex.hu/gazdasag/2026/07/31/mol-shell-ciprusi-leanyvallalat-megvasarlas-megallapodas"
+          "link": "https://telex.hu/techtud/2026/07/31/szemleletvalto-viztakarekos-tippek-fogmosastol-fozesig"
         },
         {
           "name": "24.hu",
-          "link": "https://24.hu/kultura/2026/07/31/netflix-nicolas-cage-lopas/"
+          "link": "https://24.hu/belfold/2026/07/31/tuz-11-kerulet-erdo-epulet/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/elet/20260731_ennyivel-csokkent-magyarorszag-nepessege-2026"
+          "link": "https://hvg.hu/gazdasag/20260731_mercedes-gyar-energiafelhasznalas"
         }
       ],
       "skipped": []
@@ -66,48 +66,42 @@
     "sport": {
       "items": [
         {
-          "text": "A Ferencváros 2-2-es döntetlent játszott a holland Twentével az Európa-liga-selejtező visszavágóján, és 4-3-as összesítéssel továbbjutott.",
+          "text": "Az RSM nyerte meg az idei, 58. alkalommal kiírt Kékszalag Balaton-kerülő vitorlásversenyt.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/07/31/vandor-robert-a-diadal-utan-ez-volt-az-eddigi-legemlekezetesebb-kekszalag-versenyunk",
+          "scope": "belfold"
+        },
+        {
+          "text": "A FIFA augusztus 14-én dönthet a világbajnokság 64 csapatosra bővítéséről.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/07/31/fontolgatja-a-fifa-a-64-csapatos-vilagbajnoksagot",
+          "scope": "kulfold"
+        },
+        {
+          "text": "66 éves korában elhunyt az AC Milan legendája, Franco Baresi.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/07/31/elhunyt-a-kapitany-akinel-jobb-futballistaval-paolo-maldini-soha-nem-jatszott",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Juhász Dorka 12 ponttal segítette győzelemhez a Minnesota Lynxet az észak-amerikai női kosárlabda-bajnokságban.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/07/31/juhasz-dorka-12-pontja",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Ferencváros 2-2-es döntetlent játszott a Twentével, és 4-3-as összesítéssel továbbjutott az Európa-liga-selejtezőjéből.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/2026/07/31/minden-ugy-tortent-ahogyan-elterveztuk-itt-a-fradi-edzojenek-nyilatkozata",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Vándor Róbert kormányozta RSM nyerte az 58. Kékszalag Raiffeisen Nagydíj vitorlásversenyt Balatonfüreden.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/07/30/kekszalag-az-rsm-nyerte-a-tokerulo-versenyt",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Győr 1-1-es döntetlent játszott a luxemburgi Atert Bissennel a Konferencia-liga selejtezőjének visszavágóján, de 7-3-as összesítéssel továbbjutott.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/07/30/kl-selejtezo-kifutyultek-a-gyort-a-szurkolok-de-tovabbjutott",
-          "scope": "belfold"
-        },
-        {
-          "text": "Carlo Ancelotti a brazil labdarúgó-válogatott középpályájának átalakítását tervezi a következő világbajnokságig.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/07/30/ancelotti-elarulta-hogyan-hozna-vissza-braziliat-a-futballvilag-tetejere",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az UEFA tagországai bojkottálnák a FIFA rendezvényeit, ha a FIFA magántőke bevonásával értékesítené tornáinak kereskedelmi jogait.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/07/30/az-uefa-tagorszagai-bojkottalnak-a-fifa-rendezvenyeket",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A Paks négygólos döntetlent játszott egy európai kupa mérkőzésen, de ez nem ért továbbjutást.",
-          "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/europa-liga/2026/07/video-leadta-ketgolos-elonyet-de-igy-is-kiejtette-a-twentet-a-ferencvaros",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-07-31T07:57:20.314Z",
+      "updatedAt": "2026-07-31T16:50:30.946Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/07/31/minden-ugy-tortent-ahogyan-elterveztuk-itt-a-fradi-edzojenek-nyilatkozata"
+          "link": "https://infostart.hu/sport/2026/07/31/vandor-robert-a-diadal-utan-ez-volt-az-eddigi-legemlekezetesebb-kekszalag-versenyunk"
         },
         {
           "name": "Nemzeti Sport",
@@ -119,44 +113,44 @@
     "technologia": {
       "items": [
         {
-          "text": "Akár 30 százalékos áremelés várható az Nvidia videókártyáknál.",
+          "text": "Az Nvidia videókártyáinak ára akár 30 százalékkal is emelkedhet 2026. július 31-ig.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/166292/akar-30-szazalekos-aremeles-jon-az-nvidia-videokartyaknal",
           "scope": "kulfold"
         },
         {
-          "text": "Az ausztrál tinédzserek többsége a tilalom ellenére is használja a közösségi médiát.",
+          "text": "A Microsoft nyeresége harmadával nőtt, amit a vállalat mesterséges intelligencia fejlesztésekre fordít.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166295/hiaba-a-tilalom-az-ausztral-tinedzserek-tobbsege-tovabbra-is-hasznalja-a-kozosse",
+          "link": "https://sg.hu/cikkek/it-tech/166301/harmadaval-nott-a-microsoft-nyeresege-de-ezt-el-is-kolti-mi-re",
           "scope": "kulfold"
         },
         {
-          "text": "Az ember által írt könyv prémium termékké válhat.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166271/premium-termekke-valhat-az-ember-altal-irt-konyv",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az Xbox példátlan szolgáltatáskiesése után újra fellángolt a vita a digitális jövőről.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/jatek/166293/az-xbox-peldatlan-szolgaltatas-kiesese-utan-ujra-fellangolt-a-vita-a-digitalis-j",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Veszélyes fordulatot vett a Samsung és az SK Hynix sikertörténete.",
+          "text": "A Samsung és az SK Hynix sikertörténete veszélyes fordulatot vett.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/166291/veszelyes-fordulatot-vett-a-samsung-es-az-sk-hynix-sikertortenete",
           "scope": "kulfold"
         },
         {
-          "text": "Az Egyesült Államok betiltotta a külföldön gyártott humanoid robotok és robotkutyák importját.",
+          "text": "A következő generációs okostelefonok és ARM-alapú laptopok árának drágulása várható egy nagy chipgyártó áremelése miatt.",
+          "source": "Infostart Tudomány",
+          "link": "https://infostart.hu/tudomany/2026/07/29/komolyabb-dragulas-johet-ami-az-okostelefonokat-es-a-laptopokat-is-erintheti",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Ausztráliában a tilalom ellenére a tinédzserek többsége továbbra is használja a közösségi médiát.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/tudomany/166289/az-egyesult-allamok-betiltotta-a-kulfoldon-gyartott-humanoid-robotok-es-robotkut",
+          "link": "https://sg.hu/cikkek/it-tech/166295/hiaba-a-tilalom-az-ausztral-tinedzserek-tobbsege-tovabbra-is-hasznalja-a-kozosse",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Az Xbox példátlan szolgáltatáskiesése ismét vitát váltott ki a digitális jövőről.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/jatek/166293/az-xbox-peldatlan-szolgaltatas-kiesese-utan-ujra-fellangolt-a-vita-a-digitalis-j",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-07-31T07:57:30.625Z",
+      "updatedAt": "2026-07-31T16:50:39.000Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
@@ -172,52 +166,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "A Paksi Atomerőmű leállásával kapcsolatos kritikus információkat sajtótájékoztatókon hozzák nyilvánosságra, míg a Dunamenti Erőmű blokkját időben újraindíthatják.",
+          "text": "Magyar Péter bejelentette, hogy a Paksi Atomerőmű kedden vagy szerdán teljesen leállhat.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20260731/tisza-kormany-hamarosan-kiderulhet-mikortol-all-le-paks-853242",
+          "link": "https://www.portfolio.hu/gazdasag/20260731/tisza-kormany-leall-paks-vizhiany-sujtja-szentendret-853242",
           "scope": "belfold"
         },
         {
-          "text": "A Mol-csoport 720 millió dolláros megállapodást kötött a Shellel, amellyel 35 százalékos részesedést szerez a ciprusi Aphrodite gázmezőben.",
+          "text": "A forint gyengült a Paksi Atomerőmű leállításáról szóló bejelentések nyomán.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/uzlet/20260731/nagy-uzletet-kotott-a-mol-es-a-shell-853278",
+          "link": "https://www.portfolio.hu/gazdasag/20260731/energiahianyban-szenved-a-forint-853240",
           "scope": "belfold"
         },
         {
-          "text": "Magyarországon az energiaszolgáltatás rendben üzemel, a Paksi Atomerőmű 960 megawatton termel, és a hálózat csúcsterhelése a tervezett alatt maradt.",
+          "text": "A Mol-csoport megállapodott a Shell-lel a BG Cyprus Ltd. százszázalékos tulajdonrészének megvásárlásáról.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/07/31/szamokat-kozolt-paksrol-magyar-peter",
+          "link": "https://infostart.hu/gazdasag/2026/07/31/shellt-vasarolt-a-mol",
           "scope": "belfold"
         },
         {
-          "text": "Az orosz kormány hat hónappal, augusztus 1-től 2027. január 31-ig meghosszabbította a dízelolaj és a benzin exporttilalmát.",
+          "text": "Júniusban a belföldi értékesítés termelői árai 1,8 százalékkal emelkedtek, az export árai pedig 1,4 százalékkal csökkentek.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/07/31/biztos-hogy-nem-kapunk-dizelolajat-az-oroszoktol",
+          "link": "https://infostart.hu/gazdasag/2026/07/31/csokkenve-emelkedtek-a-termeloi-arak",
+          "scope": "belfold"
+        },
+        {
+          "text": "A román kormány uszályokkal terelné el a Duna egyik ágát a csernavodai atomerőmű felé az energiaválság miatt.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/gazdasag/20260731/ilyen-meg-nem-volt-uszalyokkal-terelik-el-a-duna-egyik-agat-a-romanok-853438",
           "scope": "kulfold"
         },
         {
-          "text": "Az euróövezet gazdasága a második negyedévben az előző negyedévhez képest 0,4 százalékkal bővült, meghaladva az elemzői várakozásokat.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/07/30/a-nemet-es-az-olasz-gdp-is-meglepte-az-elemzoket",
+          "text": "Az Appeninn Nyrt. több mint 100 millió euró értékű kiskereskedelmi ingatlanportfólió vásárlását zárta le Lengyelországban.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/ingatlan/20260731/tobb-mint-100-millio-euros-ingatlanpiaci-tranzakciot-zart-az-appeninn-853434",
           "scope": "kulfold"
-        },
-        {
-          "text": "Magyarország GDP-je a második negyedévben negyedéves alapon 0,4, míg éves összevetésben 1,7 százalékkal nőtt a nyers adatok szerint.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/07/30/az-ipar-es-a-fogyasztas-huzza-a-gdp-t-de-komoly-fekek-jelentek-meg-elemzo",
-          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-07-31T07:57:42.246Z",
+      "updatedAt": "2026-07-31T16:50:58.186Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20260731/megvan-az-58-kekszalag-verseny-gyoztese-dramai-kuzdelmet-vivtak-a-szelcsenddel-es-a-szunyogokkal-853280"
+          "link": "https://www.portfolio.hu/gazdasag/20260731/sulyosbodik-a-valsag-energiakrizis-alakult-ki-magyarorszagon-sorra-teszik-a-bejelenteseket-a-cegek-853246"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/07/31/szamokat-kozolt-paksrol-magyar-peter"
+          "link": "https://infostart.hu/gazdasag/2026/07/31/uj-vezetok-az-mvm-nel"
         }
       ],
       "skipped": []
@@ -225,32 +219,26 @@
     "kornyezet": {
       "items": [
         {
-          "text": "Szakértők szerint a távhűtés gazdaságosabb megoldást jelenthetne a hőhullámok idején, mint a légkondicionálás.",
+          "text": "A 400 éves japán Kumamoto vár, valamint számos más örökségi helyszín megrongálódott a hét eleji, számos emberéletet követelő földrengésben.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/07/31/a-400-eves-japan-kumamoto-var-amelyet-epp-helyreallitanak-megrongalodott-a-foldrengesben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Marsra küldött Curiosity különös, végtelenbe nyúló, méhsejtszerű mintázatokat fotózott a bolygó felszínén, melyekről a kutatók eddig nem tudták, hogy ennyi van belőlük.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/07/31/kulonos-vegtelenbe-nyulo-mehsejtszeru-mintazatokat-fotozott-a-marson-a-curiosity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Szakértők állítják, hogy a távhűtés lehetne a leggazdaságosabb megoldás hőhullám idején, a mindenhol történő légkondicionáló telepítéssel szemben.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/07/31/a-tavhutes-lehetne-hohullam-idejen-a-leggazdasagosabb-megoldas-allitjak-szakertok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "belfold"
-        },
-        {
-          "text": "Gajdos László környezetért felelős miniszter kezdeményezi a kotorékvadászat betiltását, melynek megítélése összetett.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/07/31/kotorekvadaszat-allatkinzas-vagy-kozegeszsegugyi-es-termeszetvedelmi-kotelesseg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "belfold"
-        },
-        {
-          "text": "Drónfelvételeken látható a Duna rekordalacsony vízállása Budapestnél, eddig sosem látott mederszakaszokat tárva fel.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/07/30/igy-nez-ki-a-magasbol-a-rekordalacsony-duna?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "belfold"
-        },
-        {
-          "text": "Az MTA Natura Mirabilis pályázatának nyertes magyar természetfotói között gólyák és nagypele-kölykök is szerepelnek.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/07/30/ha-lemaradtal-volna-ezek-a-csodalatos-magyar-termeszetfotok-nyertek-az-mta-palyazatat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "belfold"
+          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-07-31T07:57:51.683Z",
+      "updatedAt": "2026-07-31T16:51:14.917Z",
       "sourceLinks": [
         {
           "name": "Greenfo",
@@ -258,7 +246,7 @@
         },
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/07/31/a-tavhutes-lehetne-hohullam-idejen-a-leggazdasagosabb-megoldas-allitjak-szakertok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/07/31/peren-kivuli-megallapodas-szuletett-a-kutatohalozat-altal-hasznalt-mta-vagyonnal-kapcsolatos-perben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": []
@@ -266,42 +254,55 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Éves szinten továbbra is csökkennek az ipari árak.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/eves-szinten-tovabbra-is-csokkennek-az-ipari-arak.html?utm_source=rss&utm_medium=referral",
+          "text": "Sorra csavarják le Magyarország legnagyobb gyárait, ami várhatóan fájni fog a gazdaságnak.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/07/energia-ez-fajni-fog-tisza-lista-nagyfogyasztok",
           "scope": "belfold"
         },
         {
-          "text": "A legtöbb új lakás Budapesten épül.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/ingatlan/friss-adatsor-itt-epul-a-legtobb-uj-lakas-budapesten.html?utm_source=rss&utm_medium=referral",
+          "text": "Repedezik az EU–Mercosur alku, miután egy évi harmincmillió marhát levágó brazil cég feladta klímavédelmi céljait.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/07/mercosur-repedezik-az-alku-unios-gazdak-felelmei",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Paksi Atomerőmű kedden állhat le teljesen, ahol a 4 biztonsági szintből már a 3-asnál tartanak.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/07/paks-leallas-magyar-peter-nuklearis-energia",
           "scope": "belfold"
         },
         {
-          "text": "A Dunamenti Erőmű vasárnap újraindulhat, ami 380 megawattos pluszkapacitást jelent.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozelet/kis-fellelegzes--vasarnap-ujraindulhat-a-dunamenti-eromu.html?utm_source=rss&utm_medium=referral",
+          "text": "Az erőmű tervezett biztonsági protokoll szerinti leállítása zajlik, és a jelenlegi számítások szerint kedden állhat le teljesen a paksi erőmű.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/07/paks-leallas-magyar-peter-nuklearis-energia",
           "scope": "belfold"
         },
         {
-          "text": "A forint párfilléres gyengülést és erősödést mutatott a devizapiacon.",
+          "text": "Augusztus 1-jén lesz 80 éves a forint.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/befektetes/devizapiaci-szelcsendben-probalja-tartani-magat-a-forint.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/kozelet/nyolcvaneves-lett-a-forint-es-nagyon-csunyan-oregedett-meg.html?utm_source=rss&utm_medium=referral",
+          "scope": "belfold"
+        },
+        {
+          "text": "A forint gyengüléssel zárta a napot, a hetet és júliust is.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/befektetes/nemcsak-a-pentek-az-egesz-honap-csalodas-volt-a-forint-szamara.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-07-31T07:58:01.906Z",
+      "updatedAt": "2026-07-31T16:51:32.527Z",
       "sourceLinks": [
         {
+          "name": "VG.hu",
+          "link": "https://www.vg.hu/reszvenyek"
+        },
+        {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kulpolitika/legalabb-15-bevandorlo-fulladt-bele.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/kozelet/nyolcvaneves-lett-a-forint-es-nagyon-csunyan-oregedett-meg.html?utm_source=rss&utm_medium=referral"
         }
       ],
-      "skipped": [
-        "VG.hu"
-      ]
+      "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-07-31T16:03:30.357Z"
+  }
 }
