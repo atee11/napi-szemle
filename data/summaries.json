@@ -1,64 +1,64 @@
 {
-  "generatedAt": "2026-08-02T07:38:05.500Z",
+  "generatedAt": "2026-08-03T08:37:44.305Z",
   "fx": {
-    "rate": 363.159,
-    "date": "2026-08-03T07:34:11.000Z",
+    "rate": 363.651,
+    "date": "2026-08-03T08:37:43.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "Az EU rendkívüli belügyminiszteri értekezletet tart kedden a ceutai válság miatt, a migránsok tömeges átkelése okán.",
+          "text": "A Fidesz elnöksége illegitimnek tekinti Forsthoffer Ágnest, a Sándor-palota „illegális lakásfoglalójának” nevezve őt.",
           "source": "Telex",
-          "link": "https://telex.hu/kulfold/2026/08/02/ceuta-valsag-menekultek-spanyolorszag-europai-unio-kulugyminiszteri-ertekezlet",
-          "scope": "kulfold"
+          "link": "https://telex.hu/belfold/2026/08/03/fidesz-elnokseg-forsthoffer-agnes-sandor-palota",
+          "scope": "belfold"
         },
         {
-          "text": "Az energiakrízis miatt változik a NAV nyitvatartása, az államigazgatás augusztus 3-tól 5-ig otthoni munkavégzésre áll át.",
+          "text": "Feledy Botond lett a Magyar Külügyi Intézet új vezetője, az intézet visszakerül a Külügyminisztérium irányítása alá.",
+          "source": "Telex",
+          "link": "https://telex.hu/belfold/2026/08/03/feledy-botond-magyar-kulugyi-intezet-uj-vezetoje",
+          "scope": "belfold"
+        },
+        {
+          "text": "A parlamenti frakcióvezetők már a Sándor-palotában tartózkodnak.",
           "source": "24.hu",
-          "link": "https://24.hu/fn/gazdasag/2026/08/02/nav-nyitvatartas-szemelyes-ugyfelfogadas-hoseg/",
+          "link": "https://24.hu/belfold/2026/08/03/a-frakciovezetok-mar-a-sandor-palotaban/",
           "scope": "belfold"
         },
         {
-          "text": "Forsthoffer Ágnes házelnök szerint Magyarország nehéz, kritikus napok előtt áll.",
+          "text": "Bóka János, a Fidesz frakcióvezetője szerint az energiakrízis kezelésében nincsen nagyobb baj az elmúlt 16 év fejlesztési eredményeinek köszönhetően.",
           "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/08/02/forsthoffer-agnes-energiakrizis/",
+          "link": "https://24.hu/belfold/2026/08/03/boka-janos-az-energiakrizisrol-hogy-nincsen-nagyobb-baj-az-az-elmult-16-ev-fejlesztesi-eredmenyeinek-koszonheto/",
           "scope": "belfold"
         },
         {
-          "text": "Trump egyelőre elhalasztotta az Irán elleni újabb támadást, mert úgy tűnik, küszöbön áll egy megállapodás.",
+          "text": "A Fidesz belső körlevélben illegitimnek nyilvánította Sulyok Tamás eltávolítását az államfői tisztségből, és Forsthoffer Ágnes megbízatását.",
           "source": "HVG",
-          "link": "https://hvg.hu/vilag/20260802_trump-egyelore-elhalasztotta-az-iran-elleni-ujabb-tamadast",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A Paksi Atomerőmű mind a négy blokkja egyszerre áll le 44 év óta először.",
-          "source": "HVG",
-          "link": "https://hvg.hu/itthon/20260802_10-szazalek-paksi-atomeromu-teljes-lekapcsolas",
+          "link": "https://hvg.hu/itthon/20260803_a-fidesz-szerint-forsthoffer-agnes-a-sandor-palota-illegalis-lakasfoglaloja",
           "scope": "belfold"
         },
         {
-          "text": "Az extrém hőség és a nemzetközi helyzet súlyosbítja az energiaválságot, ami a Tisza-kormány első igazi erőpróbáját jelenti.",
+          "text": "A költségvetés a tervezettnél kevesebb rendelkezésre állási díjat fizetett egy Mészáros Lőrinc érdekeltségébe tartozó sztrádakoncessziós társaságnak, 112 milliárd forinttal kevesebb kiadással.",
           "source": "HVG",
-          "link": "https://hvg.hu/gazdasag/20260802_es-akkor-forrosag-aszaly-energia-paks-aram-viz-gdp-novekedes-uzemanyag-ebx",
+          "link": "https://hvg.hu/gazdasag/20260803_junius-koltsegvetes-allamhaztartas-sztradakoncesszio-koncesszios-dij-ebx",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-02T07:36:51.743Z",
+      "updatedAt": "2026-08-03T08:36:26.891Z",
       "sourceLinks": [
         {
           "name": "Telex",
-          "link": "https://telex.hu/kulfold/2026/08/02/peru-nazca-vonalak-repulogepbaleset-turistak-cessna"
+          "link": "https://telex.hu/gazdasag/2026/08/03/otthon-start-ingatlanpiac-julius-kereslet-kinalat"
         },
         {
           "name": "24.hu",
-          "link": "https://24.hu/belfold/2026/08/02/m1-es-bicske-harmas-karambol/"
+          "link": "https://24.hu/belfold/2026/08/03/a-frakciovezetok-mar-a-sandor-palotaban/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/vilag/20260802_trump-egyelore-elhalasztotta-az-iran-elleni-ujabb-tamadast"
+          "link": "https://hvg.hu/kkv/20260803_bmi-ipar-novekedes-menedzser-index"
         }
       ],
       "skipped": []
@@ -66,48 +66,48 @@
     "sport": {
       "items": [
         {
-          "text": "A magyar vegyes váltó aranyérmet nyert a triatlon sprint távú Európa-bajnokságán Lengyelországban.",
+          "text": "Tajti-Márton Anita olimpiai bronzérmes, világbajnok súlylökő indul a Magyar Atlétikai Szövetség (MASZ) elnöki posztjáért.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/01/magyar-eb-arany-triatlonban",
+          "link": "https://infostart.hu/sport/2026/08/03/nagy-nev-szall-be-a-masz-elnoki-versenyebe",
           "scope": "belfold"
         },
         {
-          "text": "Gulácsi Péter nem utazik a Lipcsével, mivel a Villarreal 2 millió eurót fizet érte.",
-          "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/legiosok/2026/08/gulacsi-nem-utazott-el-a-lipcsevel-a-villarreal-2-millio-eurot-fizet-erte",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Kispest-MTK mérkőzés gólzáporos döntetlennel ért véget egy kapusbakit követően.",
+          "text": "Szoboszlai Dominikkel és Kerkez Milossal a kezdőcsapatban felálló Liverpool kétgólos előnyről kapott ki 4–2-re a Leeds Unitedtől amerikai túráján.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/01/hatalmas-kapusbakival-lett-golzaporos-dontetlen-a-kispest-mtk",
-          "scope": "belfold"
-        },
-        {
-          "text": "Gianni Infantino, a FIFA elnöke elállt a világbajnokságok privatizációjára vonatkozó tervétől a tiltakozások hatására.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/01/torest-jelenthet-a-fifa-elnok-karrierjeben-az-elbaltazott-privatizacios-otlet",
+          "link": "https://infostart.hu/sport/2026/08/03/eloszor-tortent-ilyen-szoboszlaiekkal",
           "scope": "kulfold"
         },
         {
-          "text": "A Real Madrid kétgólos előnyről sem tudta megnyerni a mérkőzését a Fiorentina ellen.",
-          "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/minden-mas-foci/2026/08/ket-gollal-is-vezetett-megsem-nyert-a-real-madrid-a-fiorentina-ellen",
-          "scope": "kulfold"
+          "text": "Egy magyar labdarúgó életét vesztette egy edzőmeccs után.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/08/02/halal-a-foci-utan-elhunyt-egy-magyar-labdarugo",
+          "scope": "belfold"
         },
         {
-          "text": "A Nauszikaa nevű hajó volt az utolsó, amely a 48 órás szintidőn belül teljesítette az 58. Kékszalag Raiffeisen Nagydíj távját.",
+          "text": "Életének 91. évében elhunyt Kristóf László, a körmendi kosárlabdaklub alapítója.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/01/kekszalag-gyalogtempoban-ment-korbe-a-leglassabb-celba-ero",
+          "link": "https://infostart.hu/sport/2026/08/02/elhunyt-kristof-laszlo-a-legenda",
+          "scope": "belfold"
+        },
+        {
+          "text": "Sós Csaba szerint a párizsi úszó Eb-n akár 8 magyar versenyző is döntőbe juthat, és a világklasszisok esélyesek a végső győzelemre.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/08/02/sos-csaba-a-parizsi-eb-rol-nyolc-versenyzonk-juthat-dontobe-vilagklasszisaink-a-vegso-gyozelemre-is-eselyesek",
+          "scope": "belfold"
+        },
+        {
+          "text": "Szűkítették a Ferencváros lehetséges ellenfeleit az Európa Liga-selejtező rájátszására.",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/europa-liga/2026/08/el-selejtezo-szukitettek-a-ferencvaros-lehetseges-ellenfeleit-a-rajatszasra",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-02T07:37:04.822Z",
+      "updatedAt": "2026-08-03T08:36:46.050Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/01/hatalmas-kapusbakival-lett-golzaporos-dontetlen-a-kispest-mtk"
+          "link": "https://infostart.hu/sport/2026/08/03/nagy-nev-szall-be-a-masz-elnoki-versenyebe"
         },
         {
           "name": "Nemzeti Sport",
@@ -119,15 +119,27 @@
     "technologia": {
       "items": [
         {
-          "text": "Egy Falcon 9 rakéta hamarosan a Holdba csapódik, melynek ütközése akár a Földről is látható lehet.",
+          "text": "A Google egy napra rendkívül egyszerűvé tette a műholdfelvételek meghamisítását.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/tudomany/166309/egy-falcon-9-raketa-hamarosan-a-holdba-csapodik-es-az-utkozes-akar-a-foldrol-is-",
+          "link": "https://sg.hu/cikkek/it-tech/166322/a-google-egy-napra-rendkivul-egyszeruve-tette-a-muholdfelvetelek-meghamisitasat",
           "scope": "kulfold"
         },
         {
-          "text": "Az Európai Unió hét adatközpont építését tervezi 30 milliárd euróból.",
+          "text": "A mesterséges intelligencia katasztrofális túlköltekezést okozott az Amazonnál.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/166300/katasztrofalis-tulkoltekezest-okozott-a-mesterseges-intelligencia-az-amazonnal",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Az Európai Unió hét adatközpontot építene 30 milliárd euróból.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/166297/het-adatkozpontot-epitene-30-milliard-eurobol-az-europai-unio",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Egy Falcon 9 rakéta hamarosan a Holdba csapódik, az ütközés akár a Földről is látható lehet.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/tudomany/166309/egy-falcon-9-raketa-hamarosan-a-holdba-csapodik-es-az-utkozes-akar-a-foldrol-is-",
           "scope": "kulfold"
         },
         {
@@ -137,34 +149,22 @@
           "scope": "kulfold"
         },
         {
-          "text": "Az Nvidia videókártyáknál akár 30 százalékos áremelés várható.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166292/akar-30-szazalekos-aremeles-jon-az-nvidia-videokartyaknal",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A Microsoft nyeresége harmadával nőtt, amit mesterséges intelligencia fejlesztésekre fordít.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166301/harmadaval-nott-a-microsoft-nyeresege-de-ezt-el-is-kolti-mi-re",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A Google azon dolgozik, hogy a Chrome böngésző újraindítás nélkül frissülhessen.",
+          "text": "A Google egy újításon dolgozik, melynek köszönhetően újraindítás nélkül frissülhet a Chrome böngésző.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/tech/2026/08/02/nagy-ujitason-dolgozik-a-google",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-02T07:37:14.548Z",
+      "updatedAt": "2026-08-03T08:36:56.659Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/tudomany/166309/egy-falcon-9-raketa-hamarosan-a-holdba-csapodik-es-az-utkozes-akar-a-foldrol-is-"
+          "link": "https://sg.hu/cikkek/film/166310/pokember-vadonatuj-nap-vegre-nemcsak-a-varost-hanem-peter-parkert-is-meg-kell-me"
         },
         {
           "name": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/tech/2026/08/02/nagy-ujitason-dolgozik-a-google"
+          "link": "https://infostart.hu/tudomany/2026/08/03/aggaszto-helyen-fedeztek-fel-a-pfizer-oltas-kulonos-mellekhatasat"
         }
       ],
       "skipped": []
@@ -172,52 +172,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "A Paksi Atomerőműben a 4. blokk leállítása után már csak a 2. blokk termel 50 százalékos teljesítménnyel.",
+          "text": "A Duna alacsony vízállása miatt várhatóan leállhat a paksi atomerőmű, ezért a kormány fogyasztáskorlátozásra kérte a lakosságot és az ipari fogyasztókat.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20260802/energiakrizis-hamarosan-teljesen-leallhat-a-paksi-atomeromu-853568",
+          "link": "https://www.portfolio.hu/gazdasag/20260803/tisza-kormany-meg-huzza-a-paksi-atomeromu-utolso-blokkja-de-az-ot-legkritikusabb-nap-kovetkezik-853670",
           "scope": "belfold"
         },
         {
-          "text": "A Nemzeti Adó- és Vámhivatal (NAV) a rendkívüli körülmények miatt a helyszínek adottságaihoz igazítja a személyes ügyfélfogadást.",
+          "text": "Életbe lépett az a jogszabály, amelynek értelmében az állam visszatéríti a szén-dioxid-kvótaadót és annak kamatait több hazai cégnek.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20260802/valtozik-a-nav-nyitvatartasa-a-hoseg-miatt-853582",
+          "link": "https://www.portfolio.hu/gazdasag/20260803/eletbe-lepett-a-dontes-rengeteg-penzt-kap-vissza-a-mol-es-a-tobbi-hazai-oriasceg-853706",
           "scope": "belfold"
         },
         {
-          "text": "A MÁV bejelentése szerint augusztus 3-tól december 12-ig pótlóbusz közlekedik Kiskunfélegyháza és Szentes között pályafelújítás miatt.",
+          "text": "Az orosz-ukrán tengeri harcok miatt lebénulhat a gabonakereskedelem, ami súlyos élelmiszerhiányhoz vezethet.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20260802/mav-negy-honapra-leall-a-vasuti-kozlekedes-kiskunfelegyhaza-es-szentes-kozott-853580",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Nemzetközi Megújulóenergia-ügynökség (IRENA) jelentése szerint a villamosítás felgyorsítása és a tiszta energiára épülő infrastruktúra kiépítése gazdasági és versenyképességi kérdéssé vált.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20260802/visszafordithatatlan-folyamat-indult-el-a-globalis-energiarendszerben-dominanssa-valhat-az-aram-852634",
+          "link": "https://www.portfolio.hu/global/20260803/lebenulhat-a-gabonakereskedelem-sulyos-elelmiszerhiany-johet-az-orosz-ukran-tengeri-harcok-miatt-853708",
           "scope": "kulfold"
         },
         {
-          "text": "A Duna magas hőmérséklete és alacsony vízállása visszafoghatja a Paksi Atomerőmű termelését, mivel a felmelegített hűtővizet nem lehet korlátlanul visszaengedni a folyóba.",
+          "text": "A kőolaj világpiaci ára jelentősen csökkent, miután Donald Trump bejelentette az Irán elleni katonai csapás elhalasztását.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/08/01/paksi-leallas-milyen-megoldasok-merulhetnek-fel",
-          "scope": "belfold"
+          "link": "https://infostart.hu/gazdasag/2026/08/03/egy-mondat-utan-oriasi-fordulat-az-olajpiacon",
+          "scope": "kulfold"
         },
         {
-          "text": "Az Európai Bizottság hivatalos kifogásokat küldött a Temu online piactér tulajdonosának, mert előzetes álláspontja szerint akadályozták a testület helyszíni vizsgálatát.",
+          "text": "A Német Iparszövetség szerint a német ipar komoly kihívásokkal szembesül Kína miatt, ami nyomást gyakorol az európai gazdaságra.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/07/31/sulyos-unios-kifogasok-ertek-a-temut-megint",
+          "link": "https://infostart.hu/gazdasag/2026/08/02/sokkolja-nemetorszagot-kina",
           "scope": "kulfold"
+        },
+        {
+          "text": "Az országos energiapiaci helyzetre tekintettel az Auchan Retail Magyarország energiatakarékossági intézkedéseket vezetett be.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/08/02/valtozas-az-auchanban",
+          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-02T07:37:35.937Z",
+      "updatedAt": "2026-08-03T08:37:10.695Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20260802/tisza-kormany-energiavalsaggal-kuzd-magyarorszag-853570"
+          "link": "https://www.portfolio.hu/gazdasag/20260803/tisza-kormany-meg-huzza-a-paksi-atomeromu-utolso-blokkja-de-az-ot-legkritikusabb-nap-kovetkezik-853670"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/08/01/negyed-milliard-forintot-osztottak-ki-9-remenykelto-magyar-startup-kozott"
+          "link": "https://infostart.hu/gazdasag/2026/08/03/egy-mondat-utan-oriasi-fordulat-az-olajpiacon"
         }
       ],
       "skipped": []
@@ -231,26 +231,20 @@
           "scope": "kulfold"
         },
         {
-          "text": "A Greenfo hírlevelek feliratkozási lehetőségét biztosítja.",
-          "source": "Greenfo",
-          "link": "https://greenfo.hu/hirlevel-feliratkozas/",
-          "scope": "belfold"
+          "text": "Tucatnyi másik örökségi helyszín is kisebb-nagyobb károkat szenvedett Japánban, Kumamoto prefektúra területén a földrengésben.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/07/31/a-400-eves-japan-kumamoto-var-amelyet-epp-helyreallitanak-megrongalodott-a-foldrengesben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
         },
         {
-          "text": "A Greenfo Iránytű címmel podcastet kínál.",
-          "source": "Greenfo",
-          "link": "https://greenfo.hu/hirek/podcastok/podcast/",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Greenfo Zöld hét – Hírháttér címmel podcastet ad ki.",
-          "source": "Greenfo",
-          "link": "https://greenfo.hu/hirek/podcastok/zold-het/",
-          "scope": "belfold"
+          "text": "A földrengés számos emberéletet követelt Japánban, Kumamoto prefektúra területén.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/07/31/a-400-eves-japan-kumamoto-var-amelyet-epp-helyreallitanak-megrongalodott-a-foldrengesben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-02T07:37:52.904Z",
+      "updatedAt": "2026-08-03T08:37:24.937Z",
       "sourceLinks": [
         {
           "name": "Greenfo",
@@ -258,7 +252,7 @@
         },
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/08/02/megerkezett-a-sci-fikbol-ismert-beszelo-ai-mikozben-az-emberi-szovegre-ehes-techcegek-konyveket-daralnak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/08/03/a-jo-iskolat-mar-szaz-eve-kitalaltak-csak-azota-elfelejtettuk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": []
@@ -266,38 +260,44 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "A Barátság kőolajvezeték orosz üzemeltetője kivonult Magyarország közvetlen szomszédjából.",
+          "text": "Paks teljes leállítása öt centiméteren múlik.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/08/baratsag-koolajvezetek-orosz-uzemelteto-kivonul-szlovak",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/08/magyar-peter-paks-aszaly-atomeromu-leallitas",
+          "scope": "belfold"
+        },
+        {
+          "text": "A nagyfogyasztók lekapcsolása is napirenden van Magyarországon.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/08/magyar-peter-paks-aszaly-atomeromu-leallitas",
+          "scope": "belfold"
+        },
+        {
+          "text": "Magyarország áramimportra szorul.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/08/paks-harfas-serulekeny-import",
+          "scope": "belfold"
+        },
+        {
+          "text": "Az arany drágult, a dollár pedig gyengült az európai tőzsdenyitás során.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/befektetes/trump-fujja-az-europai-tozsdenyitas-passzatszelet.html?utm_source=rss&utm_medium=referral",
           "scope": "kulfold"
         },
         {
-          "text": "Az energiaválság miatt a legnagyobb magyarországi gyárak feketelistára kerültek.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/08/aramkrizis-paks-energia-rendelet-gyarak-magyarorszag",
+          "text": "A magyarok majd fél paksnyi áramtermelést spóroltak meg.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/kozelet/majd-fel-paksnyi-aramtermelest-sporoltak-meg-a-magyarok.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         },
         {
-          "text": "Magyar Péter szerint elkerülhetetlenné vált a teljes leállás Pakson, amire 44 éve nem volt példa.",
+          "text": "Kibertámadás érte a Magyar Államkincstárat, de anyagi kár nem keletkezett.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozerdeku/elkerulhetetlen-teljes-leallas-pakson-magyar-peter.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/kozelet/kibertamadas-erte-a-magyar-allamkincstarat--orosz-hekkerek-is-lehetnek-a-hatterben.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
-        },
-        {
-          "text": "Továbbra is komoly bérszakadékok tátongnak Magyarországon.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/meg-mindig-komoly-berszakadekok-tatonganak-magyarorszagon--a-het-abraja-20260802.html?utm_source=rss&utm_medium=referral",
-          "scope": "belfold"
-        },
-        {
-          "text": "Figyelmeztetést kaptak a Közel-Keleten élő amerikaiak.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kulpolitika/kirobban-a-feszultseg-figyelmeztettek-az-amerikaiakat-a-kozel-keleten.html?utm_source=rss&utm_medium=referral",
-          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-02T07:38:05.311Z",
+      "updatedAt": "2026-08-03T08:37:44.092Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -305,11 +305,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozerdeku/sulyos-kapcsolasi-rendet-modositas-aramszunet-paks.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/befektetes/trump-fujja-az-europai-tozsdenyitas-passzatszelet.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-08-03T07:34:12.050Z"
+  }
 }
