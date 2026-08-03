@@ -1,8 +1,8 @@
 {
   "generatedAt": "2026-08-03T08:37:44.305Z",
   "fx": {
-    "rate": 363.914,
-    "date": "2026-08-03T11:33:18.000Z",
+    "rate": 364.507,
+    "date": "2026-08-03T14:53:02.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
@@ -311,5 +311,5 @@
       "skipped": []
     }
   },
-  "fxUpdatedAt": "2026-08-03T11:33:19.726Z"
+  "fxUpdatedAt": "2026-08-03T14:53:04.479Z"
 }
