@@ -1,64 +1,58 @@
 {
-  "generatedAt": "2026-08-05T16:47:52.238Z",
+  "generatedAt": "2026-08-06T07:46:54.513Z",
   "fx": {
-    "rate": 363.377,
-    "date": "2026-08-06T07:43:52.000Z",
+    "rate": 363.251,
+    "date": "2026-08-06T07:46:54.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "Hosszú bejegyzésben reagált a Facebookon az elmúlt napok történéseire az újságíró, akinek a kinevezését Magyar Péter kommentje után, az első munkanapja végén vissza is vonták.",
+          "text": "A New York-i Újságírókat Védő Bizottság (CPJ) elismerte Szabolcs Panyi magyar újságírót az Orbán-kormány orosz kapcsolatairól szóló tudósításaiért.",
           "source": "Telex",
-          "link": "https://telex.hu/after/2026/08/05/hajdu-gabor-mtva-m1-hirado-foszerkeszto-kinevezes-visszavonas-magyar-peter-hirtv-echo-tv-meszaros-csoport",
-          "scope": "kulfold"
+          "link": "https://telex.hu/english/2026/08/06/cpj-recognises-hungarian-journalist-szabolcs-panyi-for-exposing-orban-government-s-russian-ties",
+          "scope": "belfold"
         },
         {
-          "text": "Felkerült a YouTube-ra a Kéz, szív, lélek – magyar kortárs művészek nyomában című film első két része.",
+          "text": "Az iráni elnök szerint nehéz felvenni a kapcsolatot Modzstaba Hamanei legfelsőbb vezetővel, aki kinevezése óta nem mutatkozott a nyilvánosság előtt.",
           "source": "Telex",
-          "link": "https://telex.hu/belfold/2026/08/05/kez-sziv-lelek-magyar-kortars-muveszek-nyomaban-film-youtube-elso-ket-resz-fasy-zsuliett-cegei-nka-tamogatas",
+          "link": "https://telex.hu/kulfold/2026/08/06/az-irani-elnok-szerint-nagyon-nehez-kapcsolatba-lepni-modzstaba-hamanei-legfelsobb-vezetovel",
           "scope": "kulfold"
         },
         {
-          "text": "The post Meghalt a magyar evezőssport egyik legnagyobb alakja, Melis Zoltán first appeared on 24.hu.",
-          "source": "24.hu",
-          "link": "https://24.hu/sport/2026/08/05/evezes-gyasz-halal-melis-zoltan/",
-          "scope": "kulfold"
-        },
-        {
-          "text": "The post Meghalt a világ egyik legismertebb, de legellentmondásosabb hegymászója – mit hagy örökségül Nirmal Purja a mászóvilágnak?",
-          "source": "24.hu",
-          "link": "https://24.hu/sport/2026/08/05/nirmal-purja-lavina-hegymaszas/",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Horn Gábor: Az új köztársasági elnök első napjait is megnehezítheti, hogy elmaradt a társadalom által várt egyeztetés a jelölésről.",
+          "text": "Matusik Tamás, a Fővárosi Törvényszék elnöke szerint a bírói kar azt várja, hogy ne lincshangulatban kelljen működnie.",
           "source": "HVG",
-          "link": "https://hvg.hu/360/20260805_koztarsasagi-elnok-valasztas-tisza-magyar-peter-horn-gabor",
-          "scope": "kulfold"
+          "link": "https://hvg.hu/360/20260806_matusik-tamas-fovarosi-torvenyszek-elnok-hvg-portre-interju",
+          "scope": "belfold"
         },
         {
-          "text": "Kommunikációs hibát követett el Magyar Péter miniszterelnök, amikor az egyik nyilatkozatával azt a látszatot keltette, hogy valódi társadalmi egyeztetés lesz az új köztársasági elnök személyéről – mondta a HVG-nek Horn Gábor, a Republikon Alapítvány kuratóriumi elnöke.",
+          "text": "A Fővárosi Törvényszék új elnöke fontosnak tartja az Orbán-kormány utolsó évében bevezetett jogalkotási változások eltörlését.",
           "source": "HVG",
-          "link": "https://hvg.hu/360/20260805_koztarsasagi-elnok-valasztas-tisza-magyar-peter-horn-gabor",
-          "scope": "kulfold"
+          "link": "https://hvg.hu/360/20260806_matusik-tamas-fovarosi-torvenyszek-elnok-hvg-portre-interju",
+          "scope": "belfold"
+        },
+        {
+          "text": "A magyar külügyminiszter segítséget kért a szlovák kormánytól a vízellátás biztosításához, amire azt az ígéretet kapta, hogy eső esetén továbbítják a többletvizet.",
+          "source": "HVG",
+          "link": "https://hvg.hu/itthon/20260806_orban-anita-tobb-vizet-kert-a-szlovakoktol-akik-azt-uzentek-majd-ha-esik",
+          "scope": "belfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-08-05T16:47:11.003Z",
+      "engine": "gemini",
+      "updatedAt": "2026-08-06T07:45:54.886Z",
       "sourceLinks": [
         {
           "name": "Telex",
-          "link": "https://telex.hu/after/2026/08/05/korhazba-kerult-perez-hilton-elo-adas-rajongok-ertesitettek-rendorseg"
+          "link": "https://telex.hu/kulfold/2026/08/06/elado-neil-armstrong-gyerekkori-otthona-ohio-egyesult-allamok"
         },
         {
           "name": "24.hu",
-          "link": "https://24.hu/sport/2026/08/05/evezes-gyasz-halal-melis-zoltan/"
+          "link": "https://24.hu/tech/2026/08/06/meglepo-eredmeny-kepernyo-gyerekek-kozossegi-media/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/itthon/20260805_duna-vizallas-szallodahajo"
+          "link": "https://hvg.hu/360/20260806_matusik-tamas-fovarosi-torvenyszek-elnok-hvg-portre-interju"
         }
       ],
       "skipped": []
@@ -66,48 +60,48 @@
     "sport": {
       "items": [
         {
-          "text": "Melis Zoltán olimpiai ezüstérmes evezős, korábbi szövetségi kapitány 78 éves korában elhunyt.",
+          "text": "A Ferencváros 1–0-ra legyőzte a lengyel Górnik Zabrzét az Európa-liga selejtezőjének harmadik fordulójában.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/05/ujabb-magyar-olimpiai-hos-tavozott",
+          "link": "https://infostart.hu/sport/2026/08/05/megtette-az-elso-lepest-a-fradi",
           "scope": "belfold"
         },
         {
-          "text": "Gulácsi Péter, a magyar labdarúgó-válogatott korábbi kapusa jól mutatkozott be új csapatában Spanyolországban.",
+          "text": "A Debrecen dán csapatot fogad, a Győr pedig Lettországban játszik a Konferencia-liga keretei között.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/05/gulacsi-bemutatkozott-uj-csapataban-igy-alakult-az-eredmeny",
+          "link": "https://infostart.hu/sport/2026/08/06/a-fradi-utan-jonnek-a-tobbiek-sport-a-teveben",
           "scope": "belfold"
         },
         {
-          "text": "A Ferencváros a Groupama Arénában játssza az Európa-liga harmadik selejtezőkörének első mérkőzését egy lengyel bajnoki ezüstérmes ellen.",
+          "text": "Az UEFA szabályt változtatott, így a 2026/27-es idénytől négy sárga lap után jár majd eltiltás az európai kupasorozatok főtábláján.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/05/egy-aranykorat-ujra-idezo-banyaszcsapat-var-ma-a-ferencvarosra",
-          "scope": "belfold"
-        },
-        {
-          "text": "A magyar bajnok Győr a lett FC Riga vendégeként folytatja európai menetelését a Konferencia-liga selejtezőjének harmadik fordulójában.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/05/sok-a-baj-a-gyornel-ugy-utaznak-rigaba",
-          "scope": "belfold"
-        },
-        {
-          "text": "Mihályvári-Farkas Viktória újabb ezüstérmet nyert 10 kilométeres nyílt vízi úszásban a párizsi Európa-bajnokságon.",
-          "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/uszas/2026/08/nyilt-vizi-uszas-mihalyvari-farkas-viktoria-ujabb-eb-ezustor-nyert-parizsban",
-          "scope": "belfold"
-        },
-        {
-          "text": "Gianni Infantino, a Nemzetközi Labdarúgó Szövetség (FIFA) elnöke válságtanácskozást hívott össze a visszavont gazdasági tervei miatt.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/05/valsagtanacskozast-tart-a-bukas-szelen-allo-fifa-vezer",
+          "link": "https://infostart.hu/sport/2026/08/06/kesobb-jar-az-eltiltas-valtoztatott-a-szabalyokon-az-uefa",
           "scope": "kulfold"
+        },
+        {
+          "text": "Mohamed Szalah, a Liverpooltól távozott egyiptomi labdarúgó a török Trabzonspor csapatához igazolt.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/08/05/mohamed-szalah-is-erkezhet-budapestre",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Lionel Messi két góllal járult hozzá az Inter Miami győzelméhez a Ligák Kupájában.",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/minden-mas-foci/2026/08/messi-ket-gollal-segitette-gyozelemhez-az-inter-miamit-a-ligak-kupajaban",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Ruják András korábbi válogatott irányító kilenc év után igazolt vissza Sopronba.",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/kosarlabda/2026/08/rujak-andras-eloszor-lesz-idosebb-mint-az-edzoje",
+          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-05T16:47:28.994Z",
+      "updatedAt": "2026-08-06T07:46:07.282Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/05/ujabb-magyar-olimpiai-hos-tavozott"
+          "link": "https://infostart.hu/sport/2026/08/06/lionel-messi-is-fellelegezhetett-miutan-pinter-daniel-betalalt"
         },
         {
           "name": "Nemzeti Sport",
@@ -119,32 +113,44 @@
     "technologia": {
       "items": [
         {
-          "text": "Árháborúba kezdtek az MI-cégek, zuhanó tokenárak mellett versenyeznek egymással.",
+          "text": "Az AMD rekordbevételt ért el, de ez nem a játékosokból származott.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/166347/rekordbevetelt-ert-el-az-amd-de-nem-a-jatekosokbol",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Világbank szerint a mesterséges intelligencia felgyorsíthatja a fejlődő országok gazdasági felzárkózását.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/166351/a-vilagbank-szerint-az-mi-felgyorsithatja-a-fejlodo-orszagok-gazdasagi-felzarkoz",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Az MI-cégek árháborúba kezdtek, zuhanó tokenárak mellett versenyeznek egymással.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/166336/arhaboruba-kezdtek-az-mi-cegek-zuhano-tokenarak-mellett-versenyeznek-egymassal",
           "scope": "kulfold"
         },
         {
-          "text": "Az Apple ellenáll a hátsó kapunak, amely hozzáférést adna a brit hatóságoknak az iCloud-adatokhoz.",
+          "text": "A Pentagon a Szilícium-völgy startupjaitól várja a fegyverkészletek gyors feltöltését.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166337/az-apple-ellenall-a-hatso-kapunak-amely-hozzaferest-adna-a-brit-hatosagoknak-az-",
+          "link": "https://sg.hu/cikkek/tudomany/166327/a-pentagon-a-szilicium-volgy-startupjaitol-varja-a-fegyverkeszletek-gyors-feltol",
           "scope": "kulfold"
         },
         {
-          "text": "Az alacsony vízállás miatt ismét láthatóvá váltak a második világháborús német hajók a Duna szerbiai szakaszán, a román határhoz közeli Prahovónál.",
-          "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/08/05/vilaghaborus-csodak-emelkedtek-ki-a-szerbiai-duna-szakaszon-video",
+          "text": "A Samsung betiltja a veszélyes okostévés alkalmazásokat.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/166339/a-samsung-betiltja-a-veszelyes-okosteves-alkalmazasokat",
           "scope": "kulfold"
         },
         {
-          "text": "A Duna rendkívül alacsony vízállása miatt ismét a felszínre kerültek az Újvidék közelében fekvő, XVIII.",
+          "text": "Egy irányíthatatlanul keringő SpaceX rakéta ütközhetett a Holdnak szerda reggel.",
           "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/08/04/ujra-megmutatja-magat-egy-delvideki-regi-magyar-erod-a-dunabol-emelkedik-ki",
+          "link": "https://infostart.hu/tudomany/2026/08/05/hatalmas-ereju-becsapodas-a-holdon-szerda-reggel-videokon-lehet-nezni",
           "scope": "kulfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-08-05T16:47:38.466Z",
+      "engine": "gemini",
+      "updatedAt": "2026-08-06T07:46:17.969Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
@@ -152,7 +158,7 @@
         },
         {
           "name": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/08/05/hoseg-latszik-mar-hol-es-mikor-lelegezhetunk-fel"
+          "link": "https://infostart.hu/tudomany/2026/08/06/baranya-sandor-ami-szaz-eve-a-folyoszabalyozas-celja-volt-az-ma-mar-az-egyik-legnagyobb-problema"
         }
       ],
       "skipped": []
@@ -160,40 +166,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "Kína újabb szankciókat vezetett be több amerikai vállalat ellen, és szigorította az Egyesült Államokba irányuló drónexport szabályait, tovább fokozva a két nagyhatalom közötti feszültséget – mindezt alig néhány héttel Hszi Csin-ping tervezett szeptemberi washingtoni látogatása előtt.",
+          "text": "Vegyes hangulat látható a nemzetközi tőzsdéken a technológiai szektor magas értékeltségével kapcsolatos aggodalmak miatt.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20260805/erzekeny-veszteseg-erheti-az-egyesult-allamokat-korlatozza-a-kulcsfontossagu-csucstechnologia-exportjat-az-azsiai-orias-854388",
+          "link": "https://www.portfolio.hu/uzlet/20260806/nagy-rali-utan-visszatert-a-bizonytalansag-a-tozsdekre-854432",
           "scope": "kulfold"
         },
         {
-          "text": "Magyar Péter mai Facebook-bejegyzésében arról írt, hogy az utolsó még működő paksi turbina stabil",
+          "text": "Az Ares Management jelentősen csökkentette egy tervezett 1 milliárd eurós magánhitelalap méretét, mivel a befektetők nem fogadták el a hitelek értékelését.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20260805/energiakrizis-stabilan-termel-az-utolso-paksi-turbina-ma-es-holnap-tetozik-a-hohullam-magyarorszagon-854158",
+          "link": "https://www.portfolio.hu/befektetes/20260806/durva-arcsata-alakult-ki-a-szinfalak-mogott-veszelyben-a-milliardos-befektetesi-alapok-jovoje-854488",
           "scope": "kulfold"
         },
         {
-          "text": "eddigi vállalati kapcsolatokért, fenntarthatóságért és kommunikációért felelős igazgatóját választotta a szervezet új főtitkárává, a poszton Kozák Tamást követi, aki a Gazdasági és Energetikai Minisztérium kereskedelempolitikáért felelős helyettes államtitkáraként fol",
+          "text": "Vegyes elmozdulások láthatók a magyar tőzsdén.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/uzlet/20260806/az-iranyt-keresi-a-magyar-tozsde-854486",
+          "scope": "belfold"
+        },
+        {
+          "text": "Az Országos Kereskedelmi Szövetség (OKSZ) új főtitkárává Balázs Ildikót választották.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/08/05/az-auchantol-erkezik-a-kereskedelmi-szovetseg-uj-elso-embere",
-          "scope": "kulfold"
+          "scope": "belfold"
         },
         {
-          "text": "Júliusban Belgium kizárólag Oroszországból importált cseppfolyósított földgázt (LNG) használt az iráni konfliktus okozta európai ellátás csökkenése miatt – közölte a The Brussels Times angol nyelvű brüsszeli hírportál a belga hírügynökség információit ismertetve kedden.",
+          "text": "Az OTP Csoport stabilan kiemelkedő teljesítményt nyújtott az első félévben.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/08/05/stabilan-kiemelkedo-az-otp-csoport-elso-feleves-teljesitmenye",
+          "scope": "belfold"
+        },
+        {
+          "text": "Júliusban Belgium kizárólag Oroszországból importált cseppfolyósított földgázt (LNG) használt.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/08/04/tilalom-ide-vagy-oda-van-egy-unios-orszag-ami-kizarolag-orosz-gazzal-mukodott-juliusban",
           "scope": "kulfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-08-05T16:47:39.510Z",
+      "engine": "gemini",
+      "updatedAt": "2026-08-06T07:46:27.208Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/uzlet/20260805/nem-okozott-csalodast-a-telekom-de-olcso-meg-a-reszveny-az-50-szazalekos-szaguldas-utan-854326"
+          "link": "https://www.portfolio.hu/gazdasag/20260806/figyelmeztet-a-hatosag-ezeket-a-szabalyokat-kell-betartani-hogy-ne-valjon-meregge-a-nyar-slageretele-854478"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/08/05/az-auchantol-erkezik-a-kereskedelmi-szovetseg-uj-elso-embere"
+          "link": "https://infostart.hu/gazdasag/2026/08/06/bolgar-nyaralassal-tervezok-kerulnek-bajba-most"
         }
       ],
       "skipped": []
@@ -201,26 +219,32 @@
     "kornyezet": {
       "items": [
         {
-          "text": "Zöld hét – Hírháttér podcast.",
-          "source": "Greenfo",
-          "link": "https://greenfo.hu/hirek/podcastok/zold-het/",
+          "text": "A Meteorológiai Világszervezet szerint az erősödő El Niño Magyarországot is érinti, átlagosnál magasabb hőmérsékleteket és megváltozó csapadékmintázatokat okozva a következő hónapokban.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/08/05/igy-erinti-magyarorszagot-az-erosodo-el-nino?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "belfold"
+        },
+        {
+          "text": "Több százezer hektáron égnek az erdők Európában, a tűzvészek már az északi és közép-európai államokat is elérték a déliek után.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/08/05/langokban-allnak-az-europai-erdok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Kun Gábor, a HUN-REN Rényi Alfréd Matematikai Kutatóintézet tudományos főmunkatársának eredményeire támaszkodva bizonyította az OpenAI legújabb AI-modellje, hogy léteznek nem szofikus csoportok.",
+          "text": "Egy amerikai kutatócsoport öt lehetséges forgatókönyvet írt arról, hogyan alakulhat a mesterséges intelligencia forradalma, melyek közül csak egy pozitív.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/08/05/kun-gabor-matematikus-munkajara-epul-az-openai-legujabb-ai-modelljenek-attorese?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/08/06/kanaan-vilagvege-vagy-totalis-diktatura-ot-lehetseges-forgatokonyvet-irtak-arrol-hogyan-alakul-az-ai-forradalom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "A korábbi kutatások elsősorban a menopauza stádiumához és életkorhoz kötötték a kettes típusú cukorbetegség kialakulásának esélyét, holott a tünetek önmagukban is növelhetik a betegség kockázatát.",
+          "text": "Soha nem látott mértékű járványt okoz a Bundibugyo-ebolavírus, ami ellen megkezdődött a Moderna mRNS-vakcinájának kanadai tesztelése.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/08/05/a-sulyosabb-menopauzas-tunetek-osszefugghetnek-a-cukorbetegseg-kialakulasaval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/08/05/soha-nem-latott-merteku-jarvanyt-okoz-a-bundibugyo-ebolavirus-ami-ellen-megkezdodott-a-moderna-mrns-vakcinajanak-tesztelese?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-08-05T16:47:40.911Z",
+      "engine": "gemini",
+      "updatedAt": "2026-08-06T07:46:44.205Z",
       "sourceLinks": [
         {
           "name": "Greenfo",
@@ -228,7 +252,7 @@
         },
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/08/05/igy-erinti-magyarorszagot-az-erosodo-el-nino?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/08/06/kanaan-vilagvege-vagy-totalis-diktatura-ot-lehetseges-forgatokonyvet-irtak-arrol-hogyan-alakul-az-ai-forradalom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": []
@@ -236,38 +260,44 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Elképesztő az áram forgalma a magyar tőzsdén, emellett az áram ára is drágul.",
+          "text": "A piac kivár, de a BUX index újabb álomhatárt léphet át.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/08/aram-paks-mennyiseg-hupx-balogh",
+          "link": "https://www.vg.hu/penz-es-tokepiac/2026/08/bux-piac-de-ujabb-alomhatart-lephet-at-az-index",
           "scope": "belfold"
         },
         {
-          "text": "Szépen telik a naperőművesek zsebe.",
+          "text": "Csődbe ment egy magyarországi óriásgyár, melynek hátterében nem a várt okok állnak.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/08/aram-paks-mennyiseg-hupx-balogh",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/08/szolnok-csodbe-ment-egy-ujabb-magyarorszagi-oriasgya",
           "scope": "belfold"
         },
         {
-          "text": "Szomorú napot zárt a forint, pedig reggel még volt egy kis lendület.",
+          "text": "Pénz szerezhető energiahatékony otthonok felújítására, milliókat lehet igényelni.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/befektetes/szomoru-napot-zart-a-forint.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/agrarium/energiahatekonyabb-otthon-igy-szerezhetunk-most-penzt-a-felujitasra.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         },
         {
-          "text": "Biztatóan alakulhat a Duna vízállása Paksnál, jövő héten akár a teljes újraindítás is szóba jöhet.",
+          "text": "A kiskereskedelem megtorpant, és kevesebbet tankolnak az emberek, mint tavasszal.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozerdeku/most-erkezett-nagyon-biztatoan-alakulhat-a-duna-vizallasa-paks-szempontjabol.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/makro/megtorpant-a-kiskereskedelem-mar-kevesebbet-tankolunk-mint-tavasszal.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         },
         {
-          "text": "Durvul a helyzet Kína és az Egyesült Államok között, lépésre ellenlépés a válasz.",
+          "text": "A KSH óriási kilengéseket mért a júniusi ipari adatokban.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/durvul-a-helyzet-kina-es-az-egyesult-allamok-kozott.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/makro/vakarhatja-a-fejet-a-juniusi-ipari-adat-lattan-kapitany-istvan.html?utm_source=rss&utm_medium=referral",
+          "scope": "belfold"
+        },
+        {
+          "text": "Nagyon közel áll egy megállapodás a Hormuzi-szorosról, mely szerint Irán felügyelné a bemenő forgalmat.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/kulpolitika/nagyon-kozel-a-megallapodas-a-hormuzi-szorosrol.html?utm_source=rss&utm_medium=referral",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-05T16:47:52.176Z",
+      "updatedAt": "2026-08-06T07:46:54.470Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -275,11 +305,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/befektetes/szomoru-napot-zart-a-forint.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/kozerdeku/jo-hirt-hozott-magyar-peter-a-dunarol-de-figyelmeztetest-is-kozolt.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-08-06T07:43:53.722Z"
+  }
 }
