@@ -1,9 +1,9 @@
 {
   "generatedAt": "2026-08-07T16:03:46.936Z",
   "fx": {
-    "rate": 364.5,
-    "date": "2026-08-07",
-    "source": "ECB referencia (Frankfurter.app) — tartalék"
+    "rate": 362.64,
+    "date": "2026-08-07T21:29:57.000Z",
+    "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
@@ -311,5 +311,5 @@
       "skipped": []
     }
   },
-  "fxUpdatedAt": "2026-08-07T21:45:06.196Z"
+  "fxUpdatedAt": "2026-08-07T22:42:46.990Z"
 }
