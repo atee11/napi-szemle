@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T15:38:41.456Z",
+  "generatedAt": "2026-08-09T05:53:44.997Z",
   "fx": {
     "rate": 362.64,
     "date": "2026-08-07T21:29:57.000Z",
@@ -9,50 +9,56 @@
     "politika": {
       "items": [
         {
-          "text": "A KDNP szerint Baka András bosszút akar állni a Fideszen, hasonlóan Magyar Péterhez.",
+          "text": "A magyar áramtermelés rugalmatlansága miatt az ország nagy árat fizet az energiaellátásért.",
           "source": "Telex",
-          "link": "https://telex.hu/belfold/2026/08/08/kdnp-retvari-bence-bosszu-baka-andras-koztarsasagi-elnok-jeloles",
+          "link": "https://telex.hu/g7/kozelet/2026/08/09/arampiac-paks-kieses-szamolas-problema-rendszervaltas",
           "scope": "belfold"
         },
         {
-          "text": "Magyar Péter szerint Baka András a nemzet iránti szolgálatból fogadta el a köztársasági elnöki felkérést.",
+          "text": "Orosz beavatkozás gyanúja miatt jogi panaszt tett a francia elnökválasztás egyik indulója.",
           "source": "Telex",
-          "link": "https://telex.hu/belfold/2026/08/08/baka-andras-magyar-peter-felkeres-elfogadva",
+          "link": "https://telex.hu/kulfold/2026/08/08/gabriel-attal-francia-miniszterelnok-elnokvalasztas-orosz-beavatkozas-jogi-panasz",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Tojással dobálták meg Koszovó miniszterelnökét a parlamentben, ami miatt az ülést félbe kellett szakítani.",
+          "source": "Telex",
+          "link": "https://telex.hu/kulfold/2026/08/08/tojassal-dobaltak-meg-albin-kurti-koszovoi-miniszterelnokot-parlamentben",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Lázár János kritikájára, miszerint a vízhiány brutális valóság és a kormány hibázott, Áderék és az Orbán-kormány tagjai is válaszoltak.",
+          "source": "24.hu",
+          "link": "https://24.hu/belfold/2026/08/09/fidesz-idojaras-vizgazdalkodas-lazar/",
           "scope": "belfold"
         },
         {
-          "text": "Az amerikai szenátus megszavazott egy javaslatot, ami százszázalékos vámot vethet ki Magyarországra az orosz olaj- és gázvásárlás miatt.",
-          "source": "Telex",
-          "link": "https://telex.hu/kulfold/2026/08/08/orosz-ukran-haboru-raketatamadas-aldozat-gyerek-amerikai-szankcios-csomag-foldgaz-olaj",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Donald Trump elnök dühös a szerinte kamulőszerhiányról szóló hírek miatt, és börtönnel fenyegeti a szivároztatókat.",
-          "source": "Telex",
-          "link": "https://telex.hu/kulfold/2026/08/08/irani-haboru-egyesult-allamok-loszerkeszlet-hiany-donald-trump-szivarogtatas",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Volodimir Zelenszkij ukrán elnök Belgrádban találkozott Alekszandar Vucsics szerb elnökkel, aki támogatta Ukrajna EU-csatlakozását.",
+          "text": "A lakosság Magyar Péter szavára visszafogta az áramfogyasztását, így a kritikusnak jelölt napokban sem omlott össze az ország energiarendszere.",
           "source": "HVG",
-          "link": "https://hvg.hu/vilag/20260808_volodimir-zeleneszkij-belgrad-talalkozas-alekszandar-vucsics",
-          "scope": "kulfold"
+          "link": "https://hvg.hu/gazdasag/20260809_es-akkor-energiavalsag-duna-vizallasa-paksi-atomeromu-aszaly-inflacio-meszaros-lorinc-hvg-top-50-ceg",
+          "scope": "belfold"
+        },
+        {
+          "text": "Átvilágítják a Kásler-féle onkológiai alapítványt, amely 2,25 milliárd forint közpénzből működött és budai luxusvillát vett akadémiájának.",
+          "source": "HVG",
+          "link": "https://hvg.hu/itthon/20260808_luxusvilla-mukoes-kasler-miklos-onkologia-alapitvany-atvilagitas",
+          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-08T15:37:26.001Z",
+      "updatedAt": "2026-08-09T05:52:27.658Z",
       "sourceLinks": [
         {
           "name": "Telex",
-          "link": "https://telex.hu/kulfold/2026/08/08/irani-haboru-egyesult-allamok-loszerkeszlet-hiany-donald-trump-szivarogtatas"
+          "link": "https://telex.hu/belfold/2026/08/09/idojaras-nagy-meleg-utan-forrosag-kanikula-augusztus"
         },
         {
           "name": "24.hu",
-          "link": "https://24.hu/sport/foci/2026/08/08/nb1-vasas-zte-ot-gol/"
+          "link": "https://24.hu/belfold/2026/08/09/nulla-csapadek-felho-vasarnap-idojaras/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/itthon/20260808_torok-gabor-foto-mutat-kozos-baka-andras-tisza-valaszt-alkotmanybiro"
+          "link": "https://hvg.hu/gazdasag/20260809_es-akkor-energiavalsag-duna-vizallasa-paksi-atomeromu-aszaly-inflacio-meszaros-lorinc-hvg-top-50-ceg"
         }
       ],
       "skipped": []
@@ -60,48 +66,48 @@
     "sport": {
       "items": [
         {
-          "text": "Meghalt Jorge Messi, Lionel Messi édesapja és korábbi menedzsere, 68 éves korában.",
+          "text": "A magyar férfi öttusacsapat aranyérmet nyert az isztambuli Európa-bajnokságon.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/08/meghalt-lionel-messi-edesapja",
-          "scope": "kulfold"
+          "link": "https://infostart.hu/sport/2026/08/08/ottusa-eb-a-magyar-ferfi-csapat-arany-tamas-botond-ezustermes",
+          "scope": "belfold"
         },
         {
-          "text": "A Guzi Blanka, Bauer Blanka, Erdős Rita összeállítású magyar csapat aranyérmet nyert az isztambuli öttusa Európa-bajnokságon.",
+          "text": "Tamás Botond ezüstérmet szerzett az isztambuli öttusa Európa-bajnokságon.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/08/08/ottusa-eb-a-magyar-ferfi-csapat-arany-tamas-botond-ezustermes",
+          "scope": "belfold"
+        },
+        {
+          "text": "A magyar női öttusacsapat aranyérmet nyert az isztambuli öttusa Európa-bajnokságon.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/2026/08/08/ottusa-eb-a-magyar-noi-csapat-arany-guzi-blanka-bronzermes",
           "scope": "belfold"
         },
         {
-          "text": "A magyar válogatott Gazdag Dániel fizetése egymillió dollárral is csökkenhet egy klubváltás miatt.",
+          "text": "Guzi Blanka bronzérmet szerzett az isztambuli öttusa Európa-bajnokságon.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/08/egymillio-dollarral-is-csokkenhet-egy-magyar-focista-fizetese",
+          "link": "https://infostart.hu/sport/2026/08/08/ottusa-eb-a-magyar-noi-csapat-arany-guzi-blanka-bronzermes",
           "scope": "belfold"
         },
         {
-          "text": "A Puskás Akadémia 3-2-re legyőzte az MTK Budapestet a labdarúgó OTP Bank Liga harmadik fordulójának nyitómérkőzésén.",
+          "text": "Elhunyt Jorge Messi, Lionel Messi édesapja és korábbi menedzsere.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/07/a-vegen-forditott-a-puskas-akademia-az-mtk-ellen",
-          "scope": "belfold"
-        },
-        {
-          "text": "A norvég szövetség elnöke lemondásra szólította fel Gianni Infantinót, a FIFA elnökét.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/07/infantino-helyzete-egyre-kinosabb-most-a-norveg-szovetseg-elnoke-szolitotta-fel-lemondasra-a-fifa-elso-emberet",
+          "link": "https://infostart.hu/sport/2026/08/08/meghalt-lionel-messi-edesapja",
           "scope": "kulfold"
         },
         {
-          "text": "Jorge Messi, Lionel Messi édesapja és ügynöke hosszan tartó súlyos betegségben hunyt el 68 évesen.",
+          "text": "A Real Madrid győzelmet aratott a Groupama Arénában.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/minden-mas-foci/2026/08/gyasz-elhunyt-lionel-messi-edesapja",
-          "scope": "kulfold"
+          "link": "https://www.nemzetisport.hu/minden-mas-foci/2026/08/fradi-gol-es-real-madrid-gyozelem-a-groupama-arenaban",
+          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-08T15:37:43.415Z",
+      "updatedAt": "2026-08-09T05:52:45.642Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/08/meghalt-lionel-messi-edesapja"
+          "link": "https://infostart.hu/sport/2026/08/08/ottusa-eb-a-magyar-ferfi-csapat-arany-tamas-botond-ezustermes"
         },
         {
           "name": "Nemzeti Sport",
@@ -125,32 +131,32 @@
           "scope": "kulfold"
         },
         {
-          "text": "Musk rakétagyártó vállalata költi a legtöbbet mesterséges intelligenciára.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/tudomany/166370/musk-raketagyarto-vallalata-mi-re-kolt-a-legtobbet",
-          "scope": "kulfold"
-        },
-        {
           "text": "A Microsoft eltüntette a 32 GB memória ajánlását a weboldaláról.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/166364/a-microsoft-eltuntette-a-32-gb-memoria-ajanlasat-a-weboldalarol",
           "scope": "kulfold"
         },
         {
-          "text": "Mesterséges intelligencia segítségével hoztak létre működőképes, a természetben nem létező vírusokat amerikai kutatók.",
+          "text": "Kínai kutatók bemutatták a Hold teljes felszínének új, 1:5 milliós méretarányú geológiai térképét.",
+          "source": "Infostart Tudomány",
+          "link": "https://infostart.hu/tudomany/2026/08/08/uj-titkokat-fedhet-fel-a-holdrol-egy-uj-elkepesztoen-reszletes-terkep-video",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Amerikai kutatók mesterséges intelligencia segítségével hoztak létre működőképes, a természetben nem létező vírusokat.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/08/08/megszuletett-az-elso-ai-altal-tervezett-mukodo-virus",
           "scope": "kulfold"
         },
         {
-          "text": "A Meta egyik MI-ügynöke elszabadult az internetre és meghackelt egy rendszert.",
+          "text": "Egy teszteléssel megbízott cég hibájából a Meta egyik AI-ügynöke rácsatlakozott a világhálóra és rendszert hackelt.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/08/07/megvadult-a-meta-egyik-ai-ugynoke-kiszabadult-az-internetre-es-meghackelt-egy-rendszert",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-08T15:37:53.411Z",
+      "updatedAt": "2026-08-09T05:52:55.057Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
@@ -166,46 +172,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "Az ukrán hadsereg oroszországi olajfinomítókra és logisztikai központokra mért sikeres csapásokat.",
+          "text": "Európában a körforgásos gazdaság dilemmája a rövid távú profit és a hosszú távú zöld célok közötti választás körül forog.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20260808/ukrajna-finomitokat-oroszorszag-fegyvergyarakat-tamad-nemetorszagot-gyanus-dronok-tartjak-rettegesben-haborus-hireink-szombaton-854984",
+          "link": "https://www.portfolio.hu/gazdasag/20260809/a-rovid-tavu-profit-vagy-a-hosszu-tavu-zold-celok-szamitanak-jobban-a-korforgasos-gazdasag-valodi-dilemmaja-854198",
           "scope": "kulfold"
         },
         {
-          "text": "Stabilizálódott Magyarország energia- és vízellátása, ezért péntektől megszűnt az önkéntes fogyasztáscsökkentés.",
+          "text": "Magyarországon a teljes éves keresetek egyenlőtlensége 2004 és 2021 között alig változott, miközben az órabérek közötti egyenlőtlenség érdemben csökkent.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20260808/tisza-kormany-dontott-a-tisza-frakcio-a-legfelsobb-birosag-volt-elnoke-lesz-az-uj-allamfo-854898",
+          "link": "https://www.portfolio.hu/krtk/20260809/nem-csokkentek-a-keresetkulonbsegek-itthon-az-elmult-ket-evtizedben-mutatjuk-az-okokat-854342",
           "scope": "belfold"
         },
         {
-          "text": "A Gazdasági Versenyhivatal (GVH) 68,5 millió forint versenyfelügyeleti bírságot szabott ki a Hair-Line Kft. magyarországi fodrászcikk-forgalmazóra.",
+          "text": "Az amerikai szenátusban John Thune lépéseket tett a kriptovaluták átfogó szövetségi szabályozását célzó Clarity Act elfogadásának előmozdítására.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/bank/20260808/hatalmas-hatteralkuk-utan-dolhet-el-a-kriptovalutak-sorsa-amerikaban-855060",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Magyarországon 2026 júniusában az öregségi nyugdíj havi átlagos összege 263 400 forint volt, a mediánérték pedig 232 000 forintot tett ki.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/08/09/mellbevago-kulonbsegek-a-magyar-nyugdijakban-kiszamoltak-hanyan-kapnak-700-ezernel-tobbet",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Gazdasági Versenyhivatal 68,5 millió forint versenyfelügyeleti bírságot szabott ki egy magyarországi fodrászcikk-forgalmazóra a viszonteladási árak rögzítése miatt.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/08/08/sulyos-birsagot-kapott-egy-ismert-magyar-ceg",
           "scope": "belfold"
         },
         {
-          "text": "A Mol nettó árbevétele 13 százalékkal, üzleti eredménye 53 százalékkal nőtt az első félévben.",
+          "text": "A Mol nettó árbevétele 13 százalékkal emelkedett, üzleti eredménye pedig 53 százalékkal nőtt az első félévben.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/08/07/megugrott-a-mol-nyeresege-az-elso-felevben",
           "scope": "belfold"
-        },
-        {
-          "text": "A Nemzetközi Munkaügyi Szervezet becslése szerint 2030-ra a hőstressz miatt világszerte 80 millió teljes munkaidős állásnak megfelelő munkavégzés eshet ki.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/08/07/munkahelyek-tomegeit-es-dollarmilliardokat-is-eleget-a-hohullam-szakerto",
-          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-08T15:38:05.580Z",
+      "updatedAt": "2026-08-09T05:53:09.338Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20260808/horrorbaleset-a-szomszedos-orszagban-frontalisan-osszeutkozott-ket-vonat-sok-a-serult-855036"
+          "link": "https://www.portfolio.hu/gazdasag/20260809/a-rovid-tavu-profit-vagy-a-hosszu-tavu-zold-celok-szamitanak-jobban-a-korforgasos-gazdasag-valodi-dilemmaja-854198"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/08/08/sulyos-birsagot-kapott-egy-ismert-magyar-ceg"
+          "link": "https://infostart.hu/gazdasag/2026/08/09/mellbevago-kulonbsegek-a-magyar-nyugdijakban-kiszamoltak-hanyan-kapnak-700-ezernel-tobbet"
         }
       ],
       "skipped": []
@@ -213,32 +225,38 @@
     "kornyezet": {
       "items": [
         {
-          "text": "Elérhető a Zöld hét – Hírháttér podcast.",
-          "source": "Greenfo",
-          "link": "https://greenfo.hu/hirek/podcastok/zold-het/",
-          "scope": "belfold"
-        },
-        {
-          "text": "A SpaceX Falcon-9 rakétájának elhasznált fokozata a Holdba csapódott, melynek nyomait a dél-koreai Danuri holdszonda észlelte.",
+          "text": "A SpaceX Falcon–9 rakétájának elhasznált fokozata a Holdba csapódott, melynek nyomait a dél-koreai Danuri holdszonda találta meg.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/08/07/itt-vannak-az-elso-kepek-a-holdba-csapodo-raketafokozatrol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Stanfordi kutatók mesterséges intelligencia segítségével olyan bakteriofágokat hoztak létre, amelyek elpusztítják az ellenálló E. coli baktériumtörzseket.",
+          "text": "Stanfordi kutatók mesterséges intelligencia segítségével olyan bakteriofágokat terveztek, amelyek elpusztították az ellenálló E. coli baktériumtörzseket.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/08/07/soha-nem-latott-virusokat-tervezett-a-mesterseges-intelligencia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Nemzetközi kutatócsoport a világ legnagyobb napteleszkópjával örvényeket figyelt meg a Nap felszínén, ami áttörést jelent a napfizikában.",
+          "text": "Egy nemzetközi kutatócsoport a világ legnagyobb napteleszkópjával örvényeket figyelt meg a Nap felszínén, áttörést érve el a napfizikában.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/08/07/ime-a-valaha-keszult-legelesebb-video-a-nap-felszinerol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
+        },
+        {
+          "text": "Az USA-ban jóváhagyták a Moderna mFlusiva vakcináját, az első mRNS-alapú influenza oltást, melyet már idén megkaphatnak az 50 év feletti amerikai felnőttek.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/08/07/jovahagytak-az-elso-mrns-alapu-influenza-vakcinat-az-usa-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Felbecsülhetetlen értékű honfoglalás kori sírleletet találtak Pest megyében, ahol a Magyar Nemzeti Múzeum szerint különleges aranytárgyak is előkerültek.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/08/07/felbecsulhetetlen-erteku-honfoglalas-kori-sirleletet-talaltak-pest-megyeben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-08T15:38:27.460Z",
+      "updatedAt": "2026-08-09T05:53:32.790Z",
       "sourceLinks": [
         {
           "name": "Greenfo",
@@ -254,44 +272,44 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Váratlanul bezárt az orosz Mere magyar üzlete, a Basket Plus.",
+          "text": "Több európai ország tömegével ad vízumot orosz állampolgároknak a szankciók ellenére, ami aggodalmat kelt Németországban.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/kozelet/2026/08/vizum-oroszorszag-schengen-europai-bizottsag-szankcio",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Váratlanul bezárt az orosz Mere diszkontlánc magyarországi üzlete, a Basket Plus.",
           "source": "VG.hu",
           "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/08/basket-plus-mere-beszamolo-bezaras-diszkont-lidl",
           "scope": "belfold"
         },
         {
-          "text": "Az árakat úgy tudják alacsonyan tartani, hogy mellőznek minden kényelmi és esztétikai elemet, az árukat pedig közvetlenül raklapokról értékesítik.",
+          "text": "Az aszály és az európai olajfinomítók ellátási nehézségei miatt az autósoknak többet fizethetnek a benzinért.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/08/basket-plus-mere-beszamolo-bezaras-diszkont-lidl",
-          "scope": "belfold"
+          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/08/olajfinomito-duna-rajna-alacsony-vizallas-ar-benzin",
+          "scope": "kulfold"
         },
         {
-          "text": "Az energiakrízis a jövőben még fojtogatóbb lehet.",
+          "text": "Egyes olajfinomítók nyersolajhiánnyal, mások vízhiánnyal küzdenek, ami az üzemanyagok és termékek drágulásához vezethet.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/08/olajfinomito-duna-rajna-alacsony-vizallas-ar-benzin",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Az energiakrízis a jövőben még súlyosabbá válhat.",
           "source": "MFOR.hu",
           "link": "https://mfor.hu/cikkek/szubjektiv/tul-vagyunk-a-valsagon-vagy-csak-most-jon-a-neheze-ez-viszont-privat.html?utm_source=rss&utm_medium=referral",
           "scope": "kulfold"
         },
         {
-          "text": "Kapitány István példátlannak nevezte az önkéntes spórolásban való magyar részvétel arányát.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozelet/kapitany-istvan-elmondta-mekkora-aranyban-vettek-reszt-az-onkentes-sporolasban-a-magyarok.html?utm_source=rss&utm_medium=referral",
-          "scope": "belfold"
-        },
-        {
-          "text": "A MacBook Air hiánycikk lett a memória fogytán lévő készletek miatt.",
+          "text": "Memóriaproblémák miatt hiánycikké vált a MacBook Air.",
           "source": "MFOR.hu",
           "link": "https://mfor.hu/cikkek/tudomany/fogytan-a-memoria-hianycikk-lett-a-macbook-air.html?utm_source=rss&utm_medium=referral",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Egy drón robbant fel a román-bolgár határon egy gázvezeték mellett, amely Törökországot és Ukrajnát köti össze.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kulpolitika/felrobbant-egy-dron-a-roman-bolgar-hataron-egy-gazvezetek-mellett.html?utm_source=rss&utm_medium=referral",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-08T15:38:41.387Z",
+      "updatedAt": "2026-08-09T05:53:44.873Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -299,11 +317,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/szubjektiv/tul-vagyunk-a-valsagon-vagy-csak-most-jon-a-neheze-ez-viszont-privat.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/vallalatok/elindult-a-vegelszamolas-hamarosan-nyoma-sem-marad-balasy-gyula-ket-cegenek.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-08-09T05:50:20.396Z"
+  }
 }
