@@ -1,64 +1,64 @@
 {
-  "generatedAt": "2026-08-12T16:05:17.015Z",
+  "generatedAt": "2026-08-13T16:05:22.079Z",
   "fx": {
-    "rate": 362.821,
-    "date": "2026-08-13T15:02:56.000Z",
+    "rate": 363.029,
+    "date": "2026-08-13T16:05:21.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "A kormány magasabb fokozatra kapcsolta a gazdaság NER-telenítését, bár április óta NER-es cég is nyert állami tendert.",
+          "text": "A kormány bemutatta a paksi vízszint megemelésével kapcsolatos terveket.",
           "source": "Telex",
-          "link": "https://telex.hu/g7/vallalat/2026/08/12/nertelenitese-kozbeszerzesek-opus-meszaros-koncessziok-vagyonvisszaszerzes",
+          "link": "https://telex.hu/belfold/2026/08/13/paks-duna-fenekkuszob-barka-folyo-viz-vizszint-tervek",
           "scope": "belfold"
         },
         {
-          "text": "A kormány több mint 6 milliárd forintot fordít az aszály és vízhiány elleni kárelhárítási és védekezési feladatokra.",
+          "text": "Forsthoffer Ágnes hivatala jogi problémákra hivatkozva visszadobta a Katonai Nemzetbiztonsági Szolgálat vezetőjének tábornoki kinevezését.",
           "source": "Telex",
-          "link": "https://telex.hu/gazdasag/2026/08/12/aszalykar-elo-kornyezetert-felelos-miniszterium-orszagos-vizugyi-foigazgatosag",
+          "link": "https://telex.hu/belfold/2026/08/13/sandor-palota-nem-irta-ala-szuvak-attila-ruszin-szendi-romulusz-jeloltjee-tabornoki-kinevezese-knbsz",
           "scope": "belfold"
         },
         {
-          "text": "Zelenszkij elnök bejelentette, hogy az ukrán erők 26 települést szabadítottak fel az orosz megszállás alól.",
+          "text": "Czine Ágnest három hónapra kinevezték az Alkotmánybíróság elnökhelyettesének.",
+          "source": "HVG",
+          "link": "https://hvg.hu/itthon/20260813_alkotmanybirosag-elnokhelyettes-czine-agnes",
+          "scope": "belfold"
+        },
+        {
+          "text": "Magyar Péter szerint személyi és intézményi felelősség is felmerülhet az előző kormány felkészületlensége miatt a krízishelyzetre.",
           "source": "24.hu",
-          "link": "https://24.hu/kulfold/2026/08/12/zelenszkij-orosz-megszallas-felszabaditas-haboru/",
+          "link": "https://24.hu/belfold/2026/08/13/fejek-hullhatnak-amiert-az-elozo-kormany-nem-keszult-fel/",
+          "scope": "belfold"
+        },
+        {
+          "text": "Elmérgesedett a diplomáciai vita az olasz és a spanyol kormány között a Ceutába érkezett migránsok miatt.",
+          "source": "Telex",
+          "link": "https://telex.hu/kulfold/2026/08/13/olaszorszag-spanyolorszag-bevandorlas-ceuta-giorgia-meloni-pedro-sanchez",
           "scope": "kulfold"
         },
         {
-          "text": "A kormány 6 milliárd forintból építi kiemelt beruházásként a dunai fenékküszöböt Paksnál.",
-          "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/08/12/kiemelt-beruhazas-paks-dunai-fenekkuszob-kormany/",
-          "scope": "belfold"
-        },
-        {
-          "text": "A paksi dunai fenékküszöb kiemelt beruházásként mentesül a vízi létesítmények és vízi munkák vízjogi létesítési engedélyének megszerzési kötelezettsége alól.",
+          "text": "Donald Tusk lengyel kormányfő szerint az orosz titkosszolgálatok toboroztak egy bérgyilkost Lengyelországban, aki egy amerikai-ukrán állampolgár kivégzésére készült.",
           "source": "HVG",
-          "link": "https://hvg.hu/itthon/20260812_kozlony-kiemelt-beruhazas-paksi-fenekkuszob",
-          "scope": "belfold"
-        },
-        {
-          "text": "Szeptember elején újranyitják a tiszaújvárosi vasútvonalat, ahol napi tíz pár személyvonat jár majd.",
-          "source": "HVG",
-          "link": "https://hvg.hu/gazdasag/20260812_ujranyitas-tiszaujvaros-vasutvonal",
-          "scope": "belfold"
+          "link": "https://hvg.hu/vilag/20260813_orosz-bergyilkos-elfogas-varso-lengyelorszag-merenyletkiserlet-amerikai-ukran-allampolgar",
+          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-12T16:03:59.666Z",
+      "updatedAt": "2026-08-13T16:04:10.245Z",
       "sourceLinks": [
         {
           "name": "Telex",
-          "link": "https://telex.hu/g7/vallalat/2026/08/12/nertelenitese-kozbeszerzesek-opus-meszaros-koncessziok-vagyonvisszaszerzes"
+          "link": "https://telex.hu/belfold/2026/08/13/paks-duna-fenekkuszob-barka-folyo-viz-vizszint-tervek"
         },
         {
           "name": "24.hu",
-          "link": "https://24.hu/kulfold/2026/08/12/zelenszkij-orosz-megszallas-felszabaditas-haboru/"
+          "link": "https://24.hu/belfold/2026/08/13/magyar-felhaborito-hogy-egy-osztrak-ceg-elobb-tesz-felajanlast-mint-a-ner-oligarchai/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/elet/20260812_a-felnottek-kincsvadaszata-magnessel-vagtunk-neki-a-dunanak"
+          "link": "https://hvg.hu/vilag/20260813_orosz-bergyilkos-elfogas-varso-lengyelorszag-merenyletkiserlet-amerikai-ukran-allampolgar"
         }
       ],
       "skipped": []
@@ -66,48 +66,48 @@
     "sport": {
       "items": [
         {
-          "text": "A Magyar Sportújságírók Szövetségének elnöksége egyhangúlag bejelentette lemondását szeptember 27-i hatállyal.",
+          "text": "A 17 éves Brian Madjo, az Aston Villa csatára kiemelkedően játszott az UEFA Szuperkupa-mérkőzésen, amit a Paris Saint-Germain nyert meg.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/12/lemondott-a-magyar-sportujsagirok-szovetsegenek-elnoksege",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Liverpool szurkolói csoportja, a Spirit of Shankly magyarázatot követel a klubtól a tervezett tulajdonátruházással kapcsolatban.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/12/a-liverpool-szurkoloi-magyarazatot-varnak-a-tervezett-tulajdonatruhasassal-kapcsolatban",
+          "link": "https://infostart.hu/sport/2026/08/13/a-17-eves-csatar-remekelt-a-szuperkupa-meccsen-212-napot-vart-arra-hogy-jatszhasson",
           "scope": "kulfold"
         },
         {
-          "text": "Cristiano Ronaldo feleségül vette Georgina Rodríguez modellt és influenszert egy portugáliai polgári szertartáson.",
+          "text": "Xavi Hernández, az FC Barcelona korábbi vezetőedzője lett a holland labdarúgó-válogatott szövetségi kapitánya.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/12/igen-veget-ert-cristiano-ronaldo-es-georgina-rodriguez-vadhazassaga",
+          "link": "https://infostart.hu/sport/2026/08/13/hollandia-huzott-egy-mereszet-a-futballvalogatott-iranyitasaban",
           "scope": "kulfold"
         },
         {
-          "text": "Kozák Luca az ötödik helyen végzett női 100 méter gáton a briminghami atlétikai Európa-bajnokságon.",
+          "text": "Molnár Attila a negyedik, míg Enyingi Patrik a hetedik helyen végzett a 400 méteres síkfutásban a birminghami atlétikai Európa-bajnokságon.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/11/nem-indult-jol-de-oriasit-kuzdott-kozak-luca-az-eb-dontoben",
+          "link": "https://infostart.hu/sport/2026/08/13/molnar-es-enyingi-a-400-sik-eb-dontojeben-megvolt-a-remeny-az-eremre",
           "scope": "belfold"
         },
         {
-          "text": "A 4x100 méteres női gyorsváltó döntőbe jutott az úszó Európa-bajnokságon.",
-          "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/uszas/2026/08/uszo-eb-dontos-a-4x100-as-noi-gyorsvalto-es-jackl-vivien-is-400-vegyesen",
+          "text": "Milák Kristóf olimpiai bajnok úszó az Eb-bronzérme után adott nyilatkozatában felhozó évnek nevezte az ideit.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/08/13/milak-kristof-eloszor-nyilatkozott-hosszu-evek-utan-mondott-is-egy-meglepot",
           "scope": "belfold"
         },
         {
-          "text": "A Debrecennek csoda kellene a fordításhoz a Köbenhavn elleni Kl-selejtező-visszavágón.",
+          "text": "A férfi 4x100 méteres gyorsváltó döntőbe jutott az úszó Európa-bajnokságon, Kós Hubert elégedetten nyilatkozott az idejéről.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/merkozes/20260812-fc-kobenhavn-debreceni-vsc/elo",
+          "link": "https://www.nemzetisport.hu/uszas/2026/08/uszo-eb-dontos-a-4x100-as-gyorsvalto",
           "scope": "belfold"
+        },
+        {
+          "text": "Gyakoriak a változások a Forma-1-es csapatfőnökök posztján, mindössze egyetlen vezető van, aki legalább öt éve tölti be pozícióját.",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/f1/2026/08/nem-all-meg-a-forgoajto-jonnek-mennek-az-f1-es-csapatfonokok",
+          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-12T16:04:13.643Z",
+      "updatedAt": "2026-08-13T16:04:25.361Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/12/a-liverpool-szurkoloi-magyarazatot-varnak-a-tervezett-tulajdonatruhasassal-kapcsolatban"
+          "link": "https://infostart.hu/sport/2026/08/13/a-17-eves-csatar-remekelt-a-szuperkupa-meccsen-212-napot-vart-arra-hogy-jatszhasson"
         },
         {
           "name": "Nemzeti Sport",
@@ -119,52 +119,52 @@
     "technologia": {
       "items": [
         {
-          "text": "Kína képes másokhoz képest töredék pénzből élvonalbeli MI-modelleket készíteni.",
+          "text": "A mesterséges intelligencia várhatóan befolyásolja a munkaerőpiacot, felvetve a munkahelyek elvesztésének kérdését.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166350/hogyan-keszit-masokhoz-kepest-toredek-penzbol-elvonalbeli-mi-modelleket-kina",
+          "link": "https://sg.hu/cikkek/it-tech/166426/az-mi-allitolag-elveszi-a-munkahelyeket-de-mikor",
           "scope": "kulfold"
         },
         {
-          "text": "Anglia és Wales bíróságain betiltották a Meta okosszemüvegeit.",
+          "text": "Az Nvidia 500 milliárd dolláros stratégiával védi a piaci pozícióját.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166415/betiltottak-a-meta-okosszemuvegeit-anglia-es-wales-birosagain",
+          "link": "https://sg.hu/cikkek/it-tech/166437/500-milliard-dollaros-strategiaval-vedi-piacat-az-nvidia",
           "scope": "kulfold"
         },
         {
-          "text": "A Spotify felcímkézi és visszaszorítja az MI által létrehozott előadókat.",
+          "text": "A Google beengedte az első rivális alkalmazásáruházat a Play Áruházba.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166416/a-spotify-felcimkezi-es-visszaszoritja-az-mi-altal-letrehozott-eloadokat",
+          "link": "https://sg.hu/cikkek/jatek/166413/a-google-beengedte-az-elso-rivalis-alkalmazasaruhazat-a-play-aruhazba",
           "scope": "kulfold"
         },
         {
-          "text": "A konyhasó új lehetőségeket kínálhat az akkumulátorgyártásban.",
+          "text": "A Google Gemini lett a vállalat történetének leggyorsabban növekedő terméke, elérve az egymilliárd felhasználót.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/tudomany/166405/a-konyhaso-lehet-az-akkumulatorgyartas-uj-fegyvere",
+          "link": "https://sg.hu/cikkek/it-tech/166425/a-gemini-lett-a-google-tortenetenek-leggyorsabban-novekvo-termeke-mar-egymilliar",
           "scope": "kulfold"
         },
         {
-          "text": "Az OpenAI Astra AI modelljének egyik áttörése Kun Gábor magyar matematikus munkáján alapszik.",
+          "text": "A Microsoft sürgős Windows-frissítést adott ki, amely mintegy 400 hibát javított.",
+          "source": "Infostart Tudomány",
+          "link": "https://infostart.hu/tudomany/2026/08/13/surgos-windows-frissites-jott-ezt-a-hibat-kellett-azonnal-javitani",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Az OpenAI Astra AI nevű modelljének tudományos áttörése egy magyar matematikus munkáján alapszik.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/08/12/magyar-matematikus-munkajan-alapszik-az-openai-tudomanyos-attorese",
           "scope": "belfold"
-        },
-        {
-          "text": "Az Amerikai Élelmiszer- és Gyógyszerhatóság engedélyezte a Moderna első mRNS-alapú szezonális influenza elleni vakcináját.",
-          "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/08/10/engedelyt-kapott-az-elso-mrns-alapu-szezonalis-influenza-elleni-vakcina",
-          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-12T16:04:26.240Z",
+      "updatedAt": "2026-08-13T16:04:33.619Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166417/maris-tamadjak-a-kozossegimedia-tilalmakat"
+          "link": "https://sg.hu/cikkek/it-tech/166426/az-mi-allitolag-elveszi-a-munkahelyeket-de-mikor"
         },
         {
           "name": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/08/12/magyar-matematikus-munkajan-alapszik-az-openai-tudomanyos-attorese"
+          "link": "https://infostart.hu/tudomany/2026/08/13/surgos-windows-frissites-jott-ezt-a-hibat-kellett-azonnal-javitani"
         }
       ],
       "skipped": []
@@ -172,52 +172,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "A világ tőzsdéin vegyes a hangulat, az USA-ban pozitív elmozdulások láthatók, miután a júliusi amerikai infláció a várakozásoknak megfelelően 3,4 százalékra lassult.",
+          "text": "A Duna apadása miatt a kormány felgyorsítja a paksi atomerőmű vízellátását biztosító beavatkozásokat.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/uzlet/20260812/fontos-adatok-erkeztek-megmozdultak-a-tozsdek-855664",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Nelson Peltz befektetési cége felvásárlási ajánlatot készül tenni a Wendy's amerikai gyorsétteremláncra.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/uzlet/20260812/felvasarolnak-a-legendas-gyorsetteremlancot-megteptek-a-befektetok-a-papirjait-855854",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Idén 210 helyszínen 570 kilométernyi országos fő- és mellékút újul meg közel 149 milliárd forintból.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/08/12/tobb-szaz-kilometernyi-autouton-jon-nagy-valtozas",
+          "link": "https://www.portfolio.hu/gazdasag/20260813/tisza-kormany-ismet-apad-a-duna-itt-vannak-a-paksi-intezkedesek-reszletei-855930",
           "scope": "belfold"
         },
         {
-          "text": "Hektáronként 100 ezer forintos kárenyhítési előleget igényelhetnek a jelentősen károsodott szőlő- és gyümölcstermelők.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/08/12/onnek-is-jarhat-a-100-ezer-forint-mutatjuk-mikor-es-hogyan-igenyelheto",
-          "scope": "belfold"
-        },
-        {
-          "text": "Júliusban 8,16 százalék volt az éves infláció Romániában.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/08/12/inflacios-es-alberletvalsag-tombol-romaniaban",
+          "text": "Oroszország támadást hajtott végre Izmajil kikötője ellen Odessza megyében, károkat és tüzet okozva.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/global/20260813/langokban-a-legnagyobb-dunai-kikoto-zelenszkij-egy-titokzatos-tervrol-beszelt-hireink-az-orosz-ukran-haborurol-csutortokon-855910",
           "scope": "kulfold"
         },
         {
-          "text": "Három hónapja folyamatosan csökken a magyarországi panellakások ára, miközben a téglalakásoké emelkedik.",
+          "text": "Az eMAG webáruház minden idők második legnagyobb utóvizsgálati büntetését kapta a Gazdasági Versenyhivataltól.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/08/12/ketfele-szakadt-a-lakaspiac",
+          "link": "https://infostart.hu/gazdasag/2026/08/13/minden-idok-masodik-legnagyobb-utovizsgalati-bunteteset-kapta-az-emag",
+          "scope": "belfold"
+        },
+        {
+          "text": "Júniusban az ipari termelés növekedett, míg az építőipar tovább esett.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/08/13/az-ipari-termeles-nott-az-epitoipar-tovabb-esett-juniusban-ime-az-okok",
+          "scope": "belfold"
+        },
+        {
+          "text": "A mesterséges intelligencia miatt 2028-ra 12 milliárd forint bevételt bukhat a magyar zeneipar.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/08/12/12-milliard-forintot-bukhat-a-magyar-zeneipar-az-ai-miatt",
+          "scope": "belfold"
+        },
+        {
+          "text": "Az osztrák versenyhatóság is jóváhagyta a cseh CSG Defence részesedésszerzését a magyar Rába Nyrt.-ben.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/08/12/az-osztrak-versenyhatosag-is-jovahagyta-a-csg-defence-reszesedesszerzeset-a-raba-nyrt-ben",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-12T16:04:42.132Z",
+      "updatedAt": "2026-08-13T16:04:42.862Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/uzlet/20260812/fontos-adatok-erkeztek-megmozdultak-a-tozsdek-855664"
+          "link": "https://www.portfolio.hu/global/20260813/nem-az-ebola-szamai-a-legijesztobbek-hanem-ami-mogottuk-van-855826"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/08/12/tobb-szaz-kilometernyi-autouton-jon-nagy-valtozas"
+          "link": "https://infostart.hu/gazdasag/2026/08/13/minden-idok-masodik-legnagyobb-utovizsgalati-bunteteset-kapta-az-emag"
         }
       ],
       "skipped": []
@@ -225,32 +225,32 @@
     "kornyezet": {
       "items": [
         {
-          "text": "Az év leglátványosabb meteorraja, a Perseidák, ma érkezik meg, és augusztusban a legaktívabb.",
+          "text": "A fitoplazma-fertőzés rohamosan pusztítja a magyar szőlőtermést a borvidékeken.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/08/12/ma-erkezik-meg-az-ev-leglatvanyosabb-meteorraja-a-perseidak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Már a vérből is kimutathatóvá vált a légszennyezés okozta tüdőrák fokozott kockázata.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/08/12/mar-a-verbol-kimutathato-ha-valakinek-nagyobb-az-eselye-a-legszennyezes-miatt-kialakulo-tudorakra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az Egyesült Államokban a tüdőszűrő vizsgálatok aggasztóan kevés emberre terjednek ki, nehezítve a korai kezelést.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/08/12/mar-a-verbol-kimutathato-ha-valakinek-nagyobb-az-eselye-a-legszennyezes-miatt-kialakulo-tudorakra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Ma este napfogyatkozás lesz látható, amely Budapesten 19:22-kor kezdődik és napnyugtáig, 19:58-ig tart.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/08/12/ma-este-napfogyatkozas-itt-vannak-a-tudnivalok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/08/13/rohamosan-fogy-a-magyar-szolotermes-megis-hallgatas-ovezi-a-tokeket-tizedelo-fitoplazma-fertozest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "belfold"
+        },
+        {
+          "text": "A kozmoszban új típusú égitestet, a feketelyuk-csillagot fedezték fel a kutatók.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/08/13/uj-tipusu-egitestet-fedeztek-fel-a-kozmoszban-ime-a-feketelyuk-csillag?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Spanyolországban teljes élményt nyújtott az évszázad első teljes napfogyatkozása.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/08/13/a-fel-vilag-nezte-meg-ha-nem-is-latta-ilyen-volt-az-evszazad-elso-teljes-napfogyatkozasa-europaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Kontinentális Európában 27 év után volt látható teljes napfogyatkozás, Spanyolországban.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/08/13/semmihez-sem-foghato-egy-teljes-napfogyatkozas-latvanya?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-12T16:05:03.509Z",
+      "updatedAt": "2026-08-13T16:04:56.372Z",
       "sourceLinks": [
         {
           "name": "Greenfo",
@@ -258,7 +258,7 @@
         },
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/08/12/ma-erkezik-meg-az-ev-leglatvanyosabb-meteorraja-a-perseidak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/08/13/rohamosan-fogy-a-magyar-szolotermes-megis-hallgatas-ovezi-a-tokeket-tizedelo-fitoplazma-fertozest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": []
@@ -266,32 +266,44 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Németországban átadták az ország legnagyobb szélerőműveit.",
+          "text": "Több forrásból is szerezhetik be a dunai fenékküszöbhöz szükséges vulkáni kőzetet.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/08/szeleromu-nemetorszag-he-dreiht-villamos-energia",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A pesti tőzsde a 150 ezer pontos határt is megugrotta.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/penz-es-tokepiac/2026/08/forint-inflacio-dollar-kamatok-fed-bux-mol-csucs",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/08/fenekkuszob-andezit-ko-paks",
           "scope": "belfold"
         },
         {
-          "text": "Norvég nyugdíjasok vásárolják a magyar állampapírokat.",
+          "text": "Magyar Péter szerint a legfontosabb a Paksi Atomerőmű nukleáris biztonságának megőrzése.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/penz-es-tokepiac/2026/08/allampapir-otp-mol-norveg-alap-rekord-nyereseg-2026",
+          "link": "https://www.vg.hu/kozelet/2026/08/miniszterelnok-magyar-peter-paks-sajtotajekoztato",
           "scope": "belfold"
         },
         {
-          "text": "Újabb három területen kutathatnak gáz és olaj után Magyarországon.",
+          "text": "A dunai fenékküszöb lényegi része harminc nap alatt készülhet el, a kivitelezés októberben fejeződik be.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/kozelet/2026/08/miniszterelnok-magyar-peter-paks-sajtotajekoztato",
+          "scope": "belfold"
+        },
+        {
+          "text": "A kormány azonnali segítséget nyújt a bajba jutott gazdáknak.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/ujabb-harom-teruleten-kutathatnak-gaz-es-olaj-utan-magyarorszagon.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/agrarium/dontott-a-kormany-jon-a-segitseg-a-bajba-jutott-gazdaknak.html?utm_source=rss&utm_medium=referral",
+          "scope": "belfold"
+        },
+        {
+          "text": "Nem várható árváltozás az üzemanyagok piacán.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/kozelet/fellelegezhetnek-az-uzemanyagok-dragulasatol-rettegok.html?utm_source=rss&utm_medium=referral",
+          "scope": "belfold"
+        },
+        {
+          "text": "Az MNB fontos dokumentumokat adott át az ügyészségnek, amelyek a Matolcsy-érához kapcsolódnak.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/makro/mi-lesz-ebbol-fontos-dokumentumokat-adott-at-az-mnb-az-ugyeszsegnek.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-12T16:05:16.917Z",
+      "updatedAt": "2026-08-13T16:05:21.997Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -299,11 +311,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozelet/krausz-ferenc-maris-uj-ceget-alapitott.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/agrarium/dontott-a-kormany-jon-a-segitseg-a-bajba-jutott-gazdaknak.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-08-13T15:02:57.703Z"
+  }
 }
