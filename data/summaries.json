@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T15:34:51.784Z",
+  "generatedAt": "2026-08-16T15:30:10.737Z",
   "fx": {
     "rate": 362.63,
     "date": "2026-08-14T22:09:58.000Z",
@@ -9,44 +9,56 @@
     "politika": {
       "items": [
         {
-          "text": "Hétfőn tárgyal az Alkotmánybíróság Sulyok Tamás eltávolításáról és a parlamenti mandátumkorlátról.",
-          "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/08/15/sulyok-eltavolitas-targyalas-alkotmanybirosag/",
+          "text": "Az Alkotmánybíróság elé kerül a Tisza-kormány három legvitatottabb közjogi intézkedése, amelyekről hétfőn dönthetnek.",
+          "source": "Telex",
+          "link": "https://telex.hu/belfold/2026/08/16/alkotmanybirosag-ules-koztarsasagi-elnok-menesztes-sulyok-tamas-alkotmanybirak-orszaggyulesi-kepviselok-megvalasztasa-korhatarok",
           "scope": "belfold"
         },
         {
-          "text": "A Mészároshoz és Szíjjhez köthető cég még nem kapott hivatalos megkeresést Vitézy Dávid bejelentéseivel kapcsolatban.",
-          "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/08/15/meszaros-szijj-vitezy-autopalya/",
+          "text": "Gyurcsány Ferenc volt miniszterelnök vasárnap bölcseletet tett közzé, miszerint a bosszúvágy emberi érzés, amit a demokratikus államnak jóvátétellé kell változtatnia.",
+          "source": "Telex",
+          "link": "https://telex.hu/zacc/2026/08/16/gyurcsany-ferenc-a-bosszuvagy-emberi-erzes",
           "scope": "belfold"
         },
         {
-          "text": "Kubatov Gábor fideszes politikus októberben indul az FTC elnöki posztjáért.",
+          "text": "Tarr Zoltán minisztériuma súlyos hiányosságokat tárt fel az Országos Színháztörténeti Múzeum és Intézetben, javasolva Bodolay Géza igazgató vezetői kompetenciájának vizsgálatát.",
+          "source": "24.hu",
+          "link": "https://24.hu/kultura/2026/08/16/orszagos-szinhaztorteneti-muzeum-sulyos-hianyossagok-vidnyanszky-attila/",
+          "scope": "belfold"
+        },
+        {
+          "text": "Ukrajna a háború kezdete óta az egyik legnagyobb dróntámadását hajtotta végre Moszkva körül, ahol többen meghaltak.",
+          "source": "24.hu",
+          "link": "https://24.hu/kulfold/2026/08/16/moszkva-drontamadas-orosz-ukran-haboru-kijev/",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Ruszin-Szendi Romulusz honvédelmi miniszter elmagyarázta, hogyan dobták a Dunába a betonkockákat Paksnál.",
           "source": "HVG",
-          "link": "https://hvg.hu/sport/20260815_kubatov-gabor-oktoberben-indul-az-ftc-az-elnoki-posztjaert",
+          "link": "https://hvg.hu/itthon/20260816_ruszin-szendi-romulusz-duna-paks-betonkocka-video",
           "scope": "belfold"
         },
         {
-          "text": "Elkerítették Óbudán a Dunába ömlő szennyezést, amely az egykori gázgyár területéről szivárgott.",
-          "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/08/15/gazgyar-duna-szennyezes-obuda/",
+          "text": "A Fidesz DPK-s aktivistái 160 órás képzésen vehetnek részt ismereteik elméleti és gyakorlati mélyítésére.",
+          "source": "HVG",
+          "link": "https://hvg.hu/itthon/20260816_dpk-akademia-160-oras-kepzes",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-15T15:28:41.480Z",
+      "updatedAt": "2026-08-16T15:29:14.580Z",
       "sourceLinks": [
         {
           "name": "Telex",
-          "link": "https://telex.hu/kulfold/2026/08/15/gyilkossagi-nyomozas-amerikai-tinedzser-chatgpt-mesterseges-intelligencia"
+          "link": "https://telex.hu/belfold/2026/08/16/alkotmanybirosag-ules-koztarsasagi-elnok-menesztes-sulyok-tamas-alkotmanybirak-orszaggyulesi-kepviselok-megvalasztasa-korhatarok"
         },
         {
           "name": "24.hu",
-          "link": "https://24.hu/sport/foci/2026/08/15/francia-foci-marseille-pierre-emile-hojbjerg/"
+          "link": "https://24.hu/kultura/2026/08/16/molnar-aron-mate-gabor-eszenyi-eniko-szinhaz-visszaeles/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/sport/20260815_kubatov-gabor-oktoberben-indul-az-ftc-az-elnoki-posztjaert"
+          "link": "https://hvg.hu/itthon/20260816_ruszin-szendi-romulusz-duna-paks-betonkocka-video"
         }
       ],
       "skipped": []
@@ -54,48 +66,48 @@
     "sport": {
       "items": [
         {
-          "text": "A Paris Saint-Germain leigazolta a Barcelonától a spanyolok világbajnok futballistáját, Ferran Torrest.",
+          "text": "Erling Haaland négy Guinness-rekordról szóló oklevelet vehetett át.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/15/elvitte-a-barcelona-sztarjat-a-psg",
+          "link": "https://infostart.hu/sport/2026/08/16/haalandnak-mar-negy-guinness-rekordja-is-van",
           "scope": "kulfold"
         },
         {
-          "text": "Márton Viviana augusztusban is vezeti a havonta frissülő tekvondós világranglistát és olimpiai rangsort.",
+          "text": "Battai Sugár kardozó a hongkongi világbajnokságon a csapattal arany-, egyéniben bronzérmet szerzett.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/15/ebben-egy-magyar-lany-a-vilag-legjobbja-ikertestvere-is-ott-lohol-mogotte",
+          "link": "https://infostart.hu/sport/2026/08/16/battai-sugar-sikeres-szezont-zart-arrol-is-beszelt-mire-nagyon-buszke",
           "scope": "belfold"
         },
         {
-          "text": "A magyar női 4x100 méteres váltó 42.84 másodperces országos csúccsal bejutott a birminghami atlétikai Európa-bajnokság szombat esti döntőjébe.",
+          "text": "Novak Djokovic kikapott első mérkőzésén a cincinnati tenisztornán.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/15/elkepeszto-orszagos-csuccsal-eb-dontos-a-magyar-noi-valto",
+          "link": "https://infostart.hu/sport/2026/08/16/novak-djokovic-elbukott",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Vindics-Tóth Lili ezüstérmet szerzett női maratonon a birminghami atlétikai Európa-bajnokságon.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/08/16/csodalatos-magyar-erem-az-atletikai-europa-bajnoksagon",
           "scope": "belfold"
         },
         {
-          "text": "Venyercsán Bence egy négyperces büntetés után a hatodik helyen ért célba a férfi gyaloglók maratoni távján a birminghami atlétikai Európa-bajnokságon.",
+          "text": "Sárkány Zalán országos csúccsal ezüstérmet szerzett 1500 méteres gyorsúszásban a párizsi Európa-bajnokságon.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/15/az-eb-dobogoert-harcolt-a-magyar-sportolo-egy-buntetes-mindent-atirt",
+          "link": "https://infostart.hu/sport/2026/08/15/sarkany-zalan-oriasi-orszagos-csuccsal-eb-ezustermes",
           "scope": "belfold"
         },
         {
-          "text": "Megakadtak a tárgyalások a székesfehérvári NB II-es Videoton FC tulajdonlásával kapcsolatban, miután a közgyűlés elfogadta egy portugál hátterű cég ajánlatát.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/15/nagy-a-baj-szekesfehervaron-aggodhatnak-a-focistak",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Szentgyörgyi Zita, Takács Boglárka, Kozák Luca, Brucker Lili Hanna összetételű magyar 4x100-as női váltó óriási országos csúccsal jutott az Eb-döntőbe.",
+          "text": "Elhunyt Gömöri Ottó, a Videoton UEFA-kupa-döntős játékosa.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/atletika/2026/08/oriasi-orszagos-csuccsal-eb-dontos-a-4x100-as-noi-valtonk",
+          "link": "https://www.nemzetisport.hu/labdarugo-nb-i/2026/08/gyasz-elhunyt-a-videoton-uefa-kupa-dontos-jatekosa-2",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-15T15:29:00.679Z",
+      "updatedAt": "2026-08-16T15:29:23.321Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/15/elvitte-a-barcelona-sztarjat-a-psg"
+          "link": "https://infostart.hu/sport/2026/08/16/haalandnak-mar-negy-guinness-rekordja-is-van"
         },
         {
           "name": "Nemzeti Sport",
@@ -107,7 +119,19 @@
     "technologia": {
       "items": [
         {
-          "text": "Trump 100 százalékos vámmal akarja leválasztani Amerikát a kínai dróntechnológiáról.",
+          "text": "Az egyre önállóbb MI-ügynökök már nem mindig követik az emberek utasításait.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/166469/az-egyre-onallobb-mi-ugynokok-mar-nem-mindig-kovetik-az-emberek-utasitasait",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Az Intel szerint a PC-piac két részre szakadhat.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/166471/intel-ket-reszre-szakadhat-a-pc-piac",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Donald Trump 100 százalékos vámmal akarja leválasztani Amerikát a kínai dróntechnológiáról.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/166455/trump-100-szazalekos-vammal-akarja-levalasztani-amerikat-a-kinai-drontechnologia",
           "scope": "kulfold"
@@ -119,28 +143,28 @@
           "scope": "kulfold"
         },
         {
-          "text": "augusztus 2-án érkezik az „évszázad napfogyatkozása”, amely a szerdainál jóval hosszabb, több mint hatperces teljes napfogyatkozást hoz Észak-Afrikában és a Közel-Keleten.",
+          "text": "Az OpenAI bemutatta a ChatGPT Ultrafast módot, amely a GPT-5.6 Sol modellt pörgeti fel.",
           "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/08/14/hat-percre-elsotetul-az-eg-meg-csak-ezutan-jon-az-evszazad-napfogyatkozasa",
+          "link": "https://infostart.hu/tudomany/2026/08/16/elozni-keszul-a-chatgpt",
           "scope": "kulfold"
         },
         {
-          "text": "Százak vesztették életüket a hétfői kolumbiai földrengésben, míg a szomszédos Venezuelában júniusban volt két, 7,2-es, illetve 7,5-es erősségű földrengés, a kettő között furcsa mód a látszólagos földrajzi közelség ellenére viszont nincs összefüggés.",
+          "text": "A kínai DeepSeek bemutatta V4 Pro nevű új mesterségesintelligencia-modelljét, amely magasabb áron érhető el.",
           "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/08/12/a-karpatokra-nezve-is-van-boven-tanulsaga-a-kolumbiai-foldrengesnek",
+          "link": "https://infostart.hu/tudomany/2026/08/16/mar-nem-a-filleres-alternativa-komoly-aremelest-jelentett-be-a-kinai-orias",
           "scope": "kulfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-08-15T15:29:42.096Z",
+      "engine": "gemini",
+      "updatedAt": "2026-08-16T15:29:40.001Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166454/megsemmisitette-a-15-ev-alattiak-kozossegimedia-tilalmat-a-francia-alkotmanytana"
+          "link": "https://sg.hu/cikkek/it-tech/166469/az-egyre-onallobb-mi-ugynokok-mar-nem-mindig-kovetik-az-emberek-utasitasait"
         },
         {
           "name": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/tech/2026/08/15/ket-funkciot-muszaj-bekapcsolnod-a-telefonodon-hogy-megvedd-magad"
+          "link": "https://infostart.hu/tudomany/2026/08/16/magyari-eniko-ketszer-is-volt-mar-rendkivul-alacsony-a-balaton-vizszintje-a-tortenelem-soran"
         }
       ],
       "skipped": []
@@ -148,52 +172,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "Az Easyjet légitársaság franciaországi vállalata mintegy száz hétvégi járatát törölte légiutas-kísérőinek sztrájkja miatt.",
+          "text": "Kutatók és az európai autóipar képviselői vitatták meg a kínai gépjárműexport várható hatásait.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20260815/elszabadult-a-kaosz-a-nepszeru-fapadosnal-rengeteg-hetvegi-jaratot-toroltek-a-sztrajk-miatt-856500",
+          "link": "https://www.portfolio.hu/global/20260816/a-masodik-kina-sokk-856442",
           "scope": "kulfold"
         },
         {
-          "text": "A globális gazdasági növekedés lassulása és a makropénzügyi bizonytalanság növekvő kihívások elé állítja a világ biztosítási piacát.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/uzlet/20260815/langol-a-vilag-tombol-a-kiberhaboru-tokeletes-vihar-kuszoben-a-biztositok-856290",
+          "text": "A gödi Samsung-gyár területén zajló építkezések fokozott zajhatással járnak a környéken élők számára.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/08/16/ismet-zajos-a-godi-samsung-gyar-nagy-munkaban-vannak-a-koreaiak",
+          "scope": "belfold"
+        },
+        {
+          "text": "Az EasyJet légitársaság közel száz járatát törölte a franciaországi légiutas-kísérők sztrájkja miatt.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/08/15/kaosz-az-easyjetnel-kozel-szaz-jaratot-toroltek",
           "scope": "kulfold"
         },
         {
-          "text": "Az MKIF Zrt. közölte, hogy a hatályos jogszabályoknak és a Magyar Állammal kötött szerződésnek megfelelően, nyílt közbeszerzésen nyerte el az M6-os autópálya üzemeltetését.",
+          "text": "Az MKIF Zrt. közleménye szerint az M6-os autópálya érintett szakaszának üzemeltetését nyílt közbeszerzésen nyerte el, a jogszabályoknak megfelelően.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/08/15/az-mkif-szerint-felrevezetok-a-tularazasrol-szolo-kormanyzati-allitasok",
           "scope": "belfold"
         },
         {
-          "text": "Az euróövezet többlettel zárta külkereskedelmét júniusban az Eurostat első becslése szerint.",
+          "text": "Az euróövezet többlettel zárta külkereskedelmét júniusban az Eurostat első becslése alapján.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/08/14/hasitott-az-euroovezet",
           "scope": "kulfold"
         },
         {
-          "text": "Szombattól ismét emelkednek a nagykereskedelmi üzemanyagárak.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/08/14/hetvegere-megugrik-a-dizel-es-a-benzin-ara-egyforma-mertekben",
-          "scope": "belfold"
-        },
-        {
-          "text": "Az idei első félévben 4,5 százalékkal nőtt a kiskereskedelmi forgalom, miközben a GKI fogyasztói és üzleti bizalmi indexei többéves csúcsra emelkedtek.",
+          "text": "Az idei első félévben 4,5 százalékkal nőtt a kiskereskedelmi forgalom, miközben a GKI bizalmi indexei többéves csúcsra emelkedtek.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/08/14/kapitany-istvan-ez-tobb-mint-egy-kedvezo-havi-adat",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-15T15:31:28.011Z",
+      "updatedAt": "2026-08-16T15:29:49.601Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20260815/megvan-oroszorszag-kovetkezo-celpontja-zelenszkij-bajban-van-az-ukran-frontrol-percrol-percre-szombaton-856460"
+          "link": "https://www.portfolio.hu/global/20260816/kulcsfontossagu-orosz-fegyverrendszere-mert-csapast-ukrajna-droneso-zudult-moszkvara-hireink-az-orosz-ukran-haborurol-vasarnap-856538"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/08/15/az-mkif-szerint-felrevezetok-a-tularazasrol-szolo-kormanyzati-allitasok"
+          "link": "https://infostart.hu/gazdasag/2026/08/16/ismet-zajos-a-godi-samsung-gyar-nagy-munkaban-vannak-a-koreaiak"
         }
       ],
       "skipped": []
@@ -201,26 +225,32 @@
     "kornyezet": {
       "items": [
         {
-          "text": "Zöld hét – Hírháttér podcast.",
-          "source": "Greenfo",
-          "link": "https://greenfo.hu/hirek/podcastok/zold-het/",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A Kelet-Angliai Egyetem kutatói csaknem félmillió ember egészségügyi adatainak összevetése után arra jutottak, hogy gyalogolni jobb, mint liftezni.",
+          "text": "Az erdélyi kopó mint hungarikum munkakutyafajta megőrzése a küllem mellett az ösztönök és a használati tudás fenntartását is jelenti.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/08/14/aki-tobbet-lepcsozik-tovabb-el?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/08/16/a-kutyafajtak-nem-vitrintargyak-mit-jelent-megorizni-egy-munkakutyat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "belfold"
+        },
+        {
+          "text": "Az őszibarack, amelynek latin neve perzsa eredetre utal, valójában Kínából származik, és onnan terjedt el Magyarországra és Amerikába.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/08/15/oszinek-hivjak-nyaron-erik-mi-az?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Amikor Tanzánia partvidékén elviselhetetlen a hőség, a szomszédos Ruanda fővárosa, Kigali teraszán 24 fokban lehet meginni a délutáni kávét.",
+          "text": "Ruanda fővárosában, Kigaliban, 24 fokos kellemes időjárás uralkodik, szemben a szomszédos Tanzánia partvidéki hőségével.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/08/14/egy-afrikai-orszag-ahol-olyan-az-idojaras-mint-svajcban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
+        },
+        {
+          "text": "Tengermélyi optikai kábelekkel is lehetne követni a bálnák mozgását, de ez nemzetbiztonsági kockázatokat is rejt.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/08/14/a-tengermelyi-optikai-kabelek-nemcsak-adatkozlesre-balnafigyelesre-is-jok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-08-15T15:33:33.999Z",
+      "engine": "gemini",
+      "updatedAt": "2026-08-16T15:30:01.200Z",
       "sourceLinks": [
         {
           "name": "Greenfo",
@@ -228,7 +258,7 @@
         },
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/08/15/oszinek-hivjak-nyaron-erik-mi-az?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/08/16/a-kutyafajtak-nem-vitrintargyak-mit-jelent-megorizni-egy-munkakutyat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": []
@@ -236,32 +266,32 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Fontos információkat közölt az Otthon Start felülvizsgálattal kapcsolatban az államtitkár.",
+          "text": "Orosz találat érte a világ egyik legnagyobb acélipari vállalatának ukrán üzemét, ami annak leállásához vezetett.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/08/otthon-start-felulvizsgalat",
+          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/08/acelgyar-orosz-tamadas-ukrajna",
           "scope": "kulfold"
         },
         {
-          "text": "Sürgős beavatkozásra volt szükség Európa legnagyobb atomerőművében - ismét leállt a külső áramellátás.",
+          "text": "Az idei Sziget fesztivál pénzügyi bukás lett, a szervezők elmondása szerint a számok nem alakultak a várakozások szerint.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/08/zaporizzsja-atomeromu-biztonsag-nau-iaea",
-          "scope": "kulfold"
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/08/veszteseg-szifget-fesztival-gerendai",
+          "scope": "belfold"
         },
         {
-          "text": "Több helyen is leállt az OTP-s és NetBankos fizetés.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozerdeku/tobb-helyen-is-leallt-az-otp-s-es-netbankos-fizetes.html?utm_source=rss&utm_medium=referral",
-          "scope": "kulfold"
+          "text": "Gerendai Károly szerint újra a külföldi közönséget kell a Sziget fesztiválra vonzani.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/08/veszteseg-szifget-fesztival-gerendai",
+          "scope": "belfold"
         },
         {
-          "text": "Reagáltak az ellenzéki pártok Magyar Péter paksi bejárására.",
+          "text": "Vitézy Dávid bejelentette, hogy a kormánynak ösztönöznie kell a bérlakásépítést egy új program keretében.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozelet/ragaltak-az-ellenzeki-partok-magyar-peter-paksi-bejarasara.html?utm_source=rss&utm_medium=referral",
-          "scope": "kulfold"
+          "link": "https://mfor.hu/cikkek/ingatlan/itt-az-uj-lakasepitesi-program-vitezy-david-bejelentette.html?utm_source=rss&utm_medium=referral",
+          "scope": "belfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-08-15T15:34:51.654Z",
+      "engine": "gemini",
+      "updatedAt": "2026-08-16T15:30:10.687Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -269,11 +299,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozelet/tiszas-civil-nyerheti-a-valasztast-az-egyik-legfideszesebb-varosban.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/turizmus/hol-mossak-tisztara-a-szennyest.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-08-16T15:26:38.615Z"
+  }
 }
