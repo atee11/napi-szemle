@@ -1,64 +1,64 @@
 {
-  "generatedAt": "2026-08-20T05:40:58.017Z",
+  "generatedAt": "2026-08-20T15:42:00.519Z",
   "fx": {
-    "rate": 364.23,
-    "date": "2026-08-20T15:38:47.000Z",
+    "rate": 364.272,
+    "date": "2026-08-20T15:42:00.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "Oroszország ballisztikus rakétákkal támadta Kijevet, melynek során nyolc ember meghalt és legalább 33-an megsérültek.",
-          "source": "Telex",
-          "link": "https://telex.hu/kulfold/2026/08/20/ukrajna-ballisztikus-tamadas-kijev-gyerekkorhaz",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A közmédia megújult M1 Híradója ellenzéki és kormánnyal kritikus véleményeket is bemutatott.",
-          "source": "Telex",
-          "link": "https://telex.hu/belfold/2026/08/20/kozmedia-uj-hirado-m1-augusztus-20",
-          "scope": "belfold"
-        },
-        {
-          "text": "Az augusztus 20-i ünnepségek szervezésével kapcsolatban felmerültek aggályok a közbeszerzési eljárás átláthatóságát illetően.",
-          "source": "Telex",
-          "link": "https://telex.hu/g7/vallalat/2026/08/20/augusztus-20-szervezes-kozbeszerzes-nru-lounge-hardrock",
-          "scope": "belfold"
-        },
-        {
-          "text": "Kollai István helyettes államtitkár szerint a kormány jövő évig tisztázni kívánja a határon túli támogatáspolitikát.",
-          "source": "Telex",
-          "link": "https://telex.hu/belfold/2026/08/19/a-kormany-jovo-evig-szeretne-tisztazni-a-hataron-tuli-tamogataspolitikat",
-          "scope": "belfold"
-        },
-        {
-          "text": "Trump gazdasági D-nappal fenyegeti Iránt.",
-          "source": "24.hu",
-          "link": "https://24.hu/fn/gazdasag/2026/08/20/donald-trump-iran-gazdasagi-d-nap-fenyegetes/",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Magyar Péter kormánya első száz napjában szakpolitikai téren bizakodásra okot adó döntéseket hozott, de kommunikációs és személyzeti hibák is előfordultak.",
+          "text": "Lázár János lemondott képviselői mandátumáról, döntését a párt megújításával indokolta.",
           "source": "HVG",
-          "link": "https://hvg.hu/360/20260820_202634-magyarkormany-azelso-100-nap-tarcamustra-tiszatol-dunaig",
+          "link": "https://hvg.hu/itthon/20260820_lazar-janos-lemondott-kepviseloi-mandatum",
           "scope": "belfold"
+        },
+        {
+          "text": "Magyar Péter egyszerre több szerepet is felvett a kormány első száz napjában.",
+          "source": "Telex",
+          "link": "https://telex.hu/belfold/2026/08/20/rona-daniel-elemzes-augusztus-20-beszed-magyar-peter-baka-andras",
+          "scope": "belfold"
+        },
+        {
+          "text": "Orbán Viktor egy hónap hallgatást tört meg, hogy felköszöntse Magyarországot egy ünnepi videóban.",
+          "source": "HVG",
+          "link": "https://hvg.hu/itthon/20260820_orban-viktor-egy-honap-hallgatast-tort-meg-hogy-felkoszontse-magyarorszagot",
+          "scope": "belfold"
+        },
+        {
+          "text": "Csütörtökön érkeznek Libériába az első kitoloncoltak az Egyesült Államokból.",
+          "source": "Telex",
+          "link": "https://telex.hu/kulfold/2026/08/20/csutortokon-erkeznek-liberiaba-az-elso-kitoloncoltak-az-egyesult-allamokbol",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Lengyelországban elfogtak egy ukrán férfit, aki orosz megbízásból akart merényletet elkövetni egy ukrán fegyveripari képviselő ellen.",
+          "source": "24.hu",
+          "link": "https://24.hu/kulfold/2026/08/20/varso-merenylet-pokolgep-ukrajna-fegyveripar-letartoztatas/",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Az Egyesült Államokban a mesterséges intelligencia politikai kampánytéma lett a félidős választásokon.",
+          "source": "HVG",
+          "link": "https://hvg.hu/tudomany/20260820_felidos-amerikai-valasztas-kampanytema-ai-mesterseges-intelligencia",
+          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-20T05:37:44.141Z",
+      "updatedAt": "2026-08-20T15:40:52.225Z",
       "sourceLinks": [
         {
           "name": "Telex",
-          "link": "https://telex.hu/kulfold/2026/08/20/ukrajna-ballisztikus-tamadas-kijev-gyerekkorhaz"
+          "link": "https://telex.hu/sport/2026/08/20/bizalmatlansagi-szavazast-is-kezdemenyezhetnek-gianni-infantino-fifa-elnok-ellen"
         },
         {
           "name": "24.hu",
-          "link": "https://24.hu/fn/gazdasag/2026/08/20/donald-trump-iran-gazdasagi-d-nap-fenyegetes/"
+          "link": "https://24.hu/szorakozas/2026/08/20/jessie-cave-harry-potter-haj-onlyfans/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/360/20260820_japan-vetomag-nemesito-tarolni-keszul-a-magyar-piacon-paprikamag-kaneko-seeds"
+          "link": "https://hvg.hu/itthon/20260820_orban-viktor-egy-honap-hallgatast-tort-meg-hogy-felkoszontse-magyarorszagot"
         }
       ],
       "skipped": []
@@ -66,36 +66,48 @@
     "sport": {
       "items": [
         {
-          "text": "Nick Kyrgios ausztrál teniszező pozitív doppingmintát szolgáltatott, amelyben kokaint találtak.",
+          "text": "Valter Attila kerékpáros harmadszor is indul a Vuelta a España versenyen.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/08/20/valter-attila-harmadszor-is-indul-a-vuelta-a-espana-versenyen",
+          "scope": "belfold"
+        },
+        {
+          "text": "Max Verstappen szerződése aláírásra került, véget vetve a jövőjével kapcsolatos találgatásoknak.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/08/20/vege-a-talalgatasoknak-max-verstappen-jovojevel-kapcsolatban",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Sós Csaba szövetségi kapitány szerint a 4x100-as férfi gyorsváltó győzelme volt a legnagyobb élmény az úszó Eb-n.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/08/20/sos-csaba-az-arenaban-illik-elmondanom-hogyan-alakult-ki-ez-a-gyorsvalto-milak-kristoffal",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Ferencváros az Európa-liga csoportkörébe jutásért mérkőzik meg a Trabzonsporral.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/08/20/negy-ev-utan-ujra-trabzonspor-fradi-ezuttal-az-el-kapujaban-sport-a-teveben",
+          "scope": "belfold"
+        },
+        {
+          "text": "Nick Kyrgios, korábbi wimbledoni döntős ausztrál teniszező doppingmintájában kokaint találtak.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/2026/08/19/kokaint-talaltak-a-korabbi-wimbledoni-dontos-ausztral-teniszezo-doppingmintajaban",
           "scope": "kulfold"
         },
         {
-          "text": "Böde Dánielt, a Paksi FC labdarúgóját pályafutása során először műteni kell.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/19/muteni-kell-bode-danielt",
-          "scope": "belfold"
-        },
-        {
-          "text": "Isack Hadjar, a Red Bull pilótája sérülés miatt kihagyja a Holland Nagydíjat.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/19/isack-hadjar-kihagyja-a-holland-nagydijat",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az ETO FC nigériai középpályással, Peter Agbával erősített, aki az izraeli Maccabi Haifától érkezik kölcsönbe.",
+          "text": "Az Athletic értékelése szerint Szoboszlai Dominik a Premier League nyolcadik legjobb játékosa.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/labdarugo-nb-i/2026/08/nigeriai-kozeppalyassal-erositett-az-eto-fc-hivatalos",
+          "link": "https://www.nemzetisport.hu/angol-labdarugas/2026/08/az-athleticnel-szoboszlai-dominik-a-pl-8-legjobb-jatekosa",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-20T05:38:01.033Z",
+      "updatedAt": "2026-08-20T15:41:10.571Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/19/kokaint-talaltak-a-korabbi-wimbledoni-dontos-ausztral-teniszezo-doppingmintajaban"
+          "link": "https://infostart.hu/sport/2026/08/20/valter-attila-harmadszor-is-indul-a-vuelta-a-espana-versenyen"
         },
         {
           "name": "Nemzeti Sport",
@@ -107,7 +119,7 @@
     "technologia": {
       "items": [
         {
-          "text": "A Szilícium-völgy vezetői rajonganak a számítógépekért, de saját gyerekeiket nem engedik képernyő elé.",
+          "text": "A Szilícium-völgy vezetői, bár rajonganak a számítógépekért, saját gyermekeiket nem engedik képernyő elé.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/166512/a-szilicium-volgy-vezetoi-rajonganak-a-szamitogepekert-de-sajat-gyerekeiket-nem-",
           "scope": "kulfold"
@@ -119,13 +131,13 @@
           "scope": "kulfold"
         },
         {
-          "text": "A YouTube megváltoztatja a megtekintések számításának módját.",
+          "text": "A YouTube megváltoztatja a megtekintések számításának módját, hogy felpörgesse a számokat.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/166509/a-youtube-megvaltoztatja-a-megtekintesek-szamitasanak-modjat-hogy-felporgesse-a-",
           "scope": "kulfold"
         },
         {
-          "text": "Az Apple fülhallgatója, az AirPods kamerát kap.",
+          "text": "Az Apple fülhallgatója, az AirPods, kamerát kap.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/166510/kamerat-kap-az-airpods-az-apple-fulhallgatoja",
           "scope": "kulfold"
@@ -137,14 +149,14 @@
           "scope": "kulfold"
         },
         {
-          "text": "Magyar kutatók részvételével új kísérleti eredmény született a barionszám-megmaradás eredetének vizsgálatában.",
-          "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/08/19/uj-nyomot-talaltak-arra-miert-nem-tunik-el-az-anyag-az-univerzumbol",
-          "scope": "belfold"
+          "text": "A Tesla rajongók nem elégedettek azzal, hogy Elon Musk egyre inkább a SpaceX-re fókuszál.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/auto/166507/a-tesla-rajongok-nagyon-nem-orulnek-hogy-musk-egyre-inkabb-a-spacex-re-figyel",
+          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-20T05:38:12.487Z",
+      "updatedAt": "2026-08-20T15:41:20.177Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
@@ -160,36 +172,48 @@
     "gazdasag": {
       "items": [
         {
-          "text": "A valaha bármely ország ellen indított legsúlyosabb gazdasági műveletet jelentette be Donald Trump amerikai elnök Irán ellen a Truth Socialön közzétett posztjában.",
+          "text": "A Miskolctapolcai Barlangfürdő két év után újra megnyílt egy korábbi tűzeset miatti kényszerű zárva tartás után.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20260820/bejelentette-trump-jon-a-gazdasagi-d-nap-iran-ellen-857406",
+          "link": "https://www.portfolio.hu/gazdasag/20260820/ket-ev-utan-ujra-kinyitott-a-nepszeru-barlangfurdo-azonnal-telthaz-is-lett-857452",
+          "scope": "belfold"
+        },
+        {
+          "text": "Az aktívan kezelt ETF-ek vagyona június végére 2700 milliárd dollár fölé nőtt, fél év alatt 453 milliárd dollár nettó tőkét vonzva.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/befektetes/20260820/surranopalyan-hasitanak-a-tozsdek-uj-ustokosei-meglepoen-nagy-reszt-zsebeltek-be-a-globalis-penzesobol-857324",
           "scope": "kulfold"
         },
         {
-          "text": "A száz napja működő Tisza-kormány folytatja az előző kabinet döntéseinek felülvizsgálatát: eddig 70 nem nyilvános határozatot tártak fel a kormányváltás körüli időszakból, miközben mintegy 4000 milliárd forintnyi állami forrás sorsa kérdéses.",
+          "text": "Az amerikai pénzügyminisztérium beavatkozása megfékezte a globális kötvénypiaci eladási hullámot, csökkentve a hozamokat és emelve a részvénypiacokat.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20260819/tisza-kormany-feloszolhat-a-fidesz-bulizni-hiv-mindenkit-magyar-peter-857140",
+          "link": "https://www.portfolio.hu/befektetes/20260820/mikozben-magyarorszag-unnepel-hatalmasat-mozdultak-a-tozsdek-az-amerikai-mentoov-utan-857408",
           "scope": "kulfold"
         },
         {
-          "text": "árbevétele több mint 12 százalékkal, 50,91 milliárd forintra emelkedett tavaly az előző évhez képest, kamat-, adófizetés és amortizáció előtti eredménye (EBITDA) pedig 7,2 százalékkal, 3,01 milliárd forintra nőtt.",
+          "text": "Augusztus 20-án a forint kezdeti erősödés után gyengülésnek indult a visszafogott ünnepnapi forgalomban.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/deviza/20260820/rovid-uton-gyengulesbe-fordult-augusztus-20-an-a-forint-857410",
+          "scope": "belfold"
+        },
+        {
+          "text": "Az MBH Elemzési Centrum szerint 2026-ban lassuló áremelkedés, élénkülő építések és rekordközeli hitelezés jellemezheti a lakáspiacot.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/08/18/nott-a-vajda-papir-arbevetele-es-mukodesi-eredmenye",
-          "scope": "kulfold"
+          "link": "https://infostart.hu/gazdasag/2026/08/18/javul-a-lakaspiaci-hangulat-a-befektetok-is-optimistabbak",
+          "scope": "belfold"
         },
         {
-          "text": "Kína 633,4 milliárd dollárt tartott amerikai államkötvényekben idén júniusban, ez mintegy 100 milliárd dollárral kisebb az egy évvel korábbi 731,4 milliárd dollárnál és 2008 szeptembere óta a legalacsonyabb összeg – derül ki az amerikai pénzügyminisztérium friss jelentéséből.",
+          "text": "Kína amerikai államkötvényekben tartott összege idén júniusban 633,4 milliárd dollár volt, ami 2008 szeptembere óta a legalacsonyabb szint.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/08/18/100-milliard-dollar-kina-egyertelmu-fordulatot-vett-mar-nem-finanszirozza-az-egyesult-allamokat",
           "scope": "kulfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-08-20T05:40:00.954Z",
+      "engine": "gemini",
+      "updatedAt": "2026-08-20T15:41:34.796Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20260820/bejelentette-trump-jon-a-gazdasagi-d-nap-iran-ellen-857406"
+          "link": "https://www.portfolio.hu/gazdasag/20260820/ket-ev-utan-ujra-kinyitott-a-nepszeru-barlangfurdo-azonnal-telthaz-is-lett-857452"
         },
         {
           "name": "Infostart Gazdaság",
@@ -201,32 +225,32 @@
     "kornyezet": {
       "items": [
         {
-          "text": "A tűzijátékoknak vannak árnyoldalai, ezért nem ördögtől való az alternatív ünneplési formák keresése.",
+          "text": "A tűzijátéknak vannak árnyoldalai, ezért alternatív ünneplési formák is megfontolhatók.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/08/20/evezredeken-at-durrogtattunk-de-mostanra-kiderult-hogy-a-tuzijatekon-tul-is-van-elet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Az Európai Unió tagállamai egyelőre nem tudták megújuló energiaforrásokkal kiváltani a fosszilis tüzelőanyagokat, miközben a világ fosszilis készletei fogynak.",
+          "text": "Az Európai Unió tagállamai az orosz-ukrán háború kitörése óta sem tudták megújuló energiaforrásokkal kiváltani a fosszilis tüzelőanyagokat.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/08/20/mikozben-elfogynak-a-vilag-fosszilis-keszletei-europa-energiafuggosege-nem-szunik-meg-csak-atalakul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Palackorrú delfineket kaptak lencsevégre, amint kagylóhéjat használnak halak terelésére és elfogására.",
+          "text": "Palackorrú delfínek eszközhasználatát figyelték meg, amint kagylóhéjjal terelnek halakat a szájukba.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/08/19/eszkozhasznalaton-kaptak-a-palackorru-delfineket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Idén augusztus közepére az Alpok gleccsereinek nagy részéről eltűnt a hó, ami a gleccserek jövőjére nézve aggasztó.",
+          "text": "Idén augusztus közepére az Alpok gleccsereinek nagy részéről eltűnt a hó.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/08/19/a-magas-hohatar-vilagosan-mutatja-hogy-a-gleccsereknek-nincs-jovojuk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-20T05:40:44.536Z",
+      "updatedAt": "2026-08-20T15:41:49.348Z",
       "sourceLinks": [
         {
           "name": "Greenfo",
@@ -242,38 +266,32 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Donald Trump bejelentette Amerika totális gazdasági háborúját Irán ellen.",
+          "text": "A kötvényhozamok hullámvasúton ingadoznak, amire a részvényindexek riadtan figyelnek.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/08/trump-iran-totalis-gazdasagi-haboru-amerika-elszigetel",
+          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/08/reszvenypiac-kotvenyhozamok-walmart",
           "scope": "kulfold"
         },
         {
-          "text": "Egy nyugat-európai boltlánc újabb helyszínen nyitott üzletet Magyarországon.",
+          "text": "A Paksi Atomerőműben olyan munkára készülnek, amilyet még nem végeztek az atomerőmű blokkjainak újraindításához.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/kiskereskedelem/2026/08/rituals-uzlet-corvin-plaza-drogeria",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/08/ujrainditas-paksi-atomeromu-duna-teljesitmeny",
           "scope": "belfold"
         },
         {
-          "text": "Az első nagy szélerőmű-tender napokon belül megjelenik Magyarországon, bár problémákat azonosítottak benne.",
+          "text": "A Paksi Atomerőmű esetében a teljes leállás lett volna az igazi dráma.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/08/szeleromu-rekk-mekh-nap-palyazat",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/08/ujrainditas-paksi-atomeromu-duna-teljesitmeny",
           "scope": "belfold"
         },
         {
-          "text": "Nem kell leállítani a Paksi Atomerőmű turbináit.",
+          "text": "Donald Tusk arra kérte Németországot, hogy ne vonja felelősségre az Északi Áramlat megrongálóit, akik ukrán állampolgárok.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/vallalatok/jott-egy-jo-hir-paksrol--ezt-jelentette-be-magyar-peter.html?utm_source=rss&utm_medium=referral",
-          "scope": "belfold"
-        },
-        {
-          "text": "A forint árfolyama ingadozik az euróval szemben.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/befektetes/kovalyog-a-forint--de-megis-mennyiert-adjak-az-eurot.html?utm_source=rss&utm_medium=referral",
-          "scope": "belfold"
+          "link": "https://mfor.hu/cikkek/kulpolitika/donald-tusk-nemetorszag-ne-vonja-felelossegre-az-eszaki-aramlat-megrongaloit.html?utm_source=rss&utm_medium=referral",
+          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-20T05:40:57.898Z",
+      "updatedAt": "2026-08-20T15:42:00.397Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -281,11 +299,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/a-fidesz-is-sporolassal-kezdte-augusztus-20-at-de-utana-elszaladt-veluk-a-lo.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/kulpolitika/donald-tusk-nemetorszag-ne-vonja-felelossegre-az-eszaki-aramlat-megrongaloit.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-08-20T15:38:49.245Z"
+  }
 }
