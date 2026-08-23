@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T05:37:36.988Z",
+  "generatedAt": "2026-08-23T15:30:55.337Z",
   "fx": {
     "rate": 362.15,
     "date": "2026-08-23T02:37:03.000Z",
@@ -9,56 +9,44 @@
     "politika": {
       "items": [
         {
-          "text": "A miniszterelnök szerint vasárnap újabb turbinák állnak működésbe, miután a paksi hatos turbina újra termeli az áramot.",
+          "text": "A Magyarok Világszövetsége a Mi Hazánk javaslatára tanácsot adhat a Vagyonvédelmi Hivatal vezetőinek kiválasztásában.",
           "source": "Telex",
-          "link": "https://telex.hu/belfold/2026/08/23/paksi-atomeromu-hatos-blokk-ujraindult-aramot-termel-magyar-peter",
+          "link": "https://telex.hu/belfold/2026/08/23/magyarok-vilagszovetsege-nvvh-vagyonvedelmi-hivatal",
           "scope": "belfold"
         },
         {
-          "text": "A politikai váltás hozzájárult a magyar gazdaság javulásához, és a bizalomnyerést az euróátvételi céldátum kitűzése segítené.",
+          "text": "Magyar Péter felkérte a magyarországi és itthon működő külföldi cégeket, hogy szálljanak be az október 23-i ünnepség finanszírozásába.",
           "source": "Telex",
-          "link": "https://telex.hu/g7/kozelet/2026/08/23/uj-kormany-koltsegvetes-eurobevezetes-allamadossag-makrogazdasag",
+          "link": "https://telex.hu/belfold/2026/08/23/magyar-peter-1956-os-megemlekezes-70-evfordulo",
           "scope": "belfold"
         },
         {
-          "text": "Kanada megtorló vámokat vezetett be az USA-val szemben, amelyek az amerikai acél-, tej- és elektronikai ipart érintik.",
-          "source": "24.hu",
-          "link": "https://24.hu/kulfold/2026/08/23/vamhaboru-usa-kanada-mark-carney-trump/",
+          "text": "Magyar Péter a paksi Duna-szakasz építkezésén bírálta a kormányt a hosszú távú megoldások elmulasztása miatt az atomerőmű hűtéséhez.",
+          "source": "Telex",
+          "link": "https://telex.hu/belfold/2026/08/23/paks-duna-fenekkuszob-epitkezes-magyar-peter",
+          "scope": "belfold"
+        },
+        {
+          "text": "A bayreuthi Wagner-ünnepségeken napirenden van a zeneszerző antiszemitizmusa, valamint a mai Németországban egyre növekvő antiszemitizmus.",
+          "source": "HVG",
+          "link": "https://hvg.hu/360/20260823_hvg-antiszemitizmus-bayreuthi-fesztival-richard-wagner-oroksege-gustav-mahler-pavel-haas-michel-friedman",
           "scope": "kulfold"
-        },
-        {
-          "text": "A magyarországi eutanázia-vita kapcsán felmerült Karsai Dániel szerepe, valamint az eutanázia hazai engedélyezésének további teendői.",
-          "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/08/23/eutanazia-berczes-tibor-interju-karsai-daniel-24extra/",
-          "scope": "belfold"
-        },
-        {
-          "text": "Átvilágítják a 4iG állami szerződéseit és vizsgálják, hogy az FTC szabálytalanul költött-e állami támogatást.",
-          "source": "HVG",
-          "link": "https://hvg.hu/gazdasag/20260823_es-akkor-duna-4ig-ner-cegek-aszaly-fizetesek-sport",
-          "scope": "belfold"
-        },
-        {
-          "text": "Megkezdődött a Paksi 3-as turbina visszakapcsolása, amely a kormányfő szerint szerdán már teljes kapacitáson üzemelhet.",
-          "source": "HVG",
-          "link": "https://hvg.hu/itthon/20260822_ujraindul-a-termeles-a-3-as-blokkban-magyar-peter-eloben-mutatja-a-turbina-visszakapcsolasat",
-          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-23T05:36:34.187Z",
+      "updatedAt": "2026-08-23T15:29:44.543Z",
       "sourceLinks": [
         {
           "name": "Telex",
-          "link": "https://telex.hu/karakter/konyvespolc/2026/08/23/belle-burden-idegenek-reszlet"
+          "link": "https://telex.hu/g7/penz/2026/08/23/tech-befektetesek-hype-memoriagyartok-ertekeltsegek-arfolyamok-ciklusok"
         },
         {
           "name": "24.hu",
-          "link": "https://24.hu/kulfold/2026/08/23/vamhaboru-usa-kanada-mark-carney-trump/"
+          "link": "https://24.hu/belfold/2026/08/23/halalos-veszely-figyelmeztetes-katai-nemeth-vilmos-miniszter/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/gazdasag/20260823_es-akkor-duna-4ig-ner-cegek-aszaly-fizetesek-sport"
+          "link": "https://hvg.hu/itthon/20260823_elvittek-a-hatoslotton-a-tobb-mint-egymilliardos-fonyeremenyt"
         }
       ],
       "skipped": []
@@ -66,48 +54,48 @@
     "sport": {
       "items": [
         {
-          "text": "Varga Barnabás gólt szerzett a címvédő AEK Athén 4-0-s hazai győzelmében a görög labdarúgó-bajnokság első fordulójában.",
+          "text": "Halász Bence 80 méter alatt maradt a lengyelországi Gyémánt Liga-versenyen, ahol ketten is nagyobbat dobtak nála.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/22/varga-barnabas-golt-szerzett",
+          "link": "https://infostart.hu/sport/2026/08/23/halasz-bence-ismet-versenyben-volt",
           "scope": "belfold"
         },
         {
-          "text": "Lando Norris, a McLaren brit versenyzője nyerte a Forma-1-es Holland Nagydíj szombati időmérő edzését.",
+          "text": "Sallói Dániel gólpasszal járult hozzá Lionel Messiék legyőzéséhez.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/22/a-cimvedo-remek-pozicioban",
+          "link": "https://infostart.hu/sport/2026/08/23/igy-gyoztek-le-salloi-danielek-lionel-messieket-video",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Sydney Marathon szervezői elnézést kértek, mert az emlékérmeken a sydney-i helyett a müncheni Allianz Stadion képe szerepelt.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/08/23/oruletes-baki-sydney-maratonjan",
           "scope": "kulfold"
         },
         {
-          "text": "Harmincöt rendőr sérült meg a Mannheim és a Kaiserslautern labdarúgó Német Kupa-mérkőzésen kialakult összetűzésben.",
+          "text": "Carlos Alcaraz és Serena Williams szabadkártyával indul az amerikai nyílt teniszbajnokság vegyes páros versenyszámában.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/22/durva-verekedes-a-nemet-rangadon",
+          "link": "https://infostart.hu/sport/2026/08/23/tenisz-elkepesztoen-izgalmas-paros-all-ossze-a-us-openre",
           "scope": "kulfold"
         },
         {
-          "text": "Marc Lore eladja többségi tulajdonrészét a Juhász Dorkát foglalkoztató Minnesota Lynx WNBA-csapatból.",
+          "text": "A Bayern München 2–1-re legyőzte a Borussiát, ezzel megnyerte a német Szuperkupát.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/21/mintegy-1395-milliard-forintert-eladjak-juhasz-dorkaek-klubjat",
-          "scope": "belfold"
+          "link": "https://infostart.hu/sport/2026/08/23/a-bayern-megkezdte-szezonbeli-trofeainak-gyujteset",
+          "scope": "kulfold"
         },
         {
-          "text": "A Paks a negyedik helyre lépett az OTP Bank Liga tabelláján az Újpest felett aratott sikerével.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/21/hatalmas-siker-pakson",
-          "scope": "belfold"
-        },
-        {
-          "text": "Carlos Espí a 90. percben szerzett góllal biztosította a Real győzelmét a bajnoki nyitányon.",
+          "text": "Átrok Zalán két gólt szerzett felnőtt játékosként egy mérkőzésen a belga élvonalban, és megkapta a legjobb játékosnak járó díjat is.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/spanyol-labdarugas/2026/08/carlos-espi-a-90-percben-huzta-ki-a-csavabol-a-mourinhot-gyozelemmel-kezdte-a-bajnoksagot-a-real",
-          "scope": "kulfold"
+          "link": "https://www.nemzetisport.hu/legiosok/2026/08/atrok-zalan-eloszor-szereztem-ket-golt-felnott-jatekoskent-egy-meccsen",
+          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-23T05:36:47.217Z",
+      "updatedAt": "2026-08-23T15:29:56.465Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/22/varga-barnabas-golt-szerzett"
+          "link": "https://infostart.hu/sport/2026/08/23/halasz-bence-ismet-versenyben-volt"
         },
         {
           "name": "Nemzeti Sport",
@@ -119,15 +107,15 @@
     "technologia": {
       "items": [
         {
-          "text": "Az EA hatalmas adóssággal került magánkézbe.",
+          "text": "Az EA Games hatalmas adóssággal került magánkézbe.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/jatek/166474/az-ea-hatalmas-adossaggal-kerult-magankezbe-es-ez-mindent-megvaltoztathat",
           "scope": "kulfold"
         },
         {
-          "text": "Az IT-cégek is elégedetlenek a mesterséges intelligencia által generált tartalmak minőségével.",
+          "text": "A Samsung 15 százalékkal megemelte chipgyártási árait.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166492/elege-van-az-mi-s-szemetbol-az-it-cegeknek-is",
+          "link": "https://sg.hu/cikkek/it-tech/166511/15-szazalekkal-megemelte-chipgyartasi-arait-a-samsung",
           "scope": "kulfold"
         },
         {
@@ -137,26 +125,26 @@
           "scope": "kulfold"
         },
         {
-          "text": "Az Apple AirPods fülhallgatója kamerát kap.",
+          "text": "A YouTube megváltoztatja a megtekintések számításának módját a számok növelése érdekében.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166510/kamerat-kap-az-airpods-az-apple-fulhallgatoja",
+          "link": "https://sg.hu/cikkek/it-tech/166509/a-youtube-megvaltoztatja-a-megtekintesek-szamitasanak-modjat-hogy-felporgesse-a-",
           "scope": "kulfold"
         },
         {
-          "text": "Készül a kormányzati előterjesztés a 2017 óta bezárt budapesti Planetárium jövőjéről.",
+          "text": "Kormányzati előterjesztés készül a 2017 óta bezárt budapesti Planetárium jövőjéről.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/08/22/csillagaszati-bejelentest-tett-a-tudomanyos-es-technologiai-miniszter",
           "scope": "belfold"
         },
         {
-          "text": "Emelkedik a YouTube Prémium előfizetés havidíja Magyarországon.",
+          "text": "A YouTube árat emel Magyarországon a Prémium előfizetés havidíja tekintetében.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/tech/2026/08/21/arat-emel-a-youtube-magyarorszagon",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-23T05:37:02.113Z",
+      "updatedAt": "2026-08-23T15:30:08.104Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
@@ -172,52 +160,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "Kanada vámemelésekkel válaszol az Egyesült Államok 50 százalékos védővámjaira szeptember 8-tól.",
+          "text": "A japán 10 éves állampapír hozama 1996 óta nem látott szintre, 2,945 százalékra emelkedett.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20260822/vamhaboru-a-javabol-valaszcsapasra-keszul-kanada-857656",
+          "link": "https://www.portfolio.hu/deviza/20260823/mindenki-a-jent-figyeli-pedig-japan-igazi-problemaja-mashol-van-856948",
           "scope": "kulfold"
         },
         {
-          "text": "Az amerikai értékpapír- és tőzsdefelügyelet bennfentes kereskedelemmel vádolta meg a Bank of America egykori bankárát.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/bank/20260822/bennfentes-kereskedesi-ugybe-keveredett-a-bank-of-america-egykori-bankara-857654",
-          "scope": "kulfold"
+          "text": "A Magyarországon nemesített Turbo Obelisk akácfajták nemzetközi szinten is megjelenhetnek, az Egyesült Államokban már értékesítési megállapodást is kötöttek.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/08/23/uj-akacot-talaltak-ki-magyarorszagon-a-szarazsag-miatt",
+          "scope": "belfold"
         },
         {
-          "text": "A kormány közel 500 milliárd forintot fordít a villamosenergia-hálózat fejlesztésére és okosmérők telepítésére az RRF keretében.",
+          "text": "A Budapest Airport Zrt. kivitelezőt keres több mint hetvenezer négyzetméternyi új burkolat kialakítására és a gurulóutak szélesítésére Ferihegyen.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/08/23/hatalmas-munka-ferihegyen-az-oriasgepejnek-akarnak-kedvezni",
+          "scope": "belfold"
+        },
+        {
+          "text": "A kormány közel 500 milliárd forintot fordít a villamosenergia-hálózat fejlesztésére és okosmérők telepítésére az Európai Unió RRF keretében.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/08/22/egy-vagyont-koltenek-majd-okosmerokre",
           "scope": "belfold"
         },
         {
-          "text": "Az Egyesült Államok 50 százalékos vámot vezetett be a Kanadából importált áruk egy részére.",
+          "text": "Az Egyesült Államok ötvenszázalékos vámot vezetett be a Kanadából importált áruk egy részére, mivel nem sikerült véglegesíteni egy kereskedelmi megállapodást.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/08/22/50-szazalekos-vam-kanadara",
           "scope": "kulfold"
         },
         {
-          "text": "A Költségvetési Tanács hétfőn hoz határozatot a Pénzügyminisztérium 2026-os költségvetési módosítás tervezetéről.",
+          "text": "A Költségvetési Tanács hétfőn hoz határozatot, majd nyilvánosságra hozza a Pénzügyminisztérium által készített 2026-os költségvetési módosítás tervezetét.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/08/22/sejtelmes-utalast-tett-a-penzugyminiszter-a-koltsegvetesrol-van-szo",
-          "scope": "belfold"
-        },
-        {
-          "text": "Az eddigi számok alapján az éves használt-autó összforgalom megdöntheti a tavalyi rekordot Magyarországon.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/08/22/csak-ugy-ozonlenek-az-autok-kulfoldrol-magyarorszagra",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-23T05:37:17.648Z",
+      "updatedAt": "2026-08-23T15:30:28.332Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20260823/ezek-istentelen-kommunistak-voros-veszedelmet-kialt-trump-de-a-burritokba-alelnoke-szerint-is-belebukhat-857270"
+          "link": "https://www.portfolio.hu/deviza/20260823/mindenki-a-jent-figyeli-pedig-japan-igazi-problemaja-mashol-van-856948"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/08/22/egy-vagyont-koltenek-majd-okosmerokre"
+          "link": "https://infostart.hu/gazdasag/2026/08/23/uj-akacot-talaltak-ki-magyarorszagon-a-szarazsag-miatt"
         }
       ],
       "skipped": []
@@ -225,32 +213,38 @@
     "kornyezet": {
       "items": [
         {
-          "text": "A légszennyezés hatásainak komolyan vételével és a gyulladásos folyamatok megállításával hatékonyabban megelőzhető lenne a tüdőrák kialakulása és súlyosbodása.",
+          "text": "Az elmúlt tíz évben 20 százalékkal nőtt a csomagolásból származó hulladék mennyisége az EU-ban, ezért az Unió szigorított a szabályokon.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/08/23/az-eu-szigoritott-a-muanyag-csomagolas-szabalyain-a-kisvallalkozasok-tiltakoznak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A légszennyezés hatásainak komolyan vételével és a gyulladásos folyamatok megállításával hatékonyabban előzhető meg a tüdőrák kialakulása.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/08/21/tovabbra-is-milliok-halnak-bele-a-tudorakba-holott-mar-a-kialakulasa-is-megelozheto-lenne?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Öt év alatt sem sikerült felderíteni minden idők legsúlyosabb magyarországi ragadozómadár-mérgezésének elkövetőjét.",
+          "text": "Öt év alatt sem sikerült felderíteni, ki követte el minden idők legsúlyosabb magyarországi ragadozómadár-mérgezését.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/08/21/ot-ev-alatt-sem-sikerult-felderiteni-ki-kovette-el-minden-idok-legsulyosabb-magyarorszagi-ragadozomadar-mergezeset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "belfold"
         },
         {
-          "text": "A tűzijátéknak vannak árnyoldalai, ezért alternatív ünneplési formák, mint például a drónok, is szóba jöhetnek.",
+          "text": "A tűzijátéknak vannak árnyoldalai, ezért az alternatív ünneplési formák keresése nem ördögtől való.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/08/20/evezredeken-at-durrogtattunk-de-mostanra-kiderult-hogy-a-tuzijatekon-tul-is-van-elet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Az EU az orosz-ukrán háború kitörése óta sürgeti a kőolaj- és földgázimport csökkentését, de a tagállamok egyelőre nem tudták megújuló energiaforrásokkal kiváltani a fosszilis tüzelőanyagokat.",
+          "text": "Az EU tagállamai egyelőre nem tudták megújuló energiaforrásokkal kiváltani a fosszilis tüzelőanyagokat, így Európa energiafüggősége fennmarad.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/08/20/mikozben-elfogynak-a-vilag-fosszilis-keszletei-europa-energiafuggosege-nem-szunik-meg-csak-atalakul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-23T05:37:26.895Z",
+      "updatedAt": "2026-08-23T15:30:39.631Z",
       "sourceLinks": [
         {
           "name": "Greenfo",
@@ -258,7 +252,7 @@
         },
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/08/22/1990-forint-egy-kis-uveg-kolaert-sok-de-egy-idoutazasert?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/08/23/az-eu-szigoritott-a-muanyag-csomagolas-szabalyain-a-kisvallalkozasok-tiltakoznak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": []
@@ -266,44 +260,32 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Elindul Magyarországon a kínai Bilibili videómegosztó platform.",
+          "text": "Az árfolyamok adatai 15 perccel késleltetettek.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/08/kinai-youtube-bilibili-globalis-terjeszkedes-magyar",
-          "scope": "belfold"
+          "link": "https://www.vg.hu/reszvenyek",
+          "scope": "kulfold"
         },
         {
-          "text": "A Tisza-kormány intézkedései nagyszabású magyarországi beruházásokat sodortak veszélybe.",
+          "text": "A légkondicionálás hiánya miatt beszakadhat az európai gazdaság a hőségben.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/08/beruhazas-kiemelt-statusz-epitoipar-befektetok-tisza",
-          "scope": "belfold"
+          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/08/legkondicionalas-hohullam-termeles-eu-gazdasagi-valsag",
+          "scope": "kulfold"
         },
         {
-          "text": "A fejlesztőknek teljes áttervezésre lehet szükségük, más projektek pedig végleg eltűnhetnek.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/08/beruhazas-kiemelt-statusz-epitoipar-befektetok-tisza",
-          "scope": "belfold"
-        },
-        {
-          "text": "Újraindul a termelés a paksi 3-as blokkban.",
+          "text": "Csütörtökön már megválaszthatják a vagyonvisszaszerzési hivatal vezetőjét.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/magyar-peter-ujabb-csodalatos-oromhirt-kozolt-a-magyarokkal.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/kozelet/csutortokon-mar-meg-is-valaszthatjak-a-vagyonvisszaszerzesi-hivatal-vezetojet.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         },
         {
-          "text": "Új önkormányzati bérlakásrendszer indul Debrecenben, 200 lakás válik elérhetővé.",
+          "text": "Vlagyimir Putyin kemény figyelmeztetést küldött Ukrajnának.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/azok-kapnak-lakast-aki-raszorulnak-uj-onkormanyzati-berlakasrendszer-indul-debrecenben.html?utm_source=rss&utm_medium=referral",
-          "scope": "belfold"
-        },
-        {
-          "text": "Kapitány István bejelentette, hogy 5 támogatási szerződést írtak alá 500 milliárd forint értékben.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/kapitany-istvan-500-milliard-forint-sorsarol-tett-bejelentest.html?utm_source=rss&utm_medium=referral",
-          "scope": "belfold"
+          "link": "https://mfor.hu/cikkek/kulpolitika/kemeny-figyelmeztetest-kuldott-putyin-ukrajnanak.html?utm_source=rss&utm_medium=referral",
+          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-23T05:37:36.920Z",
+      "updatedAt": "2026-08-23T15:30:55.263Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -311,11 +293,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozelet/gondolta-volna-varatlan-dolgot-felteteleznek-a-gazdagokrol-a-magyarok--a-het-abraja.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/egeszsegugy/megdobbento-hogy-a-tinedzserek-mire-hasznaljak-a-chatgpt-t.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-08-23T15:27:35.417Z"
+  }
 }
