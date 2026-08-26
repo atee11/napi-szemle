@@ -1,64 +1,64 @@
 {
-  "generatedAt": "2026-08-25T15:52:54.956Z",
+  "generatedAt": "2026-08-26T05:42:01.099Z",
   "fx": {
-    "rate": 360.023,
-    "date": "2026-08-26T05:38:57.000Z",
+    "rate": 360.032,
+    "date": "2026-08-26T05:41:34.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "Kanada 50 százalékos bosszúvámot vezet be nagyjából 700 amerikai termékre, az alufóliától a ruhákon át a mosógépekig.",
+          "text": "Az agrárminisztérium megmagyarázta, miért zárta ki Mészáros Lőrinc pulykafeldolgozóját egy már megnyert uniós pályázatból.",
           "source": "Telex",
-          "link": "https://telex.hu/kulfold/2026/08/25/kanada-donald-trump-vam-bosszu",
+          "link": "https://telex.hu/gazdasag/2026/08/26/agrarminiszterium-pulykafeldolgozo-kizaras-indoklas",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Kreml szóvivője szerint a CIA igazgatója hírszerző ügynökségek közötti kapcsolattartás miatt látogatott Moszkvába.",
+          "source": "Telex",
+          "link": "https://telex.hu/kulfold/2026/08/26/kreml-szovivo-dmitrij-peszkov-cia-igazgato-john-ratcliffe-moszkva-latogatas-hirszerzes-usa-oroszorszag",
           "scope": "kulfold"
         },
         {
-          "text": "Baka András új államfő első feladata az új legfőbb ügyész megtalálása, akinek jelöltjét a Tiszás többségnek kell megválasztania kilenc évre.",
+          "text": "A Trump-kormányzat azzal fenyegetőzik, hogy lebontatja a Kennedy Centert, ha az elnök neve nem szerepelhet a homlokzatán.",
           "source": "Telex",
-          "link": "https://telex.hu/belfold/2026/08/25/legfobb-ugyesz-nagy-gabor-balint-mandatuma-baka-andras-koztarsasagi-elnok-jelolese-tisza-part",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Ceutát megrohamozó migránsok 5-10 százaléka maradt a spanyol városban, a helyzetet nemzetbiztonsági szempontból kiemelt jelentőségűnek minősítették.",
-          "source": "24.hu",
-          "link": "https://24.hu/kulfold/2026/08/25/ceuta-spanyolorszag-spanyol-kormany-marokko/",
+          "link": "https://telex.hu/karakter/kultura/2026/08/26/washingtoni-kennedy-center-lebontasaval-fenyegetozik-a-trump-kormanyzat-birosagi-beadvany",
           "scope": "kulfold"
         },
         {
-          "text": "Döcögve indul a közmédia átalakítása, ahol egy új testület dönt majd a vezérigazgatóiról, a Tisza visszakozott, a MÚOSZ pedig új felállást javasol.",
+          "text": "A magyar ENSZ-küldöttség új irányelvek alapján fog dolgozni, elítélve az orosz agressziót és támogatva Ukrajna szuverenitását.",
           "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/08/25/fuggetlen-kozmedia-testulet-kocsi-ilona-muosz-elnok-reakcio/",
+          "link": "https://24.hu/kulfold/2026/08/26/magyar-ensz-kuldottseg-tisza-kormany-iranyelvek/",
           "scope": "belfold"
         },
         {
-          "text": "A Tisza-frakció közlése szerint Sárvári Nicholas sosem volt a jelöltjük a vagyonvisszaszerzési hivatal élére, korábbi fogalmazásuk szerencsétlen volt.",
+          "text": "Nyári jutalompénzeső hullott az ügyészekre, mely közel egy 13. havi fizetésnek felelt meg.",
           "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/08/25/tisza-frakcio-sarvari-nicholas-vagyonvisszaszerzesi-hivatal/",
+          "link": "https://24.hu/fn/gazdasag/2026/08/26/ugyeszseg-jutalom-nyar-felhavi-ber/",
           "scope": "belfold"
         },
         {
-          "text": "Az agrárminisztérium visszavonta Mészáros pulykaüzemétől a 33 milliárdos uniós támogatást, mivel a magántőkealapokon keresztüli tulajdonlás miatt a cég nem minősül átláthatónak.",
+          "text": "Júniusban 4,66 milliárd forint bónuszt osztottak szét az ügyészségeken, ami átlagosan majdnem egyhavi fizetésnek felelt meg.",
           "source": "HVG",
-          "link": "https://hvg.hu/kkv/20260825_agrarminiszterium-meszaros-lorinc-gallicoop-unios-tamogatas-visszavonas",
+          "link": "https://hvg.hu/itthon/20260826_milliard-jutalom-ugyeszsegek",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-25T15:51:56.305Z",
+      "updatedAt": "2026-08-26T05:40:59.877Z",
       "sourceLinks": [
         {
           "name": "Telex",
-          "link": "https://telex.hu/after/2026/08/25/ali-g-who-iz-i-sacha-baron-cohen-uj-trailer-elozetes-film"
+          "link": "https://telex.hu/gazdasag/2026/08/26/agrarminiszterium-pulykafeldolgozo-kizaras-indoklas"
         },
         {
           "name": "24.hu",
-          "link": "https://24.hu/kulfold/2026/08/25/ceuta-spanyolorszag-spanyol-kormany-marokko/"
+          "link": "https://24.hu/elet-stilus/2026/08/26/diszko-disco-szorakozohely-90-es-evek-kviz/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/360/20260825_digitalis-szabalyozas-media-tartalom-velemeny"
+          "link": "https://hvg.hu/cegauto/20260826_elkezdtek-beszivarogni-szurkeimportban-kinabol-a-karikak-nelkuli-audik"
         }
       ],
       "skipped": []
@@ -66,48 +66,48 @@
     "sport": {
       "items": [
         {
-          "text": "A Magyar Kézilabda Szövetség (MKSZ) fegyelmi eljárást indított a Motherson Mosonmagyaróvári KC és a Dunaújvárosi Kohász KA klubbal szemben.",
+          "text": "Egy friss felmérés szerint a magyar nemzeti bajnokság a fiatalpercek tekintetében az európai élbolyba tartozik, Dánia mögött.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/08/25/csak-daniaban-toltenek-tobb-idot-a-fiatal-focistak-a-palyan-mint-nalunk",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Magyar Kézilabda Szövetség fegyelmi eljárást indított a Motherson Mosonmagyaróvári KC és a Dunaújvárosi Kohász KA női kézilabdaklubokkal szemben.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/2026/08/25/fegyelmi-eljaras-indult-ket-magyar-kezilabdaklubbal-szemben",
           "scope": "belfold"
         },
         {
-          "text": "Roger Federer teniszcsillag kizárta a visszatérését, de egy gálameccsen búcsúzik az amerikai nyílt teniszbajnokság közönségétől.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/25/rengetegen-remenykednek-roger-federer-palyara-lep-es-valaszt-adott",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Guzi Blanka és Tárkányi Zsombor bronzérmet nyert az öttusázók kínai világbajnokságán, vegyes páros váltóban.",
+          "text": "A Guzi Blanka, Tárkányi Zsombor páros bronzérmet szerzett vegyes váltóban az öttusázók kínai világbajnokságán.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/2026/08/25/ottusa-vb-bronzermes-a-magyar-paros-vegyes-valtoban",
           "scope": "belfold"
         },
         {
-          "text": "Egy szakértő szerint a Barcelona futballklub kilábalt a legsúlyosabb pénzügyi problémáiból.",
+          "text": "Szoboszlai Dominik nem került be a PFA év csapatába a Premier League-ben.",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/angol-labdarugas/2026/08/a-pfa-nel-szoboszlai-dominik-nem-kerult-be-az-ev-csapataba-a-pl-ben",
+          "scope": "belfold"
+        },
+        {
+          "text": "Roger Federer kizárta a Serena Williamséhez hasonló visszatérést, és egy gálameccsen búcsúzik az amerikai nyílt teniszbajnokság közönségétől.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/24/a-szakerto-szerint-a-barcelona-kilabalt-a-legsulyosabb-penzugyi-gondokbol",
+          "link": "https://infostart.hu/sport/2026/08/25/rengetegen-remenykednek-roger-federer-palyara-lep-es-valaszt-adott",
           "scope": "kulfold"
         },
         {
-          "text": "A swimswam úszó szakportál összehasonlította a világ legjobb úszóit, kiemelve Kós Hubert és Milák Kristóf teljesítményét.",
+          "text": "Egy szakértő szerint a Barcelona labdarúgóklub kilábalt a legsúlyosabb pénzügyi gondokból.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/24/megneztek-hol-tartanak-a-vilag-legjobbjai-koztuk-kos-hubert-es-milak-kristof",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Budapesti Rendőr-főkapitányság eltűnt személyként körözi Buzsáky Ákost, a korábbi labdarúgót.",
-          "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/magyar-valogatott/2026/08/buzsaky-akost-eltunt-szemelykent-korozi-a-rendorseg",
-          "scope": "belfold"
+          "link": "https://infostart.hu/sport/2026/08/24/a-szakerto-szerint-a-barcelona-kilabalt-a-legsulyosabb-penzugyi-gondokbol",
+          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-25T15:52:12.784Z",
+      "updatedAt": "2026-08-26T05:41:11.742Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/25/fegyelmi-eljaras-indult-ket-magyar-kezilabdaklubbal-szemben"
+          "link": "https://infostart.hu/sport/2026/08/25/csak-daniaban-toltenek-tobb-idot-a-fiatal-focistak-a-palyan-mint-nalunk"
         },
         {
           "name": "Nemzeti Sport",
@@ -119,52 +119,52 @@
     "technologia": {
       "items": [
         {
-          "text": "A chatbotok személyre szabott ajánlásai megváltoztathatják a turisták úticéljait.",
+          "text": "Kína humanoidrobot-forradalma jelenleg inkább viszi a pénzt, mint hozza.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166483/a-chatbotok-szemelyre-szabott-ajanlasa-megtorheti-a-turistak-azonos-helyekre-van",
+          "link": "https://sg.hu/cikkek/it-tech/166557/kina-humanoidrobot-forradalma-inkabb-viszi-a-penzt-mint-hozza",
           "scope": "kulfold"
         },
         {
-          "text": "A mesterséges intelligencia elsősorban a pályakezdők állásait fenyegeti.",
+          "text": "A mesterséges intelligencia leginkább a pályakezdők állásait veszélyezteti.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/166550/az-mi-leginkabb-a-palyakezdok-allasait-veszelyezteti",
           "scope": "kulfold"
         },
         {
-          "text": "A technológiai cégek a mérlegeikből láthatónál jóval többet költenek mesterséges intelligenciára.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166485/sokkal-tobbet-koltenek-a-tech-cegek-mi-re-mint-a-merlegekbol-latszik",
+          "text": "Az Apple az új iPhone-ok bemutatója előtt frissítheti egyik számítógépét, és a következő hónapokban további Mac-modellek is megújulhatnak.",
+          "source": "Infostart Tudomány",
+          "link": "https://infostart.hu/tudomany/2026/08/26/meg-az-uj-iphone-ok-elott-villanthat-az-apple",
           "scope": "kulfold"
         },
         {
-          "text": "Egy kínai gyártmányú humanoid robot megdöntötte Usain Bolt világrekordját sprintben.",
+          "text": "Az iPhone-ok után az androidos készülékek is megkapnak egy funkciót, amellyel leküzdhető az utazási betegség, ami mobilozás közben jelentkezhet.",
+          "source": "Infostart Tudomány",
+          "link": "https://infostart.hu/tudomany/tech/2026/08/26/rosszul-lesz-az-utas-ha-autoban-mobilozik-mar-erre-is-van-megoldas",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Egy kínai gyártmányú humanoid robot Usain Bolt világrekord sprintjét két tizedmásodperccel jobb idővel „nyugdíjazta” azonos távon a Pekingi Humanoid Robotok Világjátékán.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/08/24/nyugdijazta-usain-bolt-vilagrekord-sprintjet-egy-humanoid-robot-video",
           "scope": "kulfold"
         },
         {
-          "text": "A tudományos és technológiai miniszter bejelentése szerint készül a kormányzati előterjesztés a 2017 óta bezárt budapesti Planetárium jövőjéről.",
+          "text": "A tudományos és technológiai miniszter bejelentette, hogy készül a kormányzati előterjesztés a 2017 óta bezárt budapesti Planetárium jövőjéről.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/08/22/csillagaszati-bejelentest-tett-a-tudomanyos-es-technologiai-miniszter",
-          "scope": "belfold"
-        },
-        {
-          "text": "A YouTube árat emel a Prémium előfizetés havidíja tekintetében Magyarországon.",
-          "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/tech/2026/08/21/arat-emel-a-youtube-magyarorszagon",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-25T15:52:26.122Z",
+      "updatedAt": "2026-08-26T05:41:23.426Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166483/a-chatbotok-szemelyre-szabott-ajanlasa-megtorheti-a-turistak-azonos-helyekre-van"
+          "link": "https://sg.hu/cikkek/it-tech/166557/kina-humanoidrobot-forradalma-inkabb-viszi-a-penzt-mint-hozza"
         },
         {
           "name": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/08/25/a-sutovel-kommunikalo-etelek-ez-lehet-a-fagyasztott-elelmiszer-jovoje"
+          "link": "https://infostart.hu/tudomany/2026/08/26/meg-az-uj-iphone-ok-elott-villanthat-az-apple"
         }
       ],
       "skipped": []
@@ -172,52 +172,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "Donald Trump amerikai elnök az Ontario-tavat az Egyesült Államok Tavára kívánja átnevezni egy kereskedelmi vita miatt.",
+          "text": "Idén nyáron érezhetően csökkent a tojás ára Magyarországon, darabjáért 83-84 forintot kell fizetni.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20260825/ujabb-orult-otlettel-allt-elo-donald-trump-858252",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A piacok az Nvidia e heti gyorsjelentésére és a júliusi PCE árindexre készülnek.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/uzlet/20260825/nagy-dolog-keszul-a-tozsdeken-emelkednek-a-piacok-858018",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az orosz Urals nyersolaj Indiába történő szállításának fuvardíjai meredeken megugrottak augusztusban.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20260825/brutalis-dragulas-az-orosz-olajszallitasban-meregdragan-viszik-a-nyersanyagot-az-azsiai-oriashoz-858244",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A Magyar Nemzeti Bank Monetáris Tanácsa kedden meglépte a várt alapkamat-csökkentést.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/08/25/varga-mihaly-a-kamatdontes-utan-az-aszaly-fenyeben-a-jegybanki-cel-alatti-inflaciora-szamitunk",
+          "link": "https://www.portfolio.hu/gazdasag/20260826/eszrevetted-mekkorat-esett-a-tojas-ara-858138",
           "scope": "belfold"
         },
         {
-          "text": "A Balaton továbbra is a legkeresettebb hazai üdülőövezet, de a kereslet látványosan visszaesett az elmúlt években.",
+          "text": "A panamai kormány rendkívüli állapotot hirdetett az El Niño okozta heves esőzések és aszályok miatt, korlátozva a csatorna forgalmát.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/global/20260826/rendkivuli-allapotot-hirdettek-a-sulyos-termeszeti-jelenseg-miatt-korlatozzak-a-forgalmat-a-kulcsfontossagu-tengeri-uton-858296",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Felmerült, hogy a Netflix más streamingplatformok szolgáltatásait is elérhetővé teheti.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/08/25/atrendezodik-a-nyaralopiac-mar-nem-minden-balatoni-ingatlan-szamit-jo-befektetesnek",
+          "link": "https://infostart.hu/gazdasag/2026/08/26/a-netflix-olyasmire-keszulhet-amire-eddig-nem-nagyon-volt-pelda",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A kormány szigorítja és pontosítja a zártkörű befektetési alapok tényleges tulajdonosainak azonosítására vonatkozó szabályokat.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/08/25/vege-lehet-a-rejtozkodesnek-szigoritast-jelentett-be-az-igazsagugyi-miniszter",
           "scope": "belfold"
         },
         {
-          "text": "A generatív AI több vizsgálatban növelte a teljesítményt és csökkentette a dolgozók közötti különbségeket.",
+          "text": "Jelzésértékű, hogy 7 százalék fölé kellett emelni az idei költségvetés várható hiányát.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/08/25/az-ai-nagy-egyenlosegi-paradoxona-a-gyengebbek-tobbet-nyernek-de-van-egy-csavar",
-          "scope": "kulfold"
+          "link": "https://infostart.hu/gazdasag/2026/08/25/csiki-gergely-a-fo-kerdes-hogy-lehet-egyensulyt-teremeteni-a-kiadasi-vagyak-mellett",
+          "scope": "belfold"
+        },
+        {
+          "text": "A monetáris tanács keddi 25 bázispontos kamatcsökkentése megfelelt az előzetes elemzői várakozásoknak.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/08/25/a-kamatdontes-folytatasarol-elteroek-a-velemenyek",
+          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-25T15:52:43.276Z",
+      "updatedAt": "2026-08-26T05:41:34.835Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20260825/ujabb-orult-otlettel-allt-elo-donald-trump-858252"
+          "link": "https://www.portfolio.hu/global/20260826/bejelentettek-veget-er-egy-korszak-megszunik-az-egyesult-allamok-egykori-legfobb-szovetsegese-858302"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/08/25/a-kamatdontes-folytatasarol-elteroek-a-velemenyek"
+          "link": "https://infostart.hu/gazdasag/2026/08/26/a-netflix-olyasmire-keszulhet-amire-eddig-nem-nagyon-volt-pelda"
         }
       ],
       "skipped": []
@@ -244,7 +244,7 @@
         }
       ],
       "engine": "extractive",
-      "updatedAt": "2026-08-25T15:52:45.009Z",
+      "updatedAt": "2026-08-26T05:41:47.652Z",
       "sourceLinks": [
         {
           "name": "Greenfo",
@@ -260,44 +260,38 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Paks helyzetében enyhülés tapasztalható, de továbbra is van miért aggódni.",
+          "text": "A szélturbinákkal kapcsolatban egy kilométerről is zavaró problémák merültek fel Németországban.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/08/duna-paks-fellelegezhet-de-meddig",
-          "scope": "belfold"
+          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/08/szeleromu-napos-orak-arnyekhatas-egeszseg",
+          "scope": "kulfold"
         },
         {
-          "text": "Ismét aszályos időszak közeledtének jelei mutatkoznak.",
+          "text": "A piacok feszülten várják az Nvidia gyorsjelentését.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/08/duna-paks-fellelegezhet-de-meddig",
+          "link": "https://www.vg.hu/penz-es-tokepiac/2026/08/nvidia-gyorsjelentes-szerda-varja-a-piac",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A magyar forint erősödve kezdte a napot.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/befektetes/magyar-forint-kozponti-bank-deviza-euro.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         },
         {
-          "text": "Parlamenti vizsgálóbizottság kért adatokat a jegybanktól Varga Mihály tájékoztatása szerint.",
+          "text": "Kihirdették a friss alapkamatot.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/varga-mihaly-elarulta-hogy-egy-parlamenti-vizsgalobizottsag-mar-adatokat-kert-a-jegybanktol.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/makro/monetaris-tanacs-varga-mihaly-kozponti-bank-kamatok.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         },
         {
-          "text": "Több mint 41 milliárd forint megtakarítás történt egy gépjármű-beszerzés során.",
+          "text": "Hosszú idő után ismét 310 forint alatt áll a dollár árfolyama.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozelet/vitezy-david-tobb-mint-41-milliard-forintot-sikerult-megtakaritani-egy-gepjarmu-beszerzesnel.html?utm_source=rss&utm_medium=referral",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Pénzügyminisztérium haváriaalapot hoz létre a költségvetés módosításával.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/havariaalapot-hoz-letre-a-penzugyminiszterium-igy-modositottak-a-koltsegvetest-karman-andrasek.html?utm_source=rss&utm_medium=referral",
-          "scope": "belfold"
-        },
-        {
-          "text": "A dízel átlagára háromhavi csúcsra emelkedett, de szerdán nem várható további drágulás.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/haromhavi-csucson-a-dizel-atlagara.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/makro/hosszu-ido-utan-ismet-310-alatt-a-dollar.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-25T15:52:54.845Z",
+      "updatedAt": "2026-08-26T05:42:01.027Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -305,11 +299,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozelet/a-tisza-frakcio-szerint-sarvari-nicholas-megsem-az-o-jeloltjuk.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/befektetes/magyar-forint-kozponti-bank-deviza-euro.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-08-26T05:39:04.607Z"
+  }
 }
