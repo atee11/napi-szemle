@@ -1,64 +1,64 @@
 {
-  "generatedAt": "2026-08-27T16:24:43.851Z",
+  "generatedAt": "2026-08-28T17:24:44.413Z",
   "fx": {
-    "rate": 364.961,
-    "date": "2026-08-28T17:15:03.000Z",
+    "rate": 365.169,
+    "date": "2026-08-28T17:24:42.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "A csődvédelmet kérő Bayer Construct 90 napon belül kezd tárgyalni a hitelezőivel.",
+          "text": "Élő interjú a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal me megválasztott vezetőjével.",
           "source": "Telex",
-          "link": "https://telex.hu/gazdasag/2026/08/27/bayer-construct-csodeljaras-hitelezok-csodvedelem",
+          "link": "https://telex.hu/video/2026/08/28/unger-anna-interju-nemzeti-vagyonvisszaszerzesi-es-vagyonvedelmi-hivatal",
           "scope": "kulfold"
         },
         {
-          "text": "Az UEFA büntetőeljárást indítana Gianni Infantino FIFA-elnök ellen.",
+          "text": "Sokan kritizálták a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal megalakulásának körülményeit.",
           "source": "Telex",
-          "link": "https://telex.hu/sport/2026/08/27/uefa-gianni-infantino-fifa",
+          "link": "https://telex.hu/belfold/2026/08/28/magyar-peter-a-tiszasoknak-rendkivul-igazsagtalan-es-meltanytalan-megkerdojelezni-a-kepviselok-rendszervaltas-iranti-elkotelezettseget",
           "scope": "kulfold"
         },
         {
-          "text": "The post Az UEFA Svájcban készül feljelenteni Gianni Infantinót first appeared on 24.hu.",
+          "text": "The post Unger Anna reméli, az NVVH működése bebizonyítja majd, hogy nem volt rossz döntés az ő kinevezése first appeared on 24.hu.",
           "source": "24.hu",
-          "link": "https://24.hu/sport/foci/2026/08/27/uefa-per-gianni-infantino-fifa/",
+          "link": "https://24.hu/belfold/2026/08/28/unger-anna-nvvh-interju-breaking/",
           "scope": "kulfold"
         },
         {
-          "text": "The post Török Gábor: Unger Anna jelölése a ruffizmus erőteljes megjelenése first appeared on 24.hu.",
+          "text": "The post Újabb milliárdokat kapó alapítványt szüntet meg a Tisza first appeared on 24.hu.",
           "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/08/27/podcast-torokules-torok-gabor-unger-anna-ruff-balint-nvvh/",
+          "link": "https://24.hu/belfold/2026/08/28/alapitvany-kozpenz-megszuntetes-kasler-miklos/",
           "scope": "kulfold"
         },
         {
-          "text": "Unger Anna kijelentette, hogy valamivel nem ért egyet, Takács Péter pedig egyszerűen idézetként használja azt a részletet, amit az új hivatal elnökjelöltje épp vitatott.",
+          "text": "Hegedűs Zsolt szerint papaíron jól nézett ki az alapítvány feladata, de az eredményeik nem álltak arányban a ráfordított közpénzzel.",
           "source": "HVG",
-          "link": "https://hvg.hu/itthon/20260827_takacs-peter-kozvetlen-szovegkornyezet-kiragad-felmondat-lejaratas-unger-anna",
+          "link": "https://hvg.hu/itthon/20260828_kasler-onkologiai-alapitvany-hegedus-megszuntetes",
           "scope": "kulfold"
         },
         {
-          "text": "Kelet-német varázslóktól, digó rave-rockerektől, horvát jazzistáktól és lengyel füvesemberektől lesz hangos két napon át az egyik legkisebb Pest megyei település, magyar részről pedig fellép a The Qualitons is.",
+          "text": "Átmenetileg lassult az antarktiszi jégvesztés, magyar kutató is segített kideríteni, miért.",
           "source": "HVG",
-          "link": "https://hvg.hu/kultura/20260827_paneuropai-hippi-vircsaft-a-pusztazamori-kastelyban-szeptember-elejen-indul-a-jam-in-the-psych-castle-fesztival",
+          "link": "https://hvg.hu/tudomany/20260828_tropusi-idojarasi-anomalia-antarktiszi-jegvesztes-lassulasa-okok-kutatas",
           "scope": "kulfold"
         }
       ],
       "engine": "extractive",
-      "updatedAt": "2026-08-27T16:22:28.437Z",
+      "updatedAt": "2026-08-28T17:19:50.588Z",
       "sourceLinks": [
         {
           "name": "Telex",
-          "link": "https://telex.hu/gazdasag/2026/08/27/bayer-construct-csodeljaras-hitelezok-csodvedelem"
+          "link": "https://telex.hu/video/2026/08/28/unger-anna-interju-nemzeti-vagyonvisszaszerzesi-es-vagyonvedelmi-hivatal"
         },
         {
           "name": "24.hu",
-          "link": "https://24.hu/sport/foci/2026/08/27/uefa-per-gianni-infantino-fifa/"
+          "link": "https://24.hu/belfold/2026/08/28/unger-anna-nvvh-interju-breaking/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/itthon/20260827_takacs-peter-kozvetlen-szovegkornyezet-kiragad-felmondat-lejaratas-unger-anna"
+          "link": "https://hvg.hu/tudomany/20260828_world-humanoid-robot-games-sport-esemenyek-robotok-kepessegek"
         }
       ],
       "skipped": []
@@ -66,48 +66,48 @@
     "sport": {
       "items": [
         {
-          "text": "Délután hat órától tartják a labdarúgó Bajnokok Ligája 2026–2027-es főtáblájának sorsolását.",
+          "text": "Csikós Zsóka címét megvédve aranyérmet szerzett a kajak egyesek 1000 méteres versenyében a poznani kajak-kenu világbajnokságon.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/27/bl-sorsolas-eloben",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A Sahtar Donyeck megállapodott a Chelsea-vel, hogy BL-mérkőzéseit a 2026–2027-es idényben a Stamford Bridge-en játssza le.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/27/a-sorsolas-napjan-kiderult-megis-lesznek-bl-meccsek-a-stamford-bridge-en",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Életének 43. évében elhunyt Boros Gergely, világ- és Európa-bajnok magyar kajakos.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/27/munkavegzes-kozben-erhette-a-halal-a-vilagbajnok-magyar-kajakost-reszletek",
+          "link": "https://infostart.hu/sport/2026/08/28/csikos-zsoka-nem-adta-at-a-tront-ujra-vb-aranyermes-lett",
           "scope": "belfold"
         },
         {
-          "text": "Pápai Olivér edzője, Petrov Árpád szerint a 16 éves magyar úszó Eb-érmet nyerhet 400 méter gyorson.",
+          "text": "Fejes Dániel aranyérmet szerzett a kenu egyesek 1000 méteres versenyében a poznani kajak-kenu világbajnokságon.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/27/edzoje-mar-az-elofutam-utan-megerezte-eb-ermet-nyerhet-a-16-eves-magyar-uszo",
+          "link": "https://infostart.hu/sport/2026/08/28/aranyat-ert-a-hajra-fejes-daniel-vilagbajnok-lett-poznanban",
           "scope": "belfold"
         },
         {
-          "text": "A Ferencváros labdarúgócsapata fogadja a Trabzosport.",
+          "text": "Az Európa-liga sorsolásán nyolc ellenfelet kap a Ferencváros a ligaszakaszra.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/27/palyan-a-ferencvaros-es-a-ferfi-kosarlabda-valogatott-is-sport-a-teveben",
+          "link": "https://infostart.hu/sport/2026/08/28/ezek-a-csapatok-kozul-kap-nyolc-ellenfelet-a-ferencvaros",
           "scope": "belfold"
         },
         {
-          "text": "Elkészült a pénteken az MVM Dome-ban kezdődő Hungarian Darts Trophy sorsolása.",
+          "text": "A Ferencváros a Juventust fogadja, a Milanhoz és a Celtichez látogat az Európa-liga alapszakaszában.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/egyeb-egyeni/2026/08/kemeny-meccsek-varnak-a-mieinkre-hungarian-darts-trophyn-elkeszult-a-sorsolas",
+          "link": "https://www.nemzetisport.hu/europa-liga/2026/08/ellenfeleket-kap-a-ferencvaros-sorsolnak-az-europa-ligaban",
+          "scope": "belfold"
+        },
+        {
+          "text": "Sorsolnak az Európa-liga és a Konferencia-liga alapszakaszában.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/08/28/ma-sorsolnak-az-europa-liga-es-a-konferencia-liga-alapszakaszaban-sport-a-teveben",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Megkezdődik a hétvégi forduló az NB I-ben a Debreceni VSC-MTK összecsapással.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/08/28/ma-sorsolnak-az-europa-liga-es-a-konferencia-liga-alapszakaszaban-sport-a-teveben",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-27T16:22:42.186Z",
+      "updatedAt": "2026-08-28T17:21:04.325Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/27/bl-sorsolas-eloben"
+          "link": "https://infostart.hu/sport/2026/08/28/oruletes-befuto-es-magyar-aranyeso-fejes-es-csikos-is-vilagbajnok"
         },
         {
           "name": "Nemzeti Sport",
@@ -119,52 +119,52 @@
     "technologia": {
       "items": [
         {
-          "text": "Bill Gates szerint a mesterséges intelligencia veszélyesebb annál, mint amit az IT-cégek elismernek.",
+          "text": "Bemutatták a GTA 6 minden eddiginél valósághűbb és részletesebb világát.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/jatek/166596/bemutattak-a-gta-6-minden-eddiginel-valosaghubb-es-reszletesebb-vilagat",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Az Nvidia pénzügyi ereje hajtja az MI-adatközpontok építését.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/166599/az-nvidia-penzugyi-ereje-hajtja-az-mi-adatkozpontok-epiteset",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Bill Gates szerint az MI veszélyesebb annál, mint amit az IT-cégek elismernek.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/166582/bill-gates-szerint-az-mi-veszelyesebb-annal-mint-amit-az-it-cegek-elismernek",
           "scope": "kulfold"
         },
         {
-          "text": "Az MI által generált zenéket kitiltják az ausztrál slágerlistákról.",
+          "text": "A Cisco mind a 90 ezer alkalmazottjának saját MI-ügynököt biztosít.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166581/kitiltjak-az-mi-altal-generalt-zeneket-az-ausztral-slagerlistakrol",
+          "link": "https://sg.hu/cikkek/it-tech/166590/a-cisco-mind-a-90-ezer-alkalmazottjanak-sajat-mi-ugynokot-biztosit",
           "scope": "kulfold"
         },
         {
-          "text": "Az Apple az MI-fejlesztőkre szabta az új Mac minit és Mac Studiót.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166560/az-apple-az-mi-fejlesztokre-szabta-az-uj-mac-minit-es-mac-studiot",
+          "text": "Az Apple a „Meglepetés és ragyogás” szlogennel hirdette meg az iPhone 18 érkezését, amely hajlítható kijelzővel is bemutatkozhat.",
+          "source": "Infostart Tudomány",
+          "link": "https://infostart.hu/tudomany/2026/08/28/nagy-dobasra-keszul-az-apple-erdemes-beirni-a-naptarba",
           "scope": "kulfold"
         },
         {
-          "text": "A NASA várhatóan vasárnap indítja útnak a sötét energiát, sötét anyagot és exobolygókat is kutató új távcsövét, amelynek fejlesztésén magyar szakember is dolgozott.",
+          "text": "A NASA vasárnap indítja útnak a sötét energiát, sötét anyagot és exobolygókat kutató új távcsövét, amelynek fejlesztésén magyar szakember is dolgozott.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/08/26/valami-egeszen-kulonleges-indul-az-urbe-magyar-szakember-is-dolgozott-rajta",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az iPhone-ok után az androidos készülékek is megkapják azt a funkciót, amellyel leküzdhető az utazási betegség.",
-          "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/tech/2026/08/26/rosszul-lesz-az-utas-ha-autoban-mobilozik-mar-erre-is-van-megoldas",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Egy kínai gyártmányú humanoid robot két tizedmásodperccel jobb időt futott azonos távon, mint Usain Bolt világrekord sprintje.",
-          "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/08/24/nyugdijazta-usain-bolt-vilagrekord-sprintjet-egy-humanoid-robot-video",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-27T16:22:56.087Z",
+      "updatedAt": "2026-08-28T17:22:04.930Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166582/bill-gates-szerint-az-mi-veszelyesebb-annal-mint-amit-az-it-cegek-elismernek"
+          "link": "https://sg.hu/cikkek/jatek/166596/bemutattak-a-gta-6-minden-eddiginel-valosaghubb-es-reszletesebb-vilagat"
         },
         {
           "name": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/08/27/ne-aludja-vegig-kulonleges-latvanyossag-lesz-az-egen-hajnalban"
+          "link": "https://infostart.hu/tudomany/2026/08/28/nagy-dobasra-keszul-az-apple-erdemes-beirni-a-naptarba"
         }
       ],
       "skipped": []
@@ -172,46 +172,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "Brüsszel jóváhagyta Görögország eddigi legnagyobb, közel 5 milliárd eurós Szociális Klímatervét.",
+          "text": "A Mol Nyrt. és a Mol Investment Kft. megállapodott az állammal a Mol Új Európa Alapítvány megszűnéséhez kapcsolódó elszámolásról.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/unios-forrasok/20260827/brusszel-jovahagyta-az-eddigi-legnagyobb-szocialis-klimatervet-858756",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az MKIK szerint folytatódhat a Demján Sándor Tőkeprogram, amelynek 43,9 milliárd forintos második forrásrészletére az MFB-től várnak.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/bank/20260827/mkik-folytatodhat-a-demjan-sandor-tokeprogram-az-mfb-re-varnak-858758",
+          "link": "https://www.portfolio.hu/uzlet/20260828/kiderult-mi-lesz-tobb-mint-40-millio-mol-reszveny-sorsa-859068",
           "scope": "belfold"
         },
         {
-          "text": "A magyar állami MVM engedélyt kapott egy csaknem 25 megawatt teljesítményű fotovoltaikus erőmű megépítésére a Kovászna megyei Arcuș településen.",
+          "text": "Olaszországban egyre súlyosabb károkat okoz a klímaváltozás az agráriumnak.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/gazdasag/20260828/nagyobb-a-baj-mint-hiszik-veszelyes-illuzioban-elnek-a-gazdak-egy-mediterran-orszagban-858960",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Szombattól bruttó 5 forinttal emelkedik a 95-ös benzin nagykereskedelmi ára, a gázolajé változatlan marad.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/08/28/ezt-erdemes-tudni-mielott-hetvegen-tankolni-indul",
+          "scope": "belfold"
+        },
+        {
+          "text": "Az MVM magyar állami energiavállalat engedélyt kapott egy csaknem 25 megawattos naperőmű megépítésére a romániai Arcuș településen.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/08/27/hatalmas-naperomuvet-epit-az-mvm-romaniaban",
           "scope": "belfold"
         },
         {
-          "text": "A Bayer Construct Zrt. csődeljárást kezdeményezett maga ellen a kedvezőtlen piaci folyamatok és egy kormányzati elállás miatt.",
+          "text": "Kármán András pénzügyminiszter a Kossuth Rádióban beszélt a Tisza-kormány költségvetési hiány visszaszorításának alternatív módjairól.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/08/27/csodeljarast-kezdemenyezett-maga-ellen-a-bayer-construct",
+          "link": "https://infostart.hu/gazdasag/2026/08/27/a-penzugyminiszter-elmondta-mikorra-teljesulhet-az-euro-bevezetesenek-egyik-fontos-kriteriuma",
           "scope": "belfold"
         },
         {
-          "text": "Júniusban a bruttó átlagkereset 754 700 forint, a nettó 529 700 forint volt, a reálkereset pedig 7,6 százalékkal haladta meg az egy évvel korábbit.",
+          "text": "A Bayer Construct Zrt. augusztus 26-án csődeljárást kezdeményezett maga ellen a kedvezőtlen piaci folyamatokra hivatkozva.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/08/27/a-netto-atlagkereset-jobban-no-a-bruttonal-itt-vannak-a-friss-adatok",
+          "link": "https://infostart.hu/gazdasag/2026/08/27/csodeljarast-kezdemenyezett-maga-ellen-a-bayer-construct",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-27T16:24:14.196Z",
+      "updatedAt": "2026-08-28T17:22:21.758Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20260827/tisza-kormany-uj-torvenyek-es-atfogo-felulvizsgalat-jon-osszel-megvan-az-elszamoltato-biztos-visszaveszik-az-mcc-vagyonat-858562"
+          "link": "https://www.portfolio.hu/global/20260828/riasztottak-a-nato-f-18-asait-bevetette-moszkva-a-felelmetes-iszkander-1000-es-raketat-ukrajnai-haborus-hireink-penteken-858806"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/08/27/hatalmas-naperomuvet-epit-az-mvm-romaniaban"
+          "link": "https://infostart.hu/gazdasag/2026/08/28/ezt-erdemes-tudni-mielott-hetvegen-tankolni-indul"
         }
       ],
       "skipped": []
@@ -219,32 +225,32 @@
     "kornyezet": {
       "items": [
         {
-          "text": "Az extrém aszályos időjárás gondot okozott a paksi atomerőműnek.",
+          "text": "A Kongói Demokratikus Köztársaságban ötezer fölé emelkedett a regisztrált ebolás esetek száma.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/08/27/igy-erintette-europa-atomeromuveit-a-nyari-szarazsag?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "belfold"
-        },
-        {
-          "text": "A nyári szárazság Franciaország, Románia és Bulgária atomerőműveit is érintette.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/08/27/igy-erintette-europa-atomeromuveit-a-nyari-szarazsag?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/08/28/a-rohamosan-terjedo-ebolajarvany-ujabb-ket-egeszsegugyi-korzetet-ert-el-kongoban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Bill Gates véleménye szerint az emberiség a mesterséges intelligencia miatt történetének egyik legzavarosabb időszaka előtt áll, ami ellen nemzetközi szabályozással kell védekezni.",
+          "text": "Nepálban egy gleccser leomlása okozhatta a pusztító árvizet.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/08/27/bill-gates-az-emberiseg-tortenetenek-egyik-legzavarosabb-idoszaka-elott-allunk-az-ai-miatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/08/28/a-pusztito-nepali-arvizet-nem-foldrenges-okozhatta-hanem-egy-gleccser-leomlasa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Péntek hajnalban szinte teljes holdfogyatkozást lehet megfigyelni, amely Magyarországról nézve holdnyugta után éri el a maximumát.",
+          "text": "Kutatások szerint kiborgcsótányok menthetnek életet katasztrófa sújtotta területeken.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/08/27/pentek-hajnalban-szinte-teljes-holdfogyatkozast-lathatunk-az-egen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/08/28/kiborgcsotanyok-menthetnek-eletet-a-katasztrofa-sujtotta-teruleteken?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A magyar aszályok történetében a szakma szerint a politika nem reagál időben a vízhiányos időszakokra.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/08/28/megprobaltuk-inni-ezt-a-balatoni-vizet-de-borzaszto-rossz-volt-neha-meg-halpikkelyt-is-talaltunk-benne?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-27T16:24:32.802Z",
+      "updatedAt": "2026-08-28T17:23:21.748Z",
       "sourceLinks": [
         {
           "name": "Greenfo",
@@ -252,7 +258,7 @@
         },
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/08/27/bill-gates-az-emberiseg-tortenetenek-egyik-legzavarosabb-idoszaka-elott-allunk-az-ai-miatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/08/28/a-rohamosan-terjedo-ebolajarvany-ujabb-ket-egeszsegugyi-korzetet-ert-el-kongoban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": []
@@ -260,38 +266,38 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "A Gránit Bank rekordszámú lakossági számlanyitással növelte korrigált nyereségét.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/penz-es-tokepiac/2026/08/granit-bank-rekordszamu-lakossagi-szamlanyitas",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Bayer Construct csődje átrendezheti a magyar építőipart és rémálommá válhat a lakásvásárlóknak.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/08/bayer-csod-zuglo-iroda-lakoingatlan-epitoipar-evosz",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Bayer Construct csődje messzeható folyamatokat indíthat el, érintve a Zugló Városközpontot és az eddig kedvező áron kínált lakásokat.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/08/bayer-csod-zuglo-iroda-lakoingatlan-epitoipar-evosz",
-          "scope": "belfold"
-        },
-        {
-          "text": "44 milliárd forint sorsa dőlt el, amiből újabb milliárdok érkezhetnek a magyar vállalkozásokhoz.",
+          "text": "A dollárral szemben gyengült a forint a hétvége előtt, míg az euróval szemben minimális volt az erősödés.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/-ujabb-milliardok-erkezhetnek-a-magyar-vallalkozasokhoz.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/makro/elhuzott-a-dollar-gyengult-a-forint-a-hetvege-elott.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         },
         {
-          "text": "Az agrárvállalkozások nagy könnyítést kapnak egy agrárhitel-moratórium bevezetésével.",
+          "text": "Az egyik üzemanyagtípus ára emelkedhet szombattól.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/agrarium/nagy-konnyitest-kapnak-az-agrarvallalkozasok.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/makro/nem-erdemes-varni-a-tankolassal-igy-valtozhatnak-az-arak-szombattol.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
+        },
+        {
+          "text": "A rendőrség nyomozást indított közvagyon elherdálásának gyanúja miatt, amely több milliárdos veszteséget okozhatott a MÁV-nak.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/kozelet/kozvagyon-elherdalasanak-gyanuja-miatt-nyomoz-a-rendorseg-lazar-janos-is-resze-az-ugynek.html?utm_source=rss&utm_medium=referral",
+          "scope": "belfold"
+        },
+        {
+          "text": "Egyre többen használják az egészségpénztárakat lakáshitel-törlesztésre, és a tagdíjbevételek is gyarapodtak.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/szemelyes_penzugyek/egyre-tobben-hasznaljak-lakashitel-torlesztesre-az-egeszsegpenztarakat.html?utm_source=rss&utm_medium=referral",
+          "scope": "belfold"
+        },
+        {
+          "text": "Az oroszok felszólították Magyar Pétert, hogy hagyjon fel a Paks 2 kapcsán tanúsított tétovázással.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/08/magyar-peter-paks2-oroszok-atomeromu",
+          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-27T16:24:43.703Z",
+      "updatedAt": "2026-08-28T17:24:44.289Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -299,11 +305,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/-ujabb-milliardok-erkezhetnek-a-magyar-vallalkozasokhoz.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/makro/elhuzott-a-dollar-gyengult-a-forint-a-hetvege-elott.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-08-28T17:15:05.054Z"
+  }
 }
