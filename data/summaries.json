@@ -1,64 +1,64 @@
 {
-  "generatedAt": "2026-08-31T20:46:43.932Z",
+  "generatedAt": "2026-09-01T09:56:17.999Z",
   "fx": {
-    "rate": 365.109,
-    "date": "2026-09-01T07:36:21.000Z",
+    "rate": 366.706,
+    "date": "2026-09-01T09:56:16.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "Magyar Péter jelentést kér az igazságügyi minisztertől arról, hogyan számolhatnák fel a Szabályozott Tevékenységek Felügyeleti Hatóságát.",
+          "text": "A Közbeszerzési Hatóság bírság kiszabását javasolta a kivitelezőre egy 500 milliós uniós támogatásból épült bölcsődénél.",
           "source": "Telex",
-          "link": "https://telex.hu/gazdasag/2026/08/31/szabalyozott-tevekenysegek-felugyeleti-hatosaga-megszuntetes-hatarozat",
-          "scope": "kulfold"
+          "link": "https://telex.hu/gazdasag/2026/09/01/kazar-bolcsode-unios-tamogatas-jogsertes",
+          "scope": "belfold"
         },
         {
-          "text": "Már az nagy segítség lenne, ha csak havi ötezer forinttal többet költenének a vásárlók minőségi magyar élelmiszerre – interjú Bóna Szabolccsal.",
+          "text": "Lemondott a filozófusbotrányban érintett kar dékánja a Pécsi Tudományegyetemen, saját kezdeményezésére távozva az egyetemről.",
           "source": "Telex",
-          "link": "https://telex.hu/gazdasag/2026/08/31/bona-szabolcs-agrarminiszter-agrarium-mezogazdasag-elelmiszgergazdasag-telex-interju",
-          "scope": "kulfold"
+          "link": "https://telex.hu/belfold/2026/09/01/pte-filozofia-doktori-iskola-phd-fidesz-phd-gyar",
+          "scope": "belfold"
         },
         {
-          "text": "The post Nagy területen pusztított tűz Tapolcánál, helikopterekkel oltották first appeared on 24.hu.",
+          "text": "A rendőrség bűnügyi eljárást indított hivatali visszaélés és hűtlen kezelés gyanújával, melynek során több ezer oldalnyi dokumentumot foglalt le egy minisztériumból.",
+          "source": "Telex",
+          "link": "https://telex.hu/english/2026/09/01/hungarian-police-seizes-thousands-of-pages-of-documents-from-ministry-after-complaint-filed-relating-to-activities-under-previous-administration",
+          "scope": "belfold"
+        },
+        {
+          "text": "Donald Trump szerint akik ellenzik az adatközpontok építését, azok le akarnak maradni és szegények akarnak lenni.",
           "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/08/31/tuz-tapolca-helikopter-fenyo/",
+          "link": "https://24.hu/tech/2026/09/01/donald-trump-adatkozpont-ellentuntetes-kina-szegeny/",
           "scope": "kulfold"
         },
         {
-          "text": "The post Magyar Péter: Belenéztem von der Leyen szemébe, hogy itt vagyok a pénzünkért first appeared on 24.hu.",
-          "source": "24.hu",
-          "link": "https://24.hu/kulfold/2026/08/31/magyar-eu-penz-forum-breaking/",
-          "scope": "kulfold"
-        },
-        {
-          "text": "2,5 milliárd forintot kapott a vagyonvisszaszerzési hivatal.",
+          "text": "Több olajszállítót is támadás ért a Hormuzi-szorosban, aminek következtében megugrott az olaj ára.",
           "source": "HVG",
-          "link": "https://hvg.hu/gazdasag/20260831_vagyonvisszaszerzesi-hivatal-koltsegvetes-sztfh",
+          "link": "https://hvg.hu/gazdasag/20260901_iran-usa-hormuzi-szoros-megtamadott-tankerek-olajar",
           "scope": "kulfold"
         },
         {
-          "text": "Bujdosó Andrea közlése szerint nem politikai delegáltakat, hanem felkészült szakembereket jelölnek a közmédia tulajdonosi jogait gyakorló testületbe.",
+          "text": "Hivatali visszaélés és hűtlen kezelés vádjával nyomoznak Szíjj László és mások Eximbankos hitelei ügyében, melynek során a rendőrség több ezer oldalnyi iratot foglalt le.",
           "source": "HVG",
-          "link": "https://hvg.hu/itthon/20260831_tisza-frakcio-fuggetlen-kozmedia-testulet-mediatanacs-jeloltek-bujdoso-andrea",
-          "scope": "kulfold"
+          "link": "https://hvg.hu/kkv/20260901_gem-feljelentes-tiborcz-szijj-nyomozas",
+          "scope": "belfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-08-31T20:45:29.915Z",
+      "engine": "gemini",
+      "updatedAt": "2026-09-01T09:55:00.566Z",
       "sourceLinks": [
         {
           "name": "Telex",
-          "link": "https://telex.hu/kulfold/2026/08/31/egyseges-oroszorszag-valasztas-putyin-orosz-ukran-haboru"
+          "link": "https://telex.hu/gazdasag/2026/09/01/kazar-bolcsode-unios-tamogatas-jogsertes"
         },
         {
           "name": "24.hu",
-          "link": "https://24.hu/belfold/2026/08/31/nvvh-248-milliard-mukodes-forras-breaking/"
+          "link": "https://24.hu/belfold/2026/09/01/tisza-sziget-vezetoi-palyazat/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/gazdasag/20260831_vagyonvisszaszerzesi-hivatal-koltsegvetes-sztfh"
+          "link": "https://hvg.hu/gazdasag/20260901_iran-usa-hormuzi-szoros-megtamadott-tankerek-olajar"
         }
       ],
       "skipped": []
@@ -66,48 +66,48 @@
     "sport": {
       "items": [
         {
-          "text": "Armand „Mondo\" Duplantis rúdugró a budapesti atlétikai verseny záróestjén élőben adja elő a hivatalos himnuszt.",
+          "text": "Ma élőben követhető a televízióban az US Open tenisz és a Vuelta kerékpáros verseny.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/31/a-rudugro-vilagsztar-budapesten-mutatja-meg-a-masik-arcat",
-          "scope": "belfold"
+          "link": "https://infostart.hu/sport/2026/09/01/us-open-es-vuelta-is-lesz-ma-eloben-sport-a-teveben",
+          "scope": "kulfold"
         },
         {
-          "text": "Lionel Messi argentin labdarúgó bejelentette, hogy visszavonul hazája válogatottjából.",
+          "text": "Lionel Messi argentin szupersztár bejelentette, hogy visszavonul hazája válogatottjából.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/2026/08/31/lionel-messi-bejelentette-a-visszavonulasat",
           "scope": "kulfold"
         },
         {
-          "text": "A Liverpool labdarúgócsapata megszerezte a francia Bradley Barcolát a Paris Saint-Germaintől.",
+          "text": "A Szoboszlai Dominikot is foglalkoztató Liverpool megszerezte a francia Bradley Barcolát a Paris Saint-Germaintől.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/2026/08/31/uj-sztar-csatlakozott-szoboszlaiekhoz",
           "scope": "kulfold"
         },
         {
-          "text": "Ifjabb Foltán László, a kenusok szövetségi kapitánya elégedetten értékelte a poznani világbajnokságot.",
+          "text": "Ifjabb Foltán László, a kenusok szövetségi kapitánya elégedetten értékelte a poznani kajak-kenu világbajnokság eredményeit.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/2026/08/31/maris-megprobaljak-magyarra-forditani-a-kajak-kenu-vb-eredmenyeit-ermeit",
           "scope": "belfold"
         },
         {
-          "text": "Novak Djokovicot kiejtették a US Openen.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/31/micsoda-novak-djokovicot-azonnal-kiejtettek-a-us-openen",
-          "scope": "kulfold"
+          "text": "A Ferencváros Alekszandar Csirkovics szerb szélsőt ismét kölcsönadhatja Lengyelországba a Jagiellonia Bialystok csapatának.",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/labdarugo-nb-i/2026/09/ismet-lengyelorszagba-adhatja-kolcson-szerb-szelsojet-a-fradi",
+          "scope": "belfold"
         },
         {
-          "text": "A Ferencváros eladta legértékesebb játékosát, Gavriel Kanikovszkit a Maccabi Tel-Avivnak.",
+          "text": "A Hargitai–Markó páros ötszázadik NB I-es kézilabda mérkőzését vezeti a Győri Audi ETO–NEKA találkozón.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/labdarugo-nb-i/2026/08/eladta-legertekesebb-jatekosat-a-ferencvaros-hivatalos",
+          "link": "https://www.nemzetisport.hu/kezilabda/2026/09/kezilabda-otszazadik-alkalommal-vezet-nb-i-es-meccset-a-hargitai-marko-paros",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-31T20:45:41.540Z",
+      "updatedAt": "2026-09-01T09:55:22.817Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/08/31/bradley-barcolat-megvette-a-liverpool-enzo-fernandez-ugye-meg-fuggo"
+          "link": "https://infostart.hu/sport/2026/09/01/us-open-es-vuelta-is-lesz-ma-eloben-sport-a-teveben"
         },
         {
           "name": "Nemzeti Sport",
@@ -119,40 +119,52 @@
     "technologia": {
       "items": [
         {
-          "text": "Elektronikai óriásból szórakoztatóipari vállalattá alakul át a Sony.",
+          "text": "A Google új osztrák adatközpontja várhatóan több energiát fogyaszt majd, mint Bécs egész városa.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/166623/egesz-becsnel-tobbet-fogyaszt-majd-a-google-uj-osztrak-adatkozpontja",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Európa is részt akar venni az Instagram és a Facebook átalakításában.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/166614/europa-sem-akar-kimaradni-az-instagram-es-a-facebook-atalakitasabol",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Sony elektronikai óriásvállalatból szórakoztatóipari vállalattá alakul át.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/166491/elektronikai-oriasbol-szorakoztatoipari-vallalatta-alakul-at-a-sony",
           "scope": "kulfold"
         },
         {
-          "text": "A Shein online divatkereskedő 100 milliárd dolláros óriásból törpévé zsugordott össze.",
+          "text": "A programozók kedvelik a mesterséges intelligenciát.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166591/a-shein-online-divatkereskedo-100-milliard-dollaros-oriasbol-torpeve-zsugordott-",
+          "link": "https://sg.hu/cikkek/it-tech/166615/a-programozok-imadjak-az-mi-t-de-vajon-mindenki-mas-is-igy-tesz-majd",
           "scope": "kulfold"
         },
         {
-          "text": "Az Amerikai Egyesült Államokban 15 ember eltűnhetett, amikor villámárvíz söpört végig a Grand Canyon Nemzeti Parkban, a Bright Angel Canyon és a Phantom Ranch környékén.",
-          "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/08/31/szakerto-a-grand-canyon-gyilkos-villamarvize-utan-vannak-magyarorszagon-is-erintett-pontok",
+          "text": "Az Nvidia azt a célt tűzte ki maga elé, hogy chipjei működtessék a világ robotjait.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/166609/az-nvidia-azt-szeretne-ha-a-chipjei-mukodtetnek-a-vilag-robotjait",
           "scope": "kulfold"
         },
         {
-          "text": "Péntek hajnalban majdnem teljes holdfogyatkozást lehet majd látni Magyarországról – hívta föl a figyelmet az InfoRádióban Szabó Olivér Norton, a Svábhegyi Csillagvizsgáló bemutató csillagásza.",
+          "text": "A Google új adatvédelmi szabványt élesít az Android rendszerben, ami megnehezíti a felhasználók megfigyelését.",
           "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/08/27/ne-aludja-vegig-kulonleges-latvanyossag-lesz-az-egen-hajnalban",
+          "link": "https://infostart.hu/tudomany/tech/2026/09/01/hasznos-ujdonsag-jon-az-androidos-mobilokhoz",
           "scope": "kulfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-08-31T20:46:00.463Z",
+      "engine": "gemini",
+      "updatedAt": "2026-09-01T09:55:34.665Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166614/europa-sem-akar-kimaradni-az-instagram-es-a-facebook-atalakitasabol"
+          "link": "https://sg.hu/cikkek/it-tech/166623/egesz-becsnel-tobbet-fogyaszt-majd-a-google-uj-osztrak-adatkozpontja"
         },
         {
           "name": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/08/31/szakerto-a-grand-canyon-gyilkos-villamarvize-utan-vannak-magyarorszagon-is-erintett-pontok"
+          "link": "https://infostart.hu/tudomany/tech/2026/09/01/hasznos-ujdonsag-jon-az-androidos-mobilokhoz"
         }
       ],
       "skipped": []
@@ -160,52 +172,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "A magyar kormány teljesítette az uniós helyreállítási alap feltételeit, megnyitva az utat mintegy 10 milliárd euró lehívása előtt.",
+          "text": "A forint kismértékű erősödéssel kezdte a napot, de délelőtt esésnek indult.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20260831/tisza-kormany-celkeresztbe-kerult-az-orban-kormany-kedvelt-hatosaga-10-milliard-euro-sorsa-dolt-el-859264",
+          "link": "https://www.portfolio.hu/deviza/20260901/esik-a-forint-859534",
           "scope": "belfold"
         },
         {
-          "text": "A kormány közel 2,5 milliárd forintot csoportosít át a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (NVVH) felállítására és működésére.",
+          "text": "Az euróövezeti infláció csaknem hároméves csúcsra ugrott augusztusban.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20260831/kiderult-mennyibol-gazdalkodhat-a-nemzeti-vagyonvisszaszerzesi-es-vagyonvedelmi-hivatal-859510",
-          "scope": "belfold"
-        },
-        {
-          "text": "A forint korrigált a hétfő délelőtti erősödés után, az euró 365, a dollár pedig 315 forint körül járt.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/deviza/20260831/korrigalt-a-forint-az-erosodes-utan-859286",
-          "scope": "belfold"
-        },
-        {
-          "text": "Az iráni eszkaláció hatására a Brent olaj ára 90 dollár fölé, az európai gáz ára pedig 70 euró/MWh fölé emelkedett.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/befektetes/20260831/irani-eszkalacio-razta-meg-a-piacokat-de-nyero-honapot-zart-a-wall-street-859284",
+          "link": "https://www.portfolio.hu/gazdasag/20260901/kozel-haromeves-csucson-az-inflacio-az-eurozonaban-gyakorlatilag-biztos-az-ujabb-kamatemeles-859622",
           "scope": "kulfold"
         },
         {
-          "text": "Szeptember 1-jén elindul a kötelező nyugtaadat-szolgáltatás, melyért a NAV az év végéig nem bírságol.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/08/31/figyelem-uj-nav-kotelezettseg-indul",
+          "text": "Magyarországon az augusztusi lakásvásárlások száma 8077 volt, ami jelentősen elmarad a júliusi és az előző évi szinttől.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/ingatlan/20260901/elmaradt-a-vart-attores-nagyot-esett-a-lakasvasarlasok-szama-magyarorszagon-859626",
           "scope": "belfold"
         },
         {
-          "text": "A 4iG Csoport erős félévet zárt, 409,4 milliárd forintra növelve bevételét.",
+          "text": "Magyarország bruttó hazai termékének volumene 2026 második negyedévében 1,7 százalékkal felülmúlta az előző év azonos időszakit.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/08/31/eros-felevet-zart-a-4ig-4094-milliard-forintra-nott-a-bevetele",
+          "link": "https://infostart.hu/gazdasag/2026/09/01/kijottek-a-masodik-negyedeves-novekedes-friss-adatai-jok-a-szamok",
+          "scope": "belfold"
+        },
+        {
+          "text": "Megkezdődött a humanoid robotok sorozatgyártása a nyugat-szerbiai Sabacon.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/09/01/tomeggyartasba-kerulnek-a-humanoid-robotok-a-szomszedunkban",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Szeptember 1-jén elindul a kötelező nyugtaadat-szolgáltatás, de a NAV az év végéig nem bírságol.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/08/31/figyelem-uj-nav-kotelezettseg-indul",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-31T20:46:22.319Z",
+      "updatedAt": "2026-09-01T09:55:51.290Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/befektetes/20260831/irani-eszkalacio-razta-meg-a-piacokat-de-nyero-honapot-zart-a-wall-street-859284"
+          "link": "https://www.portfolio.hu/global/20260901/moszkva-ultimatumot-kapott-uj-front-nyitasara-keszulnek-az-oroszok-haborus-hireink-kedden-859520"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/08/31/varga-mihalyek-ezer-oldalnyi-iratot-adtak-at-a-vizsgalobizottsagnak"
+          "link": "https://infostart.hu/gazdasag/2026/09/01/kijottek-a-masodik-negyedeves-novekedes-friss-adatai-jok-a-szamok"
         }
       ],
       "skipped": []
@@ -213,32 +225,32 @@
     "kornyezet": {
       "items": [
         {
-          "text": "A Queenslandi Egyetem kutatása szerint a biológiailag lebomló elviteles kávéspoharak több nano- és mikroműanyagot juttatnak a forró italokba, mint a polietilén bevonatúak.",
+          "text": "A friss ausztrál kutatás szerint a pszilocibin az emberi agyat a környező világra hangolja.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/09/01/a-varazsgomba-a-kornyezo-vilagra-hangolja-az-emberi-agyat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Queenslandi Egyetem kutatása szerint az elviteles kávék jó eséllyel tele vannak mikroműanyaggal.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/08/31/az-elviteles-kaved-jo-esellyel-tele-van-mikromuanyaggal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Horváth Boldizsár agrármérnök szerint az idei aszályban a paprika megsül, a zeller levelei megégnek, a fehérrépa fejlődése lelassul, a kukorica pedig még öntözés mellett is megsínyli a tartós hőséget és a vízhiányt.",
+          "text": "Az idei aszályban a zöldségek és gyümölcsök megsülnek, kényszerérnek és kalciumhiányosak.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/08/31/megsulnek-kenyszerernek-es-kalciumhianyosak-az-idei-aszalyban-termett-zoldsegek-es-gyumolcsok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "belfold"
         },
         {
-          "text": "Kutatások szerint a zajos környezetben felnövő halak mérete átlagosan 7 százalékkal csökken, és rosszabbul reagálnak a ragadozók támadásaira.",
+          "text": "A halak mérete kisebb lesz, és ügyetlenebbül reagálnak a ragadozókra, ha zajos környezetben nőnek fel.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/08/31/kisebbek-es-ugyetlenebbek-lesznek-a-halak-a-csonakok-zajatol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A Zürichi Egyetem kutatásában önkéntesek eltemetett pamut alsónadrágjainak bomlásával vizsgálják a talaj állapotát.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/08/31/attores-a-talajkutatasban-jon-az-alsogatya-index?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-31T20:46:32.875Z",
+      "updatedAt": "2026-09-01T09:56:02.010Z",
       "sourceLinks": [
         {
           "name": "Greenfo",
@@ -246,7 +258,7 @@
         },
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/08/31/szigorubban-fogja-ellenorizni-az-eu-a-chatgpt-a-reddit-es-a-roblox-mukodeset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/09/01/a-varazsgomba-a-kornyezo-vilagra-hangolja-az-emberi-agyat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": []
@@ -254,44 +266,44 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "A szerb ügyészség új információkat közölt egy magyar gázvezeték elleni terrortámadási kísérletről, amelyben heten vehettek részt.",
+          "text": "Kiderült, mennyi agrártermék került le a magyar földekről, ami nem ad okot örömre.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/kozelet/2026/08/robbanoanyag-a-magyar-gazvezetek-kozeleben-het-ember",
+          "link": "https://www.vg.hu/agrar/2026/09/gazdak-termenyt-takaritottak-be-nincs-ok-az-oromre",
           "scope": "belfold"
         },
         {
-          "text": "Ausztriában bírósági döntés tiltotta meg a wullersdorfi szélturbinák megépítését.",
+          "text": "A magyar Alteo 100 milliós tételben dob piacra eurókötvényeket, miután besorolták a papírjait.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/08/szeleromu-sasfeszek-osztrak-projekt-ot-szelturbina",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A forint erősödött estére a hónap utolsó napján.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/befektetes/erosodott-estere-a-forint-a-honap-utolso-napjan.html?utm_source=rss&utm_medium=referral",
+          "link": "https://www.vg.hu/penz-es-tokepiac/2026/09/alteo-hitelminosites-kotvenykibocsatas-scope",
           "scope": "belfold"
         },
         {
-          "text": "Robbanóanyagot találtak a magyar–szerb gázvezeték közelében, hét ember ellen nyomoznak Szerbiában.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozelet/robbanoanyagot-talaltak-a-magyarszerb-gazvezetek-kozeleben.html?utm_source=rss&utm_medium=referral",
+          "text": "A magyar munkaerőpiacon ősszel változások várhatók, mivel nő az álláshelyek száma, de csökken a jelentkezőké.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/09/allaspiac-38-szazalekkal-kevesebb-allas-a-jogaszoknak",
           "scope": "belfold"
         },
         {
-          "text": "Változás várható az üzemanyagárak tájékoztatásának rendjében.",
+          "text": "A Tisza-kormány első GDP-bizonyítványa szerint véget ért a stagnálás, bár az öröm nem felhőtlen.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/agrarium/fontos-valtozas-jon-az-uzemanyagarak-tajekoztatasaban.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/makro/megjottek-a-reszletek-igy-fest-a-tisza-kormany-elso-gdp-bizonyitvanya.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         },
         {
-          "text": "Enyhén emelkedtek augusztus végén az árak a Lidl, Penny és Aldi boltjaiban.",
+          "text": "A benzin átlagára átlépett egy újabb kerek árat, jelentős változást mutatva.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/lenyegesen-dragabb-volt-tavaly-ilyenkor-a-bevasarlas-a-lidl-a-penny-es-az-aldi-boltjaiban.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/makro/benzin-atlagara-benzinkut-dragulas-dizel-holtankoljak.html?utm_source=rss&utm_medium=referral",
+          "scope": "belfold"
+        },
+        {
+          "text": "Megérkeztek az augusztusi index értékek a feldolgozóipar kapcsán.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/makro/feldolgozoiparra-menedzserek-bmi-augusztusi-index.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-08-31T20:46:43.887Z",
+      "updatedAt": "2026-09-01T09:56:17.918Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -299,11 +311,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/befektetes/erosodott-estere-a-forint-a-honap-utolso-napjan.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/makro/megjottek-a-reszletek-igy-fest-a-tisza-kormany-elso-gdp-bizonyitvanya.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-09-01T07:36:23.228Z"
+  }
 }
