@@ -1,64 +1,64 @@
 {
-  "generatedAt": "2026-09-03T18:30:06.853Z",
+  "generatedAt": "2026-09-04T09:31:55.866Z",
   "fx": {
-    "rate": 363.288,
-    "date": "2026-09-04T08:47:22.000Z",
+    "rate": 362.875,
+    "date": "2026-09-04T09:31:53.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "Az ukrán Naftogaz egy orosz hajó lefoglalásával Norvégiában próbálja behajtani Moszkva milliárdos tartozását.",
+          "text": "Magyarország megköszönte Ukrajna lépését a kárpátaljai magyarokkal szembeni szovjet atrocitásokat elítélő határozat ügyében, a múlt feltárása felé.",
           "source": "Telex",
-          "link": "https://telex.hu/kulfold/2026/09/03/lefoglalt-orosz-hajo-norvegia-ukran-naftogaz-behajtas-moszkva-tartozas",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az Európai Unió figyelmeztetett, hogy egy tagjelölt országban sincs helye háborús bűnösök dicsőítésének.",
-          "source": "Telex",
-          "link": "https://telex.hu/kulfold/2026/09/03/kormanygeppel-szallitottak-szerbiaba-ratko-mladic-holttestet-temetes-tobb-tizezren",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A jegybank 6 milliárd forintot fizetett a 4iG-nek és 2,4 milliárdot Balásy Gyula cégének Varga Mihály irányítása alatt.",
-          "source": "Telex",
-          "link": "https://telex.hu/gazdasag/2026/09/03/mnb-transparency-international-kozadatigenyles-szerzodesek",
+          "link": "https://telex.hu/kulfold/2026/09/04/kulugyminiszterium-reakcio-ukrajna-karpataljai-magyarokkal-szembeni-szovjet-atrocitasokat-elitelo-nyilatkozat",
           "scope": "belfold"
         },
         {
-          "text": "Nyomozás indult az Eximbank ellen egy Észak-Macedóniának nyújtott milliárdos magyar hitel miatt.",
+          "text": "A rendőrség megszüntette a nyomozást a választás elhalasztásáról szóló 2025-ös kamuvideó ügyében, bűncselekmény hiányában.",
+          "source": "Telex",
+          "link": "https://telex.hu/belfold/2026/09/04/2026-os-valasztas-elhalasztasa-kamu-video-hamisitvany-rendorseg-brfk-nyomozas-megszintetese-nem-buncselekmeny",
+          "scope": "belfold"
+        },
+        {
+          "text": "Lannert Judit szerint visszatér az Erasmus-program a magyar egyetemekre, mivel 21 hazai felsőoktatási intézmény már rendelkezik érvényes mobilitási pályázattal.",
           "source": "24.hu",
-          "link": "https://24.hu/fn/gazdasag/2026/09/03/eximbank-nyomozas-eszak-macedonia-reakcio/",
+          "link": "https://24.hu/fn/gazdasag/2026/09/04/erasmus-program-magyar-egyetemek-lannert-judit/",
           "scope": "belfold"
         },
         {
-          "text": "Az Európai Bizottság konstruktívnak nevezte a viszonyt a napi egymillió eurós migrációs bírság ügyében Magyar Péter kijelentésére reagálva.",
-          "source": "24.hu",
-          "link": "https://24.hu/kulfold/2026/09/03/europai-bizottsag-magyarorszag-napi-egymillio-euros-birsag-breaking/",
-          "scope": "belfold"
-        },
-        {
-          "text": "A külügyi államtitkár szerint Szijjártóék legalább 15,5 milliárd forintos túlárazással vásároltak lélegeztetőgépeket és védőeszközöket.",
+          "text": "A magyar állam visszakapta a Richter-részvénypakkot az MCC felszámolása után, ezzel újra 10 százalékos szavazati aránnyal rendelkezik a gyógyszergyártóban.",
           "source": "HVG",
-          "link": "https://hvg.hu/gazdasag/20260903_koronavirus-lelegeztetogep-biznisz-szijjarto-peter-kulugy-velkey-gyorgy-laszlo",
+          "link": "https://hvg.hu/kkv/20260904_mcc-richter-reszveny-allam-ujra-tulajdonos",
           "scope": "belfold"
+        },
+        {
+          "text": "Hétfőn lejár az Orbán-kormánytól örökölt, tömeges bevándorlás okozta válsághelyzet, melynek fenntartására a Magyar Helsinki Bizottság szerint nincs valódi indok.",
+          "source": "HVG",
+          "link": "https://hvg.hu/itthon/20260904_hetfon-lejar-orban-kormany-bevandorlas-okozta-valsaghelyzet",
+          "scope": "belfold"
+        },
+        {
+          "text": "Zelenszkij szerint Steven Witkoff és Jared Kushner a közeljövőben Moszkvába és Kijevbe is elutaznak, amit az ukrán főváros elleni orosz drónhadjárat megnehezíthet.",
+          "source": "HVG",
+          "link": "https://hvg.hu/vilag/20260904_zelenszkij-kushner-witkoff-ukrajna-oroszorszag-haboru-targyalasok-usa",
+          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-09-03T18:29:07.609Z",
+      "updatedAt": "2026-09-04T09:31:49.038Z",
       "sourceLinks": [
         {
           "name": "Telex",
-          "link": "https://telex.hu/gazdasag/2026/09/03/nvidia-hugging-face-felvasarlas-mesterseges-intelligencia-startup"
+          "link": "https://telex.hu/kulfold/2026/09/04/kulugyminiszterium-reakcio-ukrajna-karpataljai-magyarokkal-szembeni-szovjet-atrocitasokat-elitelo-nyilatkozat"
         },
         {
           "name": "24.hu",
-          "link": "https://24.hu/sport/2026/09/03/us-open-bondar-anna-tenisz-madison-keys/"
+          "link": "https://24.hu/kultura/2026/09/04/beyonce-szuletesnap-galeria/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/itthon/20260903_lezuhant-sikloernyo-gyor-mentohelikopter-korhaz"
+          "link": "https://hvg.hu/kkv/20260904_mcc-richter-reszveny-allam-ujra-tulajdonos"
         }
       ],
       "skipped": []
@@ -66,48 +66,36 @@
     "sport": {
       "items": [
         {
-          "text": "Életének 77. évében elhunyt Martos Győző 34-szeres válogatott labdarúgó, aki két világbajnokságon szerepelt.",
+          "text": "A Ferencváros 3-0-ra győzött a címvédő Győr vendégeként a labdarúgó OTP Bank Liga harmadik fordulójából elhalasztott és csütörtökön pótolt mérkőzésén.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/09/04/kifutyultek-borbelyt-a-fradi-kiutotte-a-bajnoki-cimvedo-gyort",
+          "scope": "kulfold"
+        },
+        {
+          "text": "évében elhunyt Martos Győző 34-szeres válogatott labdarúgó, aki két világbajnokságon szerepelt.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/2026/09/03/elhunyt-martos-gyozo",
-          "scope": "belfold"
-        },
-        {
-          "text": "Alberto Marí, La Liga-rutinnal rendelkező labdarúgó, a Kispest-Honvéd FC csapatában folytatja pályafutását.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/09/03/la-liga-rutinnal-erkezik-a-honved-uj-igazolasa",
-          "scope": "belfold"
-        },
-        {
-          "text": "Megkezdődött a 40. jubileumi tanévét ünneplő Diákolimpia-versenysorozat.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/09/03/negyveneves-a-diakolimpia-megkezdodott-a-jubileumi-tanev",
-          "scope": "belfold"
-        },
-        {
-          "text": "A válogatottságtól visszavonuló Lionel Messi tiszteletére a 10. percben leállnak a futballmérkőzések Argentínában.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/09/03/a-10-percben-megall-az-elet-argentinaban-messi-miatt",
           "scope": "kulfold"
         },
         {
-          "text": "A spanyol élvonal klubjai több mint 1,232 milliárd eurót mozgattak meg az átigazolási időszakban.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/09/03/a-real-es-a-barca-nagy-koltesevel-is-csak-negyedik-a-spanyol-fociliga-europaban",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az ETO FC gólerős bosnyák válogatott támadót, a 26 éves Luka Kulenovicot igazolta.",
+          "text": "Samuel Petrás: Mindennap keményen kell dolgoznunk, hogy elérjük a Ferencváros szintjét Ugyanakkor sok idő nincs az építkezésre, vasárnap már a Kispestet fogadja az ETO..",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/labdarugo-nb-i/2026/09/goleros-bosnyak-valogatott-tamadot-igazolt-az-eto-fc-hivatalos",
-          "scope": "belfold"
+          "link": "https://www.nemzetisport.hu/labdarugo-nb-i/2026/09/samuel-petras-mindennap-kemenyen-kell-dolgoznunk-hogy-elerjuk-a-ferencvaros-szintjet",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Nagy Ádám: Remélem, egyre több ilyen nívós meccs lesz az NB I-ben!Az FTC középpályása szerint egyáltalán nem volt könnyű az ETO elleni mérkőzés..",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/labdarugo-nb-i/2026/09/nagy-adam-remelem-egyre-tobb-ilyen-nivos-meccs-lesz-az-nb-i-ben",
+          "scope": "kulfold"
         }
       ],
-      "engine": "gemini",
-      "updatedAt": "2026-09-03T18:29:19.121Z",
+      "engine": "extractive",
+      "updatedAt": "2026-09-04T09:31:53.372Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/09/03/elhunyt-martos-gyozo"
+          "link": "https://infostart.hu/sport/2026/09/04/szoboszlaiek-real-magyar-kosarasok-forma-1-us-open-vuelta-rakezd-ma-a-hetvege-sport-a-teveben"
         },
         {
           "name": "Nemzeti Sport",
@@ -119,52 +107,40 @@
     "technologia": {
       "items": [
         {
-          "text": "Az okosszemüvegek lehetnek a mesterséges intelligencia következő nagy platformja.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166595/az-okosszemuveg-lehet-az-mi-kovetkezo-nagy-platformja",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A mesterséges intelligencia növekvő adatéhsége új lendületet adott a szalagos tárolási technológiáknak.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166653/az-mi-adatehsege-uj-lenduletet-adott-a-szalagos-tarolasnak",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az Európai Unió milliárdokat öntene mesterséges intelligencia adatközpontokba, azonban nem minden tagállam támogatja a finanszírozást.",
+          "text": "Az EU milliárdokat öntene MI adatközpontokba, de nem mindenki akar fizetni.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/166651/az-eu-milliardokat-ontene-mi-adatkozpontokba-de-nem-mindenki-akar-fizetni",
           "scope": "kulfold"
         },
         {
-          "text": "Több mint egymilliárd forint vissza nem térítendő támogatással kezdi meg működését az ELTE-n a Kármán Tódor Űrtudományi Misszióvezérelt Nemzeti Laboratórium.",
-          "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/09/03/reszletek-az-elte-n-indulo-urtudomanyi-laboratoriumrol",
-          "scope": "belfold"
-        },
-        {
-          "text": "A BepiColombo japán-európai űrszonda nyolcévi utazás után megkezdi a Merkúr megközelítését a bolygó rejtélyeinek megfejtésére.",
-          "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/09/03/nyolc-evig-utazott-most-vegre-megfejtheti-a-merkur-egyik-legnagyobb-rejtelyet",
+          "text": "A Google megúszta a hirdetési üzletágának feldarabolását.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/166644/a-google-meguszta-a-hirdetesi-uzletaganak-feldarabolasat",
           "scope": "kulfold"
         },
         {
-          "text": "A 4iG Csoport és a SpaceX megállapodást kötött a Starlink Mobile és a szuverén műholdas megoldások magyarországi és nyugat-balkáni bevezetéséről.",
+          "text": "Bár a hőkupola-jelenség valóban létezik, nem lehet minden hőhullámot így nevezni – derült ki az InfoRádió Aréna című műsorából, amelynek vendége volt Kis Anna éghajlatkutató, a földtudományok doktora, az ELTE Meteorológiai Tanszék tudományos munkatársa és Szabó Péter éghajlatkutató, az ELTE Meteorológiai Tanszék doktorandusza.",
           "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/09/02/kozvetlen-muhold-mobil-kapcsolatot-hoz-magyarorszagra-a-4ig-es-a-spacex",
-          "scope": "belfold"
+          "link": "https://infostart.hu/tudomany/2026/09/04/utazas-a-hokupola-belseje-fele-eghajlatkutatok-tettek-rendet-az-uj-nyari-fogalmak-kozott-az-arenaban",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Nyolcévi repülés és több mint 9 milliárd kilométer megtétele után csütörtökön megkezdte a Naphoz legközelebbi bolygónak, a Merkúrnak a megközelítését egyik meghajtóegységének sikeres leválasztásával a BepiColombo japán-európai űrszonda.",
+          "source": "Infostart Tudomány",
+          "link": "https://infostart.hu/tudomany/2026/09/04/nyolc-eve-repul-az-urszonda-most-megkezdte-a-merkur-megkozeliteset",
+          "scope": "kulfold"
         }
       ],
-      "engine": "gemini",
-      "updatedAt": "2026-09-03T18:29:29.688Z",
+      "engine": "extractive",
+      "updatedAt": "2026-09-04T09:31:54.212Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166595/az-okosszemuveg-lehet-az-mi-kovetkezo-nagy-platformja"
+          "link": "https://sg.hu/cikkek/it-tech/166668/az-nvidia-hajtja-az-mi-boomot-es-ez-igy-helyes"
         },
         {
           "name": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/09/03/reszletek-az-elte-n-indulo-urtudomanyi-laboratoriumrol"
+          "link": "https://infostart.hu/tudomany/2026/09/04/frocskolesmentes-piszoar-es-orrfujas-ezek-a-kutatasok-ertek-iden-anti-nobel-dijat"
         }
       ],
       "skipped": []
@@ -172,52 +148,40 @@
     "gazdasag": {
       "items": [
         {
-          "text": "A GreenPower Energy Debrecen Kft. a tervek szerint október végén kezdi meg tevékenységét a debreceni déli ipari parkban található új, 44 ezer négyzetméteres csarnoképületben.",
+          "text": "Az amerikai szárazföldi haderő szeptember 3-án gyorsított beszerzési eljárásba sorolta át a Precision Strike Missile (PrSM) Increment 2 programját, hogy mielőbb hadrendbe állíthassa a mozgó tengeri célpontok ellen is bevethető, többüzemmódú célkeresővel felszerelt rakétaváltozatot.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/ingatlan/20260903/hamarosan-elindul-a-catl-ujabb-debreceni-egysege-kiderult-mit-csinalnak-majd-a-44-ezer-negyzetmeteres-csarnokban-860348",
-          "scope": "belfold"
-        },
-        {
-          "text": "Jellemzően emelkedtek az ázsiai részvénypiacok csütörtökön, miután a globális kötvényhozamok csökkenése és az olajárak stabilizálódása javította a befektetői hangulatot.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/uzlet/20260903/javult-a-hangulat-a-tozsdeken-a-penteki-amerikai-makroadatra-figyelnek-a-befektetok-860092",
+          "link": "https://www.portfolio.hu/global/20260904/sosem-latott-kepesseget-kapnak-az-amerikai-himars-ok-nagy-bajban-lehetnek-az-ellenseges-flottak-860476",
           "scope": "kulfold"
         },
         {
-          "text": "Az Nvidia bejelentette, hogy októberben érkeznek a Lenovo és az Acer kínálatában az első, RTX Spark chipre épülő Windows PC-k.",
+          "text": "Horvátország 435,2 millió euró értékben vásárol 18 darab dél-koreai K239 Chunmoo rakéta-sorozatvető rendszert a Hanwha Aerospace vállalattól, amivel a meglévő 20 kilométeres csapásmérő hatótávolságát akár 290 kilométerre növeli.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/uzlet/20260903/nvidia-uj-korszak-kezdodik-a-szamitogepeknel-860346",
+          "link": "https://www.portfolio.hu/global/20260904/felelmetes-raketafegyvereket-vesz-deli-szomszedunk-meg-a-himars-nal-is-messzebbre-tudnak-veluk-loni-860474",
           "scope": "kulfold"
         },
         {
-          "text": "A Magyar Nemzeti Bank (MNB) a jövőben negyedévente nyilvánosságra hozza honlapján szerződéseinek táblázatba foglalt adatait.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20260903/nincs-tobb-titok-negyedevente-kozzeteszi-szerzodeseit-az-mnb-860344",
-          "scope": "belfold"
-        },
-        {
-          "text": "Pásztor Szabolcs, az Oeconomus kutatási igazgatója szerint siralmas a hazai almatermés idén, ami miatt szükség lehet az importra.",
+          "text": "Júliusban a kiskereskedelem forgalmának volumene a nyers és a naptárhatástól megtisztított adatok szerint egyaránt 4,9 százalékkal meghaladta az egy évvel korábbit – jelentette pénteken a Központi Statisztikai Hivatal (KSH).",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/09/03/pasztor-szabolcs-sokan-mar-almageddont-emlegetnek-olyan-siralmas-a-hazai-almatermes-iden",
-          "scope": "belfold"
+          "link": "https://infostart.hu/gazdasag/2026/09/04/itt-vannak-a-kiskereskedelmi-forgalom-friss-adatai",
+          "scope": "kulfold"
         },
         {
-          "text": "A második negyedéves adatok alapján kikerült a magyar gazdaság a stagnáló-recessziós időszakból.",
+          "text": "A második negyedéves adatok alapján kikerült a magyar gazdaság a stagnáló-recessziós időszakból – rögzítette az InfoRádió Aréna című műsorában Nyeste Orsolya, az Erste Bank és Madár István, a Portfolio vezető elemzője.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/09/03/a-gazdasag-lassan-de-biztosan-maszik-kifele-a-godorbol-helyzetertekeles-az-arenaban",
-          "scope": "belfold"
+          "scope": "kulfold"
         }
       ],
-      "engine": "gemini",
-      "updatedAt": "2026-09-03T18:29:41.771Z",
+      "engine": "extractive",
+      "updatedAt": "2026-09-04T09:31:54.538Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/ingatlan/20260903/hamarosan-elindul-a-catl-ujabb-debreceni-egysege-kiderult-mit-csinalnak-majd-a-44-ezer-negyzetmeteres-csarnokban-860348"
+          "link": "https://www.portfolio.hu/ingatlan/20260904/megszolalt-a-tervezo-elarulta-mi-rejtozik-valojaban-orban-viktor-csaladjanak-vitatott-birtokan-860440"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/09/03/pasztor-szabolcs-sokan-mar-almageddont-emlegetnek-olyan-siralmas-a-hazai-almatermes-iden"
+          "link": "https://infostart.hu/gazdasag/2026/09/04/itt-vannak-a-kiskereskedelmi-forgalom-friss-adatai"
         }
       ],
       "skipped": []
@@ -225,32 +189,26 @@
     "kornyezet": {
       "items": [
         {
-          "text": "Az egyiptomi csípőszúnyogok szaporodását igazolták az Egyesült Királyságban, miután lárváikat kelet-londoni otthonokban azonosították.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/09/03/londonban-kaptak-szaporodason-tropusi-betegsegek-terjesztesere-kepes-egyiptomi-csiposzunyogokat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Norvég kutatók szerint a tengeri jég felszínén kikristályosodó só indíthatott el megállíthatatlan lehűlési láncreakciót, ami miatt a Föld 700 millió évvel ezelőtt hógolyóvá fagyott.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/09/03/a-so-miatt-fagyhatott-hogolyova-a-fold-700-millio-evvel-ezelott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A Greenfo Zöld hét – Hírháttér podcastja környezeti témákat tárgyal.",
+          "text": "Zöld hét – Hírháttér podcast.",
           "source": "Greenfo",
           "link": "https://greenfo.hu/hirek/podcastok/zold-het/",
-          "scope": "belfold"
+          "scope": "kulfold"
         },
         {
-          "text": "A Greenfo Iránytű podcastja környezetvédelmi kérdésekkel foglalkozik.",
-          "source": "Greenfo",
-          "link": "https://greenfo.hu/hirek/podcastok/podcast/",
-          "scope": "belfold"
+          "text": "Fauci több mint százszor megtagadta a válaszadást egy júliusi szenátusi meghallgatáson, egykori tanácsadója pedig nem sokkal később bűnösnek vallotta magát a kínai koronavírus-kutatások támogatásával kapcsolatos szövetségi iratok eltitkolásában.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/09/04/anthony-fauci-kinos-meghallgatasa-es-tanacsadojanak-beismero-vallomasa-utan-ujra-fellangoltak-a-covidjarvany-eredete-koruli-vitak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Már két adag pszilocibin képes megelőzni a zsibbadással és fájdalommal járó perifériás neuropátia kialakulását a kezelések során anélkül, hogy rontaná a terápia daganatellenes hatékonyságát.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/09/03/a-varazsgombak-hatoanyaga-megelozheti-a-kemoterapia-sulyos-idegkarosito-mellekhatasat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
         }
       ],
-      "engine": "gemini",
-      "updatedAt": "2026-09-03T18:29:53.490Z",
+      "engine": "extractive",
+      "updatedAt": "2026-09-04T09:31:55.097Z",
       "sourceLinks": [
         {
           "name": "Greenfo",
@@ -258,7 +216,7 @@
         },
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/09/03/a-varazsgombak-hatoanyaga-megelozheti-a-kemoterapia-sulyos-idegkarosito-mellekhatasat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/09/04/george-lucas-futurisztikus-muzeumot-epitett-los-angelesben-a-narrativ-muveszet-bemutatasara?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": []
@@ -266,44 +224,32 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Románia jelentősen több uniós pénzt hozott haza, mint Magyarország.",
+          "text": "Lassan üt a végrehajtók órája, a kormány sebességet vált: Magyar Péter döntött, már nincs visszaút – „ezt az egész bűnszervezetet, ezt a kamarát eltöröljük!\".",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/09/romania-magyarorszag-unios-penzek-pnrr-lengyelorszag",
-          "scope": "belfold"
-        },
-        {
-          "text": "Az MNB szerződései a jövőben rendszeresen nyilvánosak lesznek.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/ezentul-rendszeresen-nyilvanosak-lesznek-az-mnb-szerzodesei.html?utm_source=rss&utm_medium=referral",
-          "scope": "belfold"
-        },
-        {
-          "text": "Az EU megerősítette, hogy tárgyalások zajlanak Magyarországgal a napi egymillió eurós bírságról.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kulpolitika/reagalt-az-eu-magyar-peter-mondataira-zajlik-az-egyeztetes-a-napi-egymillio-euros-birsagrol.html?utm_source=rss&utm_medium=referral",
-          "scope": "belfold"
-        },
-        {
-          "text": "Jelentős pénzeket fektetnek olajcsövekbe, amelyek potenciálisan kiválthatják a Hormuzi-szorost.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/befektetes/hormuzt-olajvezetekek-csovek-olajpiac-total.html?utm_source=rss&utm_medium=referral",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/09/vegrehajtok-a-kormany-sebesseget-valt",
           "scope": "kulfold"
         },
         {
-          "text": "A forint erősödött az euróval szemben.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/befektetes/valamit-jol-csinalt-a-forint--ennyiert-adjak-az-eurot.html?utm_source=rss&utm_medium=referral",
-          "scope": "belfold"
+          "text": "Drasztikusan, 65 milliárd forinttal visszavágta a kormány a kiskereskedelmi adóból idénre várt pénzt..",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/kiskereskedelem/2026/09/bolt-kiskereskedelmi-kulonado-csokkenes-lidl-oksz",
+          "scope": "kulfold"
         },
         {
-          "text": "Javaslat született a rezsicsökkentés elengedésére.",
+          "text": "Betelt a pohár a benzinkutasoknál: Magyar Pétertől azonnali lépéseket várnak.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/levelet-irtak-kapitany-istvannak-itt-az-ideje-elengedni-a-rezsicsokkentest.html?utm_source=rss&utm_medium=referral",
-          "scope": "belfold"
+          "link": "https://mfor.hu/cikkek/makro/betelt-a-pohar-a-benzinkutasoknal-magyar-petertol-azonnali-lepeseket-varnak.html?utm_source=rss&utm_medium=referral",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Szeptember 7-éig fontos döntést kell hoznia Magyar Péteréknek.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/makro/a-hatarkerites-maradhat-a-napi-egymillios-birsag-mehet-szeptember-7-eig-fontos-dontest-kell-hoznia-magyar-petereknek.html?utm_source=rss&utm_medium=referral",
+          "scope": "kulfold"
         }
       ],
-      "engine": "gemini",
-      "updatedAt": "2026-09-03T18:30:06.756Z",
+      "engine": "extractive",
+      "updatedAt": "2026-09-04T09:31:55.730Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -311,11 +257,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/ezentul-rendszeresen-nyilvanosak-lesznek-az-mnb-szerzodesei.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/makro/betelt-a-pohar-a-benzinkutasoknal-magyar-petertol-azonnali-lepeseket-varnak.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-09-04T08:47:23.321Z"
+  }
 }
