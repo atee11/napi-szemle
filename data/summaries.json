@@ -1,64 +1,64 @@
 {
-  "generatedAt": "2026-09-17T09:57:33.670Z",
+  "generatedAt": "2026-09-17T19:00:42.044Z",
   "fx": {
-    "rate": 362.468,
-    "date": "2026-09-17T16:41:30.000Z",
+    "rate": 362.648,
+    "date": "2026-09-17T19:00:25.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "Az MKIK több területi elnöke lemondásra szólította fel az iparkamara vezetőjét, súlyos bizalomvesztésre hivatkozva.",
+          "text": "Az EP-képviselők elítélték a tömeges illegális határátlépéseket Ceutába, és kritikát fogalmaztak meg a spanyol kormány politikájával szemben.",
           "source": "Telex",
-          "link": "https://telex.hu/gazdasag/2026/09/17/nagy-eleket-magyar-kereskedelmi-es-iparkamara-lemondas-felszolitas-teruleti-kamarai-elnokok",
-          "scope": "belfold"
-        },
-        {
-          "text": "Schmidt Mária, a Terror Háza volt főigazgatója szerint Tarr Zoltánnak egyértelműen állást kell foglalnia a múzeum kiállításáról.",
-          "source": "Telex",
-          "link": "https://telex.hu/belfold/2026/09/17/schmidt-maria-elvesztette-a-fonalat-terror-haza-tarr-zoltan",
-          "scope": "belfold"
-        },
-        {
-          "text": "Az Európai Bizottság digitális \"uniós tajkártyát\" és képzettségi útlevelet javasol az EU-n belüli külföldi munkavállalók szociális jogainak egyszerűbb biztosítására.",
-          "source": "Telex",
-          "link": "https://telex.hu/gazdasag/2026/09/17/eu-europai-parlament-europai-bizottsag-szocialis-jogok-kulfoldi-munka",
+          "link": "https://telex.hu/kulfold/2026/09/17/eu-europai-parlament-ceuta-hatarozat",
           "scope": "kulfold"
         },
         {
-          "text": "Melléthei-Barna Márton, a Tisza politikusa jogi lépéseket tett, mert állítása szerint rá hivatkozva csaltak ki pénzt emberektől.",
+          "text": "A rendőrség nyomozást indított a letelepedési kötvények ügyében a Transparency International Magyarország feljelentése alapján.",
           "source": "Telex",
-          "link": "https://telex.hu/belfold/2026/09/17/mellethei-barna-marton-szerint-penzt-csaltak-ki-ra-hivatkozva",
+          "link": "https://telex.hu/belfold/2026/09/17/nyomozas-letelepedesi-kotveny-transparency-international",
           "scope": "belfold"
         },
         {
-          "text": "A cikk szerint összeomlik a gyermekvédelem, miközben a politika vitázik a témáról.",
+          "text": "A Fővárosi Törvényszék szerint a szökés, az elrejtőzés és a bizonyítás megnehezítésének megakadályozása érdekében tartóztatták le Jellinek Dánielt és Szivek Norbertet a Volánbusz-ügyben.",
+          "source": "Telex",
+          "link": "https://telex.hu/belfold/2026/09/17/fovarosi-torvenyszek-jellinek-daniel-szivek-norbert-letartoztatas-volanbusz-ugy",
+          "scope": "belfold"
+        },
+        {
+          "text": "Tanács Zoltán szerint az előző kormányt sok döntésnél a pénzkivétel vezérelte, és a Tudományos és Technológiai Minisztérium további feljelentéseket tehet.",
+          "source": "Telex",
+          "link": "https://telex.hu/gazdasag/2026/09/17/tanacs-zoltan-tudomanyos-es-technologiai-miniszter-inforadio",
+          "scope": "belfold"
+        },
+        {
+          "text": "Magyar Péter az ATV-ben arról beszélt, hogy az utolsó eurócentnek december végéig be kell érkeznie Magyarországra.",
           "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/09/17/gyermekvedelem-fidesz-tisza-parlament-magyar-peter-video/",
+          "link": "https://24.hu/belfold/2026/09/17/magyar-peter-atv-ronai-egon-interju-egyenes-beszed/",
           "scope": "belfold"
         },
         {
-          "text": "Az Európai Bizottság egységes uniós szabályokat vezetne be a gyermekek online védelmére, megtiltva a közösségi média használatát 13 év alatt, és önálló fiók létrehozását 15 év alatt.",
+          "text": "Orbán Viktor könyvtára a Karmelitában csaknem 400 millió forintba került, egy 1490 körüli kötetet is tartalmazva.",
           "source": "HVG",
-          "link": "https://hvg.hu/eurologus/20260917_gyerekvedelem-online-veszely-europai-bizottsag",
-          "scope": "kulfold"
+          "link": "https://hvg.hu/itthon/20260917_orban-viktor-karmelita-konyvtar-antikvarium-kozgyujtemeny",
+          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-09-17T09:56:23.532Z",
+      "updatedAt": "2026-09-17T18:55:54.328Z",
       "sourceLinks": [
         {
           "name": "Telex",
-          "link": "https://telex.hu/gazdasag/2026/09/17/nagy-eleket-magyar-kereskedelmi-es-iparkamara-lemondas-felszolitas-teruleti-kamarai-elnokok"
+          "link": "https://telex.hu/kulfold/2026/09/17/eu-europai-parlament-ceuta-hatarozat"
         },
         {
           "name": "24.hu",
-          "link": "https://24.hu/elet-stilus/2026/09/17/deak-bill-gyula-meghalt-galeria/"
+          "link": "https://24.hu/sport/foci/2026/09/17/europa-liga-celtic-ferencvaros-elo/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/eurologus/20260917_gyerekvedelem-online-veszely-europai-bizottsag"
+          "link": "https://hvg.hu/cegauto/20260917_johnny-cash-rolls-royce-tesla-elektromos-auto-elado"
         }
       ],
       "skipped": []
@@ -66,48 +66,36 @@
     "sport": {
       "items": [
         {
-          "text": "Edin Dzeko bosnyák válogatott labdarúgó a svéd nemzeti együttes ellen lép utoljára pályára.",
+          "text": "Kevésbé biztató: a két csapat legutóbbi két egymás elleni meccsét a skótok nyerték, igaz, már öt éve.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/09/17/tapostak-egymast-az-emberek-hogy-bejussanak-edin-dzeko-utolso-merkozesere",
+          "link": "https://infostart.hu/sport/2026/09/17/kezdodik-az-europa-liga-meneteles-ketarcu-csapat-ellen-jatszik-este-a-ferencvaros",
           "scope": "kulfold"
         },
         {
-          "text": "A Ferencváros a Celtic ellen mérkőzik a csütörtöki napon.",
+          "text": "Kimagasló média- és látogatottsági számokat hozott az első atlétikai Világdöntő, amelynek Budapest adott otthont a múlt héten.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/09/17/adaz-keltakkal-nez-szembe-a-ferencvaros-sport-a-teveben",
-          "scope": "belfold"
-        },
-        {
-          "text": "Lionel Scaloni argentin szövetségi kapitány meghívta a válogatottságról augusztusban lemondó Lionel Messit az Albiceleste keretébe.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/09/16/messi-megis-jatszik-meg-az-argentin-valogatottban",
+          "link": "https://infostart.hu/sport/2026/09/17/sebastian-coe-lelkendezik-vilagsiker-volt-a-budapesti-atletikai-vilagdonto-itt-vannak-a-szamok",
           "scope": "kulfold"
         },
         {
-          "text": "A Forma–1-es Magyar Nagydíjat jövőre augusztus 1-jén rendezik.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/09/16/fontos-hirek-jottek-a-magyar-forma-1-es-futamrol-megvan-az-idopont-is",
-          "scope": "belfold"
-        },
-        {
-          "text": "Kozák Luca 10. lett 100 méteres gátfutásban a budapesti atlétikai Világdöntőben.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/09/16/kozak-luca-a-hazai-kozonseg-is-hozzaadott-a-vilagdontos-idoeredmenyhez",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Chelsea vár Szoboszlaiékra a Ligakupában.",
+          "text": "2020 óta a negyedik egymás elleni kupameccsét játssza a két zöld-fehér csapat..",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/angol-labdarugas/2026/09/a-chelsea-var-szoboszlaiekra-a-ligakupaban",
+          "link": "https://www.nemzetisport.hu/merkozes/20260917-celtic-ferencvaros/elo",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A duplázó Varga Barnabás megsérült az AEK kupameccsénVitális Milán megszerezte első gólját az athéniek színeiben, míg Petrosz Mantalosz az első félidőben a gólja mellett négy gólpasszt is kiosztott..",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/minden-mas-foci/2026/09/a-duplazo-varga-barnabas-megserult-az-aek-kupameccsen",
           "scope": "kulfold"
         }
       ],
-      "engine": "gemini",
-      "updatedAt": "2026-09-17T09:56:34.417Z",
+      "engine": "extractive",
+      "updatedAt": "2026-09-17T18:57:05.321Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/09/17/tapostak-egymast-az-emberek-hogy-bejussanak-edin-dzeko-utolso-merkozesere"
+          "link": "https://infostart.hu/sport/2026/09/17/urblik-jozsef-soha-nem-jatszhat-a-magyar-valogatottban-sulyos-oka-van"
         },
         {
           "name": "Nemzeti Sport",
@@ -119,48 +107,36 @@
     "technologia": {
       "items": [
         {
-          "text": "Emberek olvassák el a felhasználók beszélgetéseit a ChatGPT kulisszái mögött.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166791/a-chatgpt-kulisszai-mogott-emberek-olvassak-el-a-felhasznalok-beszelgeteseit",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A Siri működése felér a ChatGPT szintjére, de az MI ügynökök már messzebb járnak.",
+          "text": "Siri végre úgy működik mint a ChatGPT, de az MI ügynökök már messzebb járnak.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/166802/siri-vegre-ugy-mukodik-mint-a-chatgpt-de-az-mi-ugynokok-mar-messzebb-jarnak",
           "scope": "kulfold"
         },
         {
-          "text": "Egy bíró adatmegosztással oldaná fel a Google reklámpiaci monopóliumát.",
+          "text": "A ChatGPT kulisszái mögött emberek olvassák el a felhasználók beszélgetéseit.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166807/adatmegosztassal-oldana-fel-a-biro-a-google-reklampiaci-monopoliumat",
+          "link": "https://sg.hu/cikkek/it-tech/166791/a-chatgpt-kulisszai-mogott-emberek-olvassak-el-a-felhasznalok-beszelgeteseit",
           "scope": "kulfold"
         },
         {
-          "text": "Ursula von der Leyen szerint korlátozni kell a gyermekek hozzáférését a közösségi médiához és a chatbotokhoz.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166797/von-der-leyen-szerint-korlatozni-kell-a-gyermekek-hozzafereset-a-kozossegi-media",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A magyar lombikellátás eredményessége javul, de az intézetek között jelentős különbségek vannak.",
+          "text": "A magyar lombikellátás eredményessége javul, de az intézetek között jelentős különbségek vannak - állapította meg az Országos Kórházi Főigazgatóság humánreprodukciós igazgatósága frissen kiadott jelentésében.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/09/17/lombik-lathatoan-javulnak-a-szamok",
-          "scope": "belfold"
+          "scope": "kulfold"
         },
         {
-          "text": "Az Apple a Beats gondozásában dobhat piacra új, kifejezetten iPhone-okhoz való játékkontrollereket.",
+          "text": "Timár Gábor geofizikus, az ELTE TTK Geofizikai és Űrtudományi Tanszékének vezetője az MTA podcastjében arról beszélt, hogy nem elvezetni kellene a vizet, hanem a helyi adottságokat figyelembe véve megpróbálni megtartani.",
           "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/09/16/kiderult-mi-lehet-az-apple-kovetkezo-nagy-dobasa",
+          "link": "https://infostart.hu/tudomany/2026/09/15/meroben-uj-vizgazdalkodasi-strategiat-surget-a-szakerto",
           "scope": "kulfold"
         }
       ],
-      "engine": "gemini",
-      "updatedAt": "2026-09-17T09:56:48.711Z",
+      "engine": "extractive",
+      "updatedAt": "2026-09-17T18:59:26.042Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166791/a-chatgpt-kulisszai-mogott-emberek-olvassak-el-a-felhasznalok-beszelgeteseit"
+          "link": "https://sg.hu/cikkek/it-tech/166813/jensen-huang-ne-ugy-szabalyozzak-az-mi-t-mint-a-kozossegi-mediat"
         },
         {
           "name": "Infostart Tudomány",
@@ -172,52 +148,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "A Tisza-kormány eredetileg szeptember 30-ával tervezte kivezetni a jelzáloghitelek kamatstopját, de erről végül nem született időben kormánydöntés.",
+          "text": "Magyar Péter miniszterelnök bejelentette, hogy újra indulnak a vagyonosodási vizsgálatok, amelyek a politikai elitet és az államigazgatást is érintik.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/bank/20260917/eldolt-a-kamatstop-sorsa-elfelejthetjuk-a-szeptember-30-ai-kivezetest-863422",
+          "link": "https://www.portfolio.hu/gazdasag/20260917/tisza-kormany-magyar-peter-uzent-a-nyugdijasoknak-indulnak-a-vagyonosodasi-vizsgalatok-863286",
           "scope": "belfold"
         },
         {
-          "text": "Az amerikai jegybank kamatot emelt, amit a Wall Street eséssel fogadott, de csütörtök reggelre javult a hangulat a piacokon.",
+          "text": "Jelentősen átalakulhat az élelmiszerlánc-felügyelet és több agrárhatósági terület irányítása Magyarországon.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/uzlet/20260917/kamatot-emelt-az-amerikai-jegybank-mi-tortenik-a-tozsdeken-863298",
+          "link": "https://www.portfolio.hu/gazdasag/20260917/meglepi-a-kormany-nagy-atrendezes-keszul-az-elelmiszerbiztonsagban-863572",
+          "scope": "belfold"
+        },
+        {
+          "text": "Magyar Péter miniszterelnök szerint a 2027-es költségvetésben születik döntés a nyugdíjasoknak ígért SZÉP-kártyáról.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/gazdasag/20260917/magyar-peter-a-2027-es-koltsegvetesben-lesz-dontes-a-nyugdijasok-plusz-tamogatasarol-863568",
+          "scope": "belfold"
+        },
+        {
+          "text": "Ősszel újabb szankciós csomagot fogadhat el az Európai Unió Oroszországgal szemben.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/09/17/szigethy-ambrus-nikoletta-az-uj-eu-s-szankciokrol-ot-kiemelt-teruleten-fajnak-oroszorszagnak-a-korlatozasok",
           "scope": "kulfold"
         },
         {
-          "text": "A Waberer's Csoport szerbiai leányvállalata két ütemben bővíti helyi logisztikai kapacitásait.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/uzlet/20260917/szerbiaban-bovit-a-waberers-863404",
+          "text": "A BDPST Group megállapodott a Fafner Capital Kft.-vel a Gránit Bankban lévő részesedése egy részének értékesítéséről, amivel megszűnik a többségi befolyása.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/09/17/megszunt-a-bdpst-group-tobbsegi-befolyasa-a-granit-bankban",
           "scope": "belfold"
         },
         {
-          "text": "A Bosch igazgatótanácsának alelnöke szerint az európai autóipari beszállítókat veszélyezteti a tisztességes kölcsönös kereskedelmi feltételek hiánya a kínai piacon.",
+          "text": "A Fed kamatot emelt, amire három éve nem volt példa.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/09/17/bosch-az-europai-haszonjarmupiacon-is-egyre-erosebb-a-kinai-nyomas",
+          "link": "https://infostart.hu/gazdasag/2026/09/16/kamatot-emelt-a-fed",
           "scope": "kulfold"
-        },
-        {
-          "text": "Az MVM osztályzatának negatív kilátását a magyar szuverén besorolás negatív kilátása indokolja.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/09/16/megkapta-osztalyzatat-a-fitch-tol-az-mvm",
-          "scope": "belfold"
-        },
-        {
-          "text": "A magyar ingatlanpiac a javuló gazdasági kilátások, az élénkülő beruházási aktivitás és egy új fejlesztési ciklus küszöbén áll.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/09/16/uj-befektetesi-ciklus-kuszoben-a-magyar-ingatlanpiac",
-          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-09-17T09:57:02.968Z",
+      "updatedAt": "2026-09-17T18:59:43.936Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20260917/hullanak-az-orosz-tabornokok-asztalhoz-ulhet-trump-es-zelenszkij-hireink-az-orosz-ukran-haborubol-csutortokon-863296"
+          "link": "https://www.portfolio.hu/gazdasag/20260917/fordulatot-surget-hegedus-zsolt-nem-szalaszthatja-el-a-lehetoseget-az-egeszsegugy-863574"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/09/17/bosch-az-europai-haszonjarmupiacon-is-egyre-erosebb-a-kinai-nyomas"
+          "link": "https://infostart.hu/gazdasag/2026/09/17/szigethy-ambrus-nikoletta-az-uj-eu-s-szankciokrol-ot-kiemelt-teruleten-fajnak-oroszorszagnak-a-korlatozasok"
         }
       ],
       "skipped": []
@@ -225,36 +201,24 @@
     "kornyezet": {
       "items": [
         {
-          "text": "Berezvai Zombor közgazdász szerint a magyar mezőgazdaság nem tud lépést tartani a klímaváltozással, ami drágább és gyengébb minőségű magyar élelmiszerekhez vezet.",
+          "text": "Génmódosítással megakadályozták, hogy az egerek saját agykérge kifejlődjön, majd a helyére laborban növesztett emberi agyi organoidokat ültettek.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/09/17/berezvai-zombor-a-magyar-mezogazdasag-nem-tud-lepest-tartani-a-klimavaltozassal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "belfold"
-        },
-        {
-          "text": "Egy amerikai fúziós kísérlet során a Földön valaha látott legfényesebb röntgensugarakat állították elő, a fúziós üzemanyag a Nap magjánál tízszer forróbban égett.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/09/16/a-foldon-valaha-latott-legfenyesebb-rontgensugarakat-sikerult-eloallitani-egy-amerikai-fuzios-kiserletben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/09/17/emberi-agyszovettel-elo-egereket-hoztak-letre-a-stanford-kutatoi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Egy friss kutatás szerint a Tyrannosaurus rexek melegvérűek voltak, testhőmérsékletük 36 fok körül lehetett a fogvizsgálatok alapján.",
+          "text": "Thomas James Wise szerény körülmények közül indult, a szakmája csúcsára ért, közben pedig mindenkit az orránál fogva vezetett.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/09/17/melegveruek-voltak-a-tyrannosaurus-rexek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A SpaceX Starship rakétája jövő kedden indulhat első Föld körüli útjára, ahol 26 új Starlink-műholdat helyez üzembe.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/09/16/jovo-kedden-indulhat-elso-fold-koruli-utjara-a-starship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/09/17/a-szazadfordulo-legnagyobb-konyvszakertoje-a-huszadik-szazad-legnagyobb-csaloja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         }
       ],
-      "engine": "gemini",
-      "updatedAt": "2026-09-17T09:57:26.281Z",
+      "engine": "extractive",
+      "updatedAt": "2026-09-17T19:00:41.152Z",
       "sourceLinks": [
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/09/17/melegveruek-voltak-a-tyrannosaurus-rexek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/09/17/emberi-agyszovettel-elo-egereket-hoztak-letre-a-stanford-kutatoi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": [
@@ -264,38 +228,32 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Varga Mihály pénzügyminiszter Budapesten tárgyalt egy európai nagybank vezérigazgatójával a cég magyarországi terveiről.",
+          "text": "Von der Leyen bejelentette Kanada társult EU-tagságát, csakhogy senki sem tudja Strasbourgban, hogy ezt mit jelent: beszóltak a bizottság elnökének uniós diplomaták – \"Ez egy üres frázis\".",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/09/varga-mihaly-kbc-csoport-kh-bank-johan-thijs-mnb",
-          "scope": "belfold"
+          "link": "https://www.vg.hu/kozelet/2026/09/kanada-unios-tarsult-csatlakozas-von-der-leyen-carney",
+          "scope": "kulfold"
         },
         {
-          "text": "Elemzők szerint a magyar bér és a forint nem követi a gazdaság élénkülését.",
+          "text": "Élő adásban ismerte el Magyar Péter: eddig egyetlen egy eurócent sem érkezett a Magyarországnak járó uniós forrásokból.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/09/gazdasag-mbh-elemzesi-centrum-makrogazdasagi-kitekinto",
-          "scope": "belfold"
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/09/magyar-peter-unios-penzek-forras-brusszel-atv-elo",
+          "scope": "kulfold"
         },
         {
-          "text": "A következő évek kulcskérdése a költségvetési pálya lesz.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/09/gazdasag-mbh-elemzesi-centrum-makrogazdasagi-kitekinto",
-          "scope": "belfold"
-        },
-        {
-          "text": "Brüsszelből érkezett hír szerint Magyarországon a negyedik legalacsonyabb az infláció.",
+          "text": "Íme, a csütörtök esti árfolyamok!",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/ujabb-jo-hir-erkezett-brusszelbol.html?utm_source=rss&utm_medium=referral",
-          "scope": "belfold"
+          "link": "https://mfor.hu/cikkek/befektetes/nezze-csak-mennyire-belehuzott-a-forint.html?utm_source=rss&utm_medium=referral",
+          "scope": "kulfold"
         },
         {
-          "text": "Az Egyesült Államok határozott fellépése komoly kihívást jelenthet Vlagyimir Putyinnak.",
+          "text": "A baromfiszektor lehet a Mercosur-megállapodás legnagyobb vesztese – kemény időszak vár a hazai termelőkre.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/nem-vart-helyrol-kaphat-nagy-pofont-vlagyimir-putyin.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/agrarium/a-baromfiszektor-lehet-a-mercosur-megallapodas-legnagyobb-vesztese--kemeny-idoszak-var-a-hazai-termelokre.html?utm_source=rss&utm_medium=referral",
           "scope": "kulfold"
         }
       ],
-      "engine": "gemini",
-      "updatedAt": "2026-09-17T09:57:33.568Z",
+      "engine": "extractive",
+      "updatedAt": "2026-09-17T19:00:41.937Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -303,11 +261,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/ujabb-jo-hir-erkezett-brusszelbol.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/kozelet/megalakult-a-kozszolgalati-mediat-felugyelo-uj-testulet.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-09-17T16:41:31.526Z"
+  }
 }
