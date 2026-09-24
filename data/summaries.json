@@ -1,58 +1,64 @@
 {
-  "generatedAt": "2026-09-23T09:52:33.553Z",
+  "generatedAt": "2026-09-24T19:01:08.719Z",
   "fx": {
-    "rate": 365.692,
-    "date": "2026-09-24T18:56:39.000Z",
+    "rate": 365.766,
+    "date": "2026-09-24T19:01:07.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "Matolcsy György, a Magyar Nemzeti Bank volt elnöke szabadlábon védekezhet, mivel a Nemzeti Nyomozó Iroda nem vette őrizetbe.",
+          "text": "80 ország követeli a Hormuzi-szoros újranyitását az ENSZ-ben.",
           "source": "Telex",
-          "link": "https://telex.hu/belfold/2026/09/23/szabadlabon-vedekezhet-matolcsy-gyorgy",
+          "link": "https://telex.hu/kulfold/2026/09/24/80-orszag-koveteli-a-hormuzi-szoros-ujranyitasat-az-ensz-ben",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Baka András köztársasági elnök az ENSZ Közgyűlésén arról beszélt, hogy a bosszúállás nem megengedhető, az igazságszolgáltatás nem válhat politikai fegyverré.",
+          "source": "Telex",
+          "link": "https://telex.hu/belfold/2026/09/24/baka-andras-ensz-kozgyules-beszed-korrupcio-igazsagszolgaltatas-1956-ukrajna",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A rendőrséget megújító törvénycsomag várhatóan ősszel a parlament elé kerül.",
+          "source": "Telex",
+          "link": "https://telex.hu/belfold/2026/09/24/rendorseg-hiany-leszereles-belugyminiszterium-jelentkezok-visszateres",
           "scope": "belfold"
         },
         {
-          "text": "Paul Lendvai szerint Donald Trump bolondot csinál magából.",
-          "source": "HVG",
-          "link": "https://hvg.hu/360/20260923_paul-lendvai-trump-bolondot-csinal-magabol",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Martin Schulz, a német szociáldemokraták korábbi elnöke szerint az AfD mára néppárttá vált.",
-          "source": "HVG",
-          "link": "https://hvg.hu/vilag/20260923_merz-kancellar-cdu-spd-afd-valasztas-martin-schulz-szocialdemokrata",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Lannert Judit oktatási és gyermekügyi miniszter ígérete szerint év végére elkészül a magyar oktatás stratégiája.",
-          "source": "HVG",
-          "link": "https://hvg.hu/itthon/20260923_lannert-judit-oktatasi-strategia",
+          "text": "Az NKA-botrány kapcsán 585,6 millió forint ment el a Dankó Pista egyetlen előadására.",
+          "source": "24.hu",
+          "link": "https://24.hu/kultura/2026/09/24/molnar-aron-danko-pista-palyazat-operettszinhaz-orban-janos-denes/",
           "scope": "belfold"
         },
         {
-          "text": "Donald Trump az ENSZ-közgyűlésen megismételte, hogy közel a megállapodás Ukrajnában és Iránban.",
-          "source": "HVG",
-          "link": "https://hvg.hu/vilag/20260923_trump-ensz-kozgyules-ukrajna-iran-gronland-dania-kuba-szuperintelligencia",
+          "text": "A bíróság döntése értelmében visszaengedik a Fehér Házba a korábban kitiltott három sajtóorgánumot.",
+          "source": "24.hu",
+          "link": "https://24.hu/kulfold/2026/09/24/feher-haz-visszaengedik-kitiltott-sajto-cnn-politico-ms-now/",
           "scope": "kulfold"
+        },
+        {
+          "text": "Egy kecskeméti fideszes alpolgármester milliós fizetéssel és több ingatlannal a nevén szociális bérlakásban lakik.",
+          "source": "HVG",
+          "link": "https://hvg.hu/elet/20260924_millios-fizetes-fideszes-alpolgarmester-kecskemet-szocialis-berlakas",
+          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-09-23T09:52:06.742Z",
+      "updatedAt": "2026-09-24T19:00:03.022Z",
       "sourceLinks": [
         {
           "name": "Telex",
-          "link": "https://telex.hu/after/2026/09/23/fentanil-tuladagolas-hayden-panettiere-halal"
+          "link": "https://telex.hu/kulfold/2026/09/24/80-orszag-koveteli-a-hormuzi-szoros-ujranyitasat-az-ensz-ben"
         },
         {
           "name": "24.hu",
-          "link": "https://24.hu/sport/2026/09/23/eto-ferencvaros-kezilabda-potlas/"
+          "link": "https://24.hu/kultura/2026/09/24/molnar-aron-danko-pista-palyazat-operettszinhaz-orban-janos-denes/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/360/20260923_paul-lendvai-trump-bolondot-csinal-magabol"
+          "link": "https://hvg.hu/elet/20260924_roma-vespa-magyar-peter-robogo-tanc"
         }
       ],
       "skipped": []
@@ -60,48 +66,48 @@
     "sport": {
       "items": [
         {
-          "text": "Jürgen Klopp 44 játékost nevezett a német válogatott szövetségi kapitányaként vívandó első mérkőzéseire.",
+          "text": "A Nemzetek Ligája 2026–2027-es sorozata szeptember 24-én este megkezdődik, például a Hollandia–Németország mérkőzéssel.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/09/23/jurgen-klopp-ismet-meglepte-a-futballvilagot",
+          "link": "https://infostart.hu/sport/2026/09/24/a-2028-as-eb-szempontjabol-is-fontos-a-nemzetek-ligaja",
           "scope": "kulfold"
         },
         {
-          "text": "Jövőre nem rendezik meg a gyorsaságimotoros-világbajnokság Magyar Nagydíját.",
+          "text": "A magyar labdarúgó-válogatottból több fontos játékos sem léphet pályára pénteken, és az ellenfél ukránoknál is lesznek fontos hiányzók.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/09/22/nem-lesz-jovore-magyar-nagydij",
+          "link": "https://infostart.hu/sport/2026/09/24/marco-rossi-a-hianyzok-lehetoseget-is-jelentenek",
           "scope": "belfold"
         },
         {
-          "text": "A Nemzetközi Automobil Szövetség Forma-1-es bizottsága elfogadta, hogy jövőre 305 kilométerről 290 kilométerre csökken a világbajnoki futamok minimális versenytávja.",
+          "text": "Bő kétévnyi szünet után visszatér a versenyzéshez Tatjana Smith kétszeres olimpiai bajnok dél-afrikai úszó.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/09/22/forma-1-rovidebbek-lesznek-a-futamok-a-jovo-evtol-es-mas-valtozasok-is-lesznek",
+          "link": "https://infostart.hu/sport/2026/09/23/hihetetlen-visszater-egy-ketszeres-olimpiai-bajnok-uszo-a-versenyzeshez",
           "scope": "kulfold"
         },
         {
-          "text": "Szabados Gábor sportközgazdász szerint a sportfinanszírozás átláthatóbbá tétele csökkentheti a politikai kapcsolatok jelentőségét a magyar sportban.",
+          "text": "Zinedine Zidane több újoncot is meghívott a francia válogatott keretébe, és új szövetségi kapitányként a törökök ellen mutatkozik be.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/09/22/sportkozgazdasz-politikusokra-nem-is-lesz-szukseg-tiszta-viszonyok-teremtodnek-a-sportfinanszirozas-teljes-atalakitasaval",
-          "scope": "belfold"
+          "link": "https://infostart.hu/sport/2026/09/23/zinedine-zidane-a-jovot-epiti-a-francia-valogatottnal",
+          "scope": "kulfold"
         },
         {
-          "text": "Az új kormányzati szabályozás 2027-ben négy nemzetközi sporteseményt, köztük világbajnokságokat érinthet a szervezésüket illetően.",
+          "text": "Rövidebbek lesznek a Forma-1-es futamok a jövő évtől, ráadásul több sprintet is a versenynaptárba tettek.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/09/22/a-nemzetkozi-sportesemenyek-szervezesen-is-valtoztat-a-kormany",
-          "scope": "belfold"
+          "link": "https://infostart.hu/sport/2026/09/23/weber-gabor-a-forma-1-fabol-vaskarika-trukkjerol-a-monacoi-sprintrol-es-a-nelson-piquet-interjurol-is-beszelt",
+          "scope": "kulfold"
         },
         {
-          "text": "Angol bíró, David Coote vezeti a magyar–ukrán Nemzetek Ligája-mérkőzést.",
+          "text": "A Veszprém habkönnyű győzelemmel hangolt a kézilabda-klub-világbajnokság nyitányán.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/magyar-valogatott/2026/09/angol-biro-vezeti-a-magyar-ukran-nl-meccset-hivatalos",
+          "link": "https://www.nemzetisport.hu/kezilabda/2026/09/habkonnyu-gyozelemmel-hangolt-a-veszprem-a-klub-vb-nyitanyan",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-09-23T09:52:17.464Z",
+      "updatedAt": "2026-09-24T19:00:13.548Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/09/23/jurgen-klopp-ismet-meglepte-a-futballvilagot"
+          "link": "https://infostart.hu/sport/2026/09/24/marco-rossi-a-hianyzok-lehetoseget-is-jelentenek"
         },
         {
           "name": "Nemzeti Sport",
@@ -113,34 +119,34 @@
     "technologia": {
       "items": [
         {
-          "text": "A Muse újabb lehetőséget ad Zuckerbergnek egy platform felépítésére.",
+          "text": "Európai szakemberek javaslata szerint a mesterséges intelligencia miatti pánik helyett a kiberbiztonságra kellene fókuszálni.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166864/a-muse-ujabb-lehetoseget-ad-zuckerbergnek-egy-platform-felepitesere",
+          "link": "https://sg.hu/cikkek/it-tech/166881/europai-szakemberek-szerint-az-mi-panik-helyett-a-kiberbiztonsagra-kell-figyelni",
           "scope": "kulfold"
         },
         {
-          "text": "A Toyota humanoid robotok betanítására kötelezte dolgozóit.",
+          "text": "A Meta három új, mesterséges intelligenciával felszerelt okosszemüveget mutatott be.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/auto/166865/a-toyota-humanoid-robotok-betanitasara-kotelezte-dolgozoit",
+          "link": "https://sg.hu/cikkek/it-tech/166877/a-meta-harom-uj-mi-vel-felszerelt-okosszemuveget-mutatott-be",
           "scope": "kulfold"
         },
         {
-          "text": "Finnország nemzetközi intézményt hozna létre az MI felügyeletére.",
+          "text": "Az Xbox platform az idők során jelentősen átalakult korábbi önmagához képest.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166844/finnorszag-nemzetkozi-intezmenyt-hozna-letre-az-mi-felugyeletere",
+          "link": "https://sg.hu/cikkek/jatek/166879/az-xbox-mar-alig-hasonlit-egykori-onmagara",
           "scope": "kulfold"
         },
         {
-          "text": "A Mastercard olyan MI-botokat vezet be, amelyek helyettünk vásárolhatnak.",
+          "text": "A YouTube személyre szabható hírfolyamokat és új mesterséges intelligencia funkciókat ígér bevezetésre.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166852/a-mastercard-olyan-mi-botokat-vezet-be-amelyek-helyettunk-vasarolhatnak",
+          "link": "https://sg.hu/cikkek/film/166878/a-youtube-szemelyre-szabhato-hirfolyamokat-es-uj-mi-funkciokat-iger",
           "scope": "kulfold"
         },
         {
-          "text": "Ehető akkumulátor teheti biztonságosabbá a testbe juttatható elektronikai eszközöket.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/tudomany/166863/eheto-akkumulator-teheti-biztonsagosabba-a-testbe-juttathato-elektronikai-eszkoz",
-          "scope": "kulfold"
+          "text": "Magyar kutatók a bélrendszerben élő, baktériumokra specializálódott vírusok lehetséges szerepét vizsgálták súlyos vastagbélgyulladás leküzdésében.",
+          "source": "Infostart Tudomány",
+          "link": "https://infostart.hu/tudomany/2026/09/24/uj-gyogymodot-jelenthetnek-a-sulyos-fertozesekre-a-belben-elo-bakteriofagok-egy-magyar-kutatas-szerint",
+          "scope": "belfold"
         },
         {
           "text": "Több vezető technológiai cég irányítója sürgeti a mesterséges intelligencia fejlesztésének lassítását.",
@@ -150,15 +156,15 @@
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-09-23T09:52:31.293Z",
+      "updatedAt": "2026-09-24T19:00:30.328Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/166864/a-muse-ujabb-lehetoseget-ad-zuckerbergnek-egy-platform-felepitesere"
+          "link": "https://sg.hu/cikkek/it-tech/166881/europai-szakemberek-szerint-az-mi-panik-helyett-a-kiberbiztonsagra-kell-figyelni"
         },
         {
           "name": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/09/23/csokkenni-kezdett-a-bizalom-az-ai-ban-egy-uj-irany-a-cegeknek-es-a-felhasznaloknak-is-jot-tenne"
+          "link": "https://infostart.hu/tudomany/2026/09/24/megbuheraltak-egy-enzimet-a-kutatok-turbot-kapott-a-mukodese"
         }
       ],
       "skipped": []
@@ -166,40 +172,46 @@
     "gazdasag": {
       "items": [
         {
-          "text": "Tisza-kormány: apad a Tisza a Medián szerint, Magyar Péter a mentelmi joga felfüggesztését kérte.",
+          "text": "Az UniCredit és a Crédit Agricole fontolóra vette a Banco BPM közös felvásárlását annak feldarabolásával.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20260923/tisza-kormany-apad-a-tisza-a-median-szerint-magyar-peter-a-mentelmi-joga-felfuggeszteset-kerte-864608",
+          "link": "https://www.portfolio.hu/bank/20260924/franciak-bevonasaval-venne-meg-versenytarsat-az-unicredit-865098",
           "scope": "kulfold"
         },
         {
-          "text": "Kedden Magyar Péter maga kérte az Országgyűléstől mentelmi joga felfüggesztését, miután az ügyészség az ő, valamint Seszták Miklós és Hankó Balázs mentelmi jogának felfüggesztését",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20260923/tisza-kormany-apad-a-tisza-a-median-szerint-magyar-peter-a-mentelmi-joga-felfuggeszteset-kerte-864608",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Nem változtatott az 5,50 százalékos alapkamaton a Magyar Nemzeti Bank (MNB) Monetáris Tanácsa keddi ülésén – jelentette be a jegybank.",
+          "text": "Az MNB véleménye szerint a dohánytermékek jövedéki adójának emelése érezhetően felfelé hajtja majd az inflációt.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/09/22/megszuletett-a-dontes-nem-valtozott-az-alapkamat-merteke",
-          "scope": "kulfold"
+          "link": "https://infostart.hu/gazdasag/2026/09/24/mnb-ilyen-hatasa-lesz-a-tisza-kormany-adoemelesenek",
+          "scope": "belfold"
         },
         {
-          "text": "Nem várható a jegybanki alapkamat további csökkentése a közeli jövőben, de elképzelhető, hogy a Magyar Nemzeti Bank 2,5 százalékra csökkenti az inflációs várakozását a korábbi 3 százalékkal szemben – vélekedett még a keddi kamatdöntés előtt Madár István, a Portfolio vezető elemzője az InfoRádió kérdésére.",
+          "text": "A magyar élelmiszer-előállítókat és forgalmazókat képviselő szakmai érdekképviseletek az árrésstop azonnali kivezetését sürgetik.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/09/22/madar-istvan-rovid-tavon-nem-varhato-az-alapkamat-tovabbi-csokkentese",
-          "scope": "kulfold"
+          "link": "https://infostart.hu/gazdasag/2026/09/24/neubauer-agnes-az-arresstop-mar-a-vasarlok-igenyeinek-is-gatat-szab",
+          "scope": "belfold"
+        },
+        {
+          "text": "A magyar mezőgazdaság tragikus helyzetben van a gazdaszövetkezetek szerint, az ország már kukoricából is importra szorul.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/09/22/gazdaszovetkezetek-tragikus-helyzetben-a-magyar-mezogazdasag",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Magyar Nemzeti Bank felülvizsgálta monetáris politikai keretrendszerét, és 2,5 százalékra csökkenti az inflációs célját.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/09/22/varga-mihaly-bejelentese-25-szazalekra-csokken-a-jegybank-inflacios-celja-de-meg-nem-most",
+          "scope": "belfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-09-23T09:52:32.377Z",
+      "engine": "gemini",
+      "updatedAt": "2026-09-24T19:00:51.912Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20260923/kulonos-jatszma-bontakozik-ki-az-olajpiacon-de-vajon-ki-nevet-a-vegen-864692"
+          "link": "https://www.portfolio.hu/bank/20260924/franciak-bevonasaval-venne-meg-versenytarsat-az-unicredit-865098"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/09/22/gazdaszovetkezetek-tragikus-helyzetben-a-magyar-mezogazdasag"
+          "link": "https://infostart.hu/gazdasag/2026/09/24/mnb-ilyen-hatasa-lesz-a-tisza-kormany-adoemelesenek"
         }
       ],
       "skipped": []
@@ -213,20 +225,20 @@
           "scope": "kulfold"
         },
         {
-          "text": "2011 óta először végezték el a nyílt romaellenes attitűdök felmérését: a reprezentatív kutatás szerint a magyarok 42 százaléka elfogadhatónak tartja, ha egy szórakozóhely nem enged be romákat, és már minden ötödik magyar támogatja az iskolai szegregációt.",
+          "text": "Több száz vérminta vizsgálata jó eredményeket mutatott bizonyos ráktípusok előrejelzése esetében.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/09/23/enyhult-a-nyilt-romaellenesseg-magyarorszagon-de-a-kirekesztes-meg-mindig-norma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/09/24/a-dns-ben-beallo-valtozasok-nagyon-koran-jelezhetik-a-rak-kialakulasat-es-ezt-egy-sima-verminta-is-megmutatja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Japán farmakológusok azt vizsgálták, hogyan hat a frissen főzött kávé illatának rövid ideig tartó belélegzése az alanyok hangulatára, agyi aktivitására és szívritmusára.",
+          "text": "Az EU-ban először Magyarországon jelent meg a pöttyös lámpahordó-kabóca, és ez nem sok jót jelent.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/09/22/ujabb-kiserlet-bizonyitja-a-kave-aromajanak-pozitiv-elettani-es-pszichologiai-hatasait?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/09/24/az-eu-ban-eloszor-magyarorszagon-jelent-meg-a-pottyos-lampahordo-kaboca-es-ez-nem-sok-jo-jelent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         }
       ],
       "engine": "extractive",
-      "updatedAt": "2026-09-23T09:52:32.879Z",
+      "updatedAt": "2026-09-24T19:01:07.786Z",
       "sourceLinks": [
         {
           "name": "Greenfo",
@@ -234,7 +246,7 @@
         },
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/09/23/eheto-akkumulatorok-segithetik-az-emberi-szervezetbe-beultetett-orvosi-eszkozok-mukodeset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/09/24/a-dns-ben-beallo-valtozasok-nagyon-koran-jelezhetik-a-rak-kialakulasat-es-ezt-egy-sima-verminta-is-megmutatja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": []
@@ -242,44 +254,43 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "RendkívüliRendkívüli döntés az uniós pénzekről: Ursula von der Leyen bejelentést tett Magyarországról, Magyar Péter pezsgőt bonthat – 4,2 milliárd eurót utal Brüsszel, egy lépés maradt hátra.",
+          "text": "Kezd elfajulni a helyzet a Balkánon: egymásnak üzenget Vucic és Plenkovic, miután szerb államfő lenácizta Horvátországot.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/09/unios-penzek-ursula-von-der-leyen-magyar-peter-brusszel",
+          "link": "https://www.vg.hu/kozelet/2026/09/plenkovic-vucic-horvat-szerb-ellentet-ensz-kozgyules",
           "scope": "kulfold"
         },
         {
-          "text": "Rendkívüli döntés az uniós pénzekről: Ursula von der Leyen bejelentést tett Magyarországról, Magyar Péter pezsgőt bonthat – 4,2 milliárd eurót utal Brüsszel, egy lépés maradt hátra.",
+          "text": "Aki hozzászokott a forinterősödés híreihez, annak volt ideje lemondani róluk: ritkán látni olyat szabadon lebegő devizaárfolyamnál, amit a forint grafikonja rajzol ki immár több mint két hónapja..",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/09/unios-penzek-ursula-von-der-leyen-magyar-peter-brusszel",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/09/forint-arfolyama-eurobevezetes-karman",
           "scope": "kulfold"
         },
         {
-          "text": "Az Európai Bizottság 4,2 milliárd eurónyi uniós forrás felszabadítását javasolja Magyarország számára.",
+          "text": "Párhuzamba állította 1956-ot és Ukrajna honvédő harcát Baka András az ENSZ-közgyűlésen.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/az-europai-bizottsag-42-milliard-euronyi-unios-forras-felszabaditasat-javasolja-magyarorszag-szamara.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/kozerdeku/parhuzamba-allitotta-1956-ot-es-ukrajna-honvedo-harcat-baka-andras-az-ensz-kozgyulesen.html?utm_source=rss&utm_medium=referral",
           "scope": "kulfold"
         },
         {
-          "text": "„Magyarország sem tud kimaradni” – Tarjányi Péter a biztonságpolitikai veszélyekről.",
+          "text": "Keményen üzent az akkumulátorgyáraknak Gajdos László, külön igazgatóságot ígért.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kulpolitika/magyarorszag-sem-tud-kimaradni--tarjanyi-peter-a-biztonsagpolitikai-veszelyekrol.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/makro/kemenyen-uzent-az-akkumulatorgyaraknak-gajdos-laszlo-kulon-igazgatosagot-igert.html?utm_source=rss&utm_medium=referral",
           "scope": "kulfold"
         }
       ],
       "engine": "extractive",
-      "updatedAt": "2026-09-23T09:52:33.496Z",
+      "updatedAt": "2026-09-24T19:01:08.574Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/09/unios-penzek-ursula-von-der-leyen-magyar-peter-brusszel"
+          "link": "https://www.vg.hu/reszvenyek"
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/az-europai-bizottsag-42-milliard-euronyi-unios-forras-felszabaditasat-javasolja-magyarorszag-szamara.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/kulpolitika/nato-elnok-vlagyimir-putyin-nem-fogja-megnyerni-az-ukrajnai-haborut.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-09-24T18:56:41.087Z"
+  }
 }
