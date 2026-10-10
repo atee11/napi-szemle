@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T11:04:49.404Z",
+  "generatedAt": "2026-10-10T19:15:11.092Z",
   "fx": {
     "rate": 364.81,
     "date": "2026-10-09T20:59:58.000Z",
@@ -9,46 +9,46 @@
     "politika": {
       "items": [
         {
-          "text": "Az államszocializmusban a sport az állami propaganda és a honvédelem céljait is szolgálta.",
+          "text": "Nyomozás indult Rákay Philip 1,4 milliárdos földüzlete miatt.",
           "source": "24.hu",
-          "link": "https://24.hu/sport/2026/10/10/sport-az-allamszocializmusban/",
+          "link": "https://24.hu/belfold/2026/10/10/a-nap-legfontosabb-hirei-2026-10-10/",
           "scope": "belfold"
         },
         {
-          "text": "Az oktatási minisztérium tízpontos javaslatcsomagot készített elő az SNI-s gyerekek fejlesztésére.",
-          "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/10/10/javaslatcsomag-lannert-judit-oktatasi-miniszterium-sni-gyerekek/",
+          "text": "A Vidéki prókátor elemezte Orbán Viktor egyik márciusi interjúját, amelyet még kormányfőként adott az ukrán aranykonvoj elfogása után.",
+          "source": "HVG",
+          "link": "https://hvg.hu/itthon/20261010_videki-prokator-orban-viktor-interju",
           "scope": "belfold"
         },
         {
-          "text": "Legalább 11 civil, köztük gyerekek haltak meg Zaporizzsja orosz bombázásában.",
-          "source": "24.hu",
-          "link": "https://24.hu/kulfold/2026/10/10/11-halott-zaporizzsja-orosz-bombatamadas/",
+          "text": "A zuglói polgármester feljelenti Tóth Gabit egy Molnár Áron videója miatt.",
+          "source": "HVG",
+          "link": "https://hvg.hu/elet/20261010_toth-gabi-rozsa-andras-zuglo-hanko-feljelentes",
+          "scope": "belfold"
+        },
+        {
+          "text": "Németországban lebukott egy egykori terrorelhárító szaktekintély, aki kétezer titkos dokumentumot adhatott el Kínának és Azerbajdzsánnak.",
+          "source": "HVG",
+          "link": "https://hvg.hu/360/20261010_nemetorszag-kembotrany-august-hanning-bnd-azerbajdzsan-kina",
           "scope": "kulfold"
         },
         {
-          "text": "Választottbíróság adott igazat a Roszatomnak egy törölt finn atomerőművel kapcsolatos jogvitában.",
+          "text": "Donald Trump szerint ideje új elnököt választani Ukrajnának, mert Zelenszkij \"problémákat okoz a világnak\" az orosz finomítók elleni támadásokkal.",
           "source": "HVG",
-          "link": "https://hvg.hu/gazdasag/20261010_a-roszatomnak-adott-igazat-a-torolt-finn-atomeruvel-kapcsolatos-jogvitaban-a-valasztottbirosag",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Franciaországban konkrét lépésekre van szükség a piaci szereplők megnyugtatásához.",
-          "source": "HVG",
-          "link": "https://hvg.hu/360/20261010_premium-hirlevelek-otp-global-markets-befektetesekrol-alfatol-az-omegaig-franciaorszag",
+          "link": "https://hvg.hu/vilag/20261010_egyesult-allamok-ukrajna-donald-trump-volodimir-zelenszkij",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-10T11:04:30.255Z",
+      "updatedAt": "2026-10-10T19:13:54.104Z",
       "sourceLinks": [
         {
           "name": "24.hu",
-          "link": "https://24.hu/kulfold/2026/10/10/ozonvizszeru-eso-del-olaszorszag/"
+          "link": "https://24.hu/belfold/2026/10/10/a-nap-legfontosabb-hirei-2026-10-10/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/sport/20261010_max-verstappen-szingapur-f1-sprintfutam"
+          "link": "https://hvg.hu/itthon/20261010_videki-prokator-orban-viktor-interju"
         }
       ],
       "skipped": [
@@ -58,48 +58,48 @@
     "sport": {
       "items": [
         {
-          "text": "A Liverpool Szoboszlai Dominik Tottenham Hotspur ellen szerzett gólját választotta augusztus és szeptember legszebb góljának.",
+          "text": "A Debrecen Dzsudzsák Balázs 95. percben értékesített tizenegyesével 1-1-es döntetlent ért el a Ferencváros vendégeként az OTP Bank Ligában.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/10/szoboszlai-bombagolja-nyerte-a-versenyt-video",
+          "link": "https://infostart.hu/sport/2026/10/10/dzsudzsak-balazs-miatt-jarta-meg-a-fradi",
           "scope": "belfold"
         },
         {
-          "text": "Cristiano Ronaldo futballpályafutása 980. gólját szerezte, így húsz találat hiányzik neki az ezergólos álomhatárhoz.",
+          "text": "Max Verstappen nyerte a Forma–1-es Szingapúri Nagydíj szombati időmérő edzését és a szombati sprintfutamot is.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/10/ronaldo-meg-kozelebb-kerult-az-alomhatarhoz-es-nem-adja-fel",
+          "link": "https://infostart.hu/sport/2026/10/10/verstappen-verstappen-ketszer-is-az-elen",
           "scope": "kulfold"
         },
         {
-          "text": "Bernd Storck, a magyar labdarúgó-válogatott korábbi szövetségi kapitánya, a török élvonalbeli Genclerbirligi vezetőedzője lett.",
+          "text": "A Liverpool Szoboszlai Dominik Tottenham Hotspur ellen szerzett gólját választotta augusztus és szeptember legszebb találatának.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/10/10/szoboszlai-bombagolja-nyerte-a-versenyt-video",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Bernd Storck, a magyar labdarúgó-válogatott korábbi szövetségi kapitánya, a török Genclerbirligi vezetőedzője lett.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/2026/10/09/torokorszagba-igazolt-a-magyar-labdarugo-valogatott-volt-szovetsegi-kapitanya",
           "scope": "belfold"
         },
         {
-          "text": "Sztrájkol a szerb vízilabda-válogatott, amelynek sztárjátékosai nem hajlandóak visszatérni a keretbe.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/09/vizilabda-botrany-sztrajkol-a-valogatott-az-elnok-tavozasat-kovetelik-szerbiaban",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Halász Bence olimpiai ezüstérmes kalapácsvető a 2032-es brisbane-i olimpiáig tervezi pályafutását, de a 2036-os budapesti olimpiára is felkészülne.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/09/a-budapesti-olimpiarol-is-beszelt-halasz-bence-a-kalapacsvetes-vilagsztarja-az-arenaban",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Győr és az FTC is francia csapattal mérkőzik meg a női kézilabda Bajnokok Ligájában.",
+          "text": "A Paks kétgólosra növelte előnyét az MTK-val szemben, Kinyik Ákos szerezte az első paksi gólt 200. NB I-es bajnokiján.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/kezilabda/2026/10/a-hibatlan-merleg-megorzese-a-tet-a-ket-rangadon-a-noi-kezi-bl-ben",
+          "link": "https://www.nemzetisport.hu/merkozes/20261010-paksi-fc-mtk-budapest/elo",
           "scope": "belfold"
+        },
+        {
+          "text": "Szalai Gábor 30 méterről lőtt gólt a Portónak a portugál bajnokságban.",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/legiosok/2026/10/szalai-gabor-30-meterrol-lott-golt-a-portonak-video",
+          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-10T11:04:43.359Z",
+      "updatedAt": "2026-10-10T19:14:09.174Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/10/szoboszlai-bombagolja-nyerte-a-versenyt-video"
+          "link": "https://infostart.hu/sport/2026/10/10/dzsudzsak-balazs-miatt-jarta-meg-a-fradi"
         },
         {
           "name": "Nemzeti Sport",
@@ -111,9 +111,33 @@
     "technologia": {
       "items": [
         {
+          "text": "Egyre nehezebb feljutni az űrbe a rakétakapacitás szűkössége miatt.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/tudomany/166861/egyre-nehezebb-feljutni-az-urbe-a-raketakapacitas-szukossege-miatt",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Google szöveges utasításokból videojátékokat készítő platformot indít.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/jatek/167001/a-google-szoveges-utasitasokbol-videojatekokat-keszito-platformot-indit",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Tesla átnevezi önvezető rendszerét Európában, hogy megszerezze az uniós engedélyt.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/auto/167002/a-tesla-atnevezi-onvezeto-rendszeret-europaban-hogy-megszerezze-az-unios-engedel",
+          "scope": "kulfold"
+        },
+        {
           "text": "Ukrán drónok csaptak le a Yandex két szuperszámítógépének otthont adó adatközpontra.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/167000/ukran-dronok-csaptak-le-a-yandex-ket-szuperszamitogepenek-otthont-ado-adatkozpon",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Japán chipipari álmokat dédelget, egy év alatt visszatérnének az élvonalba.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/166988/chipipari-almokat-dedelget-japan-egy-ev-alatt-visszaternenek-az-elvonalba",
           "scope": "kulfold"
         },
         {
@@ -121,26 +145,14 @@
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/166999/egy-nemet-keresomotor-a-francia-mistralrol-kinai-mi-modellekre-valt",
           "scope": "kulfold"
-        },
-        {
-          "text": "A belga Francis Halzen részecskefizikus és asztofizikus kapja idén a fizikai Nobel-díjat.",
-          "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/10/06/kun-emma-a-fizikai-nobelrol-uj-ablakot-nyitottak-az-univerzumra",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Francis Halzen részecskefizikus kapja idén a fizikai Nobel-díjat az asztrofizikai eredetű nagy energiájú neutrínók felfedezéséért.",
-          "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/10/06/a-neutrinok-felfedezoje-kapja-iden-a-fizikai-nobelt",
-          "scope": "kulfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-10-10T11:04:47.240Z",
+      "engine": "gemini",
+      "updatedAt": "2026-10-10T19:14:25.416Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/jatek/167001/a-google-szoveges-utasitasokbol-videojatekokat-keszito-platformot-indit"
+          "link": "https://sg.hu/cikkek/tudomany/166861/egyre-nehezebb-feljutni-az-urbe-a-raketakapacitas-szukossege-miatt"
         },
         {
           "name": "Infostart Tudomány",
@@ -152,40 +164,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "Két hosszú távú trend fogja alakítani a pénzügyi szektort az elkövetkező években: az egyik alulról felfelé irányuló, transzformatív technológiai innovációk által hajtott, a másik pedig felülről lefelé irányuló, geoökonómiai hatások által vezérelt.",
+          "text": "A Microsoft vezérigazgatója szerint vészfékrendszert kell kiépíteni az önállóan cselekvő mesterségesintelligencia-modellek kordában tartására.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261010/csak-alom-marad-hogy-a-penzugyek-olcsobba-es-globalizaltabba-valnak-867444",
+          "link": "https://www.portfolio.hu/gazdasag/20261010/a-microsoft-vezere-szerint-veszfek-kell-az-ai-kordaban-tartasara-868906",
           "scope": "kulfold"
         },
         {
-          "text": "Oroszország az elmúlt héten három, a Dnyeperen átívelő hidat is megtámadott sugárhajtású drónokkal – köztük kettőt Kijevben –, amivel új szakaszába lépett a légi háború, hiszen az energetikai létesítmények mellett immár a közlekedési infrastruktúrát is rendszeresen célozza a közelgő tél előtt - számolt be a Financial Times.",
+          "text": "Oroszország részben feloldotta a dízelexportra vonatkozó tilalmat egy Putyin és Trump közötti megállapodás után.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20261010/celba-vettek-az-ukran-fovaros-hidjait-veszelyes-uj-dronokat-vetett-be-oroszorszag-868858",
+          "link": "https://www.portfolio.hu/gazdasag/20261010/mehet-az-orosz-nafta-feloldottak-az-exporttilalmat-putyin-es-trump-alkuja-utan-868904",
           "scope": "kulfold"
         },
         {
-          "text": "Kapitány István magyar unikornisokat szeretne látni, csakhogy az egymilliárd dolláros cégekhez előbb jóval több fiatal vállalkozásnak kellene gyors növekedési pályára állnia.",
+          "text": "Az MNB elnöke szerint az euró bevezetése Magyarország javára válhat, de a csatlakozás időpontjánál fontosabb a magyar gazdaság megfelelő felkészülése.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/08/unikornisokat-akarnak-de-gazellak-sincsenek",
-          "scope": "kulfold"
+          "link": "https://infostart.hu/gazdasag/2026/10/10/megszolalt-varga-mihaly-az-euro-bevezeteserol",
+          "scope": "belfold"
         },
         {
-          "text": "Magyarországon a 4-5 éves, gyorsan növekvő „gazellák” aránya mindössze 0,4 százalék, ami az egyik legalacsonyabb érték az Európai Unióban.",
+          "text": "Egy Billingo kutatásból kiderül, hogy a vállalkozók fele valószínűleg vagy biztosan az új KATA szerinti adózást használná jövő év elejétől.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/08/unikornisokat-akarnak-de-gazellak-sincsenek",
+          "link": "https://infostart.hu/gazdasag/2026/10/10/meglepo-felmeres-kiderult-mennyi-vallalkozo-valtana-az-uj-kata-szerinti-adozasra",
+          "scope": "belfold"
+        },
+        {
+          "text": "Az IMF álláspontja szerint átfogó reformcsomagra van szükség a költségvetési kiigazítás és a termelékenység javítása érdekében.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/10/08/hangsulyos-ohaja-van-az-imf-nek-a-magyar-kormanytol-nem-is-egy",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Revolut tévedésből sztornózta a tranzakciókat és visszaküldte a pénzt rengeteg felhasználónak.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/10/08/megkergult-a-revolut-rengetegen-kaptak-vissza-a-penzuket-tevesen",
           "scope": "kulfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-10-10T11:04:47.782Z",
+      "engine": "gemini",
+      "updatedAt": "2026-10-10T19:14:43.806Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261010/csak-alom-marad-hogy-a-penzugyek-olcsobba-es-globalizaltabba-valnak-867444"
+          "link": "https://www.portfolio.hu/gazdasag/20261010/a-microsoft-vezere-szerint-veszfek-kell-az-ai-kordaban-tartasara-868906"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/10/meglepo-felmeres-kiderult-mennyi-vallalkozo-valtana-az-uj-kata-szerinti-adozasra"
+          "link": "https://infostart.hu/gazdasag/2026/10/10/a-vezetovaltas-ara-a-stabilitasnak-is-van-rejtett-hozama"
         }
       ],
       "skipped": []
@@ -193,67 +217,65 @@
     "kornyezet": {
       "items": [
         {
-          "text": "Zöld hét – Hírháttér podcast.",
-          "source": "Greenfo",
-          "link": "https://greenfo.hu/hirek/podcastok/zold-het/",
+          "text": "Az óceánok növekvő hőmérséklete és az egyre extrémebb El Niño események azzal fenyegetnek, hogy a Nagy-korallzátony egyes részein moszatok veszik át az uralmat.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/10/09/dramai-valtozasokat-okozhat-a-rekorddonto-el-nino-a-nagy-korallzatonyon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Bródy János, Lovasi András, Falusi Mariann és Tóth Vera is aláírták azt a nyilatkozatot, ami az AI káros kulturális hatásaira hívja fel a figyelmet és törvényi fellépést kér a magyar kultúra védelmében.",
+          "text": "Napokon belül eltűnhet Szlovénia egyik utolsó gleccsere, a Triglav-gleccser, amely a 20. század közepén még 14 hektáros volt.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/10/09/hires-magyar-zeneszek-surgetik-a-generativ-ai-elleni-fellepest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/10/09/napokon-belul-eltunhet-szlovenia-egyik-utolso-gleccsere?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Óriásit fejlődött elődjéhez képest a francia Mistral új modellje, amelynek olyan terepen kell helytállnia, ahol egyszer már a Meta is elbukott.",
+          "text": "A NASA marsjárója, a Curiosity, rejtélyes sziklaszirteket világít meg felvételén, melyek egy ősi vulkánkitörés nyomait őrizhetik.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/10/09/megerkezett-a-le-chonk-vagyis-a-dagi-az-eu-legjobb-ai-modellje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/10/09/rejtelyes-sziklaszirteket-vilagit-meg-a-reggeli-napfeny-a-curiosity-kaprazatos-felvetelen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-10-10T11:04:48.730Z",
+      "engine": "gemini",
+      "updatedAt": "2026-10-10T19:15:03.883Z",
       "sourceLinks": [
-        {
-          "name": "Greenfo",
-          "link": "https://greenfo.hu/hirlevel-feliratkozas/"
-        },
         {
           "name": "Qubit",
           "link": "https://qubit.hu/2026/10/10/az-openai-lecsuszott-a-dobogorol-a-meta-cuki-agensekkel-harcolna-az-ai-apokalipszis-ellen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
-      "skipped": []
+      "skipped": [
+        "Greenfo"
+      ]
     },
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Nukleáris nagyhatalommá válik Szlovákia, a franciákat is lenyomják: Fico teljes kontrollt szerzett az új atomerőmű felett – Magyarország számára sem mindegy, mi épül északon.",
+          "text": "A szakértők komolyan aggódnak amiatt, hogy a Tesla önvezető autói betörhetnek-e az európai piacra, hiába lobbizik Elon Musk.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/regio/2026/10/atomeromu-szlovakia-fico-magyarorszag-cez-energia",
+          "link": "https://www.vg.hu/vilaggazdasag/2026/10/tesla-onvezeto-auto-europai-piac-a-szakertok-aggodnak",
           "scope": "kulfold"
         },
         {
-          "text": "Itt a vagyonadó: a családtagok nevére írt javak sem maradnak ki – már az első fizetési határidőt is megjelölték.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/vagyonado-karman-andras-adonem",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Közel 200 millió forintból biztosítják az NVVH vezetőinek védelmét.",
+          "text": "A budapesti hotelek már lepipálják Bécset is a régióban.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozelet/kozel-200-millio-forintbol-biztositjak-az-nvvh-vezetoinek-vedelmet.html?utm_source=rss&utm_medium=referral",
-          "scope": "kulfold"
+          "link": "https://mfor.hu/cikkek/makro/szokatlan-de-van-amiben-budapest-hatat-nezi-az-egesz-regio.html?utm_source=rss&utm_medium=referral",
+          "scope": "belfold"
         },
         {
-          "text": "Kármán András: „Egy igazságos társadalomban a vagyonosabbak a közteherviselésből is nagyobb részt vállalnak”.",
+          "text": "A szállásadók különleges kéréssel fordultak a kormányhoz.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/karman-andras-egy-igazsagos-tarsadalomban-a-vagyonosabbak-a-kozteherviselesbol-is-nagyobb-reszt-vallalnak-.html?utm_source=rss&utm_medium=referral",
-          "scope": "kulfold"
+          "link": "https://mfor.hu/cikkek/turizmus/ezert-fordultak-a-szallasadok-a-kormanyhoz.html?utm_source=rss&utm_medium=referral",
+          "scope": "belfold"
+        },
+        {
+          "text": "Varga Mihály az euró bevezetésének kockázatairól beszélt egy Fidesz-közeli rendezvényen.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/kozelet/varga-mihaly-az-euro-bevezetesenek-kockazatairol-beszelt.html?utm_source=rss&utm_medium=referral",
+          "scope": "belfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-10-10T11:04:49.308Z",
+      "engine": "gemini",
+      "updatedAt": "2026-10-10T19:15:11.026Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -261,11 +283,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/szemelyes_penzugyek/az-otp-cafolja-a-revolut-allitasait.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/makro/szokatlan-de-van-amiben-budapest-hatat-nezi-az-egesz-regio.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-10-10T15:09:40.593Z"
+  }
 }
