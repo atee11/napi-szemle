@@ -1,111 +1,96 @@
 {
-  "generatedAt": "2026-10-11T11:22:24.212Z",
+  "generatedAt": "2026-10-12T22:29:24.830Z",
   "fx": {
-    "rate": 364.676,
-    "date": "2026-10-12T18:58:13.000Z",
+    "rate": 364.45,
+    "date": "2026-10-12T22:24:25.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "Merényletet tervezhettek Donald Tusk ellen, amire rendkívüli tanácskozást hívtak össze Lengyelországban.",
-          "source": "HVG",
-          "link": "https://hvg.hu/vilag/20261011_donald-tusk-merenyletterv-lengyelorszag-rendkivuli-tanacskozas",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A lengyel rendőrség értesült egy Wladyslaw Kosiniak-Kamysz védelmi miniszter elleni merénylettervről is.",
-          "source": "HVG",
-          "link": "https://hvg.hu/vilag/20261011_donald-tusk-merenyletterv-lengyelorszag-rendkivuli-tanacskozas",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Donald Tusk fenyegetést kapott, a titkosszolgálat azóta új szintre kapcsolt.",
+          "text": "A Tisza alelnöke, Hallerné Nagy Anikó a Fideszt és a Mi Hazánkot kérdezte az AFD Nagy-Németország térképéről.",
           "source": "24.hu",
-          "link": "https://24.hu/kulfold/2026/10/11/donald-tusk-lengyel-miniszterelnok-fenyegetes/",
-          "scope": "kulfold"
+          "link": "https://24.hu/belfold/2026/10/12/sopron-magyarorszag-tisza-afd/",
+          "scope": "belfold"
         },
         {
-          "text": "XIV. Leó pápa közölte, hogy csomót találtak a tüdejében, és hamarosan megműtik.",
-          "source": "HVG",
-          "link": "https://hvg.hu/vilag/20261011_xiv-leo-papa-tudocsomo-mutet",
-          "scope": "kulfold"
+          "text": "Az Országgyűlés újratárgyalta a köztársasági elnök által visszaküldött egészségügyi kamarai törvényt.",
+          "source": "24.hu",
+          "link": "https://24.hu/belfold/2026/10/12/egeszsegugyi-kamarai-torveny-ujratargyalas/",
+          "scope": "belfold"
         },
         {
-          "text": "Az Európai Unió másfél évtizednyi ajánlott célkitűzés után kötelező csökkentést írt elő 2030-ra az élelmiszer-pazarlás ellen.",
-          "source": "HVG",
-          "link": "https://hvg.hu/eurologus/20261011_elemiszermentes-segely-szocialis-ellatas-pulse-eu",
-          "scope": "kulfold"
+          "text": "A bizottság több észrevételt elfogadott, de az államfő egyik kifogását nem építette be a módosításba.",
+          "source": "24.hu",
+          "link": "https://24.hu/belfold/2026/10/12/egeszsegugyi-kamarai-torveny-ujratargyalas/",
+          "scope": "belfold"
         },
         {
-          "text": "Magyarországon fejenként évente több mint húsz kilogramm még elfogyasztható étel kerül a háztartási hulladékba.",
-          "source": "HVG",
-          "link": "https://hvg.hu/eurologus/20261011_elemiszermentes-segely-szocialis-ellatas-pulse-eu",
+          "text": "Hókotróként és darus kocsiként is működő járművekkel bővült a Magyar Közút flottája.",
+          "source": "24.hu",
+          "link": "https://24.hu/belfold/2026/10/12/vitezy-david-magyar-kozut-munkagep/",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-11T11:21:12.859Z",
+      "updatedAt": "2026-10-12T22:28:17.224Z",
       "sourceLinks": [
         {
           "name": "24.hu",
-          "link": "https://24.hu/sport/2026/10/11/floyd-schofield-okolvivas-hajlektalan-vilagbajnoki-cim/"
-        },
-        {
-          "name": "HVG",
-          "link": "https://hvg.hu/vilag/20261011_xiv-leo-papa-tudocsomo-mutet"
+          "link": "https://24.hu/sport/foci/2026/10/12/nb2-bvsc-soroksar-elso-vereseg/"
         }
       ],
       "skipped": [
-        "Telex"
+        "Telex",
+        "HVG"
       ]
     },
     "sport": {
       "items": [
         {
-          "text": "A Debrecen Dzsudzsák Balázs tizenegyesével 1-1-es döntetlent játszott a Ferencvárossal az OTP Bank Liga kilencedik fordulójában.",
+          "text": "Az MLSZ szerint Szoboszlai Dominik sérülés nélkül tért vissza klubcsapatához komoly terhelést követően.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/10/dzsudzsak-balazs-miatt-jarta-meg-a-fradi",
+          "link": "https://infostart.hu/sport/2026/10/12/az-mlsz-is-megszolalt-szoboszlai-dominikrol-meg-nem-tudni-mi-lesz-a-sorsa",
           "scope": "belfold"
         },
         {
-          "text": "Max Verstappen nyerte a Forma–1-es Szingapúri Nagydíj időmérő edzését és a szombati sprintfutamot is.",
+          "text": "A Liverpool Szoboszlai Dominik nélkül és Kerkez Milossal a kezdőben 3-0-ra kikapott a Manchester Citytől az angol labdarúgó-bajnokságban.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/10/verstappen-verstappen-ketszer-is-az-elen",
+          "link": "https://infostart.hu/sport/2026/10/11/nincs-szoboszlai-nincs-gol-nagy-verest-kapott-a-liverpool",
           "scope": "kulfold"
         },
         {
-          "text": "A Liverpool Szoboszlai Dominik Tottenham Hotspur ellen szerzett gólját választotta augusztus és szeptember legszebb találatának.",
+          "text": "Max Verstappen, a Red Bull holland versenyzője nyerte a vasárnapi Forma-1-es Szingapúri Nagydíjat.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/10/szoboszlai-bombagolja-nyerte-a-versenyt-video",
+          "link": "https://infostart.hu/sport/2026/10/11/jubileumi-holland-orom",
           "scope": "kulfold"
         },
         {
-          "text": "Cristiano Ronaldo megszerezte pályafutása 980. gólját, ezzel húsz találatra van az ezergólos álomhatár elérésétől.",
+          "text": "Szoboszlai Dominik sérülés miatt kihagyta a Manchester City elleni rangadót.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/10/ronaldo-meg-kozelebb-kerult-az-alomhatarhoz-es-nem-adja-fel",
-          "scope": "kulfold"
+          "link": "https://infostart.hu/sport/2026/10/11/szoboszlai-kihagyja-a-mai-rangdot-serules-all-a-hatterben",
+          "scope": "belfold"
         },
         {
-          "text": "Bernd Storck, a magyar labdarúgó-válogatott korábbi szövetségi kapitánya, a török Genclerbirligi vezetőedzője lett.",
+          "text": "A Magyar Úszó Szövetség szakmai alelnöke szerint Kós Hubert akár két váltóban is folytathatja sikersorozatát.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/09/torokorszagba-igazolt-a-magyar-labdarugo-valogatott-volt-szovetsegi-kapitanya",
-          "scope": "kulfold"
+          "link": "https://infostart.hu/sport/2026/10/11/az-uszoszovetsegben-mar-nem-is-egy-hanem-ket-vilagvero-ferfivaltorol-almodnak-a-terv-is-kesz",
+          "scope": "belfold"
         },
         {
-          "text": "Vásárhelyi Máté megvédte a címét a Budapest Maratonon.",
+          "text": "Mindkét magyar férfipáros túljutott az asztalitenisz egyéni Európa-bajnokság selejtezőjén.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/atletika/2026/10/vasarhelyi-mate-megvedte-a-cimet-a-budapest-maratonon",
+          "link": "https://www.nemzetisport.hu/egyeb-egyeni/2026/10/asztalitenisz-egyeni-eb-mindket-ferfiparosunk-tuljutott-a-selejtezon",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-11T11:21:26.115Z",
+      "updatedAt": "2026-10-12T22:28:30.333Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/10/dzsudzsak-balazs-miatt-jarta-meg-a-fradi"
+          "link": "https://infostart.hu/sport/2026/10/12/az-mlsz-is-megszolalt-szoboszlai-dominikrol-meg-nem-tudni-mi-lesz-a-sorsa"
         },
         {
           "name": "Nemzeti Sport",
@@ -117,52 +102,52 @@
     "technologia": {
       "items": [
         {
-          "text": "Történelmi visszaesés sújtja a személyi számítógépek piacát.",
+          "text": "A londoni taxisok a robotaxik leállítását követelik.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167005/tortenelmi-visszaeses-sujtja-a-pc-piacot",
+          "link": "https://sg.hu/cikkek/auto/167034/a-robotaxik-leallitasat-kovetelik-a-londoni-taxisok",
           "scope": "kulfold"
         },
         {
-          "text": "Hatalmas növekedés vár a tokenköltségeket csökkentő mesterséges intelligencia piacterekre.",
+          "text": "Az IMF szerint a mesterséges intelligencia előnyeinek kihasználásához át kell alakítani a munkahelyeket és az oktatást.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167006/hatalmas-novekedes-var-a-tokenkoltsegeket-csokkento-mi-piacterekre",
+          "link": "https://sg.hu/cikkek/it-tech/167031/az-imf-szerint-az-mi-elonyeinek-kihasznalasahoz-at-kell-alakitani-a-munkahelyeke",
           "scope": "kulfold"
         },
         {
-          "text": "A rakétakapacitás szűkössége miatt egyre nehezebb feljutni az űrbe.",
+          "text": "Történelmi mélypontra zuhantak az Xbox és a PS5 konzolok eladásai.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/tudomany/166861/egyre-nehezebb-feljutni-az-urbe-a-raketakapacitas-szukossege-miatt",
+          "link": "https://sg.hu/cikkek/jatek/167017/tortenelmi-melypontra-zuhantak-az-xbox-es-a-ps5-eladasai",
           "scope": "kulfold"
         },
         {
-          "text": "A Google új platformot indít, amely szöveges utasításokból képes videojátékokat generálni.",
+          "text": "A mesterséges intelligencia rengeteg kódot állít elő, de nem készül több szoftver.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/jatek/167001/a-google-szoveges-utasitasokbol-videojatekokat-keszito-platformot-indit",
+          "link": "https://sg.hu/cikkek/it-tech/167021/az-mi-rengeteg-kodot-allit-elo-de-nem-keszul-tobb-szoftver",
           "scope": "kulfold"
         },
         {
-          "text": "A Tesla átnevezi önvezető rendszerét Európában az uniós engedély megszerzése érdekében.",
+          "text": "Novembertől nem használhatják a közösségi médiát a 15 év alatti gyermekek Törökországban.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/auto/167002/a-tesla-atnevezi-onvezeto-rendszeret-europaban-hogy-megszerezze-az-unios-engedel",
+          "link": "https://sg.hu/cikkek/it-tech/167019/novembertol-nem-hasznalhatjak-a-kozossegi-mediat-a-15-ev-alatti-gyermekek-toroko",
           "scope": "kulfold"
         },
         {
-          "text": "Ukrán drónok támadtak meg egy adatközpontot, amely a Yandex két szuperszámítógépének ad otthont.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167000/ukran-dronok-csaptak-le-a-yandex-ket-szuperszamitogepenek-otthont-ado-adatkozpon",
+          "text": "Két per indult az OpenAI ellen annak megállapítására, ki a felelős az „elszabadult” AI-botokért.",
+          "source": "Infostart Tudomány",
+          "link": "https://infostart.hu/tudomany/2026/10/10/probaperek-felelos-e-az-ember-ha-elszabadulnak-az-ai-ugynokei",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-11T11:21:35.045Z",
+      "updatedAt": "2026-10-12T22:28:38.864Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167005/tortenelmi-visszaeses-sujtja-a-pc-piacot"
+          "link": "https://sg.hu/cikkek/auto/167034/a-robotaxik-leallitasat-kovetelik-a-londoni-taxisok"
         },
         {
           "name": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/10/11/on-is-ejjeli-bagoly-akkor-errol-jobb-ha-tud"
+          "link": "https://infostart.hu/tudomany/2026/10/12/rossz-hirek-szuloknek-a-gyerekek-kepernyoidejerol-ezt-kene-tenni"
         }
       ],
       "skipped": []
@@ -170,52 +155,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "Az USA rövid időre feloldaná az Oroszországra kivetett dízelexportot.",
+          "text": "Tovább fokozódtak a kötvénypiaci aggodalmak az Egyesült Államok és Franciaország államadósság-helyzete miatt.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20261011/a-nato-trumpra-haragszik-trump-az-ukranokra-oroszorszagban-pedig-kozben-szitava-lovik-az-internetszolgaltatot-hireink-az-orosz-ukran-haborubol-vasarnap-868912",
+          "link": "https://www.portfolio.hu/uzlet/20261012/nagyot-szarnyalt-az-otp-feszult-a-helyzet-a-kotvenypiacokon-868990",
           "scope": "kulfold"
         },
         {
-          "text": "Az Európai Unió új lakhatási szabályozási csomagja segíthet a tagállamoknak beavatkozni a lakáspiacba a megfizethető lakhatás védelmében.",
+          "text": "Az euró 365 forint közelében jár, a forint lényegében stagnál a lengyel zloty és a cseh korona ellenében.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/ingatlan/20261011/brusszel-adhat-jogi-municiot-az-airbnb-es-az-ures-lakasok-ellen-de-a-magyar-lakhatasi-fordulat-itthon-dol-el-868728",
+          "link": "https://www.portfolio.hu/deviza/20261012/jon-mar-a-forint-fordulat-350-es-eurot-josol-egy-elemzo-869000",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Magyar Közút négy új Mercedes-Benz tehergépkocsit vett át, melyek már az idei téli szezonban szolgálatba állnak.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/gazdasag/20261012/vaskos-flottabovitest-jelentett-be-vitezy-david-igazi-csucsjarmuvek-allnak-munkaba-magyarorszagon-869226",
+          "scope": "belfold"
+        },
+        {
+          "text": "Az Államadósság Kezelő Központ elnök-vezérigazgatója szerint az euró bevezetése csökkentheti a piaci hozamokat.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/10/12/tardos-gergely-tovabb-csokkentheti-a-piaci-hozamokat-az-euro-kozeledo-bevezetese",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Nemzetközi Valutaalap drasztikus adóreformot javasol a magyar kormánynak.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/10/12/az-imf-adoreformot-javasol-az-elemzo-elmondja-hogy-allunk",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Trump-Putyin gázolaj-megállapodás politikai szempontból elsősorban az orosz elnöknek kedvező.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/10/11/ezzel-putyin-nyert-mondja-a-szakerto",
           "scope": "kulfold"
-        },
-        {
-          "text": "A Tisza-kormány maratoni tárgyalásokat folytat a 2027-es költségvetésről.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261011/tisza-kormany-maratoni-targyalasok-folynak-a-koltsegvetesrol-vitezy-david-szerint-kizart-hogy-a-kormany-2030-ig-penzt-koltson-az-olimpiara-868914",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Központi Statisztikai Hivatal adatai szerint augusztusban az ipari termelés 8,7 százalékkal bővült Magyarországon.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/11/egy-adat-amelynek-egyarant-orul-a-tisza-es-a-fidesz-is",
-          "scope": "belfold"
-        },
-        {
-          "text": "Szeptemberben az infláció 1,6 százalékra lassult Magyarországon.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/11/egy-adat-amelynek-egyarant-orul-a-tisza-es-a-fidesz-is",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Magyar Nemzeti Bank elnöke szerint az euró bevezetése Magyarország javára válhat.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/10/megszolalt-varga-mihaly-az-euro-bevezeteserol",
-          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-11T11:21:50.553Z",
+      "updatedAt": "2026-10-12T22:28:50.299Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20261011/a-nato-trumpra-haragszik-trump-az-ukranokra-oroszorszagban-pedig-kozben-szitava-lovik-az-internetszolgaltatot-hireink-az-orosz-ukran-haborubol-vasarnap-868912"
+          "link": "https://www.portfolio.hu/uzlet/20261012/nagyot-szarnyalt-az-otp-feszult-a-helyzet-a-kotvenypiacokon-868990"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/11/egy-adat-amelynek-egyarant-orul-a-tisza-es-a-fidesz-is"
+          "link": "https://infostart.hu/gazdasag/2026/10/12/tardos-gergely-tovabb-csokkentheti-a-piaci-hozamokat-az-euro-kozeledo-bevezetese"
         }
       ],
       "skipped": []
@@ -223,32 +208,38 @@
     "kornyezet": {
       "items": [
         {
-          "text": "A rekorddöntő El Niño és az óceánok növekvő hőmérséklete drámai változásokat okozhat a Nagy-korallzátonyon, ahol moszatok vehetik át az uralmat.",
+          "text": "Gulyás Balázs és Jakab Roland közös megegyezéssel távoztak a HUN-REN elnöki és vezérigazgatói posztjáról, ideiglenesen Stipsicz András veszi át az elnöki teendőket.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/10/09/dramai-valtozasokat-okozhat-a-rekorddonto-el-nino-a-nagy-korallzatonyon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Szlovénia egyik utolsó gleccsere, a Triglav-gleccser napokon belül eltűnhet, miután a 20. század közepén még 14 hektáros volt.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/10/09/napokon-belul-eltunhet-szlovenia-egyik-utolso-gleccsere?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A Greenfo egy Zöld hét – Hírháttér című podcastot kínál.",
-          "source": "Greenfo",
-          "link": "https://greenfo.hu/hirek/podcastok/zold-het/",
+          "link": "https://qubit.hu/2026/10/12/uj-elnokkel-indul-a-hun-ren-akademiai-atszervezese?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "belfold"
         },
         {
-          "text": "A Greenfo egy Iránytű című podcastot kínál.",
+          "text": "A WHO továbbra sem tudja megerősített diagnózissal tisztázni egy szibériai pestislaboratórium dolgozójának halálos tüdőgyulladását kiváltó okot.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/10/12/a-who-sem-tudja-mi-okozta-a-sziberiai-pestislaboratorium-dolgozojanak-halalos-tudogyulladasat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Greenfo hírlevelek feliratkozási lehetőséget kínálnak az érdeklődőknek.",
+          "source": "Greenfo",
+          "link": "https://greenfo.hu/hirlevel-feliratkozas/",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Greenfo Iránytű podcastot indított el.",
           "source": "Greenfo",
           "link": "https://greenfo.hu/hirek/podcastok/podcast/",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Greenfo Zöld hét – Hírháttér podcast címmel is sugároz műsort.",
+          "source": "Greenfo",
+          "link": "https://greenfo.hu/hirek/podcastok/zold-het/",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-11T11:22:11.599Z",
+      "updatedAt": "2026-10-12T22:29:12.029Z",
       "sourceLinks": [
         {
           "name": "Greenfo",
@@ -256,7 +247,7 @@
         },
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/10/11/majtenyi-laszlo-nemcsak-az-ugynokaktakat-hanem-az-orban-rendszer-megfigyelesi-ugyeit-is-nyilvanossagra-kell-hozni?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/10/12/lehet-minden-erme-mellett-pontosan-szaz-forint?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": []
@@ -264,44 +255,38 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Egy szomszédos országban egy cég több száz embert bocsát el és bezárja a gyárát.",
+          "text": "A BYD bejelentette új európai gyára helyszínét, amely nem Magyarországon lesz.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/cegvilag/2026/10/osztrak-ardo-gross-enzersdorf-uzem-gyarbezaras-dolgozok",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az elhízásnak elképesztő gazdasági ára van.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/10/elhizas-tulsuly-gazdasagi-ar-egeszsegugyi-problema",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az elhízás egyre nagyobb gazdasági terhet jelent.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/10/elhizas-tulsuly-gazdasagi-ar-egeszsegugyi-problema",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Tatabánya turisztikai befektetőkre vár.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/turizmus/cifra-palota-zold-az-ablaka--megcsodaltuk-az-okori-romeo-es-juliat.html?utm_source=rss&utm_medium=referral",
+          "link": "https://www.vg.hu/cegvilag/2026/10/byd-ujabb-europai-gyarak-letesitese-franciaorszag-kina",
           "scope": "belfold"
         },
         {
-          "text": "Egyre több hazai cég számol az adóterhek növekedésével.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/az-adoterhek-novekedesevel-szamol-egyre-tobb-hazai-ceg.html?utm_source=rss&utm_medium=referral",
+          "text": "Orbán Viktor megindokolta, miért nem áll fejre a magyar gazdaság.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/orban-viktor-interju-bayer-show",
           "scope": "belfold"
         },
         {
-          "text": "A Nemzetközi Valutaalap (IMF) ajánlásokat tett Magyarországnak.",
+          "text": "A KATA szabályozás változásával többen is katázhatnak.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/vajon-mit-fogadnak-meg-magyar-peterek-az-imf-ajanlasaibol.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/aranyelet/a-lenyeg-hogy-tobben-katazhatnak--az-utca-emberet-kerdeztuk.html?utm_source=rss&utm_medium=referral",
+          "scope": "belfold"
+        },
+        {
+          "text": "Hétfőn a dollárárfolyam 327 forint felett, az euró pedig 365 forint felett zárt.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/makro/327-felett-a-dollararfolyam-az-euro-365-felett-zart.html?utm_source=rss&utm_medium=referral",
+          "scope": "belfold"
+        },
+        {
+          "text": "Az MBH Bank új felügyelőbizottsági tagokat választott, akik több évtizedes tapasztalattal bírnak.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/kozelet/uj-felugyelobizottsagi-tagokat-valasztott-az-mbh-bank.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-11T11:22:23.867Z",
+      "updatedAt": "2026-10-12T22:29:24.735Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -309,11 +294,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kulpolitika/merenyletet-tervezhettek-egy-nagy-unios-allam-kormanyfoje-ellen.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/kozelet/az-otkertes-balherol-is-beszelt-magyar-peter-a-parlamentben.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-10-12T18:58:24.507Z"
+  }
 }
