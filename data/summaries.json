@@ -1,90 +1,105 @@
 {
-  "generatedAt": "2026-10-13T12:36:20.462Z",
+  "generatedAt": "2026-10-13T20:37:37.755Z",
   "fx": {
-    "rate": 363.724,
-    "date": "2026-10-13T17:27:46.000Z",
+    "rate": 363.716,
+    "date": "2026-10-13T20:37:34.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "Balásy Gyula eladta két vállalkozásban meglévő tulajdonrészét, amelyeket a vevők átneveznek.",
+          "text": "Oroszország ellen az eddigi legnagyobb szankciós listát fogadták el.",
           "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/10/13/balasy-gyula-eladas-atnevezes-lounge-communication-media-dynamics/",
+          "link": "https://24.hu/fn/gazdasag/2026/10/13/eu-oroszorszag-ukrajna-orban/",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Ukrajna haladhatott az EU-csatlakozás útján.",
+          "source": "24.hu",
+          "link": "https://24.hu/fn/gazdasag/2026/10/13/eu-oroszorszag-ukrajna-orban/",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Orbán Anita külügyminiszter részt vett az EU külügyi tanácsán és egy kormányközi találkozón Luxembourgban.",
+          "source": "24.hu",
+          "link": "https://24.hu/fn/gazdasag/2026/10/13/eu-oroszorszag-ukrajna-orban/",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Tótth András energetikai államtitkár lemondott.",
+          "source": "24.hu",
+          "link": "https://24.hu/belfold/2026/10/13/lemondott-gazdasagi-energetikai-miniszterium-energetikai-allamtitkara-breaking/",
           "scope": "belfold"
         },
         {
-          "text": "Gyanúsítottként hallgatták ki a Ripost volt munkatársát Mártha Imre megfigyelési ügyében, aki Ómolnár Miklósra vallott.",
-          "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/10/13/martha-imre-megfigyeles-gyanusitott-ripost-omolnar-miklos/",
-          "scope": "belfold"
+          "text": "Az Oroszországgal szembeni uniós szankciós lista 1600 új névvel bővült.",
+          "source": "HVG",
+          "link": "https://hvg.hu/gazdasag/20261013_orban-anita-europai-unio-szankciok-oroszorszag",
+          "scope": "kulfold"
         },
         {
-          "text": "A tudományos és technológiai miniszter szerint az emberi tudomány történetének egyik legnagyobb fordulópontjához érkeztünk.",
-          "source": "24.hu",
-          "link": "https://24.hu/tech/2026/10/13/tanacs-zoltan-mathocalypse-matematikai-ai-mesterseges-intelligencia/",
+          "text": "Új elnököt neveztek ki a Magyar Energetikai és Közmű-szabályozási Hivatal élére.",
+          "source": "HVG",
+          "link": "https://hvg.hu/itthon/20261013_magyar-energetikai-es-kozmu-szabalyozasi-hivatal-elnok-kinevezes-losonczy-geza",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-13T12:35:10.153Z",
+      "updatedAt": "2026-10-13T20:35:52.552Z",
       "sourceLinks": [
         {
           "name": "24.hu",
-          "link": "https://24.hu/belfold/2026/10/13/szentendre-emberules-ragyujtotta-a-hazat/"
+          "link": "https://24.hu/belfold/2026/10/13/ez-tortent-2026-oktober-13-an/"
+        },
+        {
+          "name": "HVG",
+          "link": "https://hvg.hu/gazdasag/20261013_orban-anita-europai-unio-szankciok-oroszorszag"
         }
       ],
       "skipped": [
-        "Telex",
-        "HVG"
+        "Telex"
       ]
     },
     "sport": {
       "items": [
         {
-          "text": "Cristiano Ronaldo mérkőzése a szaúdi fővárosban rakétaveszély miatt csúszott, de a robbanótest megsemmisítése után megtartották.",
+          "text": "Dani Carvajal, a Real Madrid korábbi csapatkapitánya ingyen igazolt a Getaféhoz.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/13/raketaveszely-miatt-csuszott-cristiano-ronaldoek-meccse-panik-tort-ki-a-stadionban",
+          "link": "https://infostart.hu/sport/2026/10/13/uj-klubba-igazolt-a-vilag-egyik-legeredmenyesebb-aktiv-futballistaja",
           "scope": "kulfold"
         },
         {
-          "text": "A Times szerint a FIFA elnöke, Gianni Infantino a rendszeres fizetésén és bónuszain felül további kifizetéseket kapott a 2026-os világbajnokságot szervező cégtől.",
+          "text": "Willi Orbán az RB Leipzig kezdő csapatában kapott helyet a BL-estén.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/13/ujabb-botranyba-keveredett-a-fifa-elnoke",
+          "link": "https://infostart.hu/sport/2026/10/13/bl-eloben-csak-willi-orban-kezd-a-magyar-valogatottak-kozul",
           "scope": "kulfold"
         },
         {
-          "text": "A Magyar Labdarúgó Szövetség szerint Szoboszlai Dominik komoly terhelés után sérülés nélkül tért vissza klubcsapatához.",
+          "text": "A magyar szurkolók nem vásárolhatnak belépőket a labdarúgó-válogatott novemberi grúz Nemzetek Ligája-találkozójára az UEFA döntése értelmében.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/12/az-mlsz-is-megszolalt-szoboszlai-dominikrol-meg-nem-tudni-mi-lesz-a-sorsa",
+          "link": "https://infostart.hu/sport/2026/10/13/sulyos-buntetest-kapott-a-magyar-valogatott",
           "scope": "belfold"
         },
         {
-          "text": "Andoni Iraola, a Liverpool vezetőedzője szerint Szoboszlai Dominik combhajlító izma meghúzódott, ezért nem volt százszázalékos állapotban.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/12/az-mlsz-is-megszolalt-szoboszlai-dominikrol-meg-nem-tudni-mi-lesz-a-sorsa",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Kinyik Ákos a 200. bajnokin sérülés utáni góllal ünnepelt az NB I 9. fordulójában.",
+          "text": "Gulácsi Péter otthonában fegyveres rablás áldozata lett, de sérülés nem történt.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/labdarugo-nb-i/2026/10/kinyik-akos-serules-utani-golorome-a-200-bajnokin-fokuszban-az-nb-i-9-fordulojanak-aszai",
+          "link": "https://www.nemzetisport.hu/bajnokok-ligaja/2026/10/fegyveres-rablas-aldozata-lett-otthonaban-gulacsi-peter-nem-tortent-serules",
           "scope": "belfold"
         },
         {
-          "text": "Az Újpest csodacseréje lett Gleofilo Vlijter.",
+          "text": "Az ETO könnyed győzelemmel vette el az Esztergom veretlenségét a női kézilabda NB I-ben.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/labdarugo-nb-i/2026/10/az-ujpest-csodacsereje-lett-gleofilo-vlijter",
+          "link": "https://www.nemzetisport.hu/kezilabda/2026/10/az-eto-konnyed-gyozelemmel-vette-el-az-esztergom-veretlenseget-a-noi-kezilabda-nb-i-ben",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-13T12:35:30.724Z",
+      "updatedAt": "2026-10-13T20:36:17.794Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/13/raketaveszely-miatt-csuszott-cristiano-ronaldoek-meccse-panik-tort-ki-a-stadionban"
+          "link": "https://infostart.hu/sport/2026/10/13/uj-klubba-igazolt-a-vilag-egyik-legeredmenyesebb-aktiv-futballistaja"
         },
         {
           "name": "Nemzeti Sport",
@@ -96,52 +111,52 @@
     "technologia": {
       "items": [
         {
-          "text": "Az MI matematikai áttörései felforgathatják a tudomány jövőjét.",
+          "text": "Kína az olcsó energia és a gyors építkezés révén erősíti pozícióját a globális mesterséges intelligencia versenyben.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167032/olcso-energia-es-gyors-epitkezes-segiti-kinat-a-globalis-mi-versenyben",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A mesterséges intelligencia területén elért matematikai áttörések potenciálisan felforgathatják a tudomány jövőjét.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/tudomany/167035/az-mi-matematikai-attoresei-a-tudomany-jovojet-is-felforgathatjak",
           "scope": "kulfold"
         },
         {
-          "text": "Kibertámadás bénított meg több száz francia szupermarket hűtőrendszerét.",
+          "text": "Európa összefogással igyekszik megtörni a Starlink kommunikációs fölényét.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167046/europa-osszefogassal-torne-meg-a-starlink-kommunikacios-folenyet",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Titkos chipekkel szerelték fel a Ledger kriptotárcáit, ami több tízmillió dollár eltűnését eredményezte.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167042/titkos-chipekkel-szereltek-fel-a-ledger-kriptotarcait-tobb-tizmillio-dollar-tunt",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Egy kibertámadás bénította meg több száz francia szupermarket hűtőrendszerét.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/167039/tobb-szaz-francia-szupermarket-hutorendszeret-benitotta-meg-egy-kibertamadas",
           "scope": "kulfold"
         },
         {
-          "text": "Londoni taxisok követelik a robotaxik leállítását.",
+          "text": "A londoni taxisok a robotaxik leállítását követelik.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/auto/167034/a-robotaxik-leallitasat-kovetelik-a-londoni-taxisok",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az IMF szerint az MI előnyeinek kihasználásához át kell alakítani a munkahelyeket és az oktatást.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167031/az-imf-szerint-az-mi-elonyeinek-kihasznalasahoz-at-kell-alakitani-a-munkahelyeke",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az MI rengeteg kódot állít elő, de nem készül több szoftver.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167021/az-mi-rengeteg-kodot-allit-elo-de-nem-keszul-tobb-szoftver",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Két per indult az OpenAI ellen, melyek az AI-ügynökök elszabadulása esetén felmerülő felelősségre keresnek választ.",
-          "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/10/10/probaperek-felelos-e-az-ember-ha-elszabadulnak-az-ai-ugynokei",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-13T12:35:43.807Z",
+      "updatedAt": "2026-10-13T20:36:26.949Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/tudomany/167035/az-mi-matematikai-attoresei-a-tudomany-jovojet-is-felforgathatjak"
+          "link": "https://sg.hu/cikkek/it-tech/167032/olcso-energia-es-gyors-epitkezes-segiti-kinat-a-globalis-mi-versenyben"
         },
         {
           "name": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/10/13/a-foldhoz-egesz-kozel-is-lehetnek-olyan-bolygok-mint-a-tatuin"
+          "link": "https://infostart.hu/tudomany/2026/10/13/kollar-janos-kapta-a-bolyai-janos-nemzetkozi-matematikai-dijat"
         }
       ],
       "skipped": []
@@ -149,31 +164,31 @@
     "gazdasag": {
       "items": [
         {
-          "text": "Jelentősen nőtt az utasszám és javult a pontosság az idei balatoni vasúti szezonban.",
+          "text": "Komolyabb eladási hullám söpört végig kedden az ázsiai tőzsdéken a mesterséges intelligenciával kapcsolatos befektetői aggodalmak miatt.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/uzlet/20261013/kevesebb-keses-tobb-utas-ez-a-nyar-vasuti-merlege-a-balatonon-869386",
-          "scope": "belfold"
-        },
-        {
-          "text": "Az Egyesült Államok és Európa lassan egy közös békecsomag felé halad az orosz-ukrán háború lezárására, amely gazdasági és biztonsági garanciákat kínálna.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20261013/elobukkant-amerika-es-europa-titkos-terve-a-haboru-lezarasara-megtamadtak-moszkvat-hireink-az-orosz-ukran-haborubol-kedden-869230",
+          "link": "https://www.portfolio.hu/uzlet/20261013/amerikaban-az-eladok-diktaltak-869236",
           "scope": "kulfold"
         },
         {
-          "text": "A Citigroup harmadik negyedéves nettó nyeresége 40 százalékkal nőtt az egy évvel korábbihoz képest.",
+          "text": "A forint három hete nem volt ilyen erős az euróval és a dollárral szemben.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/bank/20261013/kilott-a-profit-az-citibanknal-869376",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A Magyarország előtt megnyílt 5900 milliárd forintnyi uniós forrás jelentős segítséget nyújthat az államadósság és a finanszírozási terhek csökkentésében.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/13/kiszamoltak-hogyan-segithetnek-az-unios-forrasok-az-allamhaztartas-stabilizalasaban",
+          "link": "https://www.portfolio.hu/deviza/20261013/harom-hete-nem-volt-ilyen-eros-a-forint-869276",
           "scope": "belfold"
         },
         {
-          "text": "Augusztusban 21,9 százalékkal nőtt az építőipar termelése az egy évvel korábbihoz képest.",
+          "text": "Juhász Edit, a MEKH elnöke is lemondott tisztségéről.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/gazdasag/20261013/tisza-kormany-lemondott-totth-andras-energetikaert-felelos-allamtitkar-es-a-mekh-elnoke-is-uj-taggal-bovult-a-mediatanacs-869270",
+          "scope": "belfold"
+        },
+        {
+          "text": "Losonczy Gézát nevezték ki a Magyar Energetikai és Közmű-szabályozási Hivatal (MEKH) új elnökévé.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/gazdasag/20261013/losonczy-gezat-neveztek-ki-a-mekh-uj-elnokeve-869468",
+          "scope": "belfold"
+        },
+        {
+          "text": "Augusztusban az építőipar termelése 21,9 százalékkal nőtt az egy évvel korábbihoz képest.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/10/13/felpattanas-az-epitoiparban-itt-vannak-a-friss-adatok",
           "scope": "belfold"
@@ -186,15 +201,15 @@
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-13T12:36:00.296Z",
+      "updatedAt": "2026-10-13T20:36:46.541Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/uzlet/20261013/kevesebb-keses-tobb-utas-ez-a-nyar-vasuti-merlege-a-balatonon-869386"
+          "link": "https://www.portfolio.hu/uzlet/20261013/amerikaban-az-eladok-diktaltak-869236"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/13/kiszamoltak-hogyan-segithetnek-az-unios-forrasok-az-allamhaztartas-stabilizalasaban"
+          "link": "https://infostart.hu/gazdasag/2026/10/13/az-afd-trump-nyomdokain-indulna-el-az-oroszok-fele"
         }
       ],
       "skipped": []
@@ -202,32 +217,32 @@
     "kornyezet": {
       "items": [
         {
-          "text": "Szeptember közepén 17,6 millió négyzetkilométerrel érte el éves maximumát az Antarktiszt körülvevő tengeri jég kiterjedése.",
+          "text": "Az Európai Unió klímaváltozás-figyelő szolgálatának előrejelzése szerint 80-90 százalék eséllyel enyhébb tél jöhet Magyarországon.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/10/13/folytatodik-az-aggaszto-trend-negyedik-eve-keves-a-tengeri-jeg-az-antarktisz-korul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Ez a kiterjedés 1979 óta a harmadik legalacsonyabb téli maximum az aggasztó trend folytatásaként.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/10/13/folytatodik-az-aggaszto-trend-negyedik-eve-keves-a-tengeri-jeg-az-antarktisz-korul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A világ egyre több pontján folyók, tavak és erdők kapnak jogokat a hatékonyabb védelem érdekében.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/10/13/a-halak-nem-mehetnek-birosagra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A Debreceni Egyetem jogászai szerint a természet jogainak elismerése Magyarországon is segíthetne a vízhiány elleni küzdelemben.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/10/13/a-halak-nem-mehetnek-birosagra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/10/13/csapadekosabb-es-enyhebb-tel-johet-magyarorszagon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "belfold"
+        },
+        {
+          "text": "Az Antarktiszt körülvevő tengeri jég kiterjedése szeptember közepén érte el éves maximumát 17,6 millió négyzetkilométerrel.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/10/13/folytatodik-az-aggaszto-trend-negyedik-eve-keves-a-tengeri-jeg-az-antarktisz-korul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Ez a kiterjedés 1979 óta a harmadik legalacsonyabb téli maximumot jelenti.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/10/13/folytatodik-az-aggaszto-trend-negyedik-eve-keves-a-tengeri-jeg-az-antarktisz-korul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Az újonnan kifejlesztett tetoválótintát UV-fény kapcsolja be, így a napfény akaratlanul is aktiválhatja azt.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/10/13/fennyel-vezerelheto-tetovalasokat-fejlesztettek-ki?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-13T12:36:09.139Z",
+      "updatedAt": "2026-10-13T20:37:17.193Z",
       "sourceLinks": [
         {
           "name": "Greenfo",
@@ -235,7 +250,7 @@
         },
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/10/13/az-elmult-125-evben-931-ferfi-kapott-nobel-dijat-de-vajon-hany-no?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/10/13/csapadekosabb-es-enyhebb-tel-johet-magyarorszagon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": []
@@ -243,44 +258,44 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Az Egis gyógyszergyár Fóton nyitott egy új, 30 ezer raklap befogadására alkalmas raktárat.",
+          "text": "Az árfolyamadatok 15 perccel késleltetett információkat mutatnak.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/gyogyszerraktar-egis-fot-atadas-bejaras-eloszto-kozpont",
-          "scope": "belfold"
-        },
-        {
-          "text": "Az orosz dízelpiacon várt fordulattal szemben kijózanító figyelmeztetés érkezett, amely hatással lehet a magyar autósokra is.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/10/dizel-orosz-finomitok-olajar",
+          "link": "https://www.vg.hu/reszvenyek",
           "scope": "kulfold"
         },
         {
-          "text": "Az Európai Bizottság jóváhagyta az OTP új bankvásárlási üzletét.",
+          "text": "Magyar Péter új csúcsvezetőt nevezett ki kedd este, teljes sorcserét végrehajtva a magyar energetika terén.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/penz-es-tokepiac/2026/10/otp-jovahagyta-az-uzletet-az-europai-bizottsag",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/vezeto-mekh-elnok-kinevezes-losonczy-geza",
           "scope": "belfold"
         },
         {
-          "text": "A legnagyobb magyar bank továbbterjeszkedhet.",
+          "text": "Baka András, Kapitány István egyik fontos munkatársa váratlanul lemondott, amire a minisztérium magyarázatot adott.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/penz-es-tokepiac/2026/10/otp-jovahagyta-az-uzletet-az-europai-bizottsag",
+          "link": "https://www.vg.hu/kozelet/2026/10/totth-andras-gazdasagi-es-energetikai-miniszterium",
           "scope": "belfold"
         },
         {
-          "text": "Az uniós biztos és a pénzügyminiszter is örömét fejezte ki 4,2 milliárd euró uniós forrás felszabadítása miatt.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/unios-penzek-megszolalt-az-unios-biztos-es-a-penzugyminiszter-is.html?utm_source=rss&utm_medium=referral",
+          "text": "A kis benzinkutasok tüntetést terveznek, hogy részesedést kapjanak a Mol háborús extraprofitjából.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/haborus-extraprofit-mol-kis-benzinkutas-egri",
           "scope": "belfold"
         },
         {
-          "text": "A VOSZ Barométer szerint intő jelek mutatkoznak a magyar gazdaságban, és a cégek a kormány válaszait várják.",
+          "text": "Megérkeztek a friss devizakurzusok, amelyek a forint alakulását mutatják az uniós pénzekről érkező hírek fényében.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/vallalatok/into-jelek-jottek-a-magyar-gazdasagbol-a-kormany-valaszaira-varnak-a-cegek.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/befektetes/vajon-mit-tett-a-forinttal-az-unios-penzekrol-erkezo-hir.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
+        },
+        {
+          "text": "Külföldön országonként eltérő díjak merülhetnek fel készpénzfelvétel esetén.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/szemelyes_penzugyek/sokba-kerulhet-ha-kulfoldon-nem-figyelunk-a-keszpenzfelvetelnel.html?utm_source=rss&utm_medium=referral",
+          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-13T12:36:20.194Z",
+      "updatedAt": "2026-10-13T20:37:37.613Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -288,11 +303,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/unios-penzek-megszolalt-az-unios-biztos-es-a-penzugyminiszter-is.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/kozelet/a-parlamentben-nincs-tiltakozas-a-szabad-szenteste-ellen.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-10-13T17:27:47.381Z"
+  }
 }
