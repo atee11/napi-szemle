@@ -1,76 +1,90 @@
 {
-  "generatedAt": "2026-10-14T19:17:45.031Z",
+  "generatedAt": "2026-10-15T09:45:08.179Z",
   "fx": {
-    "rate": 363.929,
-    "date": "2026-10-15T07:13:05.000Z",
+    "rate": 363.741,
+    "date": "2026-10-15T09:45:06.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "Lengyel Tamás színész szerint a Fidesz-szavazók is egyetértenek majd az elszámoltatással, ha látják a 2010 és 2026 között ellopott pénz mennyiségét.",
+          "text": "Bombafenyegetést kapott két iskola a XV.",
           "source": "Telex",
-          "link": "https://telex.hu/karakter/kultura/2026/10/14/lengyel-tamas-szinesz-szinten-tul-krug-emiliaval",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Tisza párt új gyermekvédelmi törvénye kórházban hagyott csecsemőket ment, és a másságot elfogadja.",
-          "source": "Telex",
-          "link": "https://telex.hu/ellenorzo/2026/10/14/gyermekvedelmi-torveny-lmbtq-felvilagosito-eloadas-iskola-gender-korhazban-hagyott-csecsemok",
-          "scope": "belfold"
-        },
-        {
-          "text": "Ukrán drónok támadták Oroszország legnagyobb szerverközpontját, ahol a legerősebb orosz szuperszámítógépet építik.",
-          "source": "Telex",
-          "link": "https://telex.hu/kulfold/2026/10/14/oroszorszag-legnagyobb-szerverkozpontjat-tamadtak-ukran-dronok",
+          "link": "https://telex.hu/belfold/2026/10/15/bombafenyegetest-kapott-ket-iskola-a-xv-keruletben",
           "scope": "kulfold"
         },
         {
-          "text": "Zárug Péter Farkas elemzésében Orbán boomer-szótárából kiindulva vizsgálja az \"újkommunisták\" fogalmát.",
-          "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/10/14/zarug-peter-farkas-ujkommunistak-orban-boomer-szotar/",
-          "scope": "belfold"
+          "text": "Céline Dion is saját Barbie babát kapott.",
+          "source": "Telex",
+          "link": "https://telex.hu/after/2026/10/15/celine-dion-barbie-baba-mattel",
+          "scope": "kulfold"
         },
         {
-          "text": "Kormányhatározat jelent meg a gyermekvédelem megerősítéséről, amely 2026-ra 6 milliárd forintot irányoz elő.",
+          "text": "The post 17 év fegyházat kapott a novajidrányi rém, aki megerőszakolta és árokban hagyta áldozatát first appeared on 24.hu.",
           "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/10/14/gyermekvedelmi-rendszer-krizishelyzet-tamogatas-kormanyhatarozat/",
-          "scope": "belfold"
+          "link": "https://24.hu/belfold/2026/10/15/novajidranyi-rem-megeroszakolt-not/",
+          "scope": "kulfold"
+        },
+        {
+          "text": "The post Magyar Péter Büsszelben: Orbán blődségeket beszél first appeared on 24.hu.",
+          "source": "24.hu",
+          "link": "https://24.hu/belfold/2026/10/15/magyar-peter-busszelben-orban-blodsegeket-beszel/",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Kirabolta, megerőszakolta, majd egy árokban magára hagyta az áldozatát, 17 évet kapott.",
+          "source": "HVG",
+          "link": "https://hvg.hu/itthon/20261015_kirabolta-megeroszakolta-magara-hagyta-aldozat-birosag-itelet",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Magyar Péter Brüsszelben: Egyelőre nem elfogadható az uniós költségvetés tervezete.",
+          "source": "HVG",
+          "link": "https://hvg.hu/eurologus/20261015_magyar-peter-eu-csucs-unios-forrasok-eu",
+          "scope": "kulfold"
         }
       ],
-      "engine": "gemini",
-      "updatedAt": "2026-10-14T19:16:37.244Z",
+      "engine": "extractive",
+      "updatedAt": "2026-10-15T09:44:05.648Z",
       "sourceLinks": [
         {
           "name": "Telex",
-          "link": "https://telex.hu/karakter/kultura/2026/10/14/lengyel-tamas-szinesz-szinten-tul-krug-emiliaval"
+          "link": "https://telex.hu/belfold/2026/10/15/hamis-valasztasi-ajanlasok-miatt-hallgattak-ki-egy-kepviselojeloltet-a-rendorok"
         },
         {
           "name": "24.hu",
-          "link": "https://24.hu/sport/2026/10/14/kezilabda-bajnokok-ligaja-veszprem-partizan/"
+          "link": "https://24.hu/sport/foci/2026/10/15/europa-liga-fradi-plzen-radoslav-kovac-sajtotajekoztato/"
+        },
+        {
+          "name": "HVG",
+          "link": "https://hvg.hu/itthon/20261015_kirabolta-megeroszakolta-magara-hagyta-aldozat-birosag-itelet"
         }
       ],
-      "skipped": [
-        "HVG"
-      ]
+      "skipped": []
     },
     "sport": {
       "items": [
         {
-          "text": "Hét mérkőzés kezdődik este 9 órakor a labdarúgó Bajnokok Ligája 2. fordulójában, köztük az AS Roma–Real Madrid és a Manchester City–PSG találkozó.",
+          "text": "A csütörtöki sportműsorban szerepel a magyar futsalválogatott, valamint kerékpár, úszás és tenisz.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/14/bl-eloben-romaban-a-real-madrid-manchesterben-a-psg",
+          "link": "https://infostart.hu/sport/2026/10/15/fradi-az-el-ben-szeged-a-bl-ben-sport-a-teveben",
+          "scope": "belfold"
+        },
+        {
+          "text": "Vinicius négymérkőzéses eltiltást kapott, ezért kihagyja az október végi El Clásicót is.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/10/15/vinicius-negymeccses-eltiltast-kapott-nem-jatszhat-a-barcelona-ellen",
           "scope": "kulfold"
         },
         {
-          "text": "Andoni Iraola szerint Szoboszlai Dominik, Cody Gakpo és Alexander Isak már „nincs messze” a visszatéréstől sérülésük után.",
+          "text": "Andoni Iraola menedzser szerint Szoboszlai Dominik, Cody Gakpo és Alexander Isak sérült triója már \"nincs messze\" a visszatéréstől.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/2026/10/14/kerkez-milos-elarulta-mikor-terhet-vissza-szoboszlai-dominik",
           "scope": "belfold"
         },
         {
-          "text": "Gianni Infantino FIFA-elnök csütörtökön szembesül pályafutása eddigi legkritikusabb próbatételével a zürichi tanácsülésen.",
+          "text": "Gianni Infantino FIFA-elnök csütörtökön a zürichi tanácsülésen szembesülhet pályafutása eddigi legkritikusabb próbatételével.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/2026/10/14/infantinonak-nagyon-nehez-napja-lesz-a-csutortoki",
           "scope": "kulfold"
@@ -82,24 +96,18 @@
           "scope": "kulfold"
         },
         {
-          "text": "Megkezdődik a legkritikusabb balatoni bringakörszakasz szélesítése és új burkolattal való ellátása.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/14/azonnal-nekilatnak-a-legkritikusabb-balatoni-bringakorszakasz-rancfelvarrasanak",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Veszprém tíz góllal verte meg a Partizan Beogradot a Bajnokok Ligája mérkőzésén.",
+          "text": "Corbu Máriusz, a Fradi középpályása szerint az Európa Ligában a kieséses szakasz elérése a cél, de ehhez a bajnoki győzelmek is kellenek.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/kezilabda/2026/10/a-veszprem-most-tiz-gollal-verte-meg-a-partizan-beogradot",
+          "link": "https://www.nemzetisport.hu/europa-liga/2026/10/corbu-mariusz-az-el-ben-a-kieseses-szakasz-a-cel-de-kellenek-a-bajnoki-gyozelmek-is",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-14T19:16:49.870Z",
+      "updatedAt": "2026-10-15T09:44:22.558Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/14/bl-eloben-romaban-a-real-madrid-manchesterben-a-psg"
+          "link": "https://infostart.hu/sport/2026/10/15/fradi-az-el-ben-szeged-a-bl-ben-sport-a-teveben"
         },
         {
           "name": "Nemzeti Sport",
@@ -111,91 +119,105 @@
     "technologia": {
       "items": [
         {
-          "text": "Csillagászok azonosították az eddigi legtávolabbi gyors rádiókitörést, amely több mint 10 milliárd éven át utazott.",
-          "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/10/14/10-milliard-eves-uzenetet-fogtak-a-csillagaszok",
+          "text": "Az Amazonnak már több mint egymillió robotja van.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167033/az-amazonnak-mar-tobb-mint-egymillio-robotja-van-de-mi-lesz-az-emberi-dolgozokka",
           "scope": "kulfold"
         },
         {
-          "text": "A Horizon Europe program újra megnyílik a magyar kutatók előtt, miután az EU Tanácsa jóváhagyta a források felszabadítását.",
+          "text": "Kína tárt karokkal várja a külföldi MI-kutatókat, azonban az érkezésük elmarad.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/166994/kina-tart-karokkal-varja-a-kulfoldi-mi-kutatokat-megsem-erkeznek",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Bemutatkozott a HomeView, az Apple 299 dolláros okosotthon tabletje.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167055/bemutatkozott-a-homeview-az-apple-299-dollaros-okosotthon-tablete",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Az ASML már 2030-ra köt megrendeléseket a chipgyártó berendezéseire.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167062/az-asml-mar-2030-ra-kot-megrendeleseket-a-chipgyarto-berendezeseire",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Csődbe ment a Character.AI.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167063/csodbe-ment-a-character-ai",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Újra megnyílik a Horizon Europe program a magyar kutatók előtt.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/10/14/ujra-megnyilik-a-horizon-a-magyar-kutatok-elott",
-          "scope": "belfold"
-        },
-        {
-          "text": "Kiderült, hogy a Földhöz közel is létezhetnek olyan bolygók, amelyeknek két csillag látható az egén.",
-          "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/10/13/a-foldhoz-egesz-kozel-is-lehetnek-olyan-bolygok-mint-a-tatuin",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Szakemberek figyelmeztetnek, hogy a gyerekek első három évében a képernyőhasználat rontja a fejlődés minden területét.",
-          "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/10/12/rossz-hirek-szuloknek-a-gyerekek-kepernyoidejerol-ezt-kene-tenni",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-14T19:17:00.278Z",
+      "updatedAt": "2026-10-15T09:44:31.640Z",
       "sourceLinks": [
         {
+          "name": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167033/az-amazonnak-mar-tobb-mint-egymillio-robotja-van-de-mi-lesz-az-emberi-dolgozokka"
+        },
+        {
           "name": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/10/14/10-milliard-eves-uzenetet-fogtak-a-csillagaszok"
+          "link": "https://infostart.hu/tudomany/2026/10/14/elfeledett-fossziliabol-azonositottak-uj-dinoszauruszfajt-a-kutatok-lett-volna-tole-felnivalonk"
         }
       ],
-      "skipped": [
-        "SG.hu"
-      ]
+      "skipped": []
     },
     "gazdasag": {
       "items": [
         {
-          "text": "Erzsébetváros nem utalja át a szolidaritási hozzájárulás következő részletét, mert büntetőadónak tartja azt.",
+          "text": "Csütörtökön reggel kissé erősebben indult a forint, délelőtt azonban irányt váltott.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261014/erzsebetvaros-nem-utal-869756",
+          "link": "https://www.portfolio.hu/deviza/20261015/iranyt-valtott-a-forint-869804",
           "scope": "belfold"
         },
         {
-          "text": "Az oroszok örülnek az amerikaiakkal kötött dízelalkunak, amely az állami bevételek növeléséhez és a hadiipar finanszírozásához is hozzájárulhat.",
+          "text": "Magyar Péter miniszterelnök szerint jelenlegi formájában nem elfogadható a következő hétéves uniós költségvetési keretre tett javaslat.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20261014/sokkolo-tamadas-erte-moszkvat-az-oroszok-hallani-sem-akarnak-a-bekerol-hireink-az-ukrajnai-haborurol-szerdan-869480",
+          "link": "https://www.portfolio.hu/unios-forrasok/20261015/magyar-peter-jelenlegi-formajaban-nem-elfogadhato-az-unios-koltsegvetesi-javaslat-869860",
+          "scope": "belfold"
+        },
+        {
+          "text": "Bill Gates szerint a jelenlegi rendszer abszurd, és robotadót szorgalmaz, hogy a robotok után is fizessék a nyugdíjjárulékot.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/10/15/ai-es-robotadot-szorgalmaznak",
           "scope": "kulfold"
         },
         {
-          "text": "Lemondott Tótth András energetikáért felelős államtitkár és Juhász Edit, a MEKH elnöke, utóbbit október 16-tól Losonczy Géza váltja.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261014/tisza-kormany-totth-andras-eloszor-szolalt-meg-lemondasa-utan-ujabb-feljelentet-tett-a-kormany-869472",
-          "scope": "belfold"
-        },
-        {
-          "text": "A kormány felülvizsgálja a nehéz teherautók közlekedését korlátozó szabályokat, köztük a kamionstopot, emellett vizsgálják a tranzitúthálózat bővítését és az útdíjellenőrzés megerősítését.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261014/valtozhatnak-a-kamionstop-szabalyai-869752",
-          "scope": "belfold"
-        },
-        {
-          "text": "A választásokat követő optimizmus jelentős felértékelődést hozott a magyar pénzügyi eszközöknél, de a második fél évben a befektetői figyelem ismét a fundamentumokra terelődött.",
+          "text": "A bizonytalan gazdasági helyzet miatt csökkent a Vállalkozók és Munkáltatók Országos Szövetségének harmadik negyedéves barométerének indexe.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/14/elemzok-a-magyar-piac-teljesitmenyet-harom-fo-tenyezo-hatarozhatja-meg",
+          "link": "https://infostart.hu/gazdasag/2026/10/14/perlusz-laszlo-a-vallalkozasok-mostanra-megtanultak-egyutt-elni-a-permanens-krizishelyzettel",
           "scope": "belfold"
         },
         {
-          "text": "270 milliárd forint kamatmentes uniós hitelforrás várja a magyar kis- és középvállalkozásokat a Ganz Ábrahám programban.",
+          "text": "A magyar kis- és középvállalkozásokra 270 milliárd forint uniós hitelforrás vár kamatmentesen a Ganz Ábrahám programban.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/10/14/hatalmas-penzkeret-nyilik-meg-a-magyar-cegek-elott",
+          "scope": "belfold"
+        },
+        {
+          "text": "Az uniós tagállamok megszavazták a hozzáférést Magyarország számára jelentős pénzügyi forrásokhoz a kondicionalitási mechanizmus végeztével.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/10/14/galik-zoltan-bizonyos-unios-forrasokhoz-mar-hozzaferunk-a-tobbi-penzhez-viszont-ujabb-dontesekre-van-szukseg",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-14T19:17:14.811Z",
+      "updatedAt": "2026-10-15T09:44:46.289Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20261014/az-el-nino-nem-valogat-langba-es-fustbe-borult-a-vilag-legnagyobb-esoerdoje-sulyos-veszelyben-egy-2-millios-varos-869758"
+          "link": "https://www.portfolio.hu/global/20261015/sulyos-hianyossag-europa-tehetetlen-nem-tudja-megmenteni-ukrajnat-legujabb-valsagabol-869862"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/14/perlusz-laszlo-a-vallalkozasok-mostanra-megtanultak-egyutt-elni-a-permanens-krizishelyzettel"
+          "link": "https://infostart.hu/gazdasag/2026/10/15/ai-es-robotadot-szorgalmaznak"
         }
       ],
       "skipped": []
@@ -203,42 +225,18 @@
     "kornyezet": {
       "items": [
         {
-          "text": "Egy amerikai kutatás szerint az alkohol már egyetlen nagyivással károsíthatja az idegsejtek közötti kapcsolatokat, de egerekben egy gén kikapcsolásával az agy védhetővé vált.",
+          "text": "Az amerikai Colossal cég GenoMorph nevű mesterségesintelligencia-platformja állítólag már 95 százalékban rekonstruálta a 17. században kipusztult dodó madárfaj genomját.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/10/14/az-alkohol-az-agy-ellen-forditja-sajat-immunsejtjeit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Szabad szemmel is látható óriásbaktériumok élhetnek a bélrendszerünkben, melyek DNS-ére emberek ezreinek bélflórájában találtak rá.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/10/14/szabad-szemmel-is-lathato-oriasbakteriumok-elhetnek-a-belrendszerunkben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Egy új kutatás szerint az édesanya sejtjei életünk végéig is bennünk maradhatnak, akár az agyunkban, ahol idegsejtként és immunsejtként is működhetnek.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/10/14/edesanyank-sejtjei-eletunk-vegeig-bennunk-maradhatnak-akar-az-agyunkban-is?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Magyarországon a dohányzás, az alkoholizmus és az egészségtelen táplálkozás vezető halálokok, de megfelelő prevencióval az idő előtti halálozások több mint fele megelőzhető lenne.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/10/14/megfelelo-prevencioval-az-ido-elotti-halalozasok-tobb-mint-fele-megelozheto-lenne-magyarorszagon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Google elérhetővé teszi legfejlettebb tudományos AI-modelljeit kétszáz európai kutató számára, melyek között genomikai és időjárás-előrejelző modellek is szerepelnek.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/10/14/a-google-europai-kutatoknak-is-elerhetove-teszi-a-legfejlettebb-tudomanyos-ai-modelljeit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/10/15/az-oriasfarkas-utan-a-dodo-feltamasztasan-dolgozik-a-colossal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-14T19:17:33.825Z",
+      "updatedAt": "2026-10-15T09:44:56.457Z",
       "sourceLinks": [
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/10/14/az-alkohol-az-agy-ellen-forditja-sajat-immunsejtjeit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/10/15/az-oriasfarkas-utan-a-dodo-feltamasztasan-dolgozik-a-colossal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": [
@@ -248,54 +246,55 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Kármán András az uniós csúcs miatt elhalasztotta a 2027-es magyar költségvetés bemutatását.",
+          "text": "Magyar Péter Brüsszelben kijelentette, hogy az EU költségvetése jelenlegi formájában elfogadhatatlan, mivel túl sok pénzt kérnek.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/koltsegvetes-2027-bemutatas-unios-csucs-magyar-peter",
+          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/10/magyar-peter-eu-csucs-eu-koltsegvetes",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Mol több milliárd forintot költött egy új energiahordozói piacra való belépésre, és hasonló projekteket mérlegel.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/mol-biogaz-mol-szarvas-biometan",
           "scope": "belfold"
         },
         {
-          "text": "Magyar Péter elárulta a 2027-es magyar költségvetés bemutatásának új dátumát.",
+          "text": "A Mol szerint az itthoni forrású energiahordozó előállítása a meglévő gázhálózatra és valós ipari keresletre épülhet.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/koltsegvetes-2027-bemutatas-unios-csucs-magyar-peter",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/mol-biogaz-mol-szarvas-biometan",
           "scope": "belfold"
         },
         {
-          "text": "Magyar Péter Brüsszelben bejelentette, hogy Magyarország még több uniós pénzt kap.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/magyar-peter-2027-es-unios-koltsegvetes-brusszel-forras",
+          "text": "Tíz szakmai szervezet tiltakozik a tervezett vagyonadó ellen, rendszerszintű problémákat látva.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/makro/kiverte-a-biztositekot-a-vagyonado-tiz-szakmai-szervezet-tiltakozik.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         },
         {
-          "text": "Ebből az uniós támogatásból már egymilliárd euró biztosított Magyarország számára.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/magyar-peter-2027-es-unios-koltsegvetes-brusszel-forras",
+          "text": "A műgyűjtők is elhibázottnak tartják a vagyonadót ebben a formában, és változtatásokat javasolnak.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/makro/a-mugyujtok-szerint-is-elhibazott-a-vagyonado-ebben-a-formaban.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         },
         {
-          "text": "Magyar Péter a kapott uniós pénzeken felül kárpótlást is igényel.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/magyar-peter-2027-es-unios-koltsegvetes-brusszel-forras",
-          "scope": "belfold"
-        },
-        {
-          "text": "A vagyonadó várhatóan nem elsősorban a szupergazdagokat érinti, de meglepetést okozhat a műtárgyak és ingatlanok tulajdonosainak.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/penz-es-tokepiac/2026/10/vagyonado-nem-a-szupergazdagokat-kapja-telibe",
-          "scope": "belfold"
+          "text": "Ukrajna újra lőni kezdte az orosz finomítókat.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/kulpolitika/eddig-tartott-zelenszkij-turelme-ujra-loni-kezdik-az-orosz-finomitokat.html?utm_source=rss&utm_medium=referral",
+          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-14T19:17:44.742Z",
+      "updatedAt": "2026-10-15T09:45:08.048Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
           "link": "https://www.vg.hu/reszvenyek"
+        },
+        {
+          "name": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/makro/jokora-gyomros-varta-brusszelben-magyar-petert-az-embercsempeszek-miatt-is-eliteltek-a-magyar-kormanyt.html?utm_source=rss&utm_medium=referral"
         }
       ],
-      "skipped": [
-        "MFOR.hu"
-      ]
+      "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-10-15T07:13:07.056Z"
+  }
 }
