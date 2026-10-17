@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T09:10:51.004Z",
+  "generatedAt": "2026-10-17T17:51:28.289Z",
   "fx": {
     "rate": 363,
     "date": "2026-10-16T21:29:52.000Z",
@@ -9,40 +9,40 @@
     "politika": {
       "items": [
         {
-          "text": "The post Vagyonadó: megsaccoltuk, mennyit fizethetnek az ország leggazdagabbjai first appeared on 24.hu.",
+          "text": "Orbán Viktor szövetségesének, Babisnak pártja egyetlen mandátumot sem szerzett Csehországban.",
           "source": "24.hu",
-          "link": "https://24.hu/fn/gazdasag/2026/10/17/vagyonado-milliardosok-mennyit-fizethetnek-24extra/",
+          "link": "https://24.hu/kozelet/2026/10/17/babis-vereseg-csehorszag-ellenzek-valasztas/",
           "scope": "kulfold"
         },
         {
-          "text": "The post Vitézy: Alsó korhatárhoz kötnénk az elektromos rollerek használatát first appeared on 24.hu.",
-          "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/10/17/elektromos-roller-szigoritas-vitezy-david-kresz/",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Vitézy Dávid korhatárhoz kötné az elektromos rollerek használatát.",
+          "text": "Koncz Zsófia bepereli Kátai-Németh Vilmos szociális és családügyi minisztert személyiségi jogok megsértése miatt.",
           "source": "HVG",
-          "link": "https://hvg.hu/cegauto/20261017_e-roller-szabalyozas-korhatar-vitezy-david",
+          "link": "https://hvg.hu/itthon/20261017_koncz-zsofia-kampanyfinanszirozas-katai-nemeth-vilmos-per",
+          "scope": "belfold"
+        },
+        {
+          "text": "A HVG hadi szimulációkon keresztül vizsgálja, hogyan vehetné célba Oroszország Magyarországot egy Európa elleni támadás során.",
+          "source": "HVG",
+          "link": "https://hvg.hu/itthon/20261017_ez-tortenik-ha-oroszorszag-ratamad-europara-wargaming-a-hvg-n",
           "scope": "kulfold"
         },
         {
-          "text": "Visszavették az első díjat egy rangos Nikon-pályázat győztesétől, miután különböző kutatók olyan részletekre figyeltek fel a felvételén, amelyek nem történhetnek meg a valódi sejtek világában.",
+          "text": "Radosław Sikorski lengyel külügyminiszter állítása szerint pénzutalásokkal és felvételekkel bizonyítható Orbánék együttműködése az oroszokkal.",
           "source": "HVG",
-          "link": "https://hvg.hu/tudomany/20261017_nikon-palyazat-ai-foto-kizartak",
+          "link": "https://hvg.hu/itthon/20261017_sikorski-szijjarto-orban-orosz-befolyas-utalasok-felvetelek-bizonyitek",
           "scope": "kulfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-10-17T09:09:08.814Z",
+      "engine": "gemini",
+      "updatedAt": "2026-10-17T17:50:04.044Z",
       "sourceLinks": [
         {
           "name": "24.hu",
-          "link": "https://24.hu/sport/foci/2026/10/17/thomas-kost-koveskal-gyerekfoci-riport/"
+          "link": "https://24.hu/belfold/2026/10/17/otoslotto-2026-42-het-szamok/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/gazdasag/20261017_usa-oroszorszag-dizelmegallapodas-dmitrijev-kulonmegbizott"
+          "link": "https://hvg.hu/itthon/20261017_koncz-zsofia-kampanyfinanszirozas-katai-nemeth-vilmos-per"
         }
       ],
       "skipped": [
@@ -52,48 +52,48 @@
     "sport": {
       "items": [
         {
-          "text": "A FIFA vezető tisztségviselői felszólították Gianni Infantinót, hogy törölje el vagy mentesítse a politikai felhangoktól a békedíjat.",
+          "text": "Elülső keresztszalag-szakadást szenvedett Tóth Milán, a Vasas válogatott labdarúgója, akire hosszú kihagyás vár.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/10/17/sulyosan-megserult-a-magyar-valogatott-golszerzoje",
+          "scope": "belfold"
+        },
+        {
+          "text": "Szoboszlai Dominik újra megsérült a Liverpool Brentford elleni Premier League-mérkőzésén, ahol kezdőként lépett pályára.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/10/17/szoboszlai-feloras-jatek-utan-ujra-megserult",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A FIFA vezető tisztségviselői arra szólították fel Gianni Infantinót, hogy törölje el vagy mentesítse a politikai felhangoktól a békedíjat.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/2026/10/17/infantino-nem-tuntethet-ki-tobb-politikust",
           "scope": "kulfold"
         },
         {
-          "text": "Sajtóhírek szerint Erling Haaland a Manchester City körüli botrány miatt távozni készül a klubtól.",
+          "text": "Sajtóhírek szerint Erling Haaland meghozta a döntést a Manchester Citytől való távozásról.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/2026/10/16/ez-lehet-az-elso-nagy-vesztesege-a-man-citynek-a-botranyban-haaland-eldontotte-hogy-tavozik",
           "scope": "kulfold"
         },
         {
-          "text": "Kerkez Milos, a magyar labdarúgó-válogatott játékosa lekerült az Ukrajna ellenségeit listázó weboldalról.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/16/kerkez-milos-lekerult-az-ukran-feketelistarol",
-          "scope": "belfold"
-        },
-        {
-          "text": "Nyolc évre eltiltottak egy rácalmási focistát, aki súlyosan bántalmazott egy játékvezetőt.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/16/nyolc-evre-eltiltottak-a-birora-tamado-racalmasi-focistat",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Ferencváros a 150. nemzetközi győzelmére hajt a női kézilabda Bajnokok Ligájában.",
+          "text": "Az ETO Pakson ugrott fel a dobogóra Djukanovics duplájának köszönhetően.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/kezilabda/2026/10/noi-kezilabda-bl-150-nemzetkozi-gyozelmere-hajt-az-ftc",
+          "link": "https://www.nemzetisport.hu/labdarugo-nb-i/2026/10/djukanovics-duplazott-az-eto-fc-pakson-ugrott-fel-a-dobogora",
           "scope": "belfold"
         },
         {
-          "text": "Szoboszlai Dominik is szerepel a Liverpool FC klubtörténetének 100 legjobb játékosát bemutató könyvben.",
+          "text": "Az ETO idegenben, egy góllal bizonyult jobbnak az Odense ellen egy nagy csatában.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/angol-labdarugas/2026/10/szoboszlai-dominik-is-szerepel-a-liverpool-konyveben-a-valaha-volt-100-legjobb-jatekos-kozott",
-          "scope": "belfold"
+          "link": "https://www.nemzetisport.hu/kezilabda/2026/10/az-odense-ellen-menetelhet-tovabb-a-gyor-a-noi-kezilabda-bl-ben",
+          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-17T09:09:23.003Z",
+      "updatedAt": "2026-10-17T17:50:20.791Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/17/infantino-nem-tuntethet-ki-tobb-politikust"
+          "link": "https://infostart.hu/sport/2026/10/17/sulyosan-megserult-a-magyar-valogatott-golszerzoje"
         },
         {
           "name": "Nemzeti Sport",
@@ -105,31 +105,25 @@
     "technologia": {
       "items": [
         {
+          "text": "Kína meghódította a hobbicélú 3D nyomtatók globális piacát.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167077/kina-meghoditotta-a-hobbicelu-3d-nyomtatok-globalis-piacat",
+          "scope": "kulfold"
+        },
+        {
           "text": "A legújabb elektromos modellek a méregdrága luxusautók piacát célozzák.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/auto/167073/a-legujabb-elektromos-modellek-a-meregdraga-luxusautok-piacat-celozzak",
           "scope": "kulfold"
         },
         {
-          "text": "Az EU kínai engedményekkel mentené meg az ASML német beszállítóját.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167079/az-eu-kinai-engedmenyekkel-mentene-meg-az-asml-nemet-beszallitojat",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Komoly veszélyt jelentenek az adatközpontok elleni ukrán támadások Oroszország számára.",
+          "text": "Az adatközpontok elleni ukrán támadások komoly veszélyt jelentenek Oroszország számára.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/167078/komoly-veszelyt-jelentenek-az-adatkozpontok-elleni-ukran-tamadasok-oroszorszag-s",
           "scope": "kulfold"
         },
         {
-          "text": "Az Amazonnak már több mint egymillió robotja van.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167033/az-amazonnak-mar-tobb-mint-egymillio-robotja-van-de-mi-lesz-az-emberi-dolgozokka",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A SpaceX frissen kilőtt űrhajója döbbenetes nyomot hagyott maga után az égen.",
+          "text": "A SpaceX frissen kilőtt űrhajója szemet kápráztató jelenséget hagyott maga után az égen.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/10/15/dobbenetes-nyomot-hagyott-maga-utan-az-egen-a-spacex-frissen-kilott-urhajoja-videok-kepek",
           "scope": "kulfold"
@@ -142,11 +136,11 @@
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-17T09:09:42.389Z",
+      "updatedAt": "2026-10-17T17:50:30.323Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/auto/167073/a-legujabb-elektromos-modellek-a-meregdraga-luxusautok-piacat-celozzak"
+          "link": "https://sg.hu/cikkek/it-tech/167077/kina-meghoditotta-a-hobbicelu-3d-nyomtatok-globalis-piacat"
         },
         {
           "name": "Infostart Tudomány",
@@ -158,52 +152,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "A Roszatom indonéz állami energiacéggel állapodott meg két úszó atomerőművi egység szállításáról, melyek 200 megawattos teljesítménnyel látnák el Észak-Maluku tartományt.",
+          "text": "Magyar Péter szerint, amennyiben Washington megállapodott az orosz dízelexportról, Magyarországnak is meg kellene kapnia az orosz kőolajra vonatkozó szankciós mentességet.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20261017/tortenelmi-megallapodast-kotott-oroszorszag-a-vilagon-egyedulallo-atomenergia-uzletre-keszulnek-870366",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az EU-csúcson Magyarország egymilliárd euróval többet kapna a következő uniós költségvetésből, és egy évvel elhalasztanák az ETS2 bevezetését.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261017/tisza-kormany-veget-ert-a-konfliktusos-eu-csucs-de-a-legnehezebb-vitak-decemberre-maradtak-mikozben-itthon-sorra-jonnek-a-feljelentesek-870344",
+          "link": "https://www.portfolio.hu/gazdasag/20261017/tisza-kormany-kiderult-mirol-targyalt-magyar-peter-es-zelenszkij-megvan-mikor-mutatjak-be-a-2027-es-koltsegvetest-870344",
           "scope": "belfold"
         },
         {
-          "text": "Augusztusban a bruttó átlagkereset 740 600 forintot, a nettó 519 900 forintot, a nettó mediánbér pedig 433 400 forintot ért el Magyarországon.",
+          "text": "Magyar Péter ígéretet kapott az uniós tagállamoktól a napi 1 millió eurós migrációs bírság rendezésére.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/gazdasag/20261017/magyar-peter-elmondta-igeretet-kapott-az-unios-tagallamoktol-a-napi-1-millio-euros-birsag-rendezesere-870400",
+          "scope": "belfold"
+        },
+        {
+          "text": "Az Európai Bizottság a 2028–2034-es uniós költségvetésben alapjaiban alakítaná át a kohéziós politikát.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/unios-forrasok/20261017/brusszel-szorosabbra-huzna-az-unios-penzcsap-kezeleset-a-kontinens-fele-fellazadt-870250",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Egy elemzés szerint a tervezett hazai vagyonadó leginkább a kkv-kat működtető vállalkozókat terhelheti meg.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/10/17/kiszamoltak-hogy-kiknek-faj-majd-a-vagyonado-nem-azoknak-akiknek-szanhatjak",
+          "scope": "belfold"
+        },
+        {
+          "text": "Magyar Péter miniszterelnök az „igazságosság és a fejlődés költségvetéseként” jellemezte a jövő évi büdzsét.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/10/17/fekete-feher-fotoval-tett-bejelentest-magyar-peter-a-koltsegvetesrol",
+          "scope": "belfold"
+        },
+        {
+          "text": "Augusztusban a bruttó átlagkereset 740 600 forintot, a nettó 519 900 forintot, a nettó mediánbér pedig 433 400 forintot ért el.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/10/16/szakerto-meg-mindig-sokkal-jobban-nonek-a-berek-mint-a-kornyezet-indokolna",
-          "scope": "belfold"
-        },
-        {
-          "text": "Német és francia egyetértés született a benzines autók 2035 utáni túlélésével kapcsolatban, ami a szabályozás enyhítésére utal.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/16/fordulat-tulelhetik-2035-ot-a-benzines-kocsik",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Varga Mihály szerint Európának óvatos makrogazdasági politikát kell folytatnia, miközben innovációval erősítheti versenyképességét egy bizonytalan világgazdasági környezetben.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/16/varga-mihaly-fontos-dolgot-mondott-az-inflaciorol",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az ország felének bére magasabb, mint 433 400 forint, a másik felének alacsonyabb, ami az átlagbér és a mediánbér jelentős elszakadására utal.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/16/friss-adatok-a-fizetesekrol-sokkal-alacsonyabb-a-medianber-az-atlagbernel",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-17T09:09:58.850Z",
+      "updatedAt": "2026-10-17T17:50:49.121Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20261017/tortenelmi-megallapodast-kotott-oroszorszag-a-vilagon-egyedulallo-atomenergia-uzletre-keszulnek-870366"
+          "link": "https://www.portfolio.hu/gazdasag/20261017/tisza-kormany-kiderult-mirol-targyalt-magyar-peter-es-zelenszkij-megvan-mikor-mutatjak-be-a-2027-es-koltsegvetest-870344"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/17/10-szazalek-onerovel-lakast-venni-mikor-kockazatos-a-foglalo"
+          "link": "https://infostart.hu/gazdasag/2026/10/17/kiszamoltak-hogy-kiknek-faj-majd-a-vagyonado-nem-azoknak-akiknek-szanhatjak"
         }
       ],
       "skipped": []
@@ -211,32 +205,32 @@
     "kornyezet": {
       "items": [
         {
-          "text": "Megjelent magyarul Christopher Schrader klímakommunikációs kézikönyve, amely a cselekvést akadályozó kommunikációs patthelyzetből kínál kiutat.",
+          "text": "Christopher Schrader német tudományos újságíró „Hogyan beszéljünk a klímaváltozásról?” című online kézikönyve megjelent magyarul.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/10/16/megjelent-magyarul-a-potencialis-tuleloknek-szolo-klimakommunikacios-kalauz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "belfold"
+          "scope": "kulfold"
         },
         {
-          "text": "Bemutatták a világ első repülő autóját, melyet Elon Musk Teslájának legújabb modelljére építettek, és kevesebb mint egy másodperc alatt gyorsul fel nulláról közel százra.",
+          "text": "A kézikönyv kiutat kíván mutatni a cselekvést akadályozó kommunikációs patthelyzetből a klímaváltozás kapcsán.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/10/16/megjelent-magyarul-a-potencialis-tuleloknek-szolo-klimakommunikacios-kalauz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A világ első repülő autóját mutatták be, mely Elon Musk Teslájának legújabb modellje SpaceX rakétahajtóművekkel.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/10/16/elobb-mutattak-be-a-vilag-elso-repulo-autojat-mint-hogy-kijott-volna-a-gta-6?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "A szülés előtti depresszió kezelése, amely a terhes nők 20-40 százalékát is érinti, javíthatja az újszülöttek agyi fejlődését.",
+          "text": "Az anyák terhesség alatti depressziójának kezelése javíthatja az újszülöttek agyi fejlődését.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/10/16/az-anyak-terhesseg-alatti-depressziojanak-kezelese-javithat-az-ujszulottek-agyi-fejlodesen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Észak-Irakban felfedezett sérült ősember maradvány arra utal, hogy a neandervölgyiek már 75 ezer éve élesített fa lándzsákkal harcolhattak.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/10/16/egy-uj-bizonyitek-arra-utal-hogy-a-neandervolgyiek-tobbet-haboruzhattak-mint-azt-a-kutatok-eddig-gondoltak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-17T09:10:32.816Z",
+      "updatedAt": "2026-10-17T17:51:13.283Z",
       "sourceLinks": [
         {
           "name": "Qubit",
@@ -250,38 +244,32 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Donald Trump az utolsó pillanatban inaktiválta az amerikai szankciókat az orosz olaj ellen.",
+          "text": "Az árfolyamadatok 15 perccel késleltetve érhetők el.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/10/trump-olajar-dizel-szankciok-oroszorszag",
+          "link": "https://www.vg.hu/reszvenyek",
           "scope": "kulfold"
         },
         {
-          "text": "Az amerikai közeledés végleg eldönthette a Mol és a NIS közötti történelmi felvásárlási ügyletet.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/10/mol-nis-trump-washington",
+          "text": "A telefonok és kütyük ára továbbra is magas marad.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/tudomany/kapaszkodjon-a-telefonjaba-mert-jo-ideig-nem-lesz-olcso-mulatsag-ujat-szereznie.html?utm_source=rss&utm_medium=referral",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Magyar Péter hétfőn a költségvetésről készül felszólalni.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/kozelet/koltsegvetes-elete-talan-legfontosabb-felszolalasara-keszul-magyar-peter.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         },
         {
-          "text": "Az olajpiac felrobbant, az árak régóta nem látott szintekre emelkedtek.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/10/benzin-uzemanyag-tankolas-olajar-brent",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Trump egyetlen aláírásával korábban elképzelhetetlen lépésre került sor, ami Putyinnak ajándékot jelentett.",
+          "text": "Elon Musk szerint Amerika legnagyobb gondja két szóval elintézhető a kilábaláshoz.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kulpolitika/szankciok-putyin-trump-alairas-feloldas-ajandek.html?utm_source=rss&utm_medium=referral",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Donald Trump intézkedései sem a magyar, sem az amerikai autósoknak nem segítettek.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/trump-varazslatai-sem-a-magyar-sem-az-amerikai-autosoknak-nem-segitenek.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/kulpolitika/elon-musk-mar-tudja-ket-szoval-elintezte-amerika-legnagyobb-gondjat.html?utm_source=rss&utm_medium=referral",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-17T09:10:50.885Z",
+      "updatedAt": "2026-10-17T17:51:28.005Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -289,11 +277,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozelet/magyar-peter-mosoly-is-kell-brusszeli-siker.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/tudomany/kapaszkodjon-a-telefonjaba-mert-jo-ideig-nem-lesz-olcso-mulatsag-ujat-szereznie.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-10-17T16:15:29.213Z"
+  }
 }
