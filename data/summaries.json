@@ -1,48 +1,60 @@
 {
-  "generatedAt": "2026-10-18T17:59:55.025Z",
+  "generatedAt": "2026-10-20T19:08:54.830Z",
   "fx": {
-    "rate": 363.557,
-    "date": "2026-10-20T16:40:12.000Z",
+    "rate": 363.783,
+    "date": "2026-10-20T19:08:47.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "Ruszin-Szendi Romulusz elfogadhatatlannak tartja, hogy Orbán Viktor az erőszakról mint lehetséges politikai eszközről beszél.",
+          "text": "Kövér László házelnök szerint a Fidesz többet hibázott.",
           "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/10/18/ruszin-szendi-romulusz-orban-viktor-nyilatkozat-eroszak/",
+          "link": "https://24.hu/belfold/2026/10/20/a-nap-legfontosabb-hirei-2026-10-20/",
           "scope": "belfold"
         },
         {
-          "text": "Az amerikaiak újra megosztják hírszerzési adataikat Ukrajnával.",
-          "source": "HVG",
-          "link": "https://hvg.hu/vilag/20261018_az-amerikaiak-ujra-megosztjak-hirszerzesi-adataikat-ukrajnaval",
-          "scope": "kulfold"
+          "text": "Házkutatást tartottak Rákay Philip körül.",
+          "source": "24.hu",
+          "link": "https://24.hu/belfold/2026/10/20/a-nap-legfontosabb-hirei-2026-10-20/",
+          "scope": "belfold"
         },
         {
-          "text": "Donald Trump teljes körű támogatásáról biztosította az izraeli kormányfőt a közelgő választáson.",
-          "source": "HVG",
-          "link": "https://hvg.hu/vilag/20261018_teljes-koru-tamogatasarol-biztositotta-donald-trump-az-izraeli-kormanyfot-a-kozelgo-valasztason",
-          "scope": "kulfold"
+          "text": "Magyar Péter állítása szerint volt olyan miniszter, aki vétójogával élt a költségvetés összeállításakor.",
+          "source": "24.hu",
+          "link": "https://24.hu/belfold/2026/10/20/magyar-peter-interju-koltsegvetes/",
+          "scope": "belfold"
         },
         {
-          "text": "Havasi Bertalan szerint Magyar Péter csak hülyeségeket beszél és fogalma sincs semmiről.",
+          "text": "Jámbor András képviselő bírálta Magyar Péter egy kommentjét.",
+          "source": "24.hu",
+          "link": "https://24.hu/belfold/2026/10/20/magyar-peter-beremeles-komment-velemeny/",
+          "scope": "belfold"
+        },
+        {
+          "text": "A pénzügyminiszter bejelentette, hogy újra lesz lakásfelújítási támogatás.",
+          "source": "24.hu",
+          "link": "https://24.hu/fn/gazdasag/2026/10/20/2027-koltsegvetes-gyoztesek-vesztesek-kockazatok-karman-24extra/",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Honvédelmi és Rendvédelmi Bizottság leszavazta a Covid-oltatlan katonák rehabilitációjáról szóló javaslatot.",
           "source": "HVG",
-          "link": "https://hvg.hu/itthon/20261018_havasi-bertalan-magyar-peter-csak-hulyesegeket-beszel-es-fogalma-sincs-semmirol",
+          "link": "https://hvg.hu/itthon/20261020_oltatlan-katonak-koronavirus-honvedelmi-rendvedelmi-bizottsag-parlament-rehabilitacio",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-18T17:58:57.093Z",
+      "updatedAt": "2026-10-20T19:07:33.642Z",
       "sourceLinks": [
         {
           "name": "24.hu",
-          "link": "https://24.hu/sport/foci/2026/10/18/labdarugo-n-i-kisvarda-ferencvaros-debrecen-zte/"
+          "link": "https://24.hu/belfold/2026/10/20/a-nap-legfontosabb-hirei-2026-10-20/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/vilag/20261018_az-amerikaiak-ujra-megosztjak-hirszerzesi-adataikat-ukrajnaval"
+          "link": "https://hvg.hu/itthon/20261020_oltatlan-katonak-koronavirus-honvedelmi-rendvedelmi-bizottsag-parlament-rehabilitacio"
         }
       ],
       "skipped": [
@@ -52,48 +64,48 @@
     "sport": {
       "items": [
         {
-          "text": "Az FTC-Telekom Waterpolo férfi vízilabdacsapata 18-15-re legyőzte a Pro Reccót a Fekete-tenger Kupa fináléjában.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/18/szenzacios-gyozelem-a-fradi-legyozte-a-reccot-a-finaleban",
+          "text": "Gulácsi Péter a Villarreal kapuját védi a Liverpool elleni BL-mérkőzésen, míg Kerkez Milos a Liverpool kispadján kezd, Szoboszlai pedig sérülés miatt hiányzik.",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/bajnokok-ligaja/2026/10/bl-alapaszakasz-liverpool-villarreal",
           "scope": "belfold"
         },
         {
-          "text": "Tóth Milán, a Vasas válogatott labdarúgója elülső keresztszalag-szakadást szenvedett.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/17/sulyosan-megserult-a-magyar-valogatott-golszerzoje",
+          "text": "Varga Barnabás a Manchester City elleni BL-mérkőzésen a kezdőben kapott helyet, Vitális Milán pedig a kispadon ül.",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/bajnokok-ligaja/2026/10/bl-manchester-city-aek-athen",
           "scope": "belfold"
         },
         {
-          "text": "Szoboszlai Dominik a Brentford elleni Premier League-mérkőzésen újra megsérült, miután a Liverpool kezdő csapatában szerepelt.",
+          "text": "Hétfőn megkezdődik a jegyértékesítés a magyar labdarúgó-válogatott Észak-Írország elleni Nemzetek Ligája-mérkőzésére.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/17/szoboszlai-feloras-jatek-utan-ujra-megserult",
+          "link": "https://infostart.hu/sport/2026/10/20/itt-a-nagy-hir-a-magyar-focivalogatott-szurkoloinak",
+          "scope": "belfold"
+        },
+        {
+          "text": "A PSG és az FC Barcelona összecsapása a keddi BL-játéknap legjobban várt mérkőzése.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/10/20/este-jon-a-csucstalalkozo-a-parc-des-princes-ben-psg-barcelona",
           "scope": "kulfold"
         },
         {
-          "text": "Sajtóhírek szerint Erling Haaland meghozta a „végső döntést” a Manchester Citytől való távozásról.",
+          "text": "Cristiano Ronaldót a Portugál Labdarúgó Szövetség pénzbírsággal és egy hónapos eltiltással büntette.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/16/ez-lehet-az-elso-nagy-vesztesege-a-man-citynek-a-botranyban-haaland-eldontotte-hogy-tavozik",
+          "link": "https://infostart.hu/sport/2026/10/20/megbuntettek-ronaldot-de-a-penztarcajanak-aligha-lesz-almatlan-ejszakaja",
           "scope": "kulfold"
         },
         {
-          "text": "Az NB I-ben 1–1-es döntetlennel ért véget a Kisvárda–FTC mérkőzés.",
-          "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/merkozes/20261018-kisvarda-master-good-ferencvaros/elo",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Manchester United idegenben döntetlent ért el.",
-          "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/angol-labdarugas/2026/10/toth-alex-nelkul-nyert-a-bournemouth-csak-ikszelt-idegenben-a-manchester-united",
+          "text": "A Manchester Cityt bűnösnek találták a Premier League pénzügyi szabályzatának kilenc szezonon át tartó megsértésében.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/10/20/lapertesules-brutalis-buntetest-is-kaphat-a-manchester-city-szinte-mindent-kezdhet-elolrol",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-18T17:59:07.537Z",
+      "updatedAt": "2026-10-20T19:07:49.643Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/18/szenzacios-gyozelem-a-fradi-legyozte-a-reccot-a-finaleban"
+          "link": "https://infostart.hu/sport/2026/10/20/bl-eloben-psg-barcelona-parizsban-magyarok-angliaban"
         },
         {
           "name": "Nemzeti Sport",
@@ -105,33 +117,33 @@
     "technologia": {
       "items": [
         {
-          "text": "A repülő Tesla Roadster csupán látványosság volt.",
+          "text": "A félvezetőipar a potenciális összeomlás felé tart.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/auto/167081/a-repulo-tesla-roadster-csupan-latvanyossag-volt",
+          "link": "https://sg.hu/cikkek/it-tech/167076/az-osszeomlas-fele-tart-a-felvezetoipar",
           "scope": "kulfold"
         },
         {
-          "text": "Asha Sharma alapjaiban alakítaná át a Microsoft videojáték üzletágát.",
+          "text": "Közvetlen adatkapcsolat épülhet Kanada és Európa között az Egyesült Államok megkerülésével.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/jatek/166966/asha-sharma-alapjaiban-alakitana-at-a-microsoft-videojatek-uzletagat",
+          "link": "https://sg.hu/cikkek/it-tech/167105/kozvetlen-adatkapcsolat-epulhet-kanada-es-europa-kozott-az-egyesult-allamok-megk",
           "scope": "kulfold"
         },
         {
-          "text": "Hónapokat késik az Apple összecsukható iPhone Duo készüléke.",
+          "text": "Három leállított atomerőművet indítanak újra adatközpontok energiaellátása miatt.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167084/honapokat-kesik-az-apple-osszecsukhato-iphone-duo-keszuleke",
+          "link": "https://sg.hu/cikkek/tudomany/167103/harom-leallitott-atomeromuvet-inditanak-ujra-adatkozpontok-miatt",
           "scope": "kulfold"
         },
         {
-          "text": "Kína meghódította a hobbicélú 3D nyomtatók globális piacát.",
+          "text": "Gyorsan előállítható MI másolatok veszélyeztetik a játékfejlesztőket.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167077/kina-meghoditotta-a-hobbicelu-3d-nyomtatok-globalis-piacat",
+          "link": "https://sg.hu/cikkek/jatek/167101/gyorsan-eloallithato-mi-masolatok-veszelyeztetik-a-jatekfejlesztoket",
           "scope": "kulfold"
         },
         {
-          "text": "A szökőmásodperc eltörlésével egyszerűsítenék a világidő kezelését.",
+          "text": "Egy hacker tucatnyi weboldalt tört fel MI-ügynökök és néhány ezer dollár segítségével.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/tudomany/167080/a-szokomasodperc-eltorlesevel-egyszerusitenek-a-vilagido-kezeleset",
+          "link": "https://sg.hu/cikkek/it-tech/167093/hogyan-tort-fel-egy-hacker-tobb-tucat-weboldalt-mi-ugynokok-es-nehany-ezer-dolla",
           "scope": "kulfold"
         },
         {
@@ -142,11 +154,11 @@
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-18T17:59:16.753Z",
+      "updatedAt": "2026-10-20T19:07:59.854Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/auto/167081/a-repulo-tesla-roadster-csupan-latvanyossag-volt"
+          "link": "https://sg.hu/cikkek/it-tech/167076/az-osszeomlas-fele-tart-a-felvezetoipar"
         },
         {
           "name": "Infostart Tudomány",
@@ -158,52 +170,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "Az Egyesült Államok EU-nagykövete élesen bírálta az Európai Bizottság frekvenciakiosztási terveit, megtorlást helyezve kilátásba.",
+          "text": "A Tisza-kormány új költségvetést mutatott be, amely az előző adminisztráció gazdasági örökségét és a magas államadósságot hivatott kezelni.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261018/betelt-a-pohar-az-egyesult-allamoknal-kemenyen-biraljak-az-uj-europai-terveket-ennek-sulyos-kovetkezmenyei-lesznek-870464",
+          "link": "https://www.portfolio.hu/gazdasag/20261020/magyar-peter-ujabb-reszleteket-arult-el-a-koltsegvetesrol-brutalis-vagas-jon-a-kozmedianal-871082",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Tisza-kormány nem folytatja a 14. havi nyugdíj további fokozatos felépítését, helyette Nyugdíjas SZÉP-kártyát vezet be.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/gazdasag/20261020/magyar-peter-kerek-perec-kimondta-miert-nem-fogjak-teljesen-felepiteni-a-14-havi-nyugdijat-871074",
+          "scope": "belfold"
+        },
+        {
+          "text": "Az AI-vállalatok és az iráni konfliktus fejleményei állnak a nemzetközi befektetői figyelem középpontjában.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/uzlet/20261020/fordul-a-hangulat-a-tozsdeken-mutatjuk-mi-mozgatja-ma-a-piacokat-870800",
           "scope": "kulfold"
         },
         {
-          "text": "Az Egyesült Államok pénzügyminisztere szerint az olaj ára a háború lezárulását követően csökkenhet.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261018/elarultak-mikor-csokkenhet-majd-az-olaj-ara-870462",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Magyar Péter hétfőn mutatja be a 2027-es költségvetés terveit a parlamentben, amely az állam működésén spórolna, de több pénzt ígér.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261018/tisza-kormany-hamarosan-jonnek-a-nagy-bejelentesek-870422",
+          "text": "A Magyar Nemzeti Bank Monetáris Tanácsa nem változtatott az 5,50 százalékos alapkamaton keddi ülésén.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/10/20/itt-az-mnb-kamatdontese",
           "scope": "belfold"
         },
         {
-          "text": "Az 50 és 74 év közötti magyar nyugdíjasok 99,1 százaléka kizárólag az állami nyugdíjára támaszkodik.",
+          "text": "A kormány a költségvetési hiányt 2027-re 4,9 százalékra csökkentené a jövő évi tervezet szerint.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/18/fontos-lista-az-onkentes-nyugdijpenztarakrol",
+          "link": "https://infostart.hu/gazdasag/2026/10/20/makroelemzo-a-piac-megvette-a-kormany-altal-kozolt-hianycelt",
           "scope": "belfold"
         },
         {
-          "text": "A tervezett hazai vagyonadó leginkább a 3 milliárd forint körüli vagyonnal rendelkező hazai kkv-kat terhelheti meg.",
+          "text": "A 2027-es költségvetésben bejelentett intézkedéscsomag, köztük a Wekerle Plusz program, új lendületet adhat a magyar lakáspiacnak.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/17/kiszamoltak-hogy-kiknek-faj-majd-a-vagyonado-nem-azoknak-akiknek-szanhatjak",
-          "scope": "belfold"
-        },
-        {
-          "text": "A 10 százalék önerővel történő lakásvásárlás lehetőséget adhat a kisebb megtakarítással rendelkezőknek, de a banki szabályoknak is meg kell felelni.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/17/10-szazalek-onerovel-lakast-venni-mikor-kockazatos-a-foglalo",
+          "link": "https://infostart.hu/gazdasag/2026/10/20/szakerto-nagy-lokest-jelent-hogy-a-panelben-lakok-is-kaphatnak-penzt-energetikai-korszerusitesre",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-18T17:59:34.311Z",
+      "updatedAt": "2026-10-20T19:08:17.655Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261018/betelt-a-pohar-az-egyesult-allamoknal-kemenyen-biraljak-az-uj-europai-terveket-ennek-sulyos-kovetkezmenyei-lesznek-870464"
+          "link": "https://www.portfolio.hu/gazdasag/20261020/magyar-peter-ujabb-reszleteket-arult-el-a-koltsegvetesrol-brutalis-vagas-jon-a-kozmedianal-871082"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/18/szegedi-andrea-ne-higgyunk-a-sztereotipiaknak-az-idosek-az-egyik-legjobban-erosodo-turisztikai-reteg"
+          "link": "https://infostart.hu/gazdasag/2026/10/20/szakerto-az-arenaban-magyar-peter-is-nemet-mondott-brusszelnek-de-nincs-egyedul"
         }
       ],
       "skipped": []
@@ -211,18 +223,36 @@
     "kornyezet": {
       "items": [
         {
-          "text": "Megjelent magyarul Christopher Schrader német tudományos újságíró klímakommunikációs online kézikönyve.",
+          "text": "A Mexikói-öböl ökoszisztémája továbbra sem lábalt ki a 2010-es olajkatasztrófa következményeiből.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/10/16/megjelent-magyarul-a-potencialis-tuleloknek-szolo-klimakommunikacios-kalauz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "belfold"
+          "link": "https://qubit.hu/2026/10/20/a-mexikoi-obol-okoszisztemaja-tovabbra-sem-labalt-ki-a-2010-es-olajkatasztrofa-kovetkezmenyeibol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Japán a világon elsőként indított űrszondát a Mars egyik holdja felé.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/10/20/japan-a-vilagon-elsokent-inditott-urszondat-a-mars-egyik-holdja-fele?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A francia diákok szóviccekkel, rímekkel és rigmusokkal különösen kreatívan tüntetnek Párizsban.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/10/20/szoviccek-rimek-rigmusok-kevesen-tudnak-olyan-kreativan-tuntetni-mint-a-francia-diakok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Franciaországban a rendőri erőszak és a városi lázadások egy sajátos hagyományból táplálkoznak, amelynek nincs köze a bevándorláshoz.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/10/20/a-rendori-eroszak-es-a-varosi-lazadasok-sajatos-francia-hagyomanybol-taplalkoznak-aminek-nincs-koze-a-bevandorlashoz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-18T17:59:45.373Z",
+      "updatedAt": "2026-10-20T19:08:36.603Z",
       "sourceLinks": [
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/10/18/robotikaval-az-olvasasi-es-a-szamolasi-keszsegek-hianyat-is-at-lehet-hidalni?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/10/20/az-ultrahangos-agyi-stimulacio-enyhitheti-a-skizofrenia-tuneteit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": [
@@ -232,32 +262,44 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Trump olyan terven dolgozik, amely újra eláraszthatja Európát orosz gázzal.",
+          "text": "A kormány majdnem 1200 milliárd forintot mozgósít a rezsicsökkentés keretének növelésére.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/10/orosz-gaz-trump-putyin-zelenszkij-bekemegallapodas",
-          "scope": "kulfold"
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/rezsi-aram-gaz-kapitany-inflacio-atlagfogyasztas",
+          "scope": "belfold"
         },
         {
-          "text": "Donald Trump olyan béketerven dolgozik, amely teljesen felforgathatja Európa energiapiacát.",
+          "text": "A rezsicsökkentési keret az áram- és földgáz lakossági egységára, a távhő, vízközmű-szolgáltatás és a szemétszállítás díjának alacsonyan tartását szolgálja.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/10/orosz-gaz-trump-putyin-zelenszkij-bekemegallapodas",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/rezsi-aram-gaz-kapitany-inflacio-atlagfogyasztas",
+          "scope": "belfold"
+        },
+        {
+          "text": "A kormány 50 százalékkal emeli az otthonápolási díjat, beleértve az emelt összegű és kiemelt ápolási díjat is.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/makro/allamtitkar-50-szazalekkal-emeli-a-kormany-az-otthonapolasi-dijat.html?utm_source=rss&utm_medium=referral",
+          "scope": "belfold"
+        },
+        {
+          "text": "A 4iG vezetője Montenegró miniszterelnökével tárgyalt tenger alatti távközlési kábelekről, és közel 20 milliárd forintos szerződést kötöttek.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/vallalatok/tenger-alatti-tavkozlesi-kabelekrol-is-targyalt-a-4ig-vezetoje-montenegro-miniszterelnokevel.html?utm_source=rss&utm_medium=referral",
           "scope": "kulfold"
         },
         {
-          "text": "A francia zavargások után egy nap alatt 1500 boltot fosztottak ki a nagyvárosokban.",
+          "text": "A forintárfolyam kedd estére lecsúszott, noha reggel az euró 362 forint alatt is járt.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kulpolitika/egy-nap-alatt-1500-kifosztott-bolt-ez-maradt-a-francia-nagyvarosokbol-a-zavargasok-utan.html?utm_source=rss&utm_medium=referral",
-          "scope": "kulfold"
+          "link": "https://mfor.hu/cikkek/makro/lecsuszott-a-forintarfolyam-kedd-estere.html?utm_source=rss&utm_medium=referral",
+          "scope": "belfold"
         },
         {
-          "text": "Felszámolhatják Sarka Kata férjének, Bessenyei Istvánnak a vállalkozását.",
+          "text": "A Pénzügyminisztérium háttérbeszélgetésén Kármán Andrásék ismertették a jövő évre várható gazdasági kilátásokat Magyarországon.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/vallalatok/felszamolhatjak-sarka-kata-ferjenek-bessenyei-istvannak-a-vallalkozasat.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/makro/uj-vilag-koszont-magyarorszagra-karman-andrasek-elarultak-mi-var-rank-jovore.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-18T17:59:54.781Z",
+      "updatedAt": "2026-10-20T19:08:54.712Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -265,11 +307,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/egeszsegugy/szuksegunk-van-e-kutyuaradatra-a-gyerekszobaban.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/makro/allamtitkar-50-szazalekkal-emeli-a-kormany-az-otthonapolasi-dijat.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-10-20T16:40:12.751Z"
+  }
 }
