@@ -1,60 +1,60 @@
 {
-  "generatedAt": "2026-10-20T19:08:54.830Z",
+  "generatedAt": "2026-10-21T10:00:36.659Z",
   "fx": {
-    "rate": 365.436,
-    "date": "2026-10-21T09:56:27.000Z",
+    "rate": 365.382,
+    "date": "2026-10-21T10:00:35.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "Kövér László házelnök szerint a Fidesz többet hibázott.",
+          "text": "Kállay Andrást Magyar Péter üzenete kapcsán kérdezték a vagyonadóról.",
           "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/10/20/a-nap-legfontosabb-hirei-2026-10-20/",
+          "link": "https://24.hu/fn/gazdasag/2026/10/21/podcast-della-magyar-peter-vagyonado-kallay-andras/",
           "scope": "belfold"
         },
         {
-          "text": "Házkutatást tartottak Rákay Philip körül.",
+          "text": "Tótth András, a múlt héten távozó energetikai államtitkár, lemondott az MVM-igazgatósági elnöki tisztségéről is.",
           "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/10/20/a-nap-legfontosabb-hirei-2026-10-20/",
+          "link": "https://24.hu/fn/gazdasag/2026/10/21/mvm-igazgatosagi-elnok-lemondott-totth-attila/",
           "scope": "belfold"
         },
         {
-          "text": "Magyar Péter állítása szerint volt olyan miniszter, aki vétójogával élt a költségvetés összeállításakor.",
-          "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/10/20/magyar-peter-interju-koltsegvetes/",
-          "scope": "belfold"
-        },
-        {
-          "text": "Jámbor András képviselő bírálta Magyar Péter egy kommentjét.",
-          "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/10/20/magyar-peter-beremeles-komment-velemeny/",
-          "scope": "belfold"
-        },
-        {
-          "text": "A pénzügyminiszter bejelentette, hogy újra lesz lakásfelújítási támogatás.",
-          "source": "24.hu",
-          "link": "https://24.hu/fn/gazdasag/2026/10/20/2027-koltsegvetes-gyoztesek-vesztesek-kockazatok-karman-24extra/",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Honvédelmi és Rendvédelmi Bizottság leszavazta a Covid-oltatlan katonák rehabilitációjáról szóló javaslatot.",
+          "text": "Matolcsy Györgyöt, a jegybank korábbi elnökét, csalással gyanúsítják.",
           "source": "HVG",
-          "link": "https://hvg.hu/itthon/20261020_oltatlan-katonak-koronavirus-honvedelmi-rendvedelmi-bizottsag-parlament-rehabilitacio",
+          "link": "https://hvg.hu/elet/20261021_matolcsy-gyorgy-hvg-cimlapokon",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Magyar Nemzeti Bank visszavonta a Trive Bank engedélyét és elrendelte végelszámolását.",
+          "source": "HVG",
+          "link": "https://hvg.hu/kkv/20261021_mnb-trive-engedely-visszavon-vegelszamolas",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Mol szerint a szerb pénzügyminiszter állításával szemben nem történt különös fejlemény a NIS-felvásárlással kapcsolatban.",
+          "source": "HVG",
+          "link": "https://hvg.hu/kkv/20261021_nis-felvasarlas-szerb-penzugyminiszter-mol-reakcio",
+          "scope": "belfold"
+        },
+        {
+          "text": "Havasi Bertalan szerint a Fidesz elvárja, hogy a hatóságok politikai nyomás nélkül járjanak el Matolcsy őrizetbe vétele ügyében.",
+          "source": "HVG",
+          "link": "https://hvg.hu/itthon/20261021_havasi-bertalan-fidesz-matolcsy-orizetbe-vetel-reakcio",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-20T19:07:33.642Z",
+      "updatedAt": "2026-10-21T09:59:30.542Z",
       "sourceLinks": [
         {
           "name": "24.hu",
-          "link": "https://24.hu/belfold/2026/10/20/a-nap-legfontosabb-hirei-2026-10-20/"
+          "link": "https://24.hu/kultura/2026/10/21/a-demokracia-ize-onyx-etterem-film/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/itthon/20261020_oltatlan-katonak-koronavirus-honvedelmi-rendvedelmi-bizottsag-parlament-rehabilitacio"
+          "link": "https://hvg.hu/elet/20261021_matolcsy-gyorgy-hvg-cimlapokon"
         }
       ],
       "skipped": [
@@ -64,48 +64,48 @@
     "sport": {
       "items": [
         {
-          "text": "Gulácsi Péter a Villarreal kapuját védi a Liverpool elleni BL-mérkőzésen, míg Kerkez Milos a Liverpool kispadján kezd, Szoboszlai pedig sérülés miatt hiányzik.",
-          "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/bajnokok-ligaja/2026/10/bl-alapaszakasz-liverpool-villarreal",
+          "text": "A Barcelona panaszt nyújtott be az UEFA-nál egy, a PSG drukkerei által bemutatott szurkolói transzparens miatt.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/10/21/a-barcelona-feljelentette-a-psg-t-az-uefa-nal",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Veszélybe került a Como és Manchester United közötti Bajnokok Ligája-mérkőzés a Lombardiát sújtó időjárás miatt.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/10/21/veszelyben-egy-mai-bajnokok-ligaja-rangado",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Veszprém is Bajnokok Ligájában szerepel.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/10/21/kokemeny-bl-nap-sport-a-teveben",
           "scope": "belfold"
         },
         {
-          "text": "Varga Barnabás a Manchester City elleni BL-mérkőzésen a kezdőben kapott helyet, Vitális Milán pedig a kispadon ül.",
-          "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/bajnokok-ligaja/2026/10/bl-manchester-city-aek-athen",
+          "text": "Gulácsi Péter az Anfield Roadon védett a vendégeknél, Kerkez Milos pedig a cserék között szerepelt a hazaiaknál.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/10/20/bl-eloben-psg-barcelona-parizsban-magyarok-angliaban",
           "scope": "belfold"
         },
         {
-          "text": "Hétfőn megkezdődik a jegyértékesítés a magyar labdarúgó-válogatott Észak-Írország elleni Nemzetek Ligája-mérkőzésére.",
+          "text": "Hétfőn indul a jegyértékesítés a magyar labdarúgó-válogatott Észak-Írország elleni Nemzetek Ligája-mérkőzésére.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/2026/10/20/itt-a-nagy-hir-a-magyar-focivalogatott-szurkoloinak",
           "scope": "belfold"
         },
         {
-          "text": "A PSG és az FC Barcelona összecsapása a keddi BL-játéknap legjobban várt mérkőzése.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/20/este-jon-a-csucstalalkozo-a-parc-des-princes-ben-psg-barcelona",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Cristiano Ronaldót a Portugál Labdarúgó Szövetség pénzbírsággal és egy hónapos eltiltással büntette.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/20/megbuntettek-ronaldot-de-a-penztarcajanak-aligha-lesz-almatlan-ejszakaja",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A Manchester Cityt bűnösnek találták a Premier League pénzügyi szabályzatának kilenc szezonon át tartó megsértésében.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/20/lapertesules-brutalis-buntetest-is-kaphat-a-manchester-city-szinte-mindent-kezdhet-elolrol",
+          "text": "Hvicsa Kvarachelia keresztszalag-szakadást szenvedett, és műteni kell.",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/francia-labdarugas/2026/10/hvicsa-kvarachelia-keresztszalag-szakadast-szenvedett-muteni-kell",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-20T19:07:49.643Z",
+      "updatedAt": "2026-10-21T09:59:43.583Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/20/bl-eloben-psg-barcelona-parizsban-magyarok-angliaban"
+          "link": "https://infostart.hu/sport/2026/10/21/a-barcelona-feljelentette-a-psg-t-az-uefa-nal"
         },
         {
           "name": "Nemzeti Sport",
@@ -117,48 +117,48 @@
     "technologia": {
       "items": [
         {
-          "text": "A félvezetőipar a potenciális összeomlás felé tart.",
+          "text": "Az amerikai hadsereg önmagukat sokszorosító MI-ügynököket alkalmazna az ellenséges hálózatok támadására.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167119/az-amerikai-hadsereg-onmagukat-sokszorosito-mi-ugynokokkel-tamadna-az-ellenseges",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Az elemzések szerint a félvezetőipar az összeomlás felé tart.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/167076/az-osszeomlas-fele-tart-a-felvezetoipar",
           "scope": "kulfold"
         },
         {
-          "text": "Közvetlen adatkapcsolat épülhet Kanada és Európa között az Egyesült Államok megkerülésével.",
+          "text": "Évekig tarthat, mire a bíróságok tisztázzák a mesterséges intelligencia (MI) cégek jogi felelősségét.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167107/evekig-tarthat-mire-a-birosagok-tisztazzak-az-mi-cegek-jogi-felelosseget",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Közvetlen adatkapcsolat épülhet ki Kanada és Európa között, megkerülve az Egyesült Államokat.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/167105/kozvetlen-adatkapcsolat-epulhet-kanada-es-europa-kozott-az-egyesult-allamok-megk",
           "scope": "kulfold"
         },
         {
-          "text": "Három leállított atomerőművet indítanak újra adatközpontok energiaellátása miatt.",
+          "text": "Adatközpontok energiaigényének fedezésére három korábban leállított atomerőművet indítanak újra.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/tudomany/167103/harom-leallitott-atomeromuvet-inditanak-ujra-adatkozpontok-miatt",
           "scope": "kulfold"
         },
         {
-          "text": "Gyorsan előállítható MI másolatok veszélyeztetik a játékfejlesztőket.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/jatek/167101/gyorsan-eloallithato-mi-masolatok-veszelyeztetik-a-jatekfejlesztoket",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Egy hacker tucatnyi weboldalt tört fel MI-ügynökök és néhány ezer dollár segítségével.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167093/hogyan-tort-fel-egy-hacker-tobb-tucat-weboldalt-mi-ugynokok-es-nehany-ezer-dolla",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A SpaceX frissen kilőtt űrhajója döbbenetes nyomot hagyott maga után az égen.",
+          "text": "A SpaceX frissen kilőtt űrhajója látványos jelenséget hagyott maga után az égen a Nemzetközi Űrállomás felé tartva.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/10/15/dobbenetes-nyomot-hagyott-maga-utan-az-egen-a-spacex-frissen-kilott-urhajoja-videok-kepek",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-20T19:07:59.854Z",
+      "updatedAt": "2026-10-21T09:59:55.305Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167076/az-osszeomlas-fele-tart-a-felvezetoipar"
+          "link": "https://sg.hu/cikkek/it-tech/165525/tancolo-tehenek-es-tojasbol-kikelo-tigrisek-arasztjak-el-a-gyerekeknek-szant-vid"
         },
         {
           "name": "Infostart Tudomány",
@@ -170,25 +170,31 @@
     "gazdasag": {
       "items": [
         {
-          "text": "A Tisza-kormány új költségvetést mutatott be, amely az előző adminisztráció gazdasági örökségét és a magas államadósságot hivatott kezelni.",
+          "text": "Az első orosz dízelszállítmány holnap indul az Egyesült Államokba.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261020/magyar-peter-ujabb-reszleteket-arult-el-a-koltsegvetesrol-brutalis-vagas-jon-a-kozmedianal-871082",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Tisza-kormány nem folytatja a 14. havi nyugdíj további fokozatos felépítését, helyette Nyugdíjas SZÉP-kártyát vezet be.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261020/magyar-peter-kerek-perec-kimondta-miert-nem-fogjak-teljesen-felepiteni-a-14-havi-nyugdijat-871074",
-          "scope": "belfold"
-        },
-        {
-          "text": "Az AI-vállalatok és az iráni konfliktus fejleményei állnak a nemzetközi befektetői figyelem középpontjában.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/uzlet/20261020/fordul-a-hangulat-a-tozsdeken-mutatjuk-mi-mozgatja-ma-a-piacokat-870800",
+          "link": "https://www.portfolio.hu/global/20261021/hatalmas-ajandekot-kuld-putyin-amerikanak-mar-holnap-indul-az-elso-szallitmany-871200",
           "scope": "kulfold"
         },
         {
-          "text": "A Magyar Nemzeti Bank Monetáris Tanácsa nem változtatott az 5,50 százalékos alapkamaton keddi ülésén.",
+          "text": "A francia tízéves államkötvény hozama szerdán 24 éves csúcsra, 5 százalékra emelkedett.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/gazdasag/20261021/kozel-25-eves-csucson-a-francia-kotvenyhozamok-ez-mar-panik-871194",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A magyarországi építőipari kivitelezők több mint fele árat emelt 2026-ban, és a következő tizenkét hónapban még többen terveznek drágítást.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/ingatlan/20261021/melyen-a-zsebukbe-kell-nyulniuk-a-felujitoknak-kiderult-melyik-szakma-dragult-a-legjobban-magyarorszagon-870886",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Mol kivásárolta az orosz tulajdonosokat a szerbiai NIS-ből.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/10/21/bejelentes-kivasarolta-a-mol-az-oroszokat-a-nis-bol",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Magyar Nemzeti Bank Monetáris Tanácsa nem változtatott az 5,50 százalékos alapkamaton.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/10/20/itt-az-mnb-kamatdontese",
           "scope": "belfold"
@@ -198,24 +204,18 @@
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/10/20/makroelemzo-a-piac-megvette-a-kormany-altal-kozolt-hianycelt",
           "scope": "belfold"
-        },
-        {
-          "text": "A 2027-es költségvetésben bejelentett intézkedéscsomag, köztük a Wekerle Plusz program, új lendületet adhat a magyar lakáspiacnak.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/20/szakerto-nagy-lokest-jelent-hogy-a-panelben-lakok-is-kaphatnak-penzt-energetikai-korszerusitesre",
-          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-20T19:08:17.655Z",
+      "updatedAt": "2026-10-21T10:00:14.981Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261020/magyar-peter-ujabb-reszleteket-arult-el-a-koltsegvetesrol-brutalis-vagas-jon-a-kozmedianal-871082"
+          "link": "https://www.portfolio.hu/global/20261021/tortenelmi-volumenu-targyalas-vethet-veget-az-ukrajnai-haborunak-zelenszkij-nyomas-alatt-hireink-az-ukrajnai-haborurol-szerdan-871088"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/20/szakerto-az-arenaban-magyar-peter-is-nemet-mondott-brusszelnek-de-nincs-egyedul"
+          "link": "https://infostart.hu/gazdasag/2026/10/21/bejelentes-kivasarolta-a-mol-az-oroszokat-a-nis-bol"
         }
       ],
       "skipped": []
@@ -223,36 +223,24 @@
     "kornyezet": {
       "items": [
         {
-          "text": "A Mexikói-öböl ökoszisztémája továbbra sem lábalt ki a 2010-es olajkatasztrófa következményeiből.",
+          "text": "Az ENSZ jelentése szerint a világ 2,8 fokos felmelegedés felé tart, túllépve a másfél fokos klímacélt.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/10/21/az-ensz-szerint-lottek-a-masfel-fokos-klimacelnak-es-28-fokos-felmelegedes-fele-tartunk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Mexikói-öböl ökoszisztémája még mindig nem heverte ki a 2010-es olajkatasztrófát.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/10/20/a-mexikoi-obol-okoszisztemaja-tovabbra-sem-labalt-ki-a-2010-es-olajkatasztrofa-kovetkezmenyeibol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Japán a világon elsőként indított űrszondát a Mars egyik holdja felé.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/10/20/japan-a-vilagon-elsokent-inditott-urszondat-a-mars-egyik-holdja-fele?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A francia diákok szóviccekkel, rímekkel és rigmusokkal különösen kreatívan tüntetnek Párizsban.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/10/20/szoviccek-rimek-rigmusok-kevesen-tudnak-olyan-kreativan-tuntetni-mint-a-francia-diakok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Franciaországban a rendőri erőszak és a városi lázadások egy sajátos hagyományból táplálkoznak, amelynek nincs köze a bevándorláshoz.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/10/20/a-rendori-eroszak-es-a-varosi-lazadasok-sajatos-francia-hagyomanybol-taplalkoznak-aminek-nincs-koze-a-bevandorlashoz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-20T19:08:36.603Z",
+      "updatedAt": "2026-10-21T10:00:25.409Z",
       "sourceLinks": [
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/10/20/az-ultrahangos-agyi-stimulacio-enyhitheti-a-skizofrenia-tuneteit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/10/21/a-sulyos-depresszios-esetek-negyede-osszefugghet-a-felborult-belso-oraval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": [
@@ -262,44 +250,32 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "A kormány majdnem 1200 milliárd forintot mozgósít a rezsicsökkentés keretének növelésére.",
+          "text": "Sötét tónusú előzetest adott ki a Netflix: ebből biztosan nem lesz hepiend, szétszaladtak a befektetők.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/rezsi-aram-gaz-kapitany-inflacio-atlagfogyasztas",
-          "scope": "belfold"
-        },
-        {
-          "text": "A rezsicsökkentési keret az áram- és földgáz lakossági egységára, a távhő, vízközmű-szolgáltatás és a szemétszállítás díjának alacsonyan tartását szolgálja.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/rezsi-aram-gaz-kapitany-inflacio-atlagfogyasztas",
-          "scope": "belfold"
-        },
-        {
-          "text": "A kormány 50 százalékkal emeli az otthonápolási díjat, beleértve az emelt összegű és kiemelt ápolási díjat is.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/allamtitkar-50-szazalekkal-emeli-a-kormany-az-otthonapolasi-dijat.html?utm_source=rss&utm_medium=referral",
-          "scope": "belfold"
-        },
-        {
-          "text": "A 4iG vezetője Montenegró miniszterelnökével tárgyalt tenger alatti távközlési kábelekről, és közel 20 milliárd forintos szerződést kötöttek.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/vallalatok/tenger-alatti-tavkozlesi-kabelekrol-is-targyalt-a-4ig-vezetoje-montenegro-miniszterelnokevel.html?utm_source=rss&utm_medium=referral",
+          "link": "https://www.vg.hu/penz-es-tokepiac/2026/10/netflix-streaming-eredmeny-bevetel-elorejelzes",
           "scope": "kulfold"
         },
         {
-          "text": "A forintárfolyam kedd estére lecsúszott, noha reggel az euró 362 forint alatt is járt.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/lecsuszott-a-forintarfolyam-kedd-estere.html?utm_source=rss&utm_medium=referral",
-          "scope": "belfold"
+          "text": "Vallottak a boltok: ez lesz a következménye a Tisza-kormány 2027-es költségvetésének – a 200 százalékos adóemelés elviselhetetlen, az árréstop kivezetése nem fog fájni.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/kiskereskedelmi-kulonado-arresstop-cba-koltsegvetes-2027",
+          "scope": "kulfold"
         },
         {
-          "text": "A Pénzügyminisztérium háttérbeszélgetésén Kármán Andrásék ismertették a jövő évre várható gazdasági kilátásokat Magyarországon.",
+          "text": "Filmbe illő módon hiúsította meg Matolcsy Ádám ügyvédje Varga Mihályék 200 milliárdos titkos akcióját.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/uj-vilag-koszont-magyarorszagra-karman-andrasek-elarultak-mi-var-rank-jovore.html?utm_source=rss&utm_medium=referral",
-          "scope": "belfold"
+          "link": "https://mfor.hu/cikkek/makro/filmbe-illo-modon-hiusitotta-meg-matolcsy-adam-ugyvedje-varga-mihalyek-200-milliardos-titkos-akciojat.html?utm_source=rss&utm_medium=referral",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Varga helyett Mészáros Lőrincet választották.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/makro/filmbe-illo-modon-hiusitotta-meg-matolcsy-adam-ugyvedje-varga-mihalyek-200-milliardos-titkos-akciojat.html?utm_source=rss&utm_medium=referral",
+          "scope": "kulfold"
         }
       ],
-      "engine": "gemini",
-      "updatedAt": "2026-10-20T19:08:54.712Z",
+      "engine": "extractive",
+      "updatedAt": "2026-10-21T10:00:36.601Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -307,11 +283,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/allamtitkar-50-szazalekkal-emeli-a-kormany-az-otthonapolasi-dijat.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/szemelyes_penzugyek/majd-ha-tobb-penzem-lesz-elkezdek-felretenni--ennyit-szamithat-nehany-ev-halogatas.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-10-21T09:56:29.789Z"
+  }
 }
