@@ -1,113 +1,111 @@
 {
-  "generatedAt": "2026-10-25T09:43:44.318Z",
+  "generatedAt": "2026-10-25T18:20:48.239Z",
   "fx": {
-    "rate": 366.26,
-    "date": "2026-10-23T21:26:44.000Z",
+    "rate": 366.22,
+    "date": "2026-10-25T18:16:42.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "Barack Obama élesen bírálta a jelenlegi amerikai kormányzatot egy demokrata kampányrendezvényen.",
-          "source": "Telex",
-          "link": "https://telex.hu/kulfold/2026/10/25/egyesult-allamok-felidos-valasztasok-barack-obama-kampany-kritika-donald-trump",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Szerbiában választásokra készülnek, ahol Vučić elnök a kormányfői székbe szeretne visszaülni.",
-          "source": "Telex",
-          "link": "https://telex.hu/kulfold/2026/10/25/szerbia-parlamenti-valasztas-vucic-egyetemista-lista-srdanovic-elozetes",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az MNB-alapítvány több mint egymilliárd forinttal támogatta meg az MCC-t.",
+          "text": "Délután hat óráig a választópolgárok 64,8 százaléka szavazott a szerbiai parlamenti választáson.",
           "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/10/25/padme-mcc-alapitvany-tamogatas-vagyon/",
-          "scope": "belfold"
-        },
-        {
-          "text": "Ellenzéki tömegtüntetés volt Tel-Avivban, ahol a Hamász 2023-as terrortámadása körüli mulasztások feltárását követelték.",
-          "source": "HVG",
-          "link": "https://hvg.hu/vilag/20261025_izrael-valasztas-ellenzeki-tuntetes-tel-aviv-hamasz-terror-tamadas-oktober-7",
+          "link": "https://24.hu/kulfold/2026/10/25/szerbia-valasztas-64-8-szazalek-reszvetel-szabalytalansagok/",
           "scope": "kulfold"
         },
         {
-          "text": "Magyar Péter „szánalmasnak és vérlázítónak” nevezte Toroczkai László beszédét.",
-          "source": "HVG",
-          "link": "https://hvg.hu/itthon/20261025_magyar-peter-mi-hazank-toroczkai-laszlo-szanalmas-verlazito-oktober-23",
-          "scope": "belfold"
+          "text": "Számos szabálytalanságot jelentettek a megfigyelők a szerbiai parlamenti választáson.",
+          "source": "24.hu",
+          "link": "https://24.hu/kulfold/2026/10/25/szerbia-valasztas-64-8-szazalek-reszvetel-szabalytalansagok/",
+          "scope": "kulfold"
         },
         {
-          "text": "Kiderültek az egészségügyi béremelés és a betegbiztonsági reform részletei, amely 123 ezer dolgozót érint.",
+          "text": "Tízezrek vonultak utcára Prágában, mert a cseh kormány módosítani akarja a közmédia finanszírozását.",
+          "source": "24.hu",
+          "link": "https://24.hu/kulfold/2026/10/25/csehorszag-kozmedia-tuntetes-praga/",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Szerb politikai vezetők a békés választás és az eredmények elfogadásának fontosságát hangsúlyozták az előrehozott parlamenti választás napján.",
+          "source": "24.hu",
+          "link": "https://24.hu/kulfold/2026/10/25/szerb-valasztas-magas-reszvetel-politikusok/",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Ukrajna partnerségre lépett a Nokiával, mert nem akar a Starlink műholdas internettől függeni.",
           "source": "HVG",
-          "link": "https://hvg.hu/itthon/20261025_hegedus-zsolt-egeszsegugy-beremeles-betegbiztonsag",
-          "scope": "belfold"
+          "link": "https://hvg.hu/tudomany/20261025_ukrajna-spacex-starlink-muoldas-internet-sebessege-nokia-iceye",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Egy nemzetközi lapszemle szerint Donald Trump úgy tűnik, átállt Moszkvához.",
+          "source": "HVG",
+          "link": "https://hvg.hu/360/20261025_nemzetkozi-lapszemle",
+          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-25T09:42:26.392Z",
+      "updatedAt": "2026-10-25T18:19:48.956Z",
       "sourceLinks": [
         {
-          "name": "Telex",
-          "link": "https://telex.hu/kulfold/2026/10/25/del-korea-puszan-csatorna-capa-tenger-mentes"
-        },
-        {
           "name": "24.hu",
-          "link": "https://24.hu/fn/gazdasag/2026/10/25/budapest-airport-teli-menetrend/"
+          "link": "https://24.hu/kulfold/2026/10/25/szerbia-valasztas-64-8-szazalek-reszvetel-szabalytalansagok/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/vilag/20261025_izrael-valasztas-ellenzeki-tuntetes-tel-aviv-hamasz-terror-tamadas-oktober-7"
+          "link": "https://hvg.hu/hvgkonyvek/20261025_milyen-erzes-a-vilag-egy-kisbaba-szamara"
         }
       ],
-      "skipped": []
+      "skipped": [
+        "Telex"
+      ]
     },
     "sport": {
       "items": [
         {
-          "text": "Az OTP Bank Liga 11. fordulójában az ETO FC Győr 1-0-ra legyőzte az Újpestet, ezzel pontszámban utolérte a Puskás Akadémiát.",
+          "text": "A Liverpool 2-0-ra legyőzte a Brightont az angol labdarúgó-bajnokság nyolcadik fordulójában.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/10/25/szoboszlai-nelkul-tokeletes-a-liverpool-mi-lehet-az-oka",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Moszkva rendezheti a 2030-as súlyemelő-világbajnokságot a nemzetközi szövetség vasárnapi bejelentése alapján.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/10/25/moszkva-rangos-sportvilagversenyt-kapott",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Az ETO FC Győr 1-0-ra legyőzte az Újpestet a labdarúgó OTP Bank Liga 11. fordulójának szombati játéknapján, ezzel pontszámban utolérte a listavezető Puskás Akadémiát.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/2026/10/24/lapbol-joval-tobb-volt-mint-golbol-a-gyor-ujpesten",
           "scope": "belfold"
         },
         {
-          "text": "Sós Csaba információkat osztott meg a budapesti úszó-világbajnokság helyszínválasztásának indokairól.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/24/kiderult-miert-nem-a-duna-arenaban-lesz-a-budapesti-uszo-vb",
-          "scope": "belfold"
-        },
-        {
-          "text": "Cristiano Ronaldo a Forbes magazin szerint első aktív sportolóként lépte át a kétmilliárd dolláros pályafutás során szerzett bevételt.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/24/szetrobbant-c-ronaldo-penztarcaja",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az Aston Villa otthon 1-0-ra legyőzte az éllovas Manchester Cityt, amely hét győzelem után szenvedett vereséget.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/24/reped-a-fal-het-gyozelme-utan-nem-akarkitol-kapott-ki-a-manchester-city",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Udvardy Panna kihagyása a női teniszválogatottból feszültséget okozott a teniszszövetségben.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/24/elkepesztoen-mely-sebek-tarulnak-fel-a-teniszsovetsegben",
-          "scope": "belfold"
-        },
-        {
-          "text": "Stollár Fanny és Desirae Krawczyk nyerte meg a kínai Ningpóban rendezett női tenisztorna párosversenyét, megszerezve ezzel Stollár hatodik páros trófeáját.",
+          "text": "A Ferencváros 4-0-ra legyőzte az MTK-t az NB I-ben.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/tenisz/2026/10/stollar-fanny-hatodik-paros-trofeajat-szerezte-meg-ningoban",
+          "link": "https://www.nemzetisport.hu/merkozes/20261025-ferencvaros-mtk-budapest/elo",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Szpari legyőzte az élen álló Puskás Akadémiát Felcsúton.",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/labdarugo-nb-i/2026/10/meglepetes-felcsuton-a-szpari-legyozte-az-elen-allo-puskas-akademiat",
+          "scope": "belfold"
+        },
+        {
+          "text": "A magyar kéziválogatott idegenben győzött a franciák ellen.",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/kezilabda/2026/10/a-magyar-kezivalogatott-jo-jatekkal-aratott-gyozelmet-idegenben-a-franciak-ellen",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-25T09:42:44.754Z",
+      "updatedAt": "2026-10-25T18:20:02.668Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/25/orokrangado-amerikai-nagydij-sport-a-teveben"
+          "link": "https://infostart.hu/sport/2026/10/25/szoboszlai-nelkul-tokeletes-a-liverpool-mi-lehet-az-oka"
         },
         {
           "name": "Nemzeti Sport",
@@ -119,44 +117,38 @@
     "technologia": {
       "items": [
         {
-          "text": "Európai stratégiai hiba lenne a legfejlettebb MI-modellek fejlesztésének feladása.",
+          "text": "Európa számára stratégiai hibát jelentene a legfejlettebb mesterséges intelligencia (MI) modellek fejlesztésének feladása.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/167149/strategiai-hiba-lenne-ha-europa-feladna-a-legfejlettebb-mi-modellek-fejleszteset",
           "scope": "kulfold"
         },
         {
-          "text": "A Spotify szigorítja a családi előfizetések szabályait.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167146/a-spotify-szigoritja-a-csaladi-elofizetesek-szabalyait",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A közösségimédia-platformok nagyobb irányítást adnak a felhasználóknak a hírfolyamuk felett.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167142/a-kozossegimedia-platformok-nagyobb-iranyitast-adnak-a-felhasznaloknak-a-hirfoly",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Uniós szintű szabályozás készül a deepfake-ek ellen.",
+          "text": "Az Európai Unió uniós szintű szabályozáson dolgozik a deepfake technológiával készült tartalmak visszaszorítására.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/167136/unios-szintu-szabalyozas-keszul-a-deepfake-ek-ellen",
           "scope": "kulfold"
         },
         {
-          "text": "Londonban elindult az önvezető személyszállítási szolgáltatás, egyelőre biztonsági sofőrrel felszerelt járművekkel.",
+          "text": "Irán azzal fenyegetőzött, hogy elvágja a Hormuzi-szoros alatt futó internetkábeleket.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167133/iran-azzal-fenyegetozik-hogy-elvagja-a-hormuzi-szoros-alatti-internetkabeleket",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Londonban megkezdte működését az önvezető személyszállítási szolgáltatás, melynek járművei egyelőre biztonsági sofőrrel üzemelnek.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/10/23/elleptek-az-onvezeto-taxik-londont",
           "scope": "kulfold"
         },
         {
-          "text": "A NASA bemutatta legújabb holdjárműveit, amelyeket a következő holdra szálláshoz és a leendő holdbázis munkálataihoz terveztek.",
+          "text": "A NASA bemutatta legújabb, robotikus és ember által vezethető holdjárműveit, melyeket a következő holdra szállás és a holdbázis építése során használnak majd.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/10/22/bemutatta-legujabb-holdautoit-a-nasa-ezekkel-furikaznak-majd-az-urhajosok-a-leendo-bazison",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-25T09:42:57.764Z",
+      "updatedAt": "2026-10-25T18:20:13.492Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
@@ -172,52 +164,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "Vitézy Dávid közlekedési miniszter bejelentette, hogy forrásokat különítenek el a ferencvárosi diákváros megépítésére.",
+          "text": "A kormány 2027. január 1-jétől duplájára emeli a családi pótlékot és 50 százalékkal növeli az ápolási díjat.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261025/tisza-kormany-megepulhet-a-diakvaros-matolcsy-adam-felszivodott-871844",
+          "link": "https://www.portfolio.hu/gazdasag/20261025/kiszamoltak-mit-jelent-evente-a-csaladi-potlek-emelese-871904",
           "scope": "belfold"
         },
         {
-          "text": "Egy törvénytervezet szerint felső korlátot szabnának az egyedi méltányossági gyógyszertámogatásokra Magyarországon.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261025/nagy-fordulat-jon-a-gyogyszertamogatasoknal-bizonytalanna-valhat-sok-beteg-kezelese-magyarorszagon-871856",
+          "text": "A 2027-es nyugdíjváltozások az alacsony ellátásúaknak kedveznek, míg a félmillió forintot meghaladó nyugdíjjal rendelkezők kedvezőtlenebb helyzetbe kerülnek.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/10/25/femillios-nyugdijnal-140-ezer-forintot-veszit-az-igeretekhez-kepest",
           "scope": "belfold"
         },
         {
-          "text": "Az elektromos autók mintegy 200 millió hordónyi nyersolaj elfogyasztását takarították meg az olajimportáló országoknak, ami 20 milliárd dollár megtakarítást jelent.",
+          "text": "A hatóság ötmillió forintos környezetvédelmi bírságot szabott ki a gödi Samsung SDI akkumulátorgyárra engedélytől eltérő tevékenység miatt.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/10/25/ujabb-millios-birsag-a-samsungnak",
+          "scope": "belfold"
+        },
+        {
+          "text": "Az Apple új eljárással és egy speciális szkenner segítségével lép fel az üzleteiben tapasztalható visszaélésszerű termékvisszaküldések ellen.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261025/elszabadultak-az-uzemanyagarak-a-vilagban-dollarmilliardokat-sporolnak-az-elektromos-autok-871030",
+          "link": "https://www.portfolio.hu/gazdasag/20261025/olyan-durvan-csalnak-egyes-ugyfelek-az-iphone-okkal-hogy-az-apple-uj-eszkozt-vet-be-871896",
           "scope": "kulfold"
         },
         {
-          "text": "A kormány 192 milliárd forintot fordít 123 ezer egészségügyi és háttérdolgozó bérrendezésére a 2027-es egészségügyi költségvetésből.",
+          "text": "December 13-án, az éves menetrendváltással indul a közvetlen vasúti személyszállítás Belgrádból Budapestre és Bécsbe a szerb vasúttársaság bejelentése szerint.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/10/25/decemberben-mar-suhanni-lehet-belgradbol-becsbe",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A kormány a 2027-es egészségügyi költségvetés 510 milliárd forintos többletéből 192 milliárd forintot fordít 123 ezer egészségügyi és háttérdolgozó bérrendezésére.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/10/25/szazkilencvenketmilliard-forint-beremelesre",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Szerbiai Kőolajipari Vállalat (NIS) működési engedélyének újabb meghosszabbítását kérte Washingtontól az amerikai szankciók miatt.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/24/tul-a-mol-szerbiai-tulajdonszerzesen-most-mar-csak-az-amerikai-zold-jelzes-kell",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A Liszt Ferenc Nemzetközi Repülőtér minden idők legerősebb nyarát zárta, és az őszi forgalom is rekorddal indult.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/23/soha-nem-volt-meg-ilyen-nyara-ferihegynek",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-25T09:43:11.315Z",
+      "updatedAt": "2026-10-25T18:20:29.709Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261025/tisza-kormany-megepulhet-a-diakvaros-matolcsy-adam-felszivodott-871844"
+          "link": "https://www.portfolio.hu/gazdasag/20261025/kiszamoltak-mit-jelent-evente-a-csaladi-potlek-emelese-871904"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/25/szazkilencvenketmilliard-forint-beremelesre"
+          "link": "https://infostart.hu/gazdasag/2026/10/25/femillios-nyugdijnal-140-ezer-forintot-veszit-az-igeretekhez-kepest"
         }
       ],
       "skipped": []
@@ -225,14 +217,20 @@
     "kornyezet": {
       "items": [
         {
-          "text": "Az amerikai hadseregnek klónozott és génszerkesztett katonai kutyákat fejlesztő Warhound startup egyik alapítója a kihalt állatfajok feltámasztásán dolgozó Colossal Biosciences vezérigazgatója.",
+          "text": "A NASA partnereivel közösen leegyszerűsíti a holdkompok terveit, és átdolgozza a küldetési forgatókönyveket, hogy két év múlva az Artemis–4 két űrhajósa leszállhasson a Hold déli pólusánál.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/10/24/felgyorsitjak-a-2028-as-amerikai-holdra-szallas-elokesziteset-hogy-megelozzek-kinat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Warhound nevű startup két ötletgazdája az Oculus-alapító VR-pápa, Palmer Luckey, illetve a kihalt állatfajok feltámasztásán dolgozó Colossal Biosciences vezérigazgatója.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/10/23/klonozott-genszerkesztett-katonai-kutyakat-fejlesztenek-az-amerikai-hadseregnek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         }
       ],
-      "engine": "gemini",
-      "updatedAt": "2026-10-25T09:43:33.552Z",
+      "engine": "extractive",
+      "updatedAt": "2026-10-25T18:20:31.235Z",
       "sourceLinks": [
         {
           "name": "Qubit",
@@ -246,38 +244,38 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Trump tervei szerint az Egyesült Államok újra üzletelni fog Oroszországgal a háború után, és újranyitná az amerikai piacot.",
+          "text": "Az EU a Frontexet kitoloncolási ügynökséggé alakítaná, de az már most pénzhiánnyal küzd, és Brüsszelben milliárdokon folyik a vita.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/10/trump-termeszetesen-uzletelni-fogunk-oroszorszaggal",
+          "link": "https://www.vg.hu/kozelet/2026/10/frontex-eu-migracio-kitoloncolas-brusszel-penzhiany",
           "scope": "kulfold"
         },
         {
-          "text": "A Tisza Párt tervei szerint jövőre plusz 510 milliárd forintot biztosítanak az egészségügy számára.",
+          "text": "Több tízezer autótulajdonos válthat biztosítót az év végén, mivel elindult a kötelező gépjármű-felelősségbiztosítási (kgfb) kampány.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/egeszsegugy/a-tisza-egyik-legfontosabb-igerete-volt-hegedus-zsolt-elmagyarazta-hogyan-tervezik-megvalositani-jovore.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/makro/az-ev-vegen-tobb-tizezer-autotulajdonos-valthat-biztositot.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         },
         {
-          "text": "Több mint 1 milliárd forint folyt az MNB-alapítványokból, melynek egyik kedvezményezettje a Mathias Corvinus Collegium volt.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozerdeku/kiderult-hova-folyt-tobb-mint-1-milliard-forint-az-mnb-alapitvanyokbol.html?utm_source=rss&utm_medium=referral",
+          "text": "Nyilvánosságra került egy nyolcmilliós kommunikációs szerződés, amely Lannert Judit kommunikációjával kapcsolatban jött létre.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/lannert-judit-kommunikacioja-nyilvanossagra-kerult",
           "scope": "belfold"
         },
         {
-          "text": "Pénteken várható a harmadik negyedéves magyar GDP adatainak közzététele.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/penteken-erkezik-az-ujabb-sorsdonto-adat-a-magyar-gazdasagbol.html?utm_source=rss&utm_medium=referral",
+          "text": "A kórházi étkeztetésbe belenyúlnak, mivel négyszeres különbség van a betegétkeztetés árában, és 10 milliárdos változás jön a beszállítók és takarítócégek esetleges cseréjével.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/hegedus-zsolt-belenyulnak-a-korhazi-etkeztetesbe",
           "scope": "belfold"
         },
         {
-          "text": "A legjobban kereső magyarok látványosan kevés személyi jövedelemadót fizetnek.",
+          "text": "A kormány hozzányúlhat a különösen drága gyógyszerek szabályaihoz.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/latvanyosan-keves-szja-t-fizetnek-a-legjobban-kereso-magyarok--a-het-abraja.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/egeszsegugy/hozzanyulhat-a-kulonosen-draga-gyogyszerek-szabalyaihoz-a-kormany.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-25T09:43:44.134Z",
+      "updatedAt": "2026-10-25T18:20:48.156Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -285,11 +283,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/egeszsegugy/a-tisza-egyik-legfontosabb-igerete-volt-hegedus-zsolt-elmagyarazta-hogyan-tervezik-megvalositani-jovore.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/egeszsegugy/az-eu-meg-csak-tervezi--de-csalodast-okoztak-a-valos-tapasztalatok-a-kozossegi-media-tiltasarol.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-10-25T15:53:30.107Z"
+  }
 }
