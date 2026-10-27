@@ -1,60 +1,60 @@
 {
-  "generatedAt": "2026-10-26T20:26:00.046Z",
+  "generatedAt": "2026-10-27T10:22:21.558Z",
   "fx": {
-    "rate": 367.291,
-    "date": "2026-10-27T07:39:44.000Z",
+    "rate": 367.239,
+    "date": "2026-10-27T10:22:20.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "Szent-Iványi István szerint magyar szakértők is segíthették a Diáklista kampányát Szerbiában.",
+          "text": "A Wekerle-program 2027-től indul.",
           "source": "24.hu",
-          "link": "https://24.hu/kulfold/2026/10/26/diaklista-vucic-eredmeny-szent-ivanyi-gyarmati-24extra/",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Gyurkó Szilvia vezetésével új testület jön létre a kórházban rekedt csecsemők helyzetének megoldására.",
-          "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/10/26/gyurko-szilvia-vezetesevel-uj-testulet-jon-letre-a-korhazban-rekedt-csecsemok-helyzetenek-megoldasara/",
+          "link": "https://24.hu/belfold/2026/10/27/magyar-peter-2027-ban-indul-a-wekerle-program/",
           "scope": "belfold"
         },
         {
-          "text": "A szerbiai választások után a Vajdasági RTV bocsánatot kért nézőitől az éveken át tartó egyoldalú tájékoztatásért.",
+          "text": "A kormány a Wekerle-programokkal támogatná a lakásépítést, az első otthon megszerzését, az önerő összegyűjtését és az energetikai korszerűsítést.",
           "source": "24.hu",
-          "link": "https://24.hu/kulfold/2026/10/26/szerbia-vajdasagi-televizio-bocsanatkeres/",
-          "scope": "kulfold"
+          "link": "https://24.hu/belfold/2026/10/27/a-wekerle-program-reszleteit-ismerteti-a-kormany/",
+          "scope": "belfold"
         },
         {
-          "text": "Moszkvában korlátozzák a mobilinternet-hozzáférést két csúcstalálkozó, köztük az Oroszország-Afrika csúcstalálkozó miatt.",
-          "source": "HVG",
-          "link": "https://hvg.hu/tudomany/20261026_moszkva-korlatozas-mobilnet-csucstalalkozo",
-          "scope": "kulfold"
+          "text": "A kormány sajtótájékoztatót tart a jövő évi költségvetés újabb részleteiről a Pénzügyminisztériumban.",
+          "source": "24.hu",
+          "link": "https://24.hu/belfold/2026/10/27/koltsegvetes-tajekoztato-magyar-peter-karman-andras-kapitany-istvan-wekerle-lakashitel-kollegiumepites-lakhatas/",
+          "scope": "belfold"
         },
         {
-          "text": "A román hírszerzés szerint orosz szabotázskísérlet okozta a brassói lőszergyár közelében keletkezett tüzet.",
-          "source": "HVG",
-          "link": "https://hvg.hu/vilag/20261026_roman-hirszerzes-orosz-szabotazskiserlet-brassoi-loszergyar-tuz",
-          "scope": "kulfold"
+          "text": "Az összeférhetetlenségi törvényjavaslat elfogadása és hatályba lépése után a korábbi és jelenlegi politikusoknak nyilatkozniuk kell az érintettségükről.",
+          "source": "24.hu",
+          "link": "https://24.hu/sport/2026/10/27/kalnoki-kiss-attila-kubatov-gabor-osszeferhetetlensegi-torvenyjavaslat/",
+          "scope": "belfold"
         },
         {
-          "text": "A Budapesti Önkormányzatok Szövetségének rendkívüli ülésén Pikó András szerint még nem született döntés Karácsony Gergely javaslatairól.",
+          "text": "Romsics Ignác történész azt kívánja, hogy Magyar Péter sikeres legyen, és ne bolonduljon bele a hatalomba.",
+          "source": "24.hu",
+          "link": "https://24.hu/belfold/2026/10/27/romsics-ignac-nagyinterju-1956-tortenelem-politika-24extra/",
+          "scope": "belfold"
+        },
+        {
+          "text": "Kármán András, Kapitány István és Magyar Péter a Wekerle Plusz program részleteiről beszélnek.",
           "source": "HVG",
-          "link": "https://hvg.hu/itthon/20261026_budapesti-onkormanyzatok-szovetsege-rendkivuli-kozgyules-parkolas-piko-andras-karacsony-gergely",
+          "link": "https://hvg.hu/gazdasag/20261027_karman-andras-magyar-peter-penzugyminiszterium-koltsegvetes-wekerle-program-sajtotajekoztato",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-26T20:24:33.272Z",
+      "updatedAt": "2026-10-27T10:21:03.766Z",
       "sourceLinks": [
         {
           "name": "24.hu",
-          "link": "https://24.hu/sport/2026/10/26/otvenhatunk-melbourne-vizilabda-magyar-szovjet-24extra/"
+          "link": "https://24.hu/belfold/2026/10/27/magyar-peter-2027-ban-indul-a-wekerle-program/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/tudomany/20261026_moszkva-korlatozas-mobilnet-csucstalalkozo"
+          "link": "https://hvg.hu/elet/20261027_egyesult-allamok-tennessee-borton-szokes-video"
         }
       ],
       "skipped": [
@@ -64,48 +64,48 @@
     "sport": {
       "items": [
         {
-          "text": "Az idei Aranylabda-gála Londonban, a Palladiumban kezdődött volna este 9 órakor.",
+          "text": "Sallai Rolandot, a Galatasaray magyar válogatott légiósát kétszer is meglökte, majd meg akarta ütni a Fenerbahce csatára, Kerem Aktürkoglu egy török bajnoki rangadón.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/10/27/lokdostek-es-meg-akartak-utni-sallai-rolandot-vegul-a-rendorsegnek-kellett-kozbelepnie",
+          "scope": "belfold"
+        },
+        {
+          "text": "Harry Kane, az angol válogatott csapatkapitánya és a Bayern München csatára kapta a 2026-os Aranylabdát, miután őt választották a 2025–2026-os idény legjobbjának.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/2026/10/26/aranylabda-gala-eloben-kane-mbappe-yamal-cagy-valaki-mas",
           "scope": "kulfold"
         },
         {
-          "text": "Szalai Attila egyeztetett Marco Rossi szövetségi kapitánnyal.",
+          "text": "Szalai Attila, a Pogoń Szczecin játékosa egyeztetett Marco Rossi szövetségi kapitánnyal, célja pedig, hogy ismét meghívót kapjon a magyar válogatottba.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/2026/10/26/felhivtak-marco-rossit",
           "scope": "belfold"
         },
         {
-          "text": "Harry Kane, Kylian Mbappé és Lamine Yamal az Aranylabda elnyerésére esélyesek.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/26/harry-kane-a-favorit-de-tenyleg-nyer-e",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az FC Barcelona a Bajnokok Ligájában kikapott a PSG-től, majd elveszítette a Real Madrid elleni Clásicót.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/26/hansi-flick-a-ket-vereseg-utan-ki-kell-tisztitani-a-fejeket",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Dzunics kosárlabdatréner távozik Kaposvárról, helyét Szőke Balázs másodedző veszi át.",
+          "text": "Golovin Vlagyimir szerint a játékosok megmutatták, hogy közösen sok mindenre képesek, és a nehéz feladatokat csakis csapatként lehet megoldaniuk.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/kosarlabda/2026/10/mas-hullamhosszon-ez-all-dzunics-kaposvari-tavozasanak-hattereben",
+          "link": "https://www.nemzetisport.hu/kezilabda/2026/10/golovin-vlagyimir-megmutattak-a-lanyok-hogy-kozosen-sok-mindenre-kepesek",
           "scope": "belfold"
         },
         {
-          "text": "Fredrik Söderberg, a svéd AIK korábbi vezérigazgatója lett a DVSC új cégvezetője.",
+          "text": "A Ferencvárosi Torna Club kedden elnököt választ.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/labdarugo-nb-i/2026/10/nb-i-a-sved-aik-korabbi-vezerigazgatoja-lett-a-dvsc-uj-cegvezetoje",
+          "link": "https://www.nemzetisport.hu/egyeb-egyeni/2026/10/kubatov-gabor-hatralepes-vagy-nyilt-harc",
           "scope": "belfold"
+        },
+        {
+          "text": "A France Football főszerkesztője elárulta, szorosabb volt a verseny Harry Kane és Kylian Mbappé között a 2026-os Aranylabdáért, mint 2024-ben.",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/minden-mas-foci/2026/10/aranylabda-nagyon-keves-volt-a-kulonbseg-kane-es-mbappe-kozott",
+          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-26T20:24:53.426Z",
+      "updatedAt": "2026-10-27T10:21:20.231Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/26/aranylabda-gala-eloben-kane-mbappe-yamal-cagy-valaki-mas"
+          "link": "https://infostart.hu/sport/2026/10/27/jon-a-borussia-dortmund-a-villareal-es-az-arsenal-is-sport-a-teveben"
         },
         {
           "name": "Nemzeti Sport",
@@ -117,9 +117,21 @@
     "technologia": {
       "items": [
         {
-          "text": "Az Anthropic tőzsdére léphet, és 2026-ban akár kétbillió dollárt is érhet.",
+          "text": "Az Anthropic tőzsdére léphet, és 2026-ra akár kétbillió dollárt is érhet.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/167172/tozsdere-lep-az-anthropic-akar-ketbillio-dollart-is-erhet",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Az MI-boom jövője az Anthropic tőzsdei bevezetésének sikerétől függ.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167185/az-mi-boom-jovoje-mulik-az-anthropic-tozsdei-bevezetesenek-sikeren",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Az Apple bemutatta a frissített iPad minit.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167178/az-apple-bemutatta-a-frissitett-ipad-minit",
           "scope": "kulfold"
         },
         {
@@ -129,32 +141,20 @@
           "scope": "kulfold"
         },
         {
-          "text": "A feltört PlayStation 5 konzolokon már Steam játékok is futtathatók.",
+          "text": "Feltört PlayStation 5 konzolokon már Steam játékok is futtathatók.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/jatek/167170/mar-steam-jatekok-is-futtathatok-a-feltort-playstation-5-konzolokon",
           "scope": "kulfold"
         },
         {
-          "text": "Az Intel vezetője az AMD vezetőjével tárgyalt egy lehetséges együttműködésről.",
+          "text": "Az Intel vezetője, Lip-Bu Tan az AMD-vel való együttműködésről egyeztetett Lisa Suval.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/167166/az-intel-vezetoje-lip-bu-tan-az-amd-vel-valo-egyuttmukodesrol-beszelgetett-lisa-",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az MI fejlődését akadályozza a megfelelő biztosítási háttér hiánya.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167165/az-mi-fejlodesenek-ujabb-akadalya-a-megfelelo-biztositas-hianya",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Londonban elindult az önvezető személyszállítási szolgáltatás, egyelőre biztonsági sofőrrel.",
-          "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/10/23/elleptek-az-onvezeto-taxik-londont",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-26T20:25:00.275Z",
+      "updatedAt": "2026-10-27T10:21:26.427Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
@@ -162,7 +162,7 @@
         },
         {
           "name": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/10/26/a-vizszintcsokkenes-kielezi-a-balatoni-invazios-kagylok-versenyet"
+          "link": "https://infostart.hu/tudomany/2026/10/27/magyar-kutatok-nagy-dolgokra-jottek-egy-csillagkitores-utan"
         }
       ],
       "skipped": []
@@ -170,16 +170,16 @@
     "gazdasag": {
       "items": [
         {
-          "text": "A kormány a napokban benyújthatja a 2027-es költségvetés törvénytervezetét.",
+          "text": "A Tisza-kormány új lakás- és kollégiumépítési programot, Wekerle+ hitelt, valamint felújítási és lakás-takarékpénztári támogatásokat indít útjára.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261026/tisza-kormany-a-koltsegvetest-varjuk-washingtonba-utazik-orban-anita-871950",
+          "link": "https://www.portfolio.hu/ingatlan/20261027/lakossagi-penzeso-jonnek-a-kormany-bejelentesei-a-3-os-hitelrol-a-felujitasi-programrol-es-a-lakastakarekrol-872230",
           "scope": "belfold"
         },
         {
-          "text": "Az Irán elleni támadás elhalasztása miatt emelkednek a tőzsdék és esik az olajár.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/uzlet/20261026/verengzes-a-brazil-tozsden-pluszban-zart-amerika-871942",
-          "scope": "kulfold"
+          "text": "Az állam a jövőben is kedvező, kamattámogatott hitelekkel támogatja a magyar kis- és középvállalkozásokat.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/10/27/tamogatasokat-jelentett-be-kapitany-istvan",
+          "scope": "belfold"
         },
         {
           "text": "A kormány 2027-től megduplázza a tartósan beteg vagy súlyos fogyatékossággal élő gyermekek után járó emelt családi pótlékot.",
@@ -194,22 +194,28 @@
           "scope": "belfold"
         },
         {
-          "text": "Uniós jogvita robbant ki az állampapírok adózása körül Magyarországon.",
+          "text": "Uniós jogvita robbant ki az állampapírok adómentessége körül, melyek a magyar államadósság több mint ötödét teszik ki.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/10/26/brusszel-az-allampapirok-adomentesseget-tamadja-de-van-egy-megoldas-amellyel-senki-sem-veszitene",
+          "scope": "belfold"
+        },
+        {
+          "text": "A hét legfontosabb hazai eseménye a 2027-es költségvetés törvényjavaslatának benyújtása lehet.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/gazdasag/20261027/tisza-kormany-megjottek-az-uj-kormanyzati-dontesek-es-kiderult-mikor-dontenek-a-24-i-munkaszuneti-naprol-872172",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-26T20:25:15.730Z",
+      "updatedAt": "2026-10-27T10:21:39.556Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261026/tisza-kormany-a-koltsegvetest-varjuk-washingtonba-utazik-orban-anita-871950"
+          "link": "https://www.portfolio.hu/global/20261027/atomfegyvert-epit-europa-vezeto-hatalma-brassoban-robbantottak-az-oroszok-hireink-az-ukrajnai-haborurol-kedden-872164"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/26/ma-estere-is-tartogatott-egy-milliardos-bejelentest-magyar-peter"
+          "link": "https://infostart.hu/gazdasag/2026/10/27/tamogatasokat-jelentett-be-kapitany-istvan"
         }
       ],
       "skipped": []
@@ -217,42 +223,24 @@
     "kornyezet": {
       "items": [
         {
-          "text": "A Tübingeni Egyetem kutatói szerint a varjak kétszer gyorsabban döntenek, mint a csimpánzok vagy az emberek.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/10/26/a-varjak-ketszer-gyorsabban-dontenek-mint-a-csimpanzok-vagy-az-emberek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "kulfold"
-        },
-        {
           "text": "Az idei hőhullámok több mint 50 ezer európai városlakó halálát okozták.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/10/26/tobb-mint-50-ezer-europai-varoslako-halalat-okoztak-az-idei-hohullamok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Az idei európai hőhullámok áldozatainak száma közel kétszerese a 2003-as és 2022-es forróságok idején regisztráltaknak.",
+          "text": "A Tübingeni Egyetem kutatói szerint a varjak kétszer gyorsabban hoznak döntéseket, mint a csimpánzok vagy az emberek.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/10/26/tobb-mint-50-ezer-europai-varoslako-halalat-okoztak-az-idei-hohullamok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/10/26/a-varjak-ketszer-gyorsabban-dontenek-mint-a-csimpanzok-vagy-az-emberek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
-        },
-        {
-          "text": "Potyó Imre elnyerte az Év Európai Természetfotósa 2026 fődíját.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/10/26/potyo-imre-az-ev-europai-termeszetfotosa-2026-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "belfold"
-        },
-        {
-          "text": "Potyó Imre az első magyar fotós, aki elnyerte az Év Európai Természetfotósa díj fődíját.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/10/26/potyo-imre-az-ev-europai-termeszetfotosa-2026-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-26T20:25:38.608Z",
+      "updatedAt": "2026-10-27T10:22:05.635Z",
       "sourceLinks": [
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/10/26/a-varjak-ketszer-gyorsabban-dontenek-mint-a-csimpanzok-vagy-az-emberek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/10/27/intenzivebbnek-erezzuk-az-izeket-ha-eves-kozben-zenet-hallgatunk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": [
@@ -262,32 +250,38 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "A német elit elégedetlen az Audi-vezér Gernot Döllner és Donald Trump közötti barátsággal, holott Döllnernek nyomós oka van Trump kegyeinek keresésére.",
+          "text": "Egy amerikai óriásbank leértékelte az OTP-t, de továbbra is jelentős emelkedést jósol a részvénynek.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/cegvilag/2026/10/audi-vezerigazgato-amerikai-gyar-tervek-trump-kampany",
+          "link": "https://www.vg.hu/penz-es-tokepiac/2026/10/otp-learazta-az-otp-t-az-amerikai-nagybank",
+          "scope": "belfold"
+        },
+        {
+          "text": "Berlinből érkezett üzenet szerint az uniós pénzeket befolyásolhatja, ha Magyarország elutasítja Kijev finanszírozását.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/10/unios-penzek-ukran-hitel-magyar-peter",
           "scope": "kulfold"
         },
         {
-          "text": "Gyengült a magyar fizetőeszköz.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/befektetes/nem-alszik-jol-ha-meglatja-mennyibe-kerul-egy-euro.html?utm_source=rss&utm_medium=referral",
-          "scope": "belfold"
-        },
-        {
-          "text": "Személyi változások várhatók Mészáros Lőrinc bankjában, ahol új vezérigazgatót választhatnak.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/vallalatok/szemelyi-valtozasok-meszaros-lorinc-bankjaban.html?utm_source=rss&utm_medium=referral",
-          "scope": "belfold"
-        },
-        {
-          "text": "Az árfolyamadatok 15 perces késleltetéssel jelennek meg.",
+          "text": "Németország megkérdőjelezi a felzárkóztatási támogatások indokoltságát azon országok számára, amelyek nem vesznek részt Kijev finanszírozásában.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/reszvenyek",
+          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/10/unios-penzek-ukran-hitel-magyar-peter",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Sorozatban érkeznek a súlyos leminősítések a Rogán Antalhoz közeli cégeknél.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/vallalatok/fogy-a-levego-a-rogan-antalhoz-kozeli-cegeknel-sorozatban-erkeznek-a-sulyos-leminositesek.html?utm_source=rss&utm_medium=referral",
+          "scope": "belfold"
+        },
+        {
+          "text": "Egy hitelminősítő elemzése szerint komoly kihívások várnak Magyarországra az euró bevezetése előtt.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/makro/ez-lehet-a-legnagyobb-kihivas-magyarorszagnak-az-euro-bevezetese-elott.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-26T20:25:59.967Z",
+      "updatedAt": "2026-10-27T10:22:21.412Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -295,11 +289,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozerdeku/magyar-peter-ujabb-csaladi-potlek-emelest-jelentett-be.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/vallalatok/eladja-az-egri-focicsapat-mogott-allo-ceget-meszaros-lorinc-ugyvedje.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-10-27T07:39:45.627Z"
+  }
 }
