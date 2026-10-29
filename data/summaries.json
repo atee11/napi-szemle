@@ -1,48 +1,54 @@
 {
-  "generatedAt": "2026-10-28T11:12:46.079Z",
+  "generatedAt": "2026-10-29T11:26:14.852Z",
   "fx": {
-    "rate": 366.515,
-    "date": "2026-10-29T05:17:13.000Z",
+    "rate": 365.589,
+    "date": "2026-10-29T11:26:13.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "The post Filmbe illő fegyveres rablás Csarodán, több tízmilliónyi valutát raboltak maszkos férfiak két nőtől first appeared on 24.hu.",
+          "text": "A Spar vezére szerint alaptalannak bizonyult a magyar kormánnyal kapcsolatos eufória, és az Európai Bizottságnak közbe kell lépnie a kiskereskedelmi különadó miatt.",
           "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/10/28/csaroda-filmbe-illo-fegyveres-rablas/",
-          "scope": "kulfold"
+          "link": "https://24.hu/fn/gazdasag/2026/10/29/spar-ado-magyar-tisza/",
+          "scope": "belfold"
         },
         {
-          "text": "The post Ókovács Szilveszter a Diótörő jegyárairól: Nem látom az érvet, mitől kellene olcsónak lennie first appeared on 24.hu.",
+          "text": "Lemondott az Európai Központi Bank elnöke, noha még egy év hátravolt a mandátumából.",
           "source": "24.hu",
-          "link": "https://24.hu/kultura/2026/10/28/okovacs-szilveszter-diotoro-jegyarak-operahaz/",
+          "link": "https://24.hu/fn/gazdasag/2026/10/29/europai-kozponti-bank-christine-lagrade-lemondas/",
           "scope": "kulfold"
         },
         {
-          "text": "Az X500 Pro mellé egy X500 Pro Max kiadás is érkezik az európai piacokra.",
+          "text": "Kiszámolták a Wekerle Plusz Program várható törlesztőrészleteit, melyek szerint főként azok járnak jól, akik elegendő önerőt tudnak felmutatni.",
           "source": "HVG",
-          "link": "https://hvg.hu/tudomany/20261028_vivo-x500-pro-vivo-x500-pro-max-okostelefon-bemutato-kamera-fotozas-tenerife",
-          "scope": "kulfold"
+          "link": "https://hvg.hu/gazdasag/20261029_wekerle-plusz-program-lakas-onero-hitel-torleszto",
+          "scope": "belfold"
         },
         {
-          "text": "A közel 250 üzletet működtető cég a magyar beszállítókra is kiemelten épít, választékának csaknem kétharmada hazai partnerektől érkezik.",
+          "text": "Vitézy Dávid közlekedési miniszter régóta várt közútfejlesztési terveket jelentett be, melyekre szerinte az előző kormány politikája miatt csak 20 milliárd forint áll a Magyar Közút rendelkezésére.",
           "source": "HVG",
-          "link": "https://hvg.hu/gazdasag/20261028_penny-kiskereskedelem-diszkont-terjeszkedes-verseny-vezer-philipp-stiehler",
-          "scope": "kulfold"
+          "link": "https://hvg.hu/gazdasag/20261029_vitezy-david-kozutfejlesztes-bejelentes-utfelujitas",
+          "scope": "belfold"
+        },
+        {
+          "text": "Feljelentették Orbán Viktort a lakiteleki beszéde miatt, amelyben a volt miniszterelnök \"tompább, élesebb\" eszközökről beszélt a \"nemzeti ellenállás\" keretében.",
+          "source": "HVG",
+          "link": "https://hvg.hu/itthon/20261029_feljelentes-orban-viktor-lakitelek-beszed-dpk-tabor-nemzeti-nyomozo-iroda",
+          "scope": "belfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-10-28T11:11:31.342Z",
+      "engine": "gemini",
+      "updatedAt": "2026-10-29T11:25:16.585Z",
       "sourceLinks": [
         {
           "name": "24.hu",
-          "link": "https://24.hu/fn/gazdasag/2026/10/28/reklamado-kormany-tisza-ado/"
+          "link": "https://24.hu/kultura/2026/10/29/meghalt-elke-sommer-rozsaszin-parduc/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/tudomany/20261028_vivo-x500-pro-vivo-x500-pro-max-okostelefon-bemutato-kamera-fotozas-tenerife"
+          "link": "https://hvg.hu/gazdasag/20261029_wekerle-plusz-program-lakas-onero-hitel-torleszto"
         }
       ],
       "skipped": [
@@ -52,48 +58,48 @@
     "sport": {
       "items": [
         {
-          "text": "Lamine Yamal édesapja, Mounir Nasraoui ismét súlyos vádakkal néz szembe egy botrány miatt.",
+          "text": "Minden szerdai futballmeccset elhalasztottak Spanyolországban egy szörnyű vonatbaleset miatt.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/28/ujabb-botranyt-okozott-az-ifju-barca-csillag-apja",
+          "link": "https://infostart.hu/sport/2026/10/29/minden-szerdai-futballmeccset-elhalasztottak-spanyolorszagban",
           "scope": "kulfold"
         },
         {
-          "text": "Harry Kane-t a világ legjobb játékosává koronázták, miután Londonban átvette a 2026-os Aranylabdát.",
+          "text": "Vincent Kompany, a Bayern vezetőedzője agyhártyagyulladást kaphatott, de már otthon lábadozik.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/27/harry-kane-aranylabdaja-nemcsak-a-bayernnek-hanem-az-egesz-bundesliganak-fontos",
+          "link": "https://infostart.hu/sport/2026/10/29/mar-tudjak-az-orvosok-mi-baja-van-a-bayern-vezetoedzojenek",
           "scope": "kulfold"
         },
         {
-          "text": "Több kínai márka megvonta Kylian Mbappétól a támogatását a játékos állítólagos megjegyzései nyomán.",
+          "text": "Az élvonalbeli Kisvárda kiesett a labdarúgó Mol Magyar Kupából, miután kikapott a harmadosztályú Pécsi MFC-től.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/27/megorroltak-a-kinaiak-kylian-mbappera",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Molnár Rajmund tíz hónap kihagyás után térhet vissza a pályára, szerdán az ötödosztályú második csapatban kaphat lehetőséget.",
-          "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/legiosok/2026/10/molnar-rajmund-tiz-honap-kihagyas-utan-visszaterhet-a-palyara",
+          "link": "https://infostart.hu/sport/2026/10/28/harmadosztalyu-csapat-ejtette-ki-a-kisvardat",
           "scope": "belfold"
         },
         {
-          "text": "Az NB I-es kuparangadón két élvonalbeli csapat mérkőzik meg, amelyek még keresik megfelelő összetételüket és játékukat.",
-          "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/labdarugo-nb-i/2026/10/sebezheto-vedelmek-az-nb-i-es-kuparangadon",
-          "scope": "belfold"
+          "text": "A Barcelona megtámadja a Spanyol Labdarúgó-szövetség döntését az Atlético Madriddal folytatott Álvarez-ügyben.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/10/28/a-barcelona-nem-akar-fizetni-az-alvarez-ugyben",
+          "scope": "kulfold"
         },
         {
-          "text": "A Real Madrid is elnézést kért Kylian Mbappé szavai miatt, követve a spanyol liga és a csatár korábbi lépését.",
-          "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/spanyol-labdarugas/2026/10/a-real-madrid-is-elnezest-kert-kylian-mbappe-szavai-miatt",
+          "text": "Óriási meglepetéssel zárult a Fleetwood és az Arsenal Ligakupa-mérkőzése, ahol 84 hely a különbség a két csapat bajnoki tabelláin.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/10/28/ez-volt-az-angol-futballideny-eddigi-legnagyobb-meglepetese",
           "scope": "kulfold"
+        },
+        {
+          "text": "Bognár és Végh jól küzdött, de kikapott a kazahsztáni birkózó-világbajnokságon.",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/birkozas/2026/10/oriasi-a-hangulat-a-birkozo-vb-n-bognar-es-vegh-jol-kuzdott-de-kikapott",
+          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-28T11:11:51.859Z",
+      "updatedAt": "2026-10-29T11:25:30.196Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/10/28/ujabb-botranyt-okozott-az-ifju-barca-csillag-apja"
+          "link": "https://infostart.hu/sport/2026/10/29/minden-szerdai-futballmeccset-elhalasztottak-spanyolorszagban"
         },
         {
           "name": "Nemzeti Sport",
@@ -105,52 +111,52 @@
     "technologia": {
       "items": [
         {
-          "text": "Az Apple bemutatta az M6 chippel szerelt új iMacet és MacBook Prót.",
+          "text": "Egy német robotikai vállalat mesterséges intelligencia segítségével alakítaná át Európa iparát.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167192/az-apple-bemutatta-az-m6-chippel-szerelt-uj-imacet-es-macbook-prot",
+          "link": "https://sg.hu/cikkek/tudomany/167200/egy-nemet-robotikai-vallalat-mi-segitsegevel-alakitana-at-europa-iparat",
           "scope": "kulfold"
         },
         {
-          "text": "Dél-Koreában heves vitákat vált ki az új Call of Duty játék, melyben Észak-Korea megtámadja őket.",
+          "text": "A Samsung chipgyártásból származó nyeresége tizenötszörösére nőtt.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/jatek/167195/del-koreaban-heves-vitakat-valt-ki-az-uj-call-of-duty-melyben-megtamadja-oket-es",
+          "link": "https://sg.hu/cikkek/it-tech/167205/tizenotszorosere-nott-a-samsung-chipgyartasbol-szarmazo-nyeresege",
           "scope": "kulfold"
         },
         {
-          "text": "A francia kormány blokkolná az erőszakra buzdító közösségi médiás tartalmakat.",
+          "text": "Az Apple bemutatta az első érintőképernyős MacBook Pro-t OLED kijelzővel.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167193/a-francia-kormany-blokkolna-az-eroszakra-buzdito-kozossegi-medias-tartalmakat",
+          "link": "https://sg.hu/cikkek/it-tech/167203/az-apple-bemutatta-az-elso-erintokepernyos-macbook-pro-t-oled-kijelzovel",
           "scope": "kulfold"
         },
         {
-          "text": "Delaware engedélyezné az MI ügynökök által működtetett vállalatokat.",
+          "text": "Az Apple összehajtható telefonjai meghibásodnak.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167186/delaware-engedelyezne-az-mi-ugynokok-altal-mukodtetett-vallalatokat",
+          "link": "https://sg.hu/cikkek/it-tech/167198/meghibasodnak-az-apple-osszehajthato-telefonjai",
           "scope": "kulfold"
         },
         {
-          "text": "Az európai médiavállalatok tiltakoznak a Meta új szabályai miatt.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167134/a-meta-uj-szabalyai-miatt-tiltakoznak-az-europai-mediavallalatok",
+          "text": "Az Anthropic által fejlesztett Claude mesterséges intelligencia több tízezer antitestet tervezett meg.",
+          "source": "Infostart Tudomány",
+          "link": "https://infostart.hu/tudomany/2026/10/29/etelallergiasok-figyelem-tobb-tizezer-antitestet-tervezett-meg-a-claude",
           "scope": "kulfold"
         },
         {
-          "text": "A Pécsi Tudományegyetem Klinikai Központja mobilalkalmazást fejlesztett szívbetegeknek.",
+          "text": "A Pécsi Tudományegyetem egy mobilalkalmazást fejlesztett ki a szívbetegek kardiológiai rehabilitációjának segítésére.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/10/28/magyar-fejlesztes-segithet-a-szivbetegeknek",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-28T11:12:02.708Z",
+      "updatedAt": "2026-10-29T11:25:36.508Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167192/az-apple-bemutatta-az-m6-chippel-szerelt-uj-imacet-es-macbook-prot"
+          "link": "https://sg.hu/cikkek/tudomany/167200/egy-nemet-robotikai-vallalat-mi-segitsegevel-alakitana-at-europa-iparat"
         },
         {
           "name": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/10/28/magyar-fejlesztes-segithet-a-szivbetegeknek"
+          "link": "https://infostart.hu/tudomany/2026/10/29/etelallergiasok-figyelem-tobb-tizezer-antitestet-tervezett-meg-a-claude"
         }
       ],
       "skipped": []
@@ -158,40 +164,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "Munkavégzés lesz az M0-s autóút és az M2 autópálya több pontján november elején, az autósoknak kisebb forgalomkorlátozásokra kell számítaniuk - tájékoztatta a Magyar Közút Nonprofit Zrt.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261028/ujabb-lezarashullam-jon-budapest-kornyeken-872546",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Irán külügyminisztere, Abbász Arágcsi arra figyelmeztetett, hogy egy esetleges izraeli katonai akció a Perzsa-öböl térségében \"pusztító hatással\" lenne a gázpiacra és így a világgazdaság egészére - közölte a Times of Israel.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20261028/figyelmeztet-aragcsi-ha-ez-megtortenik-benito-csapast-szenved-a-vilaggazdasag-872540",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Hitelminősítő: ekkor lehet magyar euró.",
+          "text": "Az amerikai jegybank, a Federal Reserve (Fed) változatlanul, 3,75-4,00 százalékos célsávban tartotta az irányadó dollárkamatot.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/27/hitelminosito-ekkor-lehet-magyar-euro",
+          "link": "https://infostart.hu/gazdasag/2026/10/28/fontos-dontest-hozott-az-amerikai-fed",
           "scope": "kulfold"
         },
         {
-          "text": "A jövőben is ott lesz az állam a magyar kis- és középvállalkozások mögött kedvező, kamattámogatott hitelekkel – jelentette be Facebook-oldalán a gazdasági és energetikai miniszter.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/27/tamogatasokat-jelentett-be-kapitany-istvan",
+          "text": "Az OMV tisztított üzemi eredménye többéves csúcsra ugrott az elmúlt negyedévben a magasabb olaj- és gázáraknak köszönhetően.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/befektetes/20261029/reg-nem-latott-szamokat-produkalt-az-omv-ugrik-az-arfolyam-872812",
           "scope": "kulfold"
+        },
+        {
+          "text": "Elbocsátások kezdődtek az SK On Hungary Kft. komáromi telephelyén, egy héttel az iváncsai akkumulátorgyárban indult létszámleépítés után.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/10/28/elbocsatasok-a-komaromi-akkumulatorgyarban-is",
+          "scope": "belfold"
+        },
+        {
+          "text": "Az európai kereskedelmiingatlan-szektorban a befektetők akár 10 százalékot meghaladó árengedményekre kényszerülnek a növekvő hitelköltségek miatt.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/ingatlan/20261029/sulyos-fordulat-drasztikus-arengedmenyekre-kenyszerulnek-a-befektetok-az-ingatlanpiacon-872810",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Wekerle Plusz hitelprogramban legfeljebb 50 millió forint vehető fel, melynek pontos összege a jövedelemtől függ.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/10/29/mennyit-kell-keresni-a-leheto-legnagyobb-wekerle-plusz-igenylesehez-a-szakerto-valaszol",
+          "scope": "belfold"
+        },
+        {
+          "text": "Fővárosi Népszínház utcában korszerűsítik a kötöttpályás infrastruktúrát és a kapcsolódó közúti szakaszt.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/ingatlan/20261029/jelentos-felujitas-indul-a-forgalmas-csomopontban-villamospalyat-es-utat-is-javitanak-novemberben-872806",
+          "scope": "belfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-10-28T11:12:15.839Z",
+      "engine": "gemini",
+      "updatedAt": "2026-10-29T11:25:50.693Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261028/ujabb-lezarashullam-jon-budapest-kornyeken-872546"
+          "link": "https://www.portfolio.hu/uzlet/20261029/beporogtek-a-big-tech-jelentesek-mutatjuk-mi-tortenik-a-tozsdeken-872698"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/10/28/kata-itt-vannak-a-reszletek"
+          "link": "https://infostart.hu/gazdasag/2026/10/29/mennyit-kell-keresni-a-leheto-legnagyobb-wekerle-plusz-igenylesehez-a-szakerto-valaszol"
         }
       ],
       "skipped": []
@@ -199,36 +217,36 @@
     "kornyezet": {
       "items": [
         {
-          "text": "Amerikában kréta kori pokolcsirkét találtak, amely dinoszauruszfaj pulyka méretű lehetett és gyümölcsöket fogyasztott.",
+          "text": "A PETA durva videót hozott nyilvánosságra egy amerikai egyetem állatkísérleteiről, ahol makákókölykökön vizsgálták idegméreg hatását.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/10/27/kreta-kori-pokolcsirket-talaltak-amerikaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/10/29/durva-videot-hoztak-nyilvanossagra-egy-amerikai-egyetem-allatkiserleteirol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "A Portia fimbriata pókot először figyelték meg alvás közben, melynek során végtagjai meg-megmozdultak.",
+          "text": "Az érintett amerikai egyetem szerint a kutatás közegészségügyi szempontból fontos, míg kritikusai etikátlannak és tudományosan kétesnek tartják.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/10/27/eloszor-figyeltek-meg-egy-pokot-alvas-kozben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/10/29/durva-videot-hoztak-nyilvanossagra-egy-amerikai-egyetem-allatkiserleteirol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Az I. Thotmesz fáraó idején szolgáló Uszer nevű hivatalnok mindhárom kutyájának neve ismertté vált.",
+          "text": "A streaming platformokra feltöltött zenék felét senki nem hallgatja meg, ami digitális szennyezést eredményezhet.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/10/27/kiderult-hogy-hivtak-uszer-kutyajat-3500-evvel-ezelott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/10/29/annyi-zene-keszul-hogy-meg-se-tudjuk-hallgatni-es-lehet-hogy-nem-is-akarjuk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Az ismert ősi egyiptomi kutyanevek száma ezzel 97-re emelkedett.",
+          "text": "A világ első tengeri kétéltűjének maradványait fedezték fel, melynek páncélzata segítette a sós vízben való túlélését.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/10/27/kiderult-hogy-hivtak-uszer-kutyajat-3500-evvel-ezelott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/10/28/megtalaltak-a-vilag-elso-tengeri-keteltujenek-maradvanyait?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-28T11:12:34.035Z",
+      "updatedAt": "2026-10-29T11:26:03.070Z",
       "sourceLinks": [
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/10/28/meg-a-grok-is-beismerte-hogy-borzalmas-lett-az-odusszeia-ai-generalt-adaptacioja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/10/29/durva-videot-hoztak-nyilvanossagra-egy-amerikai-egyetem-allatkiserleteirol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": [
@@ -238,44 +256,55 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Egy svájci nagybank elemzése szerint még van bőven tér a Mol részvényének ralija előtt.",
+          "text": "Az egyik legnagyobb magyar céget, a Waberer's-t átnevezték.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/penz-es-tokepiac/2026/10/mol-elemzes-reszveny-celar-ubs-vetel",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/waberers-csoport-tozsdei-nev-bejelentes-w-solum-holding",
           "scope": "belfold"
         },
         {
-          "text": "A Ryanair felszólította a Tisza-kormányt, hogy lépjen fel a Magyarországon tapasztalt vélt túlzott költségek miatt.",
+          "text": "Az OMV is jelentős profitot ért el.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/10/ryanair-teli-menetrend-novekedes-budapest-veszelyek",
+          "link": "https://www.vg.hu/penz-es-tokepiac/2026/10/omv-negyedeves-eredmeny-nyereseg-finomitas-olajar",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Az Otthon Start megszüntetése miatt vásárlók bukhatnak, miközben a kormány bevezeti a Wekerle Plusz programot.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/otthon-start-kivezetes-wekerle-plusz-hatasok",
           "scope": "belfold"
         },
         {
-          "text": "A jövő évi törvényjavaslat értelmében a minimálnyugdíj összege 120 ezer forint lesz.",
+          "text": "Az Otthon Start program 2500 milliárd forintot mozgatott meg, mielőtt átadta a helyét a Wekerle Plusznak.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozerdeku/igy-valtoznak-jovore-a-nyugdijak-megjelent-a-torvenyjavaslat-ime-a-reszletek.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/ingatlan/nem-akarmilyen-eredmennyel-adja-at-a-helyet-az-otthon-start-a-wekerle-plusznak.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         },
         {
-          "text": "Hosszú hetek után árváltozás történt a benzinkutakon.",
+          "text": "Lemondott Christine Lagarde, az Európai Központi Bank elnöke.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/itt-a-nem-vart-fordulat-a-benzinkutakon-20261028.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/makro/lemondott-christine-lagarde-az-europai-kozponti-bank-elnoke.html?utm_source=rss&utm_medium=referral",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Magyar Nemzeti Bank függetlensége veszélyben lehet, a probléma a tőkehiány.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/benchmark/bod-peter-akos-veszelyben-a-magyar-nemzeti-bank-fuggetlensege.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-10-28T11:12:45.914Z",
+      "updatedAt": "2026-10-29T11:26:14.715Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
-          "link": "https://www.vg.hu/penz-es-tokepiac/2026/10/mol-elemzes-reszveny-celar-ubs-vetel"
+          "link": "https://www.vg.hu/reszvenyek"
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozelet/kiadtak-a-korozest-a-lelegeztetogepbiznisz-ugyeben--ausztriaban-is-lecsapott-a-rendorseg.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/ingatlan/nem-akarmilyen-eredmennyel-adja-at-a-helyet-az-otthon-start-a-wekerle-plusznak.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-10-29T05:17:14.763Z"
+  }
 }
