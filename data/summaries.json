@@ -1,64 +1,58 @@
 {
-  "generatedAt": "2026-11-03T20:53:18.659Z",
+  "generatedAt": "2026-11-04T12:54:31.935Z",
   "fx": {
-    "rate": 364.179,
-    "date": "2026-11-04T05:49:39.000Z",
+    "rate": 363.036,
+    "date": "2026-11-04T12:54:30.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "Orbán Viktor harmadszor tette közzé a katonai titkosszolgálatnál készült A-kartonját, melyet a nyolcvanas években tömegesen állítottak ki sorkatonákról.",
+          "text": "Magyarország online adatbázist nyitott a kommunista korszak ügynökaktáiról, mely több mint ötvenezer egykori informátor adatait tartalmazza.",
           "source": "Telex",
-          "link": "https://telex.hu/ugynokaktak/2026/11/03/orban-viktor-ugynokmult-tarsadalmi-kapcsolat-katonasag-a-karton",
+          "link": "https://telex.hu/english/2026/11/04/hungary-opens-database-of-communist-era-informer-files",
           "scope": "belfold"
         },
         {
-          "text": "Új testület jött létre az ügynökakták társadalmi hatásainak kezelésére, melynek tagjai Orvos-Tóth Noémi és Szabó Andrea is.",
+          "text": "Beer Miklós nyugalmazott püspök neve is szerepel az ügynökaktákban, de állítása szerint nem tudott arról, hogy hálózati személy lett volna.",
           "source": "Telex",
-          "link": "https://telex.hu/ugynokaktak/2026/11/03/uj-fuggetlen-interdiszciplinaris-szakertoi-testulet-ugynokaktak-nyilvanossagra-hozasa-tarsadalmi-feldolgozas-tarr-zoltan",
+          "link": "https://telex.hu/ugynokaktak/2026/11/04/beer-miklos-katolikus-puspok-ugynokaktak-6-os-karton-magnesszalag-beszervezes",
           "scope": "belfold"
         },
         {
-          "text": "Az AfD, Marine Le Pen és Giorgia Meloni ma már inkább távolságot tartanak Donald Trumptól és a MAGA-mozgalomtól.",
-          "source": "Telex",
-          "link": "https://telex.hu/kulfold/2026/11/03/egyesult-allamok-europa-szelsojobboldal-kapcsolat-nemetorszag-olaszorszag-franciaorszag",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Fejes Pétert új legfőbb ügyésszé választották, miközben Feledy Botondnak ajtót mutattak.",
+          "text": "A Nemzeti Nyomozó Iroda bizonyítékokat foglalt le a Külügyminisztériumban a lélegeztetőgép-beszerzések ügyében, melyek kapcsán a minisztérium is feljelentést tett.",
           "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/11/03/legfobb-ugyesz-megvalasztas-parlament-feledy-botond-menesztes/",
+          "link": "https://24.hu/fn/gazdasag/2026/11/04/nni-bizonyitekok-lefoglalas-lkulugyminiszteriumbam-lelegeztetogep-biznisz/",
           "scope": "belfold"
         },
         {
-          "text": "Pénzmosás gyanújával letartóztatták Jugoslav Nikolicot, a szerb meteorológiai intézet igazgatóját.",
+          "text": "Brüsszelben készítik elő az ukrajnai béketárgyalások újabb fordulóját, ahol Ukrajna újjáépítéséről és biztonsági garanciáiról egyeztetnek.",
           "source": "HVG",
-          "link": "https://hvg.hu/vilag/20261103_szerbia-letartoztatas-jugoslav-nikolic-szerb-meteorologiai-intezet-penzmosas-gyanu",
+          "link": "https://hvg.hu/eurologus/20261104_ukrajna-beketargyalas-berlin-brusszel",
           "scope": "kulfold"
         },
         {
-          "text": "A svéd parlament Ulf Kristerssont bízta meg kormányalakítással, miután a baloldali koalíciónak nem sikerült ez.",
+          "text": "A republikánusok súlyos félidős vereséget szenvedtek el az Egyesült Államok félidős választásain, ahol a demokraták sikereket értek el.",
           "source": "HVG",
-          "link": "https://hvg.hu/vilag/20261103_ulf-kristersson-svedorszag-kormanyalakitas",
+          "link": "https://hvg.hu/elet/20261104_egyesult-allamok-felidos-valasztas-galeria",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-03T20:52:04.298Z",
+      "updatedAt": "2026-11-04T12:53:23.001Z",
       "sourceLinks": [
         {
           "name": "Telex",
-          "link": "https://telex.hu/after/2026/11/03/the-elder-scrolls-videojatek-sorozat-hatodik-resz-sentinel-alcim-bethesda-studio-elozetes"
+          "link": "https://telex.hu/ugynokaktak/2026/11/04/beer-miklos-katolikus-puspok-ugynokaktak-6-os-karton-magnesszalag-beszervezes"
         },
         {
           "name": "24.hu",
-          "link": "https://24.hu/belfold/2026/11/03/navracsics-reakcio-feledy-botond/"
+          "link": "https://24.hu/sport/foci/2026/11/04/racing-santander-real-madrid-kylian-mbappe-bunteto-hiba/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/vilag/20261103_szerbia-letartoztatas-jugoslav-nikolic-szerb-meteorologiai-intezet-penzmosas-gyanu"
+          "link": "https://hvg.hu/elet/20261104_az-arulok-lola-rtl-stressz"
         }
       ],
       "skipped": []
@@ -66,48 +60,48 @@
     "sport": {
       "items": [
         {
-          "text": "A 68 percet játszó Sallai Roland csapata, a Galatasaray 2–0-ra nyert a VfB Stuttgart ellen a mai BL-játéknapon.",
+          "text": "A Skoda főszponzor leléphet a jégkorong-világbajnokságról, ha visszaengedik az orosz csapatot.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/03/bl-este-eloben-sallai-roland-gyoztes-meccsen-jatszott-gulacsi-peter-ved-a-psg-ellen",
-          "scope": "belfold"
+          "link": "https://infostart.hu/sport/2026/11/04/lelephet-a-foszponzor-ha-visszaengedik-az-oroszokat-a-jegkorong-vilagbajnoksagra",
+          "scope": "kulfold"
         },
         {
-          "text": "Gulácsi Péter, a spanyol csapat magyar kapusa egymás után kapja a gólokat a BL-ben.",
-          "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/bajnokok-ligaja/2026/11/bajnokok-ligaja-villarreal-psg",
-          "scope": "belfold"
-        },
-        {
-          "text": "Szalai Attila visszatér a magyar labdarúgó-válogatottba.",
+          "text": "Esteban Ocon helyett Rafael Camara versenyez a Haas csapat színeiben a Forma-1-es Brazil Nagydíjon.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/03/szalai-attila-visszater-a-valogatottba",
-          "scope": "belfold"
+          "link": "https://infostart.hu/sport/2026/11/04/azonnali-pilotacsere-a-forma-1-ben",
+          "scope": "kulfold"
         },
         {
-          "text": "Wéber Gábor Forma–1-es kommentátor beszélt Kimi Antonelli világbajnoki címének hátteréről és az idény alakulásáról.",
+          "text": "Wéber Gábor Forma–1-es kommentátor Kimi Antonelli világbajnoki címéről és az idény alakulásáról beszélt az InfoRádióban.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/2026/11/03/weber-gabor-kimi-antonelli-elott-a-hatar-a-csillagos-eg",
           "scope": "belfold"
         },
         {
-          "text": "A FIFA Tanácsának tagjai betekintést nyerhetnek Gianni Infantino elnök világbajnokságba magánbefektetőket bevonni szándékozó tervének bizalmas dokumentumaiba.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/03/fifa-a-tanacs-ele-kerulnek-infantino-uzleti-tervenek-bizalmas-dokumentumai",
-          "scope": "kulfold"
+          "text": "Olaszországban arra számítanak, hogy Modric, Moreira és Ramos sem kezd a Fradi elleni mérkőzésen.",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/europa-liga/2026/11/olaszorszagban-arra-szamitanak-hogy-modric-moreira-es-ramos-sem-kezd-a-fradi-ellen",
+          "scope": "belfold"
         },
         {
-          "text": "Elhunyt Jesús de Miguel, a spanyol másodosztályú Tenerife labdarúgója, aki egy bajnoki mérkőzésen szenvedett sérülést.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/03/sokkolo-tragedia-a-merkozesen-serult-meg-masnapra-eletet-vesztette",
+          "text": "Urblík József, a Vasas felvidéki születésű csapatkapitánya bekerült a válogatott keretébe.",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/magyar-valogatott/2026/11/urblik-jozsef-remelem-megmutathatom-mit-tudok",
+          "scope": "belfold"
+        },
+        {
+          "text": "51 kiállítás történt egy brazíliai U20-as futballmeccsen, ami új világcsúcsot jelent.",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/minden-mas-foci/2026/11/video-51-kiallitas-egy-futballmeccsen-uj-vilagcsucs-tomegverekedes-utan",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-03T20:52:21.736Z",
+      "updatedAt": "2026-11-04T12:53:34.871Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/03/bl-este-eloben-sallai-roland-gyoztes-meccsen-jatszott-gulacsi-peter-ved-a-psg-ellen"
+          "link": "https://infostart.hu/sport/2026/11/04/lelephet-a-foszponzor-ha-visszaengedik-az-oroszokat-a-jegkorong-vilagbajnoksagra"
         },
         {
           "name": "Nemzeti Sport",
@@ -119,52 +113,52 @@
     "technologia": {
       "items": [
         {
-          "text": "A 16 GB-os Raspberry Pi 5 háromszor annyiba kerül, mint amennyiért két éve megjelent.",
+          "text": "A Mistral vezetője szerint Európa stratégiai csapdába kerülhet, ha 2026-ig nem fejleszt saját élvonalbeli MI-modelleket.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167269/a-mistral-vezetoje-szerint-europa-sajat-elvonalbeli-mi-modellek-nelkul-strategia",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Nő a 8 GB RAM-mal szerelt Windows 11 konfigurációk teljesítménye.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167279/no-a-8-gb-ram-os-windows-11-konfiguraciok-teljesitmenye",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Boom a szuperszonikus utasszállító építése helyett az MI-adatközpontok felé fordult.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/tudomany/167268/szuperszonikus-utasszallito-epitese-helyett-az-mi-adatkozpontok-fele-fordul-a-bo",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A 16 GB-os Raspberry Pi 5 ára háromszorosa a két évvel ezelőtti megjelenési árnak.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/167270/haromszor-annyiba-kerul-a-16-gb-os-raspberry-pi-5-mint-amennyiert-ket-eve-megjel",
           "scope": "kulfold"
         },
         {
-          "text": "A Ninja új készüléke egyetlen berendezésben egyesíti a mikrohullámú sütőt és a forrólevegős sütőt.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167267/egyetlen-keszulekben-egyesiti-a-mikrohullamu-sutot-es-a-forrolevegos-sutot-a-nin",
-          "scope": "kulfold"
-        },
-        {
-          "text": "London polgármestere korlátozná a városban lévő robotaxik számát.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/auto/167251/london-polgarmestere-korlatozna-a-varosban-levo-robotaxik-szamat",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Kibertámadás bénította meg több európai ország szupermarketjeinek hűtőit.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167259/tobb-europai-orszagban-kibertamadas-benitotta-meg-a-szupermarketek-hutoit",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az Anthropic által fejlesztett Claude mesterséges intelligencia több tízezer antitestet tervezett meg.",
+          "text": "Sikertelen volt a Swift űrteleszkóp mentőakciója, amely egy héten belül visszazuhanhat a Földre.",
           "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/10/29/etelallergiasok-figyelem-tobb-tizezer-antitestet-tervezett-meg-a-claude",
+          "link": "https://infostart.hu/tudomany/2026/11/02/sikertelen-volt-a-mentoakcio-egy-heten-belul-visszazuhanhat-az-urteleszkop-a-foldre",
           "scope": "kulfold"
         },
         {
-          "text": "A Pécsi Tudományegyetem Klinikai Központja mobilalkalmazást fejlesztett szívbetegeknek.",
+          "text": "A Pécsi Tudományegyetem Klinikai Központja mobilalkalmazást fejlesztett a szív- és érrendszer egészségének megőrzésére.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/10/28/magyar-fejlesztes-segithet-a-szivbetegeknek",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-03T20:52:32.822Z",
+      "updatedAt": "2026-11-04T12:53:45.999Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/film/167140/agyagpofa-a-dc-bevette-a-szert"
+          "link": "https://sg.hu/cikkek/it-tech/167269/a-mistral-vezetoje-szerint-europa-sajat-elvonalbeli-mi-modellek-nelkul-strategia"
         },
         {
           "name": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/11/03/erdemes-lesz-az-eget-kemlelni-erkeznek-a-tauridak"
+          "link": "https://infostart.hu/tudomany/2026/11/04/osszealltak-es-jelentkeztek-a-kormanynal-az-egyhazi-korhazak"
         }
       ],
       "skipped": []
@@ -172,52 +166,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "A rendőrség hűtlen kezelés gyanújával nyomoz a Magyar Kereskedelmi és Iparkamara, valamint a Budapesti Kereskedelmi és Iparkamara több milliárd forintos ingatlanvásárlásai miatt.",
+          "text": "Az AI-hoz kapcsolódó részvények nyomás alá kerültek a technológiai cégek szigorúbb szabályozásától és az adatközpont-építések lassulásától való félelem miatt.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261103/az-mkik-elnoke-reagalt-a-korrupcios-vadakra-874052",
-          "scope": "belfold"
-        },
-        {
-          "text": "A vezető amerikai tőzsdeindexek vegyesen indították a keddi kereskedést, miközben az Apple gyengélkedése lefelé húzta a Dow Jonest.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/uzlet/20261103/vegyesen-mozognak-az-amerikai-papirok-a-valasztasra-varva-873780",
+          "link": "https://www.portfolio.hu/uzlet/20261104/hatalmas-pofon-donald-trumpnak-az-amerikai-valasztas-raliznak-a-tozsdek-tepik-az-otp-t-874092",
           "scope": "kulfold"
         },
         {
-          "text": "A Mol kedvező piaci árazása miatt 40-50 forinttal olcsóbb az üzemanyag ára Magyarországon a piaci ár és az árfolyam indokoltnál.",
+          "text": "A dollár nagyot esett az amerikai félidős választások első eredményeire, mivel a befektetők Donald Trump gazdaságpolitikai mozgásterének szűkülését árazzák.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/deviza/20261104/utik-a-dollart-trump-es-a-republikanusok-felsulesere-mutatjuk-mi-tortenik-a-forinttal-874078",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Októberben 4 százalékra gyorsult az eurózóna inflációja, ami az Európai Központi Bank céljának a duplája.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/gazdasag/20261104/tovabb-gyorsult-az-euroovezeti-inflacio-az-ekb-mar-az-ujabb-kamatemelest-kesziti-elo-874224",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Októberben az államháztartás központi alrendszerének hiánya 200,6 milliárd forint volt, ami 138,4 milliárd forinttal alacsonyabb az előző évhez képest.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/03/szakerto-40-50-forinttal-olcsobb-itthon-az-uzemanyag-a-mol-arazasanak-koszonhetoen",
+          "link": "https://infostart.hu/gazdasag/2026/11/04/oktoberben-is-csokkent-a-koltsegvetesi-hiany",
           "scope": "belfold"
         },
         {
-          "text": "A termelői és szakmai szervezetek örülnek az árrésstop kivezetésének, ugyanakkor csalódottan fogadták az egészséges élelmiszerek áfájának nem csökkenését 2027-ben.",
+          "text": "Szeptemberben az ipari termelés az előző év azonos időszakához mérten 8,2 százalékkal, az előző hónaphoz képest pedig 0,9 százalékkal nőtt.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/03/kiderult-mit-muvelt-az-arresstop-a-nem-vedett-aru-termekekkel",
+          "link": "https://infostart.hu/gazdasag/2026/11/04/tekintelyes-szamok-az-ipari-termeles-teren",
           "scope": "belfold"
         },
         {
-          "text": "Magyarország GDP-je az előző negyedévhez képest 0,1, míg éves alapon 1,5 százalékkal nőtt a harmadik negyedévben, ami elmaradt az elemzői várakozásoktól.",
+          "text": "A Magyarországon két gyárat működtető német Schaeffler autóipari beszállító 3460 munkahelyet szüntet meg Európában.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/03/a-gyenge-negyedev-ellenere-optimista-a-penzugyminiszter",
-          "scope": "belfold"
-        },
-        {
-          "text": "Az amerikaiak nagy többsége elégedetlen azzal, ahogy Donald Trump elnök az inflációt kezeli, derül ki egy közös felmérésből.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/03/a-dragulas-trump-egyik-legnagyobb-politikai-ellensegeve-valhat",
+          "link": "https://infostart.hu/gazdasag/2026/11/03/nagy-leepitesre-keszul-egy-autoipari-beszallito",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-03T20:52:45.315Z",
+      "updatedAt": "2026-11-04T12:54:07.617Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20261103/amerikai-valasztas-2026-beutottek-az-elso-problemak-kimeletlen-vereseg-var-trump-partjara-873736"
+          "link": "https://www.portfolio.hu/uzlet/20261104/hatalmas-pofon-donald-trumpnak-az-amerikai-valasztas-raliznak-a-tozsdek-tepik-az-otp-t-874092"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/03/szakerto-40-50-forinttal-olcsobb-itthon-az-uzemanyag-a-mol-arazasanak-koszonhetoen"
+          "link": "https://infostart.hu/gazdasag/2026/11/04/oktoberben-is-csokkent-a-koltsegvetesi-hiany"
         }
       ],
       "skipped": []
@@ -225,24 +219,24 @@
     "kornyezet": {
       "items": [
         {
-          "text": "Az ősméhek által termelt, gyorsan lebomló polietilénszerű poliészter segíthet a globális műanyagprobléma megoldásában.",
+          "text": "A Mars finom pora belélegezve egészségügyi problémákat okozhat az űrhajósoknak.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/03/az-osmehek-celofanja-segithet-a-globalis-muanyagproblema-megoldasaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/11/04/veszelyes-lehet-az-urhajosokra-a-mars-finom-pora?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Olasz zoológusok Etiópia Oromia tartományában dokumentáltak először külön állatfajok hímjei közötti szexuális aktusokat.",
+          "text": "Az ősméhek fészkeiket bélelő, tartós, vízhatlan és gyorsan lebomló poliészter segíthet a globális műanyagprobléma megoldásában.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/03/eloszor-dokumentaltak-kulon-allatfajok-himjei-kozotti-szexualis-aktussorozatot-olasz-zoologusok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/11/03/az-osmehek-celofanja-segithet-a-globalis-muanyagproblema-megoldasaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-03T20:53:07.909Z",
+      "updatedAt": "2026-11-04T12:54:17.274Z",
       "sourceLinks": [
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/11/03/az-osmehek-celofanja-segithet-a-globalis-muanyagproblema-megoldasaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/11/04/400-ev-utan-nyitottak-ki-egy-lakatot-walesben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": [
@@ -252,38 +246,44 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Kiszámolták, hogy mekkora kárt okozhat a magyar gazdaságnak a december 24-i boltzár.",
+          "text": "Az amerikai választások után az arany és az ezüst árfolyama emelkedett.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/karacsony-24-unnepi-nyitvatartas-boltzar-bevasarlas",
-          "scope": "belfold"
-        },
-        {
-          "text": "Lengyelországban politikai feszültségek tapasztalhatók, tüntetésekkel és orosz szabotázsra utaló jelekkel.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/kozelet/2026/11/lengyelorszag-belpolitikai-valsag-allamcsiny-tuntetes",
+          "link": "https://www.vg.hu/penz-es-tokepiac/2026/11/arany-ezust-ujra-szarnyra-kaphatnak-demokrata-gyozelem",
           "scope": "kulfold"
         },
         {
-          "text": "A jegybank válságát sikerült elkerülni, de a helyzet továbbra is feszült.",
+          "text": "Brüsszel 2027-ben vészhelyzeti felkészülési nap bevezetését tervezi, ami épp Magyarország nemzeti ünnepére esne.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/kozelet/2026/11/lengyelorszag-belpolitikai-valsag-allamcsiny-tuntetes",
-          "scope": "belfold"
-        },
-        {
-          "text": "Vegyesen alakult a magyar fizetőeszköz, a forint napja.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/befektetes/a-forintban-lehet-bizni--mar-egy-ideje.html?utm_source=rss&utm_medium=referral",
-          "scope": "belfold"
-        },
-        {
-          "text": "Donald Trump továbbra is veszélyt jelenthet Európára, ami feszültséget okozhat az USA és Európa között.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kulpolitika/tul-korai-az-oromtanc-trump-a-hatalmas-pofon-utan-is-veszelyt-jelenthet-europara.html?utm_source=rss&utm_medium=referral",
+          "link": "https://www.vg.hu/kozelet/2026/11/veszhelyzeti-felkeszulesi-napot-vezetne-be-brusszel",
           "scope": "kulfold"
+        },
+        {
+          "text": "Kapitány István mérföldkőnek számító dátumot közölt a Paksi Atomerőműről.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/paks-kapitany-uzemido-atvilagitas",
+          "scope": "belfold"
+        },
+        {
+          "text": "A lakásépítési piac tetszhalott állapotából próbál magához térni, a főváros húzza a hazai lakáspiacot.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/ingatlan/tetszhalott-allapotabol-probal-magahoz-terni-a-lakasepitesi-piac.html?utm_source=rss&utm_medium=referral",
+          "scope": "belfold"
+        },
+        {
+          "text": "A hazai ipar rég nem látott remek formában hasít, ismét pozitív meglepetést hozott az ipari adat.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/makro/reg-nem-latott-remek-formaban-hasit-a-hazai-ipar.html?utm_source=rss&utm_medium=referral",
+          "scope": "belfold"
+        },
+        {
+          "text": "A hazai költségvetés lassan egyenesedik ki, az októberi adat jobb, mint egy évvel ezelőtt.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/makro/lassan-egyenesedik-csak-ki-a-hazai-koltsegvetes.html?utm_source=rss&utm_medium=referral",
+          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-03T20:53:18.475Z",
+      "updatedAt": "2026-11-04T12:54:31.863Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -291,11 +291,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kultura/ok-lettek-a-madach-szinhaz-es-az-uj-szinhaz-uj-igazgatoi.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/kozelet/durva-kommentcunami-zudult-orvos-toth-noemire-az-ugynokaktak-miatt-.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-11-04T05:49:40.967Z"
+  }
 }
