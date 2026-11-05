@@ -1,60 +1,60 @@
 {
-  "generatedAt": "2026-11-05T13:02:29.679Z",
+  "generatedAt": "2026-11-05T21:27:02.452Z",
   "fx": {
-    "rate": 364.253,
-    "date": "2026-11-05T18:37:30.000Z",
+    "rate": 364.409,
+    "date": "2026-11-05T21:26:57.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "A Mi Hazánk alelnöke, Csőszi Attila vitát nyitott Matolcsy érvényes idézésére tekintettel.",
+          "text": "A Közlekedési és Beruházási Minisztérium közölte, hogy saját kezdeményezésére mentették fel a HungaroControl vezérigazgatóját.",
           "source": "24.hu",
-          "link": "https://24.hu/fn/gazdasag/2026/11/05/mi-hazankos-alelnok-valoszinuleg-nem-tudjuk-szora-birni-matolcsyt/",
+          "link": "https://24.hu/belfold/2026/11/05/hungarocontrol-vezerigazgato-turi-ferenc/",
           "scope": "belfold"
         },
         {
-          "text": "Orbán Viktor volt miniszterelnök szerint Merkely Béla távozása a Tisza-kormány felsőoktatási rombolásának újabb jele.",
+          "text": "Simonyi András volt washingtoni nagykövet aktája szerint „Mészáros” fedőnéven egészen 1984-ig volt hálózati személy.",
           "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/11/05/merkely-bela-lemondas-orban-viktor/",
+          "link": "https://24.hu/belfold/2026/11/05/simonyi-andras-nagykovet-ugynokakta/",
           "scope": "belfold"
         },
         {
-          "text": "Varga Mihály pénzügyminiszter nem jelent meg a bizottsági ülés kezdetére, holott korábban részvételét jelezte.",
+          "text": "Forsthoffer Ágnes három napra kitiltotta Pócs Jánost a Parlamentből.",
           "source": "24.hu",
-          "link": "https://24.hu/fn/gazdasag/2026/11/05/varga-mihaly-nem-jelent-meg-az-ules-kezdetere/",
+          "link": "https://24.hu/belfold/2026/11/05/forsthoffer-agnes-pocs-janos-kitiltas-parlament/",
           "scope": "belfold"
         },
         {
-          "text": "A pápa Franco Coppola olasz érseket nevezte ki magyarországi nagykövetének.",
+          "text": "Forsthoffer Ágnes kitiltotta Pócs Jánost az Országgyűlésből három ülésnapra.",
           "source": "HVG",
-          "link": "https://hvg.hu/itthon/20261105_xiv-leo-papa-magyarorszag-uj-apostoli-nuncius-franco-coppola",
+          "link": "https://hvg.hu/itthon/20261105_forsthoffer-agnes-kitiltas-pocs-janos-orszaggyules",
           "scope": "belfold"
         },
         {
-          "text": "A Jászai Mari-díjas Gáti Oszkár színművész neve is felbukkan a szerdán nyilvánosságra hozott ügynökakták között.",
-          "source": "HVG",
-          "link": "https://hvg.hu/kultura/20261105_gati-oszkar-ugynokaktak-beszervezes-ugynokmult",
+          "text": "A kozármislenyi testület visszavonta Matolcsy György díszpolgári címét.",
+          "source": "24.hu",
+          "link": "https://24.hu/belfold/2026/11/05/matolcsy-gyorgy-kozarmisleny-diszpolgar/",
           "scope": "belfold"
         },
         {
-          "text": "Magyar Péter szerint a felsőoktatás területén is halad a tisztítótűz Merkely Béla rektor lemondásával.",
+          "text": "Kozármisleny városa visszavonta Matolcsy György tizenhét évvel ezelőtt adományozott díszpolgári címét.",
           "source": "HVG",
-          "link": "https://hvg.hu/itthon/20261105_halad-a-tisztitotuz-a-felsooktatas-teruleten-is-magyar-peter-reagalt-merkely-bela-rektor-lemondasara",
+          "link": "https://hvg.hu/itthon/20261105_kozarmisleny-matolcsy-gyorgy-diszpolgari-cim",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-05T13:02:07.607Z",
+      "updatedAt": "2026-11-05T21:25:53.709Z",
       "sourceLinks": [
         {
           "name": "24.hu",
-          "link": "https://24.hu/elet-stilus/2026/11/05/70-feny-1956-fenyinstallacio-budapest/"
+          "link": "https://24.hu/sport/2026/11/05/kezilabda-eb-selejtezo-magyarorszag-montenegro-sotonyi-laszlo/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/itthon/20261105_xiv-leo-papa-magyarorszag-uj-apostoli-nuncius-franco-coppola"
+          "link": "https://hvg.hu/itthon/20261105_forsthoffer-agnes-kitiltas-pocs-janos-orszaggyules"
         }
       ],
       "skipped": [
@@ -64,36 +64,42 @@
     "sport": {
       "items": [
         {
-          "text": "A Fenerbahce a Liverpool, a Real Madrid az AEK ellen nyert hátrányból felállva 3–2-re.",
+          "text": "A Ferencváros Lenny Joseph két góljával 2–0-ra legyőzte az AC Milant a San Siróban.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/04/bl-eloben-szoboszlai-dominik-kezdett-a-liverpoolban",
-          "scope": "kulfold"
+          "link": "https://infostart.hu/sport/2026/11/05/europa-liga-eloben-ac-milan-ferencvaros",
+          "scope": "belfold"
         },
         {
-          "text": "A Fenerbahce a Liverpool, a Real Madrid az AEK ellen nyert hátrányból felállva 3–2-re.",
+          "text": "Kozo Tasima, a Japán Labdarúgó-szövetség tiszteletbeli elnöke bejelentette, hogy indul Gianni Infantino ellen a márciusi FIFA-elnökválasztáson.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/04/bl-eloben-szoboszlai-dominik-kezdett-a-liverpoolban",
+          "link": "https://infostart.hu/sport/2026/11/05/ezuttal-japan-jelolt-jelezte-hogy-kiall-infantino-ellen",
           "scope": "kulfold"
         },
         {
-          "text": "Megjelentek az első szurkolók a Dóm-téren – élő felvezető a Milan–Fradi előttKEZDÉS: 18.45.",
-          "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/europa-liga/2026/11/amorim-rotalva-nyerne-nagy-adam-bizonyitana-a-san-siroban-elo-felvezeto-a-milan-fradi-elott",
+          "text": "A BVSC olimpikonja szerdán 100 méter gyorson és 50 méter háton, valamint két mixváltó tagjaként diadalmaskodott, csütörtökön pedig két egyéni és egy váltószámban győzött.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/05/uj-kiralynoje-kel-a-magyar-uszosportnak",
+          "scope": "belfold"
+        },
+        {
+          "text": "Cesc Fàbregas csapata, a Como 9–1-re verte a Lenst a Bajnokok Ligájában Franciaországban, ami történelmi léptékű győzelem.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/05/cesc-fabregas-csapata-olyat-tett-amit-elotte-meg-senki",
           "scope": "kulfold"
         },
         {
-          "text": "„Öröksége túlmutat a pályán” – a portugál szövetség egy eseményen búcsúztatná Ronaldót„Inspiráló vezető volt és nemzeti válogatottunk lelkének legfőbb szimbóluma.”.",
+          "text": "A magyar jégkorong-válogatott kétgólos előnyről szenvedett háromgólos vereséget Szlovénia ellen, 2–0-s vezetés után.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/minden-mas-foci/2026/11/oroksege-tulmutat-a-palyan-a-portugal-szovetseg-egy-esemenyen-bucsuztatna-ronaldot",
-          "scope": "kulfold"
+          "link": "https://www.nemzetisport.hu/jegkorong/2026/11/ketgolos-elonyrol-szenvedett-haromgolos-vereseget-a-jegkorong-valogatott",
+          "scope": "belfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-11-05T13:02:09.085Z",
+      "engine": "gemini",
+      "updatedAt": "2026-11-05T21:26:08.988Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/05/elhunyt-a-legendas-korabbi-forma-1-es-vilagbajnok"
+          "link": "https://infostart.hu/sport/2026/11/05/klubtortenelmi-merkozes-volt-ertekelesek-a-milanoi-ferencvaros-diadal-utan"
         },
         {
           "name": "Nemzeti Sport",
@@ -105,32 +111,44 @@
     "technologia": {
       "items": [
         {
-          "text": "A Mistral vezetője szerint Európa saját élvonalbeli MI-modellek nélkül stratégiai csapdába kerülhet.",
+          "text": "A Mercedes mesterséges intelligencia asszisztenst integrál az autóiba.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167295/a-mercedes-az-autoiba-koltozteti-az-mi-asszisztenst",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Olyan mértékű memóriahiány fenyeget, ami miatt hamarosan pénzért sem lehet majd chipet vásárolni.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167294/olyan-merteku-memoriahiany-fenyeget-hogy-hamarosan-penzert-sem-lehet-majd-chipet",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Mistral vezetője szerint Európa stratégiai csapdába kerülhet saját élvonalbeli MI-modellek nélkül.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/167269/a-mistral-vezetoje-szerint-europa-sajat-elvonalbeli-mi-modellek-nelkul-strategia",
           "scope": "kulfold"
         },
         {
-          "text": "A migránsok lefülelésére kiterjeszti az arcfelismerés alkalmazását az Egyesült Királyság.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167289/a-migransok-lefulelesere-kiterjeszti-az-arcfelismeres-alkalmazasat-az-egyesult-k",
+          "text": "A több mint két évtizeden át szolgáló Swift űrteleszkóp lezuhant, miután a NASA mentési kísérlete kudarcba fulladt.",
+          "source": "Infostart Tudomány",
+          "link": "https://infostart.hu/tudomany/2026/11/05/lezuhant-a-swift-urteleszkop-azt-is-tudni-hol-lepett-be-a-fold-legkorebe",
           "scope": "kulfold"
         },
         {
-          "text": "Tovább élesedik az űrverseny az Egyesült Államok és Kína között: Peking most először tett közzé részletes ütemtervet a Hold meghódítására, és a tervek szerint három éven belül embert küldene az égitestre.",
+          "text": "Kína részletes ütemtervet tett közzé a Hold meghódítására, amely szerint három éven belül embert küldene az égitestre.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/11/05/kie-lesz-a-hold-kina-kozzetette-a-nagy-tervet",
           "scope": "kulfold"
         },
         {
-          "text": "Megkerülhetetlenül fontos az egyházi kórházak szerepe a magyar egészségügyben – hangsúlyozta az InfoRádiónak Velkey György János, a Beteshda Gyermekkórház főigazgatója, az Egyházi Kórházak Egyesülésének elnöke a szervezet keddi konferenciáján.",
+          "text": "A WhatsApp is bevezeti azt a funkciót, mely már a Messengerben elérhető, fokozatosan téve elérhetővé a felhasználók számára.",
           "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/11/04/osszealltak-es-jelentkeztek-a-kormanynal-az-egyhazi-korhazak",
+          "link": "https://infostart.hu/tudomany/2026/11/05/a-messenger-utan-a-whatsapp-is-beveti-ezt-a-trukkot",
           "scope": "kulfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-11-05T13:02:18.504Z",
+      "engine": "gemini",
+      "updatedAt": "2026-11-05T21:26:18.035Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
@@ -146,40 +164,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "A demokraták félidős választási tarolása után szerdán gyengült a dollár, a forint pedig másfél havi csúcsra erősödött az euróval szemben – itthon ráadásul a vártnál jobb, 8,2 százalékos éves ipari bővülés is támogatta a hangulatot.",
+          "text": "Csütörtökön komoly eladási hullám söpört végig a világ technológiai részvénypiacain, melynek során az Egyesült Államokban a Nasdaq több mint 5 százalékot zuhant.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/deviza/20261105/magahoz-tert-a-dollar-megtorpant-a-forint-lendulete-874388",
+          "link": "https://www.portfolio.hu/uzlet/20261105/verengzes-volt-az-amerikai-tozsdeken-874390",
           "scope": "kulfold"
         },
         {
-          "text": "Tisza-kormány: döntött a bíróság, nem engedik ki Matolcsy Györgyöt, közben egyre nagyobb port kavarnak az ügynökakták.",
+          "text": "A Bank of England három év után először emelt kamatot, míg a cseh jegybank is szigorított a nap folyamán.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261105/tisza-kormany-dontott-a-birosag-nem-engedik-ki-matolcsy-gyorgyot-kozben-egyre-nagyobb-port-kavarnak-az-ugynokaktak-874384",
+          "link": "https://www.portfolio.hu/deviza/20261105/keso-estig-pofozgattak-a-forintot-874388",
           "scope": "kulfold"
         },
         {
-          "text": "Erős harmadik negyedévről számolt be a Magyar Telekom: a társaság bevételei másfél éve nem látott ütemben emelkedtek, miközben a nyereségességet jelző EBITDA is jelentősen nőtt az egy évvel korábbihoz képest.",
+          "text": "Több orosz régió drasztikusan, 90 százalékkal csökkentette az ukrajnai háborúban elesett katonák családjainak járó kifizetéseket költségvetési hiány miatt.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/gazdasag/20261105/elfogyott-a-penz-az-orosz-regiokban-90-szazalekkal-csokkentik-az-elesett-katonak-utani-tamogatast-874592",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A hosszú lejáratú állampapírok átlaghozama 10 bázisponttal, 5,42 százalékra csökkent az egy héttel korábbi aukcióhoz képest.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/11/05/tolongas-latszik-a-hosszu-lejaratu-allampapiroknal",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Mol megkapta a Külföldi Eszközöket Ellenőrző Hivatala engedélyét a szerbiai NIS-felvásárlás előkészítő tranzakcióinak végrehajtására.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/11/05/uj-remenysugar-a-mol-szerbiai-felvasarlasaban",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Magyar Telekom erős harmadik negyedévről számolt be, bevételei másfél éve nem látott ütemben emelkedtek.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/11/05/koranyi-g-tamas-mar-most-jobban-all-a-telekom-mint-ahogy-terveztek-es-ez-meg-nem-minden",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Egyre nyitottabbak a banki ügyfelek arra, hogy a mesterséges intelligencia segítse őket pénzügyeik intézésében – mutat rá az NRC által a Gránit Bank számára készített digitális bankolási kutatás.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/05/mar-a-banki-ai-t-is-kerdezhetjuk-kolteseinkrol-x",
-          "scope": "kulfold"
+          "scope": "belfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-11-05T13:02:20.815Z",
+      "engine": "gemini",
+      "updatedAt": "2026-11-05T21:26:36.190Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261105/kiderult-bovulhet-matolcsy-gyorgy-gyanusitasi-listaja-csak-zart-ulesen-hajlando-beszelni-a-volt-jegybankelnok-874454"
+          "link": "https://www.portfolio.hu/uzlet/20261105/verengzes-volt-az-amerikai-tozsdeken-874390"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/05/kozel-100-forint-a-kulonbseg-nem-mindegy-milyen-autoval-jar"
+          "link": "https://infostart.hu/gazdasag/2026/11/05/tolongas-latszik-a-hosszu-lejaratu-allampapiroknal"
         }
       ],
       "skipped": []
@@ -187,24 +217,36 @@
     "kornyezet": {
       "items": [
         {
-          "text": "Több ezer őskori ember DNS-ének vizsgálata írta újra Európa két nagy nyelvcsoportjának eredetét.",
+          "text": "Több száz jégkorszaki rajzot fedeztek fel egy katalóniai barlangban, amelyeket a turisták évtizedekig nem vettek észre.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/05/tobb-ezer-oskori-ember-dns-enek-vizsgalata-irta-ujra-europa-ket-nagy-nyelvcsoportjanak-eredetet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/11/05/tobb-szaz-jegkorszaki-rajzot-talaltak-egy-kataloniai-barlangban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Egy eddig ismeretlen, nagyjából 4000 évvel ezelőtt történt népvándorlás hozhatta el Európába az angol, a német és a skandináv nyelvek ősét, míg a kelták nyelve valószínűleg mégsem az Atlanti-óceán partjáról, hanem Közép-Európából kezdett terjedni.",
+          "text": "A régészek 2019-ben fedezték fel az őskőkori motívumokat a katalóniai barlangban, ahol azóta 55 állatábrázolást is azonosítottak.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/05/tobb-ezer-oskori-ember-dns-enek-vizsgalata-irta-ujra-europa-ket-nagy-nyelvcsoportjanak-eredetet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/11/05/tobb-szaz-jegkorszaki-rajzot-talaltak-egy-kataloniai-barlangban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Az Anthropic mesterséges intelligenciája a sejtekben ezrével előforduló, funkciójukat tekintve negyven éve ismeretlen vault nevű fehérjeszerkezeteket vizsgálja.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/11/05/az-anthropic-mesterseges-intelligenciaja-nekilatott-megfejteni-a-sejtek-egyik-legnagyobb-rejtelyet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Kiderült, hogy a vault nevű hordó alakú fehérjeszerkezeteket baktériumok és vírusok is előállíthatják, ami ősi eredetükre utal.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/11/05/az-anthropic-mesterseges-intelligenciaja-nekilatott-megfejteni-a-sejtek-egyik-legnagyobb-rejtelyet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-11-05T13:02:22.873Z",
+      "engine": "gemini",
+      "updatedAt": "2026-11-05T21:26:55.306Z",
       "sourceLinks": [
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/11/05/az-anthropic-mesterseges-intelligenciaja-nekilatott-megfejteni-a-sejtek-egyik-legnagyobb-rejtelyet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/11/05/tobb-szaz-jegkorszaki-rajzot-talaltak-egy-kataloniai-barlangban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": [
@@ -214,30 +256,41 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Ügynökakták: a kormányfő bocsánatot kért Lezsák Sándortól.",
+          "text": "A kormány új szuperhatóságot hoz létre, melynek egyik feladata az akkugyárakkal kapcsolatos ügyek kezelése lesz.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozelet/ugynokaktak-a-kormanyfo-bocsanatot-kert-lezsak-sandortol.html?utm_source=rss&utm_medium=referral",
-          "scope": "kulfold"
+          "link": "https://mfor.hu/cikkek/kozelet/uj-szuperhatosagot-hoz-letre-a-kormany--fontos-feladatot-kap.html?utm_source=rss&utm_medium=referral",
+          "scope": "belfold"
         },
         {
-          "text": "Magyar Péter Berlinbe látogat a jövő héten, a német kormány nagyon elégedett a Tisza-kormánnyal.",
+          "text": "A forintnak nem volt jó napja csütörtökön az euróval szemben.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kulpolitika/magyar-peter-berlinbe-latogat-a-jovo-heten-a-nemet-kormany-nagyon-elegedett-a-tisza-kormannyal.html?utm_source=rss&utm_medium=referral",
-          "scope": "kulfold"
+          "link": "https://mfor.hu/cikkek/befektetes/ennyiert-adjak-az-eurot-csutortok-este--mit-csinalt-a-forint-.html?utm_source=rss&utm_medium=referral",
+          "scope": "belfold"
+        },
+        {
+          "text": "A közalkalmazottak béremelésére vonatkozó 25 százalékos ígéret teljesítése pénzügyi kérdéseket vet fel a lakosság körében.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/aranyelet/a-25-szazalekos-igeretet-teljesiteni-kell--az-utca-embere-a-kozalkalmazottak-beremeleserol.html?utm_source=rss&utm_medium=referral",
+          "scope": "belfold"
+        },
+        {
+          "text": "Az egyes üzemanyagtípusok közötti nagy árkülönbség okozhat fejfájást a dízeleseknek.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/kozelet/ez-okozhat-fejfajast-a-dizeleseknek.html?utm_source=rss&utm_medium=referral",
+          "scope": "belfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-11-05T13:02:29.533Z",
+      "engine": "gemini",
+      "updatedAt": "2026-11-05T21:27:02.323Z",
       "sourceLinks": [
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/agrarium/elkeszult-egy-fontos-akcioterv-erre-kolt-221-milliardot-a-kormany.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/kultura/elkezdte-az-nka-atalakitasat-a-kormany.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": [
         "VG.hu"
       ]
     }
-  },
-  "fxUpdatedAt": "2026-11-05T18:37:35.627Z"
+  }
 }
