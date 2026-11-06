@@ -1,60 +1,54 @@
 {
-  "generatedAt": "2026-11-06T12:51:01.209Z",
+  "generatedAt": "2026-11-06T20:49:39.263Z",
   "fx": {
-    "rate": 363.123,
-    "date": "2026-11-06T20:46:53.000Z",
+    "rate": 363.128,
+    "date": "2026-11-06T20:46:21.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "Magyar Péter több milliárd eurós vasútfejlesztésről tárgyalt az Európai Beruházási Bank elnökével.",
+          "text": "Lannert Judit szerint az előző kormány kérdőívében is szerepelt az a kérdés, ami alapján Rétvári Bence a „genderszemlélet” terjesztésével vádolja.",
           "source": "24.hu",
-          "link": "https://24.hu/fn/gazdasag/2026/11/06/magyar-peter-europai-beruhazasi-bank-targyalas/",
+          "link": "https://24.hu/belfold/2026/11/06/lannert-judit-szerint-az-elozo-kormany-kerdoiveben-is-szerepelt-a-kerdes-ami-alapjan-a-genderszemlelet-terjesztesevel-vadolja-retvari-bence/",
           "scope": "belfold"
         },
         {
-          "text": "Ruszin-Szendi Romulusz szerint három bombával fenyegetett utasszállítóhoz is riasztották a magyar Gripeneket.",
+          "text": "Donald Trump a választási vereség után lecserélte kabinetfőnökét, Stephen Miller veszi át Susie Wiles helyét.",
           "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/11/06/bombafenyegetes-gripen-riasztas-magyar-legter/",
+          "link": "https://24.hu/kulfold/2026/11/06/trump-stephen-miller-kabinetfonok-wiles/",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Klímavédelmi és palesztinpárti tüntetők törtek be Amszterdamban a Microsoft egyik építési területére.",
+          "source": "HVG",
+          "link": "https://hvg.hu/vilag/20261106_tuntetes-amszterdam-microsoft-izrael",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Több milliós sérelemdíj járhat Lezsák Sándornak, akit tévedésből ügynökként tüntettek fel.",
+          "source": "HVG",
+          "link": "https://hvg.hu/itthon/20261106_lezsak-ugynokaktak-serelemdij-abtl",
           "scope": "belfold"
         },
         {
-          "text": "Az Egészségügyi Minisztérium bemutatta a nem orvosi munkakörökben dolgozók új bértábla-tervezetét.",
+          "text": "Az Európai Beruházási Bank 400 millió euró értékű hosszú lejáratú hitelt ad Magyarországnak, többek között a Diákhitel finanszírozására.",
           "source": "HVG",
-          "link": "https://hvg.hu/itthon/20261106_egeszsegugyi-miniszterium-bertabla-berek",
-          "scope": "belfold"
-        },
-        {
-          "text": "A kormány újabb gyermekvédelmi jelentést készített a bántalmazási ügyek rendszerszintű hátterének feltárására.",
-          "source": "HVG",
-          "link": "https://hvg.hu/itthon/20261106_gyermekvedelem-jelentes-szocialis-es-csaladugyi-miniszterium-katai-nemeth-vilmos",
-          "scope": "belfold"
-        },
-        {
-          "text": "Apáti István mi hazánkos politikus nyílt ülést hívott össze a nemzetbiztonsági bizottság elnökeként az „ügynökbotrány” miatt.",
-          "source": "HVG",
-          "link": "https://hvg.hu/itthon/20261106_ugynokaktak-nemzetbiztonsagi-bizottsag-apati-istvan",
-          "scope": "belfold"
-        },
-        {
-          "text": "A volt ombudsman szerint már 2012-ben is ismert volt a bicskei gyermekotthonban zajló szexuális bántalmazás.",
-          "source": "HVG",
-          "link": "https://hvg.hu/itthon/20261106_szabo-mate-alapveto-jogok-biztosa-ombudsman-kegyelmi-botrany-feleloseit-feltaro-vizsgalobizottsag-meghallgatas-bicske-gyermekotthon",
+          "link": "https://hvg.hu/gazdasag/20261106_eib-kormany-megallapodas-karman-calvino",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-06T12:49:51.268Z",
+      "updatedAt": "2026-11-06T20:48:23.328Z",
       "sourceLinks": [
         {
           "name": "24.hu",
-          "link": "https://24.hu/belfold/2026/11/06/ujpest-emberoles-letartoztatas-imei/"
+          "link": "https://24.hu/belfold/2026/11/06/lannert-judit-szerint-az-elozo-kormany-kerdoiveben-is-szerepelt-a-kerdes-ami-alapjan-a-genderszemlelet-terjesztesevel-vadolja-retvari-bence/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/itthon/20261106_egeszsegugyi-miniszterium-bertabla-berek"
+          "link": "https://hvg.hu/vilag/20261106_tuntetes-amszterdam-microsoft-izrael"
         }
       ],
       "skipped": [
@@ -64,42 +58,48 @@
     "sport": {
       "items": [
         {
-          "text": "Doppingellenes ügynökségek hamis orvosi igazolásokra figyelmeztetnek.",
+          "text": "A magyar jégkorong-válogatott 2-1-re kikapott a világbajnoki bronzérmes norvég csapattól a Nemzetek Európai Kupája amiens-i csoportjának pénteki második fordulójában.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/06/kikapott-a-jegkorong-valogatott",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Ferencváros csütörtöki 2–0-s győzelme az AC Milan ellen jelentős bevétellel is jár a klub számára.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/06/anyagilag-is-nagyon-jol-jar-a-ferencvaros",
+          "scope": "belfold"
+        },
+        {
+          "text": "Betlehem Dávid bronzérmet nyert 10 kilométeren a nyíltvízi úszók világkupa-nyitányán, a mexikói Cancúnban.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/06/nyiltvizi-uszo-vk-betlehem-david-bronzermes-10-kilometeren",
+          "scope": "belfold"
+        },
+        {
+          "text": "A nemzetközi Sportdöntőbíróság (CAS) döntése értelmében azonnali hatállyal vissza kell venni az orosz válogatottakat a Nemzetközi Jégkorong Szövetség (IIHF) által rendezendő világbajnokságokra.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/06/kaosz-johet-az-oroszok-visszaterese-miatt-a-sportkozgazdasz-is-megdobbent",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Hetvenkilenc éves korában elhunyt Gellér Sándor, 113-szoros válogatott kosárlabdázó.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/06/elhunyt-geller-sandor",
+          "scope": "belfold"
+        },
+        {
+          "text": "A doppingellenes ügynökségek újfajta csalásra, elsősorban hamis orvosi igazolásokra figyelmeztetnek.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/2026/11/06/hamis-orvosi-igazolasok-miatt-figyelmeztetnek",
           "scope": "kulfold"
-        },
-        {
-          "text": "A Milan edzője ideges volt a Ferencvárostól elszenvedett hazai vereség után.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/06/nem-ertik-a-jatekosaim-erthetoen-ideges-volt-a-milan-edzo-a-ferencvarostol-elszenvedett-hazai-vereseg-utan",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A Ferencváros megérdemelt sikert aratott az AC Milan ellen a San Siróban az Európa-liga őszi szakaszában.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/05/klubtortenelmi-merkozes-volt-ertekelesek-a-milanoi-ferencvaros-diadal-utan",
-          "scope": "belfold"
-        },
-        {
-          "text": "Kozo Tasima, a Japán Labdarúgó-szövetség tiszteletbeli elnöke indul Gianni Infantino ellen a márciusi FIFA-elnökválasztáson.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/05/ezuttal-japan-jelolt-jelezte-hogy-kiall-infantino-ellen",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A BVSC olimpikonja szerdán és csütörtökön is több úszószámban győzött.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/05/uj-kiralynoje-kel-a-magyar-uszosportnak",
-          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-06T12:50:12.154Z",
+      "updatedAt": "2026-11-06T20:48:42.070Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/06/hamis-orvosi-igazolasok-miatt-figyelmeztetnek"
+          "link": "https://infostart.hu/sport/2026/11/06/kikapott-a-jegkorong-valogatott"
         },
         {
           "name": "Nemzeti Sport",
@@ -111,48 +111,48 @@
     "technologia": {
       "items": [
         {
-          "text": "A chipek tokozása jelenti a félvezetőipar következő nagy kihívását.",
+          "text": "Az ígéretek ellenére az MI betegségek elleni harcban elért eredményei még nem láthatók.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/tudomany/167300/azt-igertek-az-mi-legyozi-a-betegsegeket-de-ebbol-meg-semmit-nem-latni",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A félvezetőiparban a chipek tokozása jelenti a következő nagy versengés területét.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/167296/a-chipek-tokozasa-a-felvezetoipar-kovetkezo-nagy-csatatere",
           "scope": "kulfold"
         },
         {
-          "text": "A Mercedes mesterséges intelligencia alapú asszisztenst épít autóiba.",
+          "text": "A Mercedes MI-asszisztenst integrál az autóiba.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/auto/167295/a-mercedes-az-autoiba-koltozteti-az-mi-asszisztenst",
           "scope": "kulfold"
         },
         {
-          "text": "Jelentős memóriahiány fenyeget, ami miatt hamarosan sok pénzért sem lesz chip vásárolható.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167294/olyan-merteku-memoriahiany-fenyeget-hogy-hamarosan-sok-penzert-sem-lehet-majd-ch",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A Magyar Tudományos Akadémia szerint a JÉGER jégkármérséklő rendszer nem felelős az elmúlt évek aszályos időjárásáért.",
+          "text": "A Magyar Tudományos Akadémia jelentése szerint a JÉGER jégkármérséklő rendszer üzemeltetése nem okolható az elmúlt évek aszályos időjárásáért.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/11/06/jeger-tudomanyos-iteletet-az-mta-tol-hitvitak-helyett",
           "scope": "belfold"
         },
         {
-          "text": "Egy kínai cég több mint egymillió androidos készüléket hackelt meg botnet és hátsó kapu telepítésével.",
+          "text": "Egy kínai cég több mint egymillió androidos készüléket hackelt meg botnet és hátsó kapuk létrehozásával anyagi haszonszerzés céljából.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/11/06/tobb-mint-egymillio-androidos-keszuleket-hackelt-meg-egy-kinai-ceg",
           "scope": "kulfold"
         },
         {
-          "text": "Kína részletes ütemtervet tett közzé a Hold meghódítására, emberes küldetést tervezve a következő három éven belül.",
+          "text": "Kína részletes ütemtervet hozott nyilvánosságra a Hold meghódítására, melyben három éven belüli emberes küldetést tervez.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/11/05/kie-lesz-a-hold-kina-kozzetette-a-nagy-tervet",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-06T12:50:28.862Z",
+      "updatedAt": "2026-11-06T20:48:52.049Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167297/a-demokratak-gyozelme-utan-nehez-helyzetbe-kerultek-az-it-mogulok"
+          "link": "https://sg.hu/cikkek/tudomany/167300/azt-igertek-az-mi-legyozi-a-betegsegeket-de-ebbol-meg-semmit-nem-latni"
         },
         {
           "name": "Infostart Tudomány",
@@ -164,27 +164,33 @@
     "gazdasag": {
       "items": [
         {
-          "text": "Az amerikai tőzsdéken példátlan, mintegy 2900 milliárd dolláros vagyonvesztést okozó eladási hullám söpört végig, mely péntek reggelre Ázsiát is elérte.",
+          "text": "Az Európai Beruházási Bank elnöke, Nadia Calviño Budapestre látogatott, és 400 millió euró érkezik Magyarországra.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/uzlet/20261106/panikhangulat-a-tozsdeken-gyorsul-az-eses-europaban-874602",
+          "link": "https://www.portfolio.hu/gazdasag/20261106/tisza-kormany-beideztek-rogan-antalt-400-millio-euro-jon-magyarorszagra-874636",
+          "scope": "belfold"
+        },
+        {
+          "text": "Az amerikai tőzsdéken történelmi eladási hullám söpört végig az AI-részvények zuhanása miatt, példátlan vagyonvesztést okozva.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/uzlet/20261106/megjott-a-het-legjobban-vart-adata-azonnal-reagalnak-a-piacok-874602",
           "scope": "kulfold"
         },
         {
-          "text": "A deep tech technológiai innovációk 2030-ra az uniós államok GDP-jének felét elérő globális értékteremtési potenciállal rendelkeznek.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261106/a-deep-tech-porgetheti-fel-az-europai-gazdasag-motorjat-egy-helyen-a-jovoallo-technologiak-donteshozoi-a-portfolio-konferenciajan-845604",
+          "text": "A Demokrata Párt térnyerésével kilátásba helyeződött a tech-szektor, különösen az AI-cégek szabályozatlanságának vége, ami aggodalomra sarkallta a befektetőket.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/11/06/beutott-a-felidos-valasztas-az-ai-boomnak-meghatraltak-a-befektetok",
           "scope": "kulfold"
         },
         {
-          "text": "Ukrán katonai csapások közel harminc jelentős orosz olajfinomító működését bénították meg vagy korlátozták, ezzel hatalmas károkat okozva az orosz gazdaságnak.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20261106/szetbombaztak-az-ukranok-az-orosz-ipar-legfontosabb-szektorat-moszkva-dollarmilliardokat-vesztett-874722",
-          "scope": "kulfold"
+          "text": "Szakértő szerint a Wekerle Plusz program már nem okoz ingatlanár-robbanást, ellentétben az Otthon Starttal, és az agglomeráció lesz a nyertes.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/11/06/szakerto-a-wekerle-plusz-mar-nem-hoz-ingatlanar-robbanast-mint-az-otthon-start",
+          "scope": "belfold"
         },
         {
-          "text": "Péntek kora délután a magyar tőzsde 1,2 százalékos mínuszban volt, de nemzetközi viszonylatban felülteljesítőnek számított.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/uzlet/20261106/egyre-lejjebb-a-magyar-tozsde-874726",
+          "text": "A Mol csoport rekorderedményt ért el a harmadik negyedévben, 554,9 milliárd forint tisztított EBITDA-val, üzemtűz és hatósági korlátozás ellenére is.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/11/06/mohos-kristof-uzemtuzzel-es-hatosagi-korlatozassal-egyutt-is-rekorderedmenyt-ert-el-a-mol-a-harmadik-negyedevben",
           "scope": "belfold"
         },
         {
@@ -192,24 +198,18 @@
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/11/06/bovules-a-boltokban-es-az-online-vasarlasban-de-vannak-vesztesek-adatok",
           "scope": "belfold"
-        },
-        {
-          "text": "Az egy héttel korábbi aukcióhoz képest az átlaghozam 10 bázisponttal, 5,42 százalékra csökkent.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/05/tolongas-latszik-a-hosszu-lejaratu-allampapiroknal",
-          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-06T12:50:40.281Z",
+      "updatedAt": "2026-11-06T20:49:12.984Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261106/a-deep-tech-porgetheti-fel-az-europai-gazdasag-motorjat-egy-helyen-a-jovoallo-technologiak-donteshozoi-a-portfolio-konferenciajan-845604"
+          "link": "https://www.portfolio.hu/global/20261106/kiterjesztene-az-urbe-a-haborukat-oroszorszag-omolhetnek-az-amerikai-fegyverek-ukrajnaba-haborus-hireink-penteken-874596"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/06/bovules-a-boltokban-es-az-online-vasarlasban-de-vannak-vesztesek-adatok"
+          "link": "https://infostart.hu/gazdasag/2026/11/06/beutott-a-felidos-valasztas-az-ai-boomnak-meghatraltak-a-befektetok"
         }
       ],
       "skipped": []
@@ -217,42 +217,24 @@
     "kornyezet": {
       "items": [
         {
-          "text": "Kétnapos akciósorozat zajlik tizenöt európai országban az AI-adatközpontok ellen.",
+          "text": "Tizenöt európai országban száz különféle csoport szervez kétnapos tiltakozó eseményeket az AI-adatközpontok ellen.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/11/06/ketnapos-akciosorozat-zajlik-az-ai-adatkozpontok-ellen-szerte-europaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "A demokraták félidős sikere miatt akár a nagy AI-adatközpont-fejlesztések 30 százaléka is leállhat.",
+          "text": "A demokraták félidős sikere miatt az AI-adatközpontok nagy fejlesztési projektjeinek akár 30 százaléka is leállhat vagy elmaradhat.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/11/06/a-demokratak-felidos-sikere-megakaszthatja-a-nagy-ai-adatkozpont-fejleszteseket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Egy nemzetközileg is ismert hazai borász szerint az elmúlt éveket alapul véve a helyzet „Armageddonhoz” hasonlítható.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/06/ha-az-elmult-eveket-veszem-alapul-akkor-ez-egy-armageddon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "belfold"
-        },
-        {
-          "text": "Az aranyszínű sárgaság miatt a magyar szőlőültetvények 30-50 százaléka is odaveszhet.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/06/mindenki-azt-gondolta-hogy-ez-velunk-nem-fog-megtortenni-igy-tarolta-le-magyarorszagot-es-a-regiot-az-aranyszinu-sargasag?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "belfold"
-        },
-        {
-          "text": "Az aranyszínű sárgaság Ausztriában is terjed, és Románia legnagyobb bortermelő területét fenyegeti.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/06/mindenki-azt-gondolta-hogy-ez-velunk-nem-fog-megtortenni-igy-tarolta-le-magyarorszagot-es-a-regiot-az-aranyszinu-sargasag?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-06T12:50:50.038Z",
+      "updatedAt": "2026-11-06T20:49:25.985Z",
       "sourceLinks": [
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/11/06/ketnapos-akciosorozat-zajlik-az-ai-adatkozpontok-ellen-szerte-europaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/11/06/dokufilm-keszult-a-wu-tang-clan-hires-egyetlen-peldanyban-letezo-albumanak-ellentmondasos-sorsarol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": [
@@ -262,38 +244,44 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Az Audi-gyárnál demonstrálók szerint az autóipart a vesztesek versenyébe kényszerítik, aminek ára már Győrben is látszik.",
+          "text": "A Tisza-kormány több millió dolláros üzleti tárgyalásokba kezdett az ukrán autópálya magyar hálózatra való rákötéséről.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/autoipar-gyori-demonstracio-audi-szakszervezetek",
+          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/karpatalja-export-magyarorszag-beruhazas-kereskedelem",
           "scope": "belfold"
         },
         {
-          "text": "Sorban állnak le a műtrágyagyárak Európában, ami brutális válságot okoz az iparágban, és a magyar gazdák is megfizethetik az árát.",
+          "text": "A kormányszóvivő bejelentése szerint megváltozott a Wekerle Plusz, enyhítve az Otthon Starthoz képest legnagyobb szigorítását.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/agrar/2026/11/mutragya-sorra-allnak-le-a-gyarak-agrarvalsag",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A tartósan magas földgázárak miatt újabb európai gyártókapacitások eshetnek ki.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/agrar/2026/11/mutragya-sorra-allnak-le-a-gyarak-agrarvalsag",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Magyar Péter az Európai Beruházási Bank elnökével tárgyalt a nagyobb lakásépítések elindításának lehetőségéről.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/magyar-peter-sorra-vette-mirol-targyalt-az-europai-beruhazasi-bank-elnokevel.html?utm_source=rss&utm_medium=referral",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/wekerle-plusz-otthon-start-kormanyszovivo-ingatlan",
           "scope": "belfold"
         },
         {
-          "text": "A Privátbankár rekordszámú pályázattal adta át az ESG-díjakat a legjobb fenntartható befektetések kategóriájában.",
+          "text": "Míg Németországban még mindig a Covid-járvány utóhatásaival küzdenek a vásárlók, addig Magyarországon már nem tapasztalható ez a jelenség.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/covid-fogyasztas-nemet-magyar-kiskereskedelem",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Az Európai Bizottság elnöke szerint hamarosan hat balkáni országban is lehet belföldihez hasonló díjért telefonálni.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/befektetes/a-legjobb-fenntarthato-befektetesek-nyomaban-atadta-az-esg-dijakat-a-privatbankar.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/makro/hamarosan-hat-balkani-orszagban-lehet-a-belfoldihez-hasonlo-dijert-telefonalni.html?utm_source=rss&utm_medium=referral",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Az uniós rangsor szerint Magyarország nem áll jól az állami szociális kiadások arányát tekintve, mely Ausztriában a legmagasabb.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/makro/itt-az-unios-rangsor-az-allami-szocialis-kiadasok-aranyarol-magyarorszag-nem-all-jol.html?utm_source=rss&utm_medium=referral",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A forint erősödött az euróval szemben, megközelítve a 363-as árfolyamot, de a dollárral szemben gyengébben teljesített.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/makro/belehuzott-a-forint-az-euroval-szemben-de-a-dollarral-nem-birt.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-06T12:51:01.114Z",
+      "updatedAt": "2026-11-06T20:49:39.065Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -301,11 +289,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/magyar-peter-sorra-vette-mirol-targyalt-az-europai-beruhazasi-bank-elnokevel.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/vallalatok/milliardos-kar-hackertamadas-es-aszaly-csoda-a-nullszaldo-az-ubm-nel.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-11-06T20:46:55.479Z"
+  }
 }
