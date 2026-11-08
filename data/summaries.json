@@ -1,113 +1,111 @@
 {
-  "generatedAt": "2026-11-08T11:51:12.583Z",
+  "generatedAt": "2026-11-08T19:29:42.007Z",
   "fx": {
-    "rate": 362.94,
-    "date": "2026-11-07T23:53:03.000Z",
+    "rate": 362.55,
+    "date": "2026-11-08T19:26:31.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "A K-Monitor szerint öt év alatt több mint 73 millió forintnyi pluszjuttatást fizetett az Operaház Ókovács Szilveszternek.",
-          "source": "Telex",
-          "link": "https://telex.hu/karakter/kultura/2026/11/08/73-millio-forintnyi-pluszjuttatas-operahaz-okovacs-szilveszter-ot-ev-alapberen-tul",
-          "scope": "belfold"
-        },
-        {
-          "text": "Nagy Ervin kulturális államtitkár Kolozsváron megígérte, hogy újraosztanak 1,3 milliárd forintnyi kulturális támogatást Erdélyben.",
-          "source": "Telex",
-          "link": "https://telex.hu/transtelex/2026/11/08/nagy-ervin-erdely-nka-atvilagitas-kolozsvar-kultura-mattyasovszky",
-          "scope": "belfold"
-        },
-        {
-          "text": "Magyar Péter szerint a Tisza kampányából ismert Ricsi kisbusz az újkori magyar történelem egyik szimbólumává vált, ezért a Közlekedési Múzeumba kerülhet.",
-          "source": "Telex",
-          "link": "https://telex.hu/zacc/2026/11/08/a-kozlekedesi-muzeumba-kerulhet-a-tisza-kampanyabol-ismertte-valt-piros-feher-zold-platos-auto",
-          "scope": "belfold"
-        },
-        {
-          "text": "Havasi Bertalan ordas hazugságnak nevezte Kátai-Németh Vilmos szociális és családügyi miniszter feljelentését, amit a gyermeküdültetés elleni felháborító politikai támadásnak tart.",
+          "text": "Az ügyészség nyomozást indított a honvédelmi minisztérium 12 milliárdos, pályáztatás nélkül kötött tanácsadói szerződésének ügyében.",
           "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/11/08/havasi-bertalan-katai-nemeth-vilmos-erzsebet-tabor-feljelentes/",
+          "link": "https://24.hu/belfold/2026/11/08/nyomozast-ugyeszseg-12-milliardos-tanacsadoi-szerzodes-honvedelmi-miniszterium/",
           "scope": "belfold"
         },
         {
-          "text": "Flávio Bolsonaro legyőzésével megállította a trumpizmus latin-amerikai hullámát a negyedszer is Brazília elnökévé választott Lula.",
-          "source": "HVG",
-          "link": "https://hvg.hu/360/20261108_202645-brazil-elnokvalasztas-utan-lula-problemai-bolsonaro-csaladja-akadalyverseny",
+          "text": "Egy tankerületi vezető bizalomhiányra hivatkozva mondott le, mindössze egy nappal a kinevezése után.",
+          "source": "24.hu",
+          "link": "https://24.hu/belfold/2026/11/08/tankerulet-vezeto-lemondas-balogh-tamas-laszlo/",
+          "scope": "belfold"
+        },
+        {
+          "text": "A jemeni húszik felhőkarcolót támadtak Szaúd-Arábiában.",
+          "source": "24.hu",
+          "link": "https://24.hu/kulfold/2026/11/08/jemeni-huszik-szaud-arabia-tamadas-aramco/",
           "scope": "kulfold"
         },
         {
-          "text": "Iránban kivégeztek három férfit, akiket bűnösnek találtak abban, hogy Izrael és az Egyesült Államok érdekében cselekedtek a januári széles körű kormányellenes tüntetések során.",
+          "text": "Az ügyészség nyomozást rendelt el Ruszin-Szendi három feljelentése alapján, melyek egyike a tizenkét milliárdos tanácsadói szerződés vizsgálatát is magában foglalja.",
           "source": "HVG",
-          "link": "https://hvg.hu/vilag/20261108_a-kormany-ellen-tuntettek-kivegeztek-oket-iranban",
+          "link": "https://hvg.hu/gazdasag/20261108_elrendeltek-a-nyomozast-ruszin-szendi-harom-feljelentesere",
+          "scope": "belfold"
+        },
+        {
+          "text": "Az RTL információi szerint azbesztet találtak a gyömrői iskola mellett, emiatt félszáz helybéli család követel újabb vizsgálatokat.",
+          "source": "HVG",
+          "link": "https://hvg.hu/zhvg/20261108_rtl-azbesztet-talaltak-a-gyomroi-iskola-mellett",
+          "scope": "belfold"
+        },
+        {
+          "text": "Donald Trump az MMA globális szervezetének elnökét kérte fel a Fehér Ház szóvivői posztjára.",
+          "source": "HVG",
+          "link": "https://hvg.hu/vilag/20261108_donald-trump-feher-haz-szovivo-dana-white-mma-ketrecharc",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-08T11:50:13.380Z",
+      "updatedAt": "2026-11-08T19:28:37.987Z",
       "sourceLinks": [
         {
-          "name": "Telex",
-          "link": "https://telex.hu/belfold/2026/11/08/vaddiszno-duna-marina-part-onkormanyzat"
-        },
-        {
           "name": "24.hu",
-          "link": "https://24.hu/kulfold/2026/11/08/nagyvilag-het-kepei-fotogaleria-oktober-30-november-6/"
+          "link": "https://24.hu/sport/foci/2026/11/08/angol-foci-liverpool-serules-andoni-iraola-szoboszlai-dominik/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/elet/20261108_tobb-mint-50-milliardot-forintot-szannak-az-orszag-fasitasara-es-a-telepulesek-zolditesere"
+          "link": "https://hvg.hu/gazdasag/20261108_elrendeltek-a-nyomozast-ruszin-szendi-harom-feljelentesere"
         }
       ],
-      "skipped": []
+      "skipped": [
+        "Telex"
+      ]
     },
     "sport": {
       "items": [
         {
-          "text": "Major Veronika ezüst-, a magyar csapat pedig bronzérmet szerzett női standard pisztolyban a dohai sportlövő-világbajnokságon.",
+          "text": "Lando Norris, a McLaren versenyzője nyerte a Forma-1-es Sao Pauló-i Nagydíjat.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/08/sportlovo-vb-major-veronika-ezust-a-magyar-csapat-bronzermes-noi-standard-pisztolyban",
-          "scope": "belfold"
+          "link": "https://infostart.hu/sport/2026/11/08/norris-nyert-interlagosban-a-mercedese-a-konstruktori-bajnoki-cim",
+          "scope": "kulfold"
         },
         {
-          "text": "Lando Norris, a McLaren brit versenyzője nyerte a Forma–1-es Sao Pauló-i Nagydíj szombati időmérő edzését.",
+          "text": "Lando Norris, a McLaren brit versenyzője nyerte a Forma-1-es Sao Pauló-i Nagydíj szombati időmérő edzését.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/2026/11/07/norrise-a-pole-pozicio-az-esos-idomeron",
           "scope": "kulfold"
         },
         {
-          "text": "A Puskás Akadémia 1–0-ra nyert a Kisvárda otthonában a labdarúgó OTP Bank Liga 13. fordulójának szombati mérkőzésén.",
+          "text": "A Liverpool 3-1-re nyert a Crystal Palace otthonában az angol labdarúgó-bajnokság tizedik fordulójában.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/07/egyetlen-gol-dontott-a-puskas-akademia-maradt-az-elen",
+          "link": "https://infostart.hu/sport/2026/11/08/szoboszlait-lecsereltek",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Major Veronika ezüstérmet szerzett a dohai sportlövő-világbajnokságon női standard pisztolyban.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/08/sportlovo-vb-major-veronika-ezust-a-magyar-csapat-bronzermes-noi-standard-pisztolyban",
           "scope": "belfold"
         },
         {
-          "text": "Egy ferencvárosi szurkolót öt évre kitiltottak az Európai Unió futballstadionjaiból, miután Mussolini-pólóval provokált Milánóban.",
+          "text": "A Major, Domsits Olívia, Fábián Sára Ráhel összeállítású magyar csapat bronzérmet nyert a dohai sportlövő-világbajnokságon.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/07/mussolini-poloval-provokalt-egy-fardi-szukolo-milanoban-kubatov-gabor-is-megszolalt",
+          "link": "https://infostart.hu/sport/2026/11/08/sportlovo-vb-major-veronika-ezust-a-magyar-csapat-bronzermes-noi-standard-pisztolyban",
           "scope": "belfold"
         },
         {
-          "text": "Életének 79. évében elhunyt Rothermel Ádám olimpiai ezüstérmes labdarúgó.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/07/emberfeletti-harcot-vivott-megrendito-hir-erkezett-az-egykori-ujpesti-kapusrol",
-          "scope": "belfold"
-        },
-        {
-          "text": "Supka Attila már nem a Kisvárda vezetőedzője.",
+          "text": "Az Esztergom simán nyert, és a női kézilabda Európa-liga csoportkörének kapujába került.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/labdarugo-nb-i/2026/11/mar-nem-supka-attila-a-kisvarda-vezetoedzoje-hivatalos",
+          "link": "https://www.nemzetisport.hu/kezilabda/2026/11/siman-nyert-a-noi-kezilabda-europa-liga-csoportkorenek-kapujaban-az-esztergom",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-08T11:50:26.093Z",
+      "updatedAt": "2026-11-08T19:28:52.755Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/08/sportlovo-vb-major-veronika-ezust-a-magyar-csapat-bronzermes-noi-standard-pisztolyban"
+          "link": "https://infostart.hu/sport/2026/11/08/norris-nyert-interlagosban-a-mercedese-a-konstruktori-bajnoki-cim"
         },
         {
           "name": "Nemzeti Sport",
@@ -119,13 +117,19 @@
     "technologia": {
       "items": [
         {
+          "text": "Az Apple 2,7 milliárd dollár adót takarított meg azzal, hogy Szingapúrban számolta el nyereségét.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167320/2-7-milliard-dollar-adot-takaritott-meg-az-apple-azzal-hogy-szingapurban-szamolt",
+          "scope": "kulfold"
+        },
+        {
           "text": "Aktivisták törtek be egy Amszterdamban épülő Microsoft-adatközpont területére.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/167310/aktivistak-tortek-be-egy-amszterdamban-epulo-microsoft-adatkozpont-teruletere",
           "scope": "kulfold"
         },
         {
-          "text": "Megérkezett a Bluetooth HDT technológia, amely veszteségmentes vezeték nélküli hangátvitelt ígér.",
+          "text": "Megérkezett a Bluetooth HDT, amely veszteségmentes vezeték nélküli hangátvitelt ígér.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/167308/megerkezett-a-bluetooth-hdt-amely-vesztesegmentes-vezetek-nelkuli-hangatvitelt-i",
           "scope": "kulfold"
@@ -137,30 +141,24 @@
           "scope": "kulfold"
         },
         {
-          "text": "Az Európai Unió szerint a TikTok algoritmusa káros tartalmak végtelen spiráljába vezeti a felhasználókat.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167305/az-eu-szerint-a-tiktok-algoritmusa-karos-tartalmak-vegtelen-spiraljaba-vezeti-a-",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Kidolgozták a tervet, hogyan lesz áram és kommunikáció a Holdon, miniatűr atomerőművek nélkül.",
+          "text": "Az Astrolab kidolgozta a tervet, hogyan biztosítható áram és kommunikáció a Holdon miniatűr atomerőművek nélkül is.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/11/08/kidolgoztak-a-tervet-hogyan-lesz-aram-es-kommunikacio-a-holdon",
           "scope": "kulfold"
         },
         {
-          "text": "Egy kínai cég több mint egymillió androidos készüléket hackelt meg.",
+          "text": "Egy kínai cég több mint egymillió androidos készüléket hackelt meg botnet és hátsó kapuk létrehozásával.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/11/06/tobb-mint-egymillio-androidos-keszuleket-hackelt-meg-egy-kinai-ceg",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-08T11:50:38.558Z",
+      "updatedAt": "2026-11-08T19:29:02.942Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167310/aktivistak-tortek-be-egy-amszterdamban-epulo-microsoft-adatkozpont-teruletere"
+          "link": "https://sg.hu/cikkek/it-tech/167320/2-7-milliard-dollar-adot-takaritott-meg-az-apple-azzal-hogy-szingapurban-szamolt"
         },
         {
           "name": "Infostart Tudomány",
@@ -172,52 +170,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "A befektetők szerint az amerikai félidős választások \"kék cunamija\" rossz hír az AI-nak.",
+          "text": "Az amerikai pénzügyminisztérium felszólította Irakot az Irán felé vezető határátkelők lezárására a Teheránra nehezedő gazdasági nyomás fokozása céljából.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/befektetes/20261108/a-piacok-radobbentek-hogy-utaljak-amerika-kek-hullamat-874766",
+          "link": "https://www.portfolio.hu/global/20261108/megjott-az-ukasz-washingtonbol-azonnali-hatallyal-le-kell-zarni-a-hatarokat-irakban-875006",
           "scope": "kulfold"
         },
         {
-          "text": "A politikai kapcsolatok révén megerősödött magyar vállalatok sorsáról nem lehet egységesen dönteni.",
+          "text": "A nemzetközi olajpiaci folyamatok és a forint erősödése kedvezően befolyásolhatják az üzemanyagárakat Magyarországon.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261108/mi-lehet-a-ner-es-cegek-jovoje-bedontes-vagy-atvetel-873888",
+          "link": "https://www.portfolio.hu/gazdasag/20261108/megjott-a-magyarazat-ezert-fordultak-nagyot-az-uzemanyagarak-magyarorszagon-875000",
           "scope": "belfold"
         },
         {
-          "text": "A magyar lakosság fele túlköltekezik a karácsonyi ünnepek alatt a Cofidis felmérése szerint.",
+          "text": "Kalifornia államban népszavazást tartottak egy milliárdosokra kivetendő egyszeri 5 százalékos vagyonadó bevezetéséről szóló indítványról.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/gazdasag/20261108/tertak-elemer-a-vagyonado-kialakitasa-kapcsan-mit-erdemes-atgondolni-874692",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Az MBH Bank AgrárTrend indexe a harmadik negyedévre tovább csökkent, jelezve a magyar agrárium egyre súlyosabb helyzetét.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/08/a-magyarok-fele-tullepi-a-keretet-de-van-amibol-nem-enged",
+          "link": "https://infostart.hu/gazdasag/2026/11/08/bajban-a-magyar-agrarium-egyre-tobb-agazat-sodrodik-valsagba",
           "scope": "belfold"
         },
         {
-          "text": "A kormány 275 milliárd forintos segítséget tervez a magyar kis- és középvállalkozások számára.",
+          "text": "A kormány 275 milliárd forintos segítséget irányoz elő a magyar kis- és középvállalkozások nemzetközi értékláncokban való szerepének erősítésére.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/11/07/275-milliardos-segitseg-erkezhet-a-magyar-vallalkozasoknak",
           "scope": "belfold"
         },
         {
-          "text": "A vagyonadó rontja a versenyképességet és gazdaságlassító hatása van a PwC Magyarország szerint.",
+          "text": "A Wekerle Plusz program keretében lakásonként akár ötmillió forint támogatást igényelhetnek a társasházak energetikai korszerűsítésre.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/07/lakasbol-gyar-igy-alakithatja-at-a-beruhazasokat-a-vagyonado",
-          "scope": "belfold"
-        },
-        {
-          "text": "Az OTP Bank több más piaci szereplővel közösen alkotmányjogi panaszt nyújtott be az Alkotmánybírósághoz a kamatstop rendelet miatt.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/07/alkotmanyjogi-panaszt-nyujtott-be-az-otp-a-kamatstop-miatt",
+          "link": "https://infostart.hu/gazdasag/2026/11/07/lakasonkent-akar-otmillio-a-tasashazaknak-ujabb-reszletek-a-wekerle-pluszrol",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-08T11:50:48.732Z",
+      "updatedAt": "2026-11-08T19:29:22.628Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/befektetes/20261108/a-piacok-radobbentek-hogy-utaljak-amerika-kek-hullamat-874766"
+          "link": "https://www.portfolio.hu/global/20261108/megjott-az-ukasz-washingtonbol-azonnali-hatallyal-le-kell-zarni-a-hatarokat-irakban-875006"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/08/a-magyarok-fele-tullepi-a-keretet-de-van-amibol-nem-enged"
+          "link": "https://infostart.hu/gazdasag/2026/11/08/bajban-a-magyar-agrarium-egyre-tobb-agazat-sodrodik-valsagba"
         }
       ],
       "skipped": []
@@ -225,18 +223,24 @@
     "kornyezet": {
       "items": [
         {
-          "text": "Kétnapos akciósorozat zajlik tizenöt európai országban az AI-adatközpontok ellen, száz különféle csoport szervezésében.",
+          "text": "Dokufilm készült a Wu-Tang Clan híres, egyetlen példányban létező albumának ellentmondásos sorsáról.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/06/ketnapos-akciosorozat-zajlik-az-ai-adatkozpontok-ellen-szerte-europaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/11/06/dokufilm-keszult-a-wu-tang-clan-hires-egyetlen-peldanyban-letezo-albumanak-ellentmondasos-sorsarol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Magyarországon évek óta elérhető a spinális izomatrófia (SMA) génterápiája, és a súlyos örökletes betegségre 2022 óta szűrik az újszülötteket.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/11/06/nem-a-jovorol-beszelunk-hanem-a-jelenrol-mar-magyarorszagon-is-eleteket-ment-a-genterapia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         }
       ],
-      "engine": "gemini",
-      "updatedAt": "2026-11-08T11:50:56.678Z",
+      "engine": "extractive",
+      "updatedAt": "2026-11-08T19:29:29.942Z",
       "sourceLinks": [
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/11/08/borjubol-emberbe-a-veratomlesztes-veresen-komoly-tortenete?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/11/08/az-anthropic-almodni-tanitja-az-ai-modelljeit-hogy-kijavitsak-a-sajat-emlekeiket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": [
@@ -246,44 +250,32 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Amerika kevesebb mint 60 nap múlva lépéseket tehet Kínával szemben egy nem fegyveres háború keretében.",
+          "text": "A Wekerle Plusz program hatására drágulhatnak a használt lakások, ami visszaesést okozhat a lakáshitelpiaci keresletben.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/ritkafoldfem-finomitas-pentagon-kina-fegyverrendszer",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Óriási az időnyomás egyes vállalatokon, miközben Washington veszélyes időszakban készül nagy horderejű lépésre.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/ritkafoldfem-finomitas-pentagon-kina-fegyverrendszer",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Yaro Patrice szerint nem fog sokat változni az amerikai külpolitika, még ha Európa Trump megsemmisítő vereségét is reméli.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kulpolitika/tul-koran-orul-europa-trump-megsemmisito-veresegenek-klasszis-podcast-yaro-patrice-szal.html?utm_source=rss&utm_medium=referral",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Magyar Péter 58 milliárd forintos bejelentést tett az ország építéséről és zöldítéséről.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/itt-van-magyar-peter-58-milliardos-bejelentese.html?utm_source=rss&utm_medium=referral",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/wekerle-plusz-lakashitelpiac-bankok-kamattamogatas",
           "scope": "belfold"
         },
         {
-          "text": "Orbán Viktor szerint, ha a Tisza-kormány így folytatja, Magyarországra is hasonló sors vár.",
+          "text": "Magyar Péter eurótervéhez Kármán Andrásnak kell megszereznie Ursula von der Leyen jóváhagyását.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/kozelet/2026/11/orban-viktor-nemet-gazdasag-video-tisza-bajok",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/karman-andras-euroterv-brusszel",
           "scope": "belfold"
         },
         {
-          "text": "Új út készülhet a Balaton egyik legfontosabb turisztikai városához, amely a torlódásokra csapna le, de egy megépült gyorsforgalmi szakasz vesztes lehet.",
+          "text": "A magyar költségvetés tervezete elkészült, de még szükséges a brüsszeli pecsét megszerzése.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/turizmus/2026/11/keszthely-uj-bekotout-terseg-balaton-fejlesztes",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/karman-andras-euroterv-brusszel",
+          "scope": "belfold"
+        },
+        {
+          "text": "Új adatok szerint a magyarok átlagosan feleannyit keresnek, mint egy átlagos európai.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/makro/ujabb-lesujto-adatot-tettek-kozze-magyarorszagrol--ez-a-ner-oroksege.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-08T11:51:12.346Z",
+      "updatedAt": "2026-11-08T19:29:41.936Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -291,11 +283,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozelet/orban-viktor-mar-tudja-mi-var-magyarorszagra-ideje-felebredni.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/makro/matolcsy-gyorgy-szamara-van-egy-enyhito-korulmeny.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-11-08T16:58:11.954Z"
+  }
 }
