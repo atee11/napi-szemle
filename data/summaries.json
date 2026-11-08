@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T19:21:43.613Z",
+  "generatedAt": "2026-11-08T11:51:12.583Z",
   "fx": {
     "rate": 362.94,
     "date": "2026-11-07T23:53:03.000Z",
@@ -9,56 +9,56 @@
     "politika": {
       "items": [
         {
-          "text": "Emberi maradványokat találtak egy Románia területi vizein dróntámadásban megsérült tartályhajó fedélzetén.",
+          "text": "A K-Monitor szerint öt év alatt több mint 73 millió forintnyi pluszjuttatást fizetett az Operaház Ókovács Szilveszternek.",
           "source": "Telex",
-          "link": "https://telex.hu/kulfold/2026/11/07/emberi-maradvanyokat-talaltak-annak-a-tartalyhajonak-a-fedelzeten-amelyet-droncsapas-ert-romania-teruleti-vizein",
-          "scope": "kulfold"
+          "link": "https://telex.hu/karakter/kultura/2026/11/08/73-millio-forintnyi-pluszjuttatas-operahaz-okovacs-szilveszter-ot-ev-alapberen-tul",
+          "scope": "belfold"
         },
         {
-          "text": "Az amerikai középső parancsnokság új egységet állított fel az iráni csempészútvonalak felszámolására.",
+          "text": "Nagy Ervin kulturális államtitkár Kolozsváron megígérte, hogy újraosztanak 1,3 milliárd forintnyi kulturális támogatást Erdélyben.",
           "source": "Telex",
-          "link": "https://telex.hu/kulfold/2026/11/07/iron-gate-munkacsoport-iran-usa-egyesult-allamok",
-          "scope": "kulfold"
+          "link": "https://telex.hu/transtelex/2026/11/08/nagy-ervin-erdely-nka-atvilagitas-kolozsvar-kultura-mattyasovszky",
+          "scope": "belfold"
         },
         {
-          "text": "A magyar miniszterelnök részvétét fejezte ki Lengyelország felé a krakkói támadás kapcsán.",
+          "text": "Magyar Péter szerint a Tisza kampányából ismert Ricsi kisbusz az újkori magyar történelem egyik szimbólumává vált, ezért a Közlekedési Múzeumba kerülhet.",
           "source": "Telex",
-          "link": "https://telex.hu/kulfold/2026/11/07/magyar-peter-a-krakkoi-tamadasrol-magyarorszag-a-lengyel-nep-mellett-all",
-          "scope": "kulfold"
+          "link": "https://telex.hu/zacc/2026/11/08/a-kozlekedesi-muzeumba-kerulhet-a-tisza-kampanyabol-ismertte-valt-piros-feher-zold-platos-auto",
+          "scope": "belfold"
         },
         {
-          "text": "Az amerikai félidős választásokon a demokraták fölénye még a közvélemény-kutatókat is meglepte.",
-          "source": "Telex",
-          "link": "https://telex.hu/kulfold/2026/11/07/felidos-valasztas-egyesult-allamok-kozvelemeny-kutatasok-demokrata-part-republikanus-part-tevedes",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A Magyar Közút ötmilliárd forintból vásárolhat új gépeket egy minisztériumi többletforrásból.",
+          "text": "Havasi Bertalan ordas hazugságnak nevezte Kátai-Németh Vilmos szociális és családügyi miniszter feljelentését, amit a gyermeküdültetés elleni felháborító politikai támadásnak tart.",
           "source": "24.hu",
-          "link": "https://24.hu/fn/gazdasag/2026/11/07/vitezy-david-magyar-kozut-gepbeszerzes-utfelujitas/",
+          "link": "https://24.hu/belfold/2026/11/08/havasi-bertalan-katai-nemeth-vilmos-erzsebet-tabor-feljelentes/",
           "scope": "belfold"
         },
         {
-          "text": "Nemzetközi lapszemle szerint Orbán Viktor puha autokráciát alakított ki, de hibázott a fejlemények kézbentartásában.",
+          "text": "Flávio Bolsonaro legyőzésével megállította a trumpizmus latin-amerikai hullámát a negyedszer is Brazília elnökévé választott Lula.",
           "source": "HVG",
-          "link": "https://hvg.hu/360/20261107_nemzetkozi-lapszemle",
-          "scope": "belfold"
+          "link": "https://hvg.hu/360/20261108_202645-brazil-elnokvalasztas-utan-lula-problemai-bolsonaro-csaladja-akadalyverseny",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Iránban kivégeztek három férfit, akiket bűnösnek találtak abban, hogy Izrael és az Egyesült Államok érdekében cselekedtek a januári széles körű kormányellenes tüntetések során.",
+          "source": "HVG",
+          "link": "https://hvg.hu/vilag/20261108_a-kormany-ellen-tuntettek-kivegeztek-oket-iranban",
+          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-07T19:20:27.605Z",
+      "updatedAt": "2026-11-08T11:50:13.380Z",
       "sourceLinks": [
         {
           "name": "Telex",
-          "link": "https://telex.hu/kulfold/2026/11/07/emberi-maradvanyokat-talaltak-annak-a-tartalyhajonak-a-fedelzeten-amelyet-droncsapas-ert-romania-teruleti-vizein"
+          "link": "https://telex.hu/belfold/2026/11/08/vaddiszno-duna-marina-part-onkormanyzat"
         },
         {
           "name": "24.hu",
-          "link": "https://24.hu/fn/gazdasag/2026/11/07/vitezy-david-magyar-kozut-gepbeszerzes-utfelujitas/"
+          "link": "https://24.hu/kulfold/2026/11/08/nagyvilag-het-kepei-fotogaleria-oktober-30-november-6/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/tudomany/20261107_asztrofoto-muholdak-mesterseges-intelligencia-brendan-larsen"
+          "link": "https://hvg.hu/elet/20261108_tobb-mint-50-milliardot-forintot-szannak-az-orszag-fasitasara-es-a-telepulesek-zolditesere"
         }
       ],
       "skipped": []
@@ -66,42 +66,48 @@
     "sport": {
       "items": [
         {
-          "text": "A Kispest-Honvéd 2–0-s előnyről 2–2-es döntetlent ért el az MTK Budapest ellen az OTP Bank Liga 13. fordulójában.",
+          "text": "Major Veronika ezüst-, a magyar csapat pedig bronzérmet szerzett női standard pisztolyban a dohai sportlövő-világbajnokságon.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/07/elherdalta-ketgolos-elonyet-a-honved",
+          "link": "https://infostart.hu/sport/2026/11/08/sportlovo-vb-major-veronika-ezust-a-magyar-csapat-bronzermes-noi-standard-pisztolyban",
           "scope": "belfold"
         },
         {
-          "text": "Sao Paulóban 2035-ig biztosan marad Forma-1-es futam a frissen aláírt ötéves szerződéshosszabbítás értelmében.",
+          "text": "Lando Norris, a McLaren brit versenyzője nyerte a Forma–1-es Sao Pauló-i Nagydíj szombati időmérő edzését.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/07/eldolt-meddig-marad-a-forma-1-egyik-legendas-helyszine-a-versenynaptarban",
+          "link": "https://infostart.hu/sport/2026/11/07/norrise-a-pole-pozicio-az-esos-idomeron",
           "scope": "kulfold"
         },
         {
-          "text": "Marco Rossi Szűcs Kornélt hívta be a magyar labdarúgó-válogatott keretébe a sérült Várkonyi Bence helyett.",
+          "text": "A Puskás Akadémia 1–0-ra nyert a Kisvárda otthonában a labdarúgó OTP Bank Liga 13. fordulójának szombati mérkőzésén.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/07/kenyszeru-cseret-kellett-vegrehajtania-marco-rossinak",
+          "link": "https://infostart.hu/sport/2026/11/07/egyetlen-gol-dontott-a-puskas-akademia-maradt-az-elen",
           "scope": "belfold"
         },
         {
-          "text": "Péni István ezüstérmet szerzett a férfi kisöbű szabadpuska fekvő számában a dohai sportlövő-világbajnokságon.",
+          "text": "Egy ferencvárosi szurkolót öt évre kitiltottak az Európai Unió futballstadionjaiból, miután Mussolini-pólóval provokált Milánóban.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/07/vb-ezustermes-peni-istvan",
+          "link": "https://infostart.hu/sport/2026/11/07/mussolini-poloval-provokalt-egy-fardi-szukolo-milanoban-kubatov-gabor-is-megszolalt",
           "scope": "belfold"
         },
         {
-          "text": "Russell, Leclerc, Hamilton, Verstappen és Pérez is rajtbüntetést kap vasárnapra a Sao Pauló-i Nagydíjon.",
+          "text": "Életének 79. évében elhunyt Rothermel Ádám olimpiai ezüstérmes labdarúgó.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/07/emberfeletti-harcot-vivott-megrendito-hir-erkezett-az-egykori-ujpesti-kapusrol",
+          "scope": "belfold"
+        },
+        {
+          "text": "Supka Attila már nem a Kisvárda vezetőedzője.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/f1/2026/11/megerkezett-az-eso-leclerc-hamilton-russell-es-verstappen-is-rajtbuntetest-kapott-sao-paulo-i-nagydij-idomero",
-          "scope": "kulfold"
+          "link": "https://www.nemzetisport.hu/labdarugo-nb-i/2026/11/mar-nem-supka-attila-a-kisvarda-vezetoedzoje-hivatalos",
+          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-07T19:20:47.070Z",
+      "updatedAt": "2026-11-08T11:50:26.093Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/07/elherdalta-ketgolos-elonyet-a-honved"
+          "link": "https://infostart.hu/sport/2026/11/08/sportlovo-vb-major-veronika-ezust-a-magyar-csapat-bronzermes-noi-standard-pisztolyban"
         },
         {
           "name": "Nemzeti Sport",
@@ -113,52 +119,52 @@
     "technologia": {
       "items": [
         {
-          "text": "Megérkezett a Bluetooth HDT, amely veszteségmentes vezeték nélküli hangátvitelt ígér.",
+          "text": "Aktivisták törtek be egy Amszterdamban épülő Microsoft-adatközpont területére.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167310/aktivistak-tortek-be-egy-amszterdamban-epulo-microsoft-adatkozpont-teruletere",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Megérkezett a Bluetooth HDT technológia, amely veszteségmentes vezeték nélküli hangátvitelt ígér.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/167308/megerkezett-a-bluetooth-hdt-amely-vesztesegmentes-vezetek-nelkuli-hangatvitelt-i",
           "scope": "kulfold"
         },
         {
-          "text": "A Tesla a tartósan gyenge eladások miatt leállítja a Cybertruck gyártását.",
+          "text": "A Tesla leállítja a Cybertruck gyártását a tartósan gyenge eladások miatt.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/auto/167306/a-tesla-leallitja-a-cybertruck-gyartasat-a-tartosan-gyenge-eladasok-miatt",
           "scope": "kulfold"
         },
         {
-          "text": "Az EU szerint a TikTok algoritmusa káros tartalmak végtelen spiráljába vezeti a felhasználókat.",
+          "text": "Az Európai Unió szerint a TikTok algoritmusa káros tartalmak végtelen spiráljába vezeti a felhasználókat.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/167305/az-eu-szerint-a-tiktok-algoritmusa-karos-tartalmak-vegtelen-spiraljaba-vezeti-a-",
           "scope": "kulfold"
         },
         {
-          "text": "A Magyar Tudományos Akadémia jelentése szerint a JÉGER jégkármérséklő rendszer üzemeltetése nem tehető felelőssé az elmúlt évek aszályos időjárásáért.",
+          "text": "Kidolgozták a tervet, hogyan lesz áram és kommunikáció a Holdon, miniatűr atomerőművek nélkül.",
           "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/11/06/jeger-tudomanyos-iteletet-az-mta-tol-hitvitak-helyett",
-          "scope": "belfold"
-        },
-        {
-          "text": "Egy kínai cég a Google szerint több mint egymillió androidos készüléket hackelt meg botnet és hátsó kapu létrehozásával.",
-          "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/11/06/tobb-mint-egymillio-androidos-keszuleket-hackelt-meg-egy-kinai-ceg",
+          "link": "https://infostart.hu/tudomany/2026/11/08/kidolgoztak-a-tervet-hogyan-lesz-aram-es-kommunikacio-a-holdon",
           "scope": "kulfold"
         },
         {
-          "text": "Kína közzétette a Hold meghódítására vonatkozó részletes ütemtervét, amely szerint három éven belül embert küldene az égitestre.",
+          "text": "Egy kínai cég több mint egymillió androidos készüléket hackelt meg.",
           "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/11/05/kie-lesz-a-hold-kina-kozzetette-a-nagy-tervet",
+          "link": "https://infostart.hu/tudomany/2026/11/06/tobb-mint-egymillio-androidos-keszuleket-hackelt-meg-egy-kinai-ceg",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-07T19:21:00.635Z",
+      "updatedAt": "2026-11-08T11:50:38.558Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167288/a-kriptovalutak-utan-az-mi-piac-sem-hozott-nyugalmat-a-bitcoinbanyaszoknak"
+          "link": "https://sg.hu/cikkek/it-tech/167310/aktivistak-tortek-be-egy-amszterdamban-epulo-microsoft-adatkozpont-teruletere"
         },
         {
           "name": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/11/07/dinoszaurusz-versejtekre-bukkanhattak"
+          "link": "https://infostart.hu/tudomany/2026/11/08/kidolgoztak-a-tervet-hogyan-lesz-aram-es-kommunikacio-a-holdon"
         }
       ],
       "skipped": []
@@ -166,52 +172,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "A Magyar Nemzeti Bank új vezetése két új beadványt adott át a Budapesti Rendőr-főkapitányság részére a Szabadság téri székház felújításával összefüggő bankgarancia és üzemeltetés kapcsán.",
+          "text": "A befektetők szerint az amerikai félidős választások \"kék cunamija\" rossz hír az AI-nak.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/ingatlan/20261107/a-nyomozo-hatosaghoz-fordult-az-mnb-a-szekhaza-ugyeben-874940",
-          "scope": "belfold"
-        },
-        {
-          "text": "Súlyos bankválság és jegybankelnök-lemondás nyomán elmozdították hivatalából Paraguay elnökét, Santiago Peñát, melyben az OTP is érintett volt.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/global/20261107/elnokvaltashoz-vezetett-az-otp-t-is-erinto-sulyos-bankvalsag-paraguayban-874934",
+          "link": "https://www.portfolio.hu/befektetes/20261108/a-piacok-radobbentek-hogy-utaljak-amerika-kek-hullamat-874766",
           "scope": "kulfold"
         },
         {
-          "text": "A kormány 275 milliárd forintos segítséget tervez a magyar kis- és középvállalkozások számára, hogy erősítsék nemzetközi szerepüket és piaci jelenlétüket.",
+          "text": "A politikai kapcsolatok révén megerősödött magyar vállalatok sorsáról nem lehet egységesen dönteni.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/gazdasag/20261108/mi-lehet-a-ner-es-cegek-jovoje-bedontes-vagy-atvetel-873888",
+          "scope": "belfold"
+        },
+        {
+          "text": "A magyar lakosság fele túlköltekezik a karácsonyi ünnepek alatt a Cofidis felmérése szerint.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/11/08/a-magyarok-fele-tullepi-a-keretet-de-van-amibol-nem-enged",
+          "scope": "belfold"
+        },
+        {
+          "text": "A kormány 275 milliárd forintos segítséget tervez a magyar kis- és középvállalkozások számára.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/11/07/275-milliardos-segitseg-erkezhet-a-magyar-vallalkozasoknak",
           "scope": "belfold"
         },
         {
-          "text": "A PwC Magyarország szerint a vagyonadó rontja a versenyképességet és gazdaságlassító hatása is van, ami átalakíthatja a beruházásokat.",
+          "text": "A vagyonadó rontja a versenyképességet és gazdaságlassító hatása van a PwC Magyarország szerint.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/11/07/lakasbol-gyar-igy-alakithatja-at-a-beruhazasokat-a-vagyonado",
           "scope": "belfold"
         },
         {
-          "text": "Az OTP Bank Nyrt. több piaci szereplővel közösen alkotmányjogi panaszt nyújtott be az Alkotmánybíróság elé a kamatstop rendelet miatt.",
+          "text": "Az OTP Bank több más piaci szereplővel közösen alkotmányjogi panaszt nyújtott be az Alkotmánybírósághoz a kamatstop rendelet miatt.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/11/07/alkotmanyjogi-panaszt-nyujtott-be-az-otp-a-kamatstop-miatt",
           "scope": "belfold"
-        },
-        {
-          "text": "A Demokrata Párt térnyerése az AI-cégek szabályozatlanságának várható végét vetíti előre, ami aggodalmat keltett és a részvények zuhanásához vezetett a befektetők körében.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/06/beutott-a-felidos-valasztas-az-ai-boomnak-meghatraltak-a-befektetok",
-          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-07T19:21:13.514Z",
+      "updatedAt": "2026-11-08T11:50:48.732Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/ingatlan/20261107/a-nyomozo-hatosaghoz-fordult-az-mnb-a-szekhaza-ugyeben-874940"
+          "link": "https://www.portfolio.hu/befektetes/20261108/a-piacok-radobbentek-hogy-utaljak-amerika-kek-hullamat-874766"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/07/275-milliardos-segitseg-erkezhet-a-magyar-vallalkozasoknak"
+          "link": "https://infostart.hu/gazdasag/2026/11/08/a-magyarok-fele-tullepi-a-keretet-de-van-amibol-nem-enged"
         }
       ],
       "skipped": []
@@ -219,24 +225,18 @@
     "kornyezet": {
       "items": [
         {
-          "text": "Két nap alatt száz különféle csoport szervez tiltakozó eseményeket az AI-adatközpontok ellen tizenöt európai országban.",
+          "text": "Kétnapos akciósorozat zajlik tizenöt európai országban az AI-adatközpontok ellen, száz különféle csoport szervezésében.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/11/06/ketnapos-akciosorozat-zajlik-az-ai-adatkozpontok-ellen-szerte-europaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A demokraták félidős sikere akár a nagy AI-adatközpont-fejlesztések 30 százalékát is megakaszthatja vagy késleltetheti.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/06/a-demokratak-felidos-sikere-megakaszthatja-a-nagy-ai-adatkozpont-fejleszteseket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-07T19:21:30.392Z",
+      "updatedAt": "2026-11-08T11:50:56.678Z",
       "sourceLinks": [
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/11/07/egymast-penzelik-az-ai-oriasok-de-ha-kipukkad-a-lufi-rajtunk-csattan-az-ostor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/11/08/borjubol-emberbe-a-veratomlesztes-veresen-komoly-tortenete?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": [
@@ -246,44 +246,44 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Az OTP bank dél-amerikai terjeszkedése során egy paraguayi bank néhány hónap alatt összeomlott.",
+          "text": "Amerika kevesebb mint 60 nap múlva lépéseket tehet Kínával szemben egy nem fegyveres háború keretében.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/cegvilag/2026/11/otp-ueno-toke-paraguay-del-amerika-bank-befektetes",
+          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/ritkafoldfem-finomitas-pentagon-kina-fegyverrendszer",
           "scope": "kulfold"
         },
         {
-          "text": "Osztrák milliárdosok folytatnak fényűző életmódot, akik a Strabag és Swietelsky cégek révén nyertek magyar közbeszerzéseken.",
+          "text": "Óriási az időnyomás egyes vállalatokon, miközben Washington veszélyes időszakban készül nagy horderejű lépésre.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/kozelet/2026/11/swietelsky-strabag-meszaros-lorinc-luxus-kozbeszerzes",
+          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/ritkafoldfem-finomitas-pentagon-kina-fegyverrendszer",
           "scope": "kulfold"
         },
         {
-          "text": "A magyar szupergazdagok Európa-rekorderek lettek, és felmerült a vagyonadó bevezetésének lehetősége.",
+          "text": "Yaro Patrice szerint nem fog sokat változni az amerikai külpolitika, még ha Európa Trump megsemmisítő vereségét is reméli.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/europa-rekorderek-lettek-a-magyar-szupergazdagok-kiderult-hogyan-segithetne-a-tarsadalmon-a-vagyonado.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/kulpolitika/tul-koran-orul-europa-trump-megsemmisito-veresegenek-klasszis-podcast-yaro-patrice-szal.html?utm_source=rss&utm_medium=referral",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Magyar Péter 58 milliárd forintos bejelentést tett az ország építéséről és zöldítéséről.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/makro/itt-van-magyar-peter-58-milliardos-bejelentese.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         },
         {
-          "text": "Az angol futball kilencmilliárd font ellenére mentőövre vár, a tulajdonosok utalásai tartják életben.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/kilencmilliard-font-sem-eleg-mentoovre-var-az-angol-futball.html?utm_source=rss&utm_medium=referral",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A kormány hatvanmilliárd forintot különít el fásításra és települészöldítésre.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/ezekre-a-nagyon-fontos-dolgokra-is-jutnak-allami-tizmilliardok.html?utm_source=rss&utm_medium=referral",
+          "text": "Orbán Viktor szerint, ha a Tisza-kormány így folytatja, Magyarországra is hasonló sors vár.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/kozelet/2026/11/orban-viktor-nemet-gazdasag-video-tisza-bajok",
           "scope": "belfold"
         },
         {
-          "text": "Kapitány István ígérete szerint 25 milliárd forintos program indul a kkv-k támogatására.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/vallalatok/orulhetnek-a-kkv-k--kapitany-istvan-nagy-igeretet-tett.html?utm_source=rss&utm_medium=referral",
+          "text": "Új út készülhet a Balaton egyik legfontosabb turisztikai városához, amely a torlódásokra csapna le, de egy megépült gyorsforgalmi szakasz vesztes lehet.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/turizmus/2026/11/keszthely-uj-bekotout-terseg-balaton-fejlesztes",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-07T19:21:43.552Z",
+      "updatedAt": "2026-11-08T11:51:12.346Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -291,11 +291,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/europa-rekorderek-lettek-a-magyar-szupergazdagok-kiderult-hogyan-segithetne-a-tarsadalmon-a-vagyonado.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/kozelet/orban-viktor-mar-tudja-mi-var-magyarorszagra-ideje-felebredni.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-11-08T10:03:30.783Z"
+  }
 }
