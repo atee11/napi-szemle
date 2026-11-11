@@ -1,70 +1,74 @@
 {
-  "generatedAt": "2026-11-10T21:17:25.212Z",
+  "generatedAt": "2026-11-11T12:35:29.198Z",
   "fx": {
-    "rate": 364.338,
-    "date": "2026-11-11T09:07:14.000Z",
+    "rate": 365.111,
+    "date": "2026-11-11T12:35:24.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "Egy amerikai katonát tartóztattak le Angliában azzal a gyanúval, hogy Oroszországnak kémkedhetett.",
-          "source": "Telex",
-          "link": "https://telex.hu/kulfold/2026/11/10/oroszorszagnak-kemkedhetett-az-amerikai-katona-akit-letartoztattak-angliaban",
+          "text": "The post György herceg rajzával és Katalin hercegné interjújával jelent meg a Vilmos herceg által szerkesztett lap first appeared on 24.hu.",
+          "source": "24.hu",
+          "link": "https://24.hu/elet-stilus/2026/11/11/gyorgy-vilmos-herceg-ujsag/",
           "scope": "kulfold"
         },
         {
-          "text": "Őrizetbe vették a Fidesz-kormány egyik államtitkárának a fiát, aki egy őrzésvédelemmel foglalkozó bűnszervezetet vezetett.",
-          "source": "Telex",
-          "link": "https://telex.hu/belfold/2026/11/10/orizetbe-vettek-bolcsik-zoltan-volt-rendeszeti-allamtitkarnak-fiat",
-          "scope": "belfold"
-        },
-        {
-          "text": "A kormányfő az év vége előtt szeretne megállapodást elérni a napi egymillió eurós bírságról.",
-          "source": "Telex",
-          "link": "https://telex.hu/belfold/2026/11/10/magyar-peter-atv-egyenes-beszed-berlini-ut-ugynokaktak",
-          "scope": "belfold"
-        },
-        {
-          "text": "Indítványozták Orbán Áron letartóztatását.",
+          "text": "The post Milliárdos hardveres fejlesztést kap a mentőszolgálat first appeared on 24.hu.",
           "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/11/10/ezek-voltak-a-nap-legfontosabb-hirei-7/",
-          "scope": "belfold"
+          "link": "https://24.hu/belfold/2026/11/11/omsz-hegedus-zsolt-milliardos-fejlesztesek/",
+          "scope": "kulfold"
         },
         {
-          "text": "Napok alatt négyévnyi kérelem érkezett az Állambiztonsági Szolgálatok Történelmi Levéltárához az ügynökaktákkal kapcsolatban.",
-          "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/11/10/ugynokakta-kerelem-allambiztonsag-leveltar/",
-          "scope": "belfold"
-        },
-        {
-          "text": "A miniszterelnök szerint a V4-ek együttműködnek az uniós hétéves költségvetésének tárgyalása során.",
+          "text": "Videó: 180 km/órás sebességgel katapultáltak Európa legmagasabb kéményéből két sportolót.",
           "source": "HVG",
-          "link": "https://hvg.hu/gazdasag/20261110_magyar-peter-v4-energiaellatas-unios-koltsegvetes",
-          "scope": "belfold"
+          "link": "https://hvg.hu/elet/20261111_katapult-red-bull-szlovania-video",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Péntek reggelig akár 30-50 milliméter eső eshet.",
+          "source": "HVG",
+          "link": "https://hvg.hu/zhvg/20261111_vegre-rendesen-esett-az-eso-a-hetvegeig-jon-a-folytatas",
+          "scope": "kulfold"
         }
       ],
-      "engine": "gemini",
-      "updatedAt": "2026-11-10T21:16:11.972Z",
+      "engine": "extractive",
+      "updatedAt": "2026-11-11T12:34:25.650Z",
       "sourceLinks": [
         {
-          "name": "Telex",
-          "link": "https://telex.hu/techtud/2026/11/10/hunor-kapu-tibor-tudomanyos-kutatasok-eredmenyek-iss-vilagur-tudomany"
-        },
-        {
           "name": "24.hu",
-          "link": "https://24.hu/belfold/2026/11/10/magyar-peter-berlin-unio-birsag/"
+          "link": "https://24.hu/tudomany/2026/11/11/mars-vulkanok-aktivitas-elet/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/elet/20261110_debreceni-csokonai-szinhaz-vadasz-daniel-lemondott-tompa-eniko-tisza-debrecen"
+          "link": "https://hvg.hu/gazdasag/20261111_szja-csokkentes-google-trends"
         }
       ],
-      "skipped": []
+      "skipped": [
+        "Telex"
+      ]
     },
     "sport": {
       "items": [
+        {
+          "text": "Szoboszlai Dominik pályára lépése a magyar válogatott Nemzetek Ligája-mérkőzésein csak az utolsó pillanatban dőlhet el.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/11/szoboszlai-sorsa-a-jatekos-a-klub-a-valogatott-es-az-orvosi-stab-kolcsonos-bizalma-kell-most-panics-gergely-az-arenaban",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Lotus tárgyalásokat folytat a Forma–1-be való visszatérésről.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/11/regi-veteran-terhet-vissza-a-forma-1-be-kinai-segitseggel",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Fradi Marseille-ben játszik Bajnokok Ligája-mérkőzést.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/11/marseille-ben-jatszik-bl-meccset-a-fradi-sport-a-teveben",
+          "scope": "belfold"
+        },
         {
           "text": "Arsene Wenger fontolgatja, hogy elindul a FIFA elnöki posztjáért Gianni Infantino ellen.",
           "source": "Infostart Sport",
@@ -72,42 +76,24 @@
           "scope": "kulfold"
         },
         {
-          "text": "A Győri Audi ETO KC női kézilabdaklubot rendkívüli gazdasági kihívások elé állítja a támogatási rendszer megváltozása.",
+          "text": "A Győri Audi ETO KC női kézilabdaklubnál akár a játékosok fizetését is megfelezhetik.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/2026/11/10/akar-a-jatekosok-fizeteset-is-megfelezhetik-a-gyori-eto-nal",
           "scope": "belfold"
         },
         {
-          "text": "Marton Zsófi súlylökésben, Horváth Lotti párbajtőrvívásban nyert aranyérmet a dakari ifjúsági olimpián.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/10/marton-zsofi-kezdte-horvath-lotti-folytatta-a-magyar-aranyesot-dakarban",
-          "scope": "belfold"
-        },
-        {
-          "text": "Szoboszlai Dominik, Kerkez Milos, Lukács Dániel és Bolla Bendegúz különmunkát végzett a magyar labdarúgó-válogatott edzőtáborában.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/10/negy-kulcsember-is-kulon-utakon-jar-a-valogatott-edzotaboraban",
-          "scope": "belfold"
-        },
-        {
-          "text": "Mauricio Pochettino, az Egyesült Államok válogatottjának szövetségi kapitánya a legesélyesebb jelölt Michael Carrick utódlására a Manchester United kispadján.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/10/uj-jelolt-van-a-manchester-united-menedzseri-posztjara",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Rapport Richárd és Magnus Carlsen mellett klasszisok egész sora játszik Budapesten egy új sakk-sorozat bevezető tornáján.",
+          "text": "A Győri ETO KC gazdasági nehézségei a megváltozott sportfinanszírozási környezetből adódhatnak.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/egyeb-egyeni/2026/11/a-sakk-vilagsztarjai-budapesten-harcolnak-a-totalis-vb-cimert",
+          "link": "https://www.nemzetisport.hu/kezilabda/2026/11/nem-csokiautomata-a-gyori-sikerek-ara",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-10T21:16:24.238Z",
+      "updatedAt": "2026-11-11T12:34:36.649Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/10/olyan-jeloltrol-beszelnek-akinek-tenyleg-lenne-eselye-gianni-infantinoval-szemben"
+          "link": "https://infostart.hu/sport/2026/11/11/szoboszlai-sorsa-a-jatekos-a-klub-a-valogatott-es-az-orvosi-stab-kolcsonos-bizalma-kell-most-panics-gergely-az-arenaban"
         },
         {
           "name": "Nemzeti Sport",
@@ -119,52 +105,52 @@
     "technologia": {
       "items": [
         {
-          "text": "A Ring bemutatott egy otthoni biztonsági drónt és egy biztonsági robotot.",
+          "text": "Az Európai Unió hadat üzen az online kereskedelem visszásságainak.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167356/az-eu-hadat-uzen-az-online-kereskedelem-visszassagainak",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Seagate újra előveszi a hibrid meghajtók ötletét.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167355/ujra-eloveszi-a-hibrid-meghajtok-otletet-a-seagate",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Ring otthoni biztonsági drónt és egy biztonsági robotot mutatott be.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/167350/egy-otthoni-biztonsagi-dront-es-egy-biztonsagi-robotot-mutatott-be-a-ring",
           "scope": "kulfold"
         },
         {
-          "text": "Ázsia a mesterséges intelligenciában látja a fejlődés motorját, míg a nyugati világ aggódik miatta.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167345/mig-a-nyugati-vilag-fel-az-mi-tol-addig-azsia-a-fejlodes-motorjat-latja-benne",
-          "scope": "kulfold"
+          "text": "A Semmelweis Egyetem virtuális valósággal kezeli a skizofréniás betegeket, hogy szembenézzenek a belső hangjuk digitális avatárjával.",
+          "source": "Infostart Tudomány",
+          "link": "https://infostart.hu/tudomany/2026/11/11/arcot-kap-a-belso-hang-virtualis-valosaggal-kezeli-a-skizofrenias-betegeket-a-semmelweis-egyetem",
+          "scope": "belfold"
         },
         {
-          "text": "A Google, a Unity, a Roblox és az Epic Games az MI-alapú játékalkotásban véli látni a jövőt.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/jatek/167343/a-google-a-unity-a-roblox-es-az-epic-games-is-az-mi-alapu-jatekalkotasban-latja-",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Aggodalmat vált ki a mesterséges intelligencia önfejlesztésének felgyorsulása.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167321/aggodalmat-kelt-az-mi-onfejlesztesenek-felgyorsulasa",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Kidolgozták a tervet a Holdon szükséges áram- és kommunikációs ellátás biztosítására.",
+          "text": "Az Astrolab kidolgozta a tervet, amivel miniatűr atomerőművek nélkül is biztosítható lenne a jövőbeli holdbázis energiaellátása.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/11/08/kidolgoztak-a-tervet-hogyan-lesz-aram-es-kommunikacio-a-holdon",
           "scope": "kulfold"
         },
         {
-          "text": "Az Apple szigorít az alkalmazásokra vonatkozó követelményeken, ami miatt több népszerű app 18-as korhatárt kaphat.",
+          "text": "Az Apple szigorít, több népszerű alkalmazás is 18-as karikát kap.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/11/08/szigorit-az-apple-tobb-nepszeru-alkalmazas-is-18-as-karikat-kap",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-10T21:16:35.679Z",
+      "updatedAt": "2026-11-11T12:34:47.404Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167350/egy-otthoni-biztonsagi-dront-es-egy-biztonsagi-robotot-mutatott-be-a-ring"
+          "link": "https://sg.hu/cikkek/it-tech/167356/az-eu-hadat-uzen-az-online-kereskedelem-visszassagainak"
         },
         {
           "name": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/11/10/urge-vorsatz-diana-megnyilt-az-esely-arra-hogy-ne-szalljanak-el-vegleg-a-homersekletek-de-lett-egy-uj-kihivas"
+          "link": "https://infostart.hu/tudomany/2026/11/11/arcot-kap-a-belso-hang-virtualis-valosaggal-kezeli-a-skizofrenias-betegeket-a-semmelweis-egyetem"
         }
       ],
       "skipped": []
@@ -172,52 +158,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "A forint gyengült, miután az Egyesült Államokban gyorsult a pénzromlás és a Fed-kormányzó kamatemelésre utalt.",
+          "text": "Az Európai Központi Bank jóváhagyta az Intesa Sanpaolo olasz pénzintézet Monte dei Paschi di Siena felvásárlását, de óvatos osztalékfizetési politikát kért.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/deviza/20261110/lejtore-kerult-a-forint-875318",
-          "scope": "belfold"
-        },
-        {
-          "text": "A magyar állam 50 ezer forint iskolakezdési támogatást utalványok formájában kézbesít több mint 417 ezer családnak.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261110/elindult-a-penzeso-50-ezer-forintot-ad-a-magyar-allam-tobb-mint-417-ezer-csaladnak-875590",
-          "scope": "belfold"
-        },
-        {
-          "text": "Magyar Péter miniszterelnök és Friedrich Merz német kancellár a magyar–német gazdasági együttműködés elmélyítéséről tárgyalt Berlinben.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261110/strategiai-egyeztetes-zajlott-europa-legnagyobb-gazdasagi-hatalmaval-875588",
+          "link": "https://www.portfolio.hu/bank/20261111/rabolintott-a-jegybank-a-hatalmas-bankfuziora-de-kemeny-felteteleket-szabtak-875762",
           "scope": "kulfold"
         },
         {
-          "text": "Nyolc stratégiai jelentőségű hálózatfejlesztési beruházás kezdődik a magyar áramhálózaton 117,5 milliárd forint értékben, uniós finanszírozással.",
+          "text": "A dollár megerősödése nyomán, az amerikai inflációs adatok és jegybankári nyilatkozatok hatására, szerdán is gyengült a forint.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/deviza/20261111/visszatert-a-dollarero-szerdan-is-gyengul-a-forint-875622",
+          "scope": "belfold"
+        },
+        {
+          "text": "Októberben mindössze 0,2 százalékkal emelkedtek a lakásárak országosan, Budapesten pedig lényegében harmadik hónapja stagnáltak az ingatlan.com adatai szerint.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/11/11/tovabb-lassul-a-lakasarak-emelkedese",
+          "scope": "belfold"
+        },
+        {
+          "text": "A 4iG vállalatcsoport űrtechnológiai céget vásárol fel, amellyel nemzetközi űrkutatási és műholdfejlesztési programokban kíván részt venni.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/11/11/urtechnologiai-ceget-vasarol-fel-a-4ig-a-hatar-a-csillagos-eg",
+          "scope": "belfold"
+        },
+        {
+          "text": "Nyolc stratégiai jelentőségű hálózatfejlesztési beruházás kezdődik mintegy 117,5 milliárd forint értékben a Mavir európai uniós finanszírozási szerződése keretében.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/11/10/komoly-atalakitas-elott-all-a-magyar-aramhalozat",
           "scope": "belfold"
         },
         {
-          "text": "A Richter Gedeon Nyrt. az első három negyedévben várakozások feletti árbevételt és nettó nyereséget ért el, ezért felfelé módosította idei előrejelzését.",
+          "text": "Közeledtek a munkavállalói és munkáltatói álláspontok a jövő évi bérekről a Versenyszféra és a Kormány Állandó Konzultációs Fórumán, de megállapodás még nem született.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/10/a-varakozasok-felett-a-bevetel-es-a-nyereseg-a-richternel",
+          "link": "https://infostart.hu/gazdasag/2026/11/10/fordulat-a-minimalber-targyalason-de-ez-meg-nem-megallapodas",
           "scope": "belfold"
-        },
-        {
-          "text": "Döntés előtt áll az Európai Központi Bank új elnöke, ami befolyásolhatja az euróövezet kamatait és a forint árfolyamát is.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/10/ket-ember-ket-kamatpalya-avagy-ki-veszi-at-az-euro-iranyitasat",
-          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-10T21:16:54.244Z",
+      "updatedAt": "2026-11-11T12:34:58.586Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/deviza/20261110/lejtore-kerult-a-forint-875318"
+          "link": "https://www.portfolio.hu/gazdasag/20261111/elindult-az-evszakvaltas-a-balatonon-875764"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/10/komoly-atalakitas-elott-all-a-magyar-aramhalozat"
+          "link": "https://infostart.hu/gazdasag/2026/11/11/tovabb-lassul-a-lakasarak-emelkedese"
         }
       ],
       "skipped": []
@@ -225,18 +211,18 @@
     "kornyezet": {
       "items": [
         {
-          "text": "A Bath-i Egyetem kutatása szerint az ember már puszta létezésével és lélegzésével is szén-dioxidot bocsát ki.",
+          "text": "Egy újonnan leírt rovarfaj a teljes életét pókhálóban éli le, és a pók által meghagyott maradékokkal táplálkozik.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/10/az-ember-mar-azzal-is-szennyez-hogy-el?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/11/11/talaltak-egy-rovart-ami-az-egesz-eletet-egy-pokhaloban-eli-le-de-nem-pok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-10T21:17:12.048Z",
+      "updatedAt": "2026-11-11T12:35:15.145Z",
       "sourceLinks": [
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/11/10/egy-kezzel-is-elvegezhetove-valnak-a-ketkezes-feladatok-egy-uj-robothuvelykujjal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/11/11/igen-a-macskad-tenyleg-ugraltat-teged?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": [
@@ -246,38 +232,44 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Kilenc hónap után újraindultak a béketárgyalások Trump és Putyin között.",
+          "text": "A 2027-es költségvetésben 2000 milliárd forintos hiányt kell betömni.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/kozelet/2026/11/beketargylas-trump-orosz-ukran-haboru-abu-dzabi-fogoly",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Hat akkugyáróriás tett írásos vállalást, miután a magyar kormány elvárásokat fogalmazott meg Dél-Korea nagykövetével.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/del-korea-akkumulator-kornyezetvedelem-beruhazas-esg",
+          "link": "https://www.vg.hu/kozelet/2026/11/koltsegvetes-deficit-rendkivuli-ules-parlament",
           "scope": "belfold"
         },
         {
-          "text": "Magyarországon újra meglódulhat az infláció.",
+          "text": "Magyarország további 5,5 milliárd euró uniós pénz kifizetését várja.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/inflacio-magyar-gazdasag-aszaly-varga-mihaly-arresstop",
+          "link": "https://www.vg.hu/kozelet/2026/11/orban-viktor-eu-ezt-is-ki-kellene-fizetni-magyarorszag",
           "scope": "belfold"
         },
         {
-          "text": "Jelentősen közeledtek a vállalkozók és a szakszervezetek álláspontjai a minimálbér-tárgyalásokon.",
+          "text": "Felmerült a lehetőség az orosz gáz német LNG-re cserélésére Magyarországon.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/nemet-lng-magyarorszag-orosz-gaz-merz-magyar-peter",
+          "scope": "belfold"
+        },
+        {
+          "text": "Az OTP Bank sikeres negyedévet zárt az első kilenchavi eredmények alapján.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/minimalber-targyalas-jelentosen-kozeledtek-a-vallalkozok-es-a-szakszervezetek-allaspontjai.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/vallalatok/a-szamok-nem-hazudnak-sikeres-negyedevet-zart-az-otp.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         },
         {
-          "text": "Trumpék a fékbe taposnak az iráni háborúban, gazdasági nyomással próbálkoznak.",
+          "text": "A CIB Bank új pénzügyi tanácsadói hálózatot indított.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kulpolitika/a-fekbe-taposnak-trumpek-az-irani-haboruban.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/vallalatok/a-cib-uj-uj-penzugyi-tanacsadoi-halozatot-inditott.html?utm_source=rss&utm_medium=referral",
+          "scope": "belfold"
+        },
+        {
+          "text": "Az Európai Unió következő hétéves költségvetésével kapcsolatos fontos kérdések még előttük állnak.",
+          "source": "MFOR.hu",
+          "link": "https://mfor.hu/cikkek/makro/felfedtek-a-lapokat-ursula-von-der-leyenek-de-a-legfontosabb-kerdesben-meg-csak-most-jon-a-neheze.html?utm_source=rss&utm_medium=referral",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-10T21:17:25.066Z",
+      "updatedAt": "2026-11-11T12:35:29.049Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -285,11 +277,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kulpolitika/hirt-hozott-a-beketargyalasokrol-zelenszkij.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/vallalatok/a-szamok-nem-hazudnak-sikeres-negyedevet-zart-az-otp.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-11-11T09:07:14.865Z"
+  }
 }
