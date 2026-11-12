@@ -1,48 +1,60 @@
 {
-  "generatedAt": "2026-11-12T13:41:20.343Z",
+  "generatedAt": "2026-11-12T21:49:34.296Z",
   "fx": {
-    "rate": 365.505,
-    "date": "2026-11-12T17:28:51.000Z",
+    "rate": 365.093,
+    "date": "2026-11-12T21:49:33.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "Pintér Sándor államtitkárának fiát letartóztatták, mert a nyomozók szerint egy milliárdos számlagyárat irányíthatott.",
+          "text": "Izrael megtiltotta egy francia elnökjelölt beutazását, amit a francia külügyminiszter demagógnak nevezett.",
           "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/11/12/pinter-sandor-bolcsik-letartoztatas/",
+          "link": "https://24.hu/kulfold/2026/11/12/izrael-beutazasi-tilalom-franciaorszag/",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Magyarország ratifikálja az Isztambuli egyezményt.",
+          "source": "24.hu",
+          "link": "https://24.hu/belfold/2026/11/12/a-nap-legfontosabb-hirei-2026-november-12/",
           "scope": "belfold"
         },
         {
-          "text": "A cégek töredéke fizetett csak globális minimumadót Magyarországon, így 2024-ben 52,4 milliárd forint folyt be a remélt 96,4 milliárd helyett.",
-          "source": "HVG",
-          "link": "https://hvg.hu/gazdasag/20261112_globalis-minimumado-befizetes-cegek-adobevetel-tisza",
+          "text": "Nyomozók vonultak ki Lezsák Sándorékhoz.",
+          "source": "24.hu",
+          "link": "https://24.hu/belfold/2026/11/12/a-nap-legfontosabb-hirei-2026-november-12/",
           "scope": "belfold"
         },
         {
-          "text": "A Tisza párt 2027-re 240 milliárd forintos többletbevétellel számol a globális minimumadóból, és a tervek szerint szélesebb körű vállalatokat is sarcolna a 15 százalékra emelt társaságiadó-kulccsal.",
+          "text": "Donald Trump az Apple volt vezetőjét, Tim Cookot látná az Nvidia élén.",
           "source": "HVG",
-          "link": "https://hvg.hu/gazdasag/20261112_globalis-minimumado-befizetes-cegek-adobevetel-tisza",
-          "scope": "belfold"
+          "link": "https://hvg.hu/gazdasag/20261112_donald-trump-nvidia-jensen-huang-tim-cook",
+          "scope": "kulfold"
         },
         {
-          "text": "Hatóságok vonultak ki Lezsák Sándor alapítványához, mire a Fidesz és Lezsák Sándor lánya politikai leszámolást emlegetett.",
+          "text": "Az Európai Unió ötszáz áramfejlesztőt ígért Ukrajnának.",
           "source": "HVG",
-          "link": "https://hvg.hu/itthon/20261112_boka-janos-azt-allitja-kivonultak-a-hatosagok-lezsak-sandor-alapitvanyahoz",
-          "scope": "belfold"
+          "link": "https://hvg.hu/gazdasag/20261112_ukrajna-eu-otszaz-aramfejleszt-ukrajna",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Az Európai Politikai Közösség csúcstalálkozóján megerősítették Ukrajna támogatását.",
+          "source": "HVG",
+          "link": "https://hvg.hu/eurologus/20261112_epc-csucs-europa-helyet-kovetel-az-ukrajnai-beketargyalasokon-de-ki-veszi-fel-a-piros-telefont",
+          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-12T13:40:20.024Z",
+      "updatedAt": "2026-11-12T21:48:31.519Z",
       "sourceLinks": [
         {
           "name": "24.hu",
-          "link": "https://24.hu/belfold/2026/11/12/esztergom-kozepiskola-drog/"
+          "link": "https://24.hu/kulfold/2026/11/12/izrael-beutazasi-tilalom-franciaorszag/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/gazdasag/20261112_globalis-minimumado-befizetes-cegek-adobevetel-tisza"
+          "link": "https://hvg.hu/elet/20261112_eger-karacsonyfa-szallito-kamion-oszlop"
         }
       ],
       "skipped": [
@@ -52,48 +64,48 @@
     "sport": {
       "items": [
         {
-          "text": "Békéscsaba 2029 májusában rendezhet gyalogló csapat Európa-bajnokságot, miután a város közgyűlése jóváhagyta a szándéknyilatkozatot.",
+          "text": "Jesús Owono, az FC Andorra és Egyenlítői-Guinea kapusa még nem döntött a visszatérésről vagy visszavonulásról, miután összeütközött a Tenerife játékosával, aki életét vesztette.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/12/meg-nem-dontott-a-folytatasrol-a-kapus-akinek-a-szabalytalansaga-miatt-meghalt-a-tenerife-jatekosa",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Racing Bulls a jelenlegi versenyzőpárosával, Liam Lawsonnal és Arvid Lindbladdal szerepel a 2027-es Forma-1-es szezonban, ezzel teljessé vált a mezőny.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/12/teljes-a-forma-1-mezonye",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Gyulay Zsolt, a MOB elnöke szerint a politikának ki kellene maradnia a sportból a hosszútávú kiszámíthatóság és eredményesség érdekében.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/12/gyulay-zsolt-valtozast-surget-a-politikanak-ki-kellene-maradnia-a-sportbol",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Manchester United menesztette Michael Carricket a menedzseri posztról a 2026-2027-es idény kiábrándító rajtja miatt.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/12/nagyon-sok-tanulsaggal-jar-michael-carrick-menesztese-s-nem-csak-a-manchester-united-hivei-szamara",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Jelentős pénzügyi gondokkal küzd a Győri Audi ETO KC női kézilabdacsapata, melyről a játékosokat is tájékoztatták.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/12/egyutt-maradhat-a-gyori-audi-eto-noi-kezilabdacsapata-megszolalt-az-ugyvezeto",
+          "scope": "belfold"
+        },
+        {
+          "text": "Békéscsaba rendezheti a Gyalogló csapat Európa-bajnokságot 2029 májusában, miután a város közgyűlése jóváhagyta a szándéknyilatkozatot.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/2026/11/12/gyaloglo-eb-lesz-bekescsaban",
           "scope": "belfold"
-        },
-        {
-          "text": "Magyarország is részt vehet jövő januárban a teniszezők United Kupa elnevezésű vegyes csapatversenyén.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/11/magyarorszag-is-reszt-vehet-a-united-kupan",
-          "scope": "belfold"
-        },
-        {
-          "text": "Vincent Kompany először tért vissza a Bayern München edzőközpontjába októberi összeesése óta.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/11/a-sztaredzo-labadozik-de-meg-nem-kozeli-a-visszaterese",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Michael Carrick már nem a Manchester United vezetőedzője.",
-          "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/angol-labdarugas/2026/11/mar-nem-michael-carrick-a-manchester-united-vezetoedzoje",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A NAV iratokat és adathordozókat foglalt le a Videotonnál egy feljelentés alapján.",
-          "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/labdarugo-nb-ii/2026/11/kiszallt-a-nav-a-videotonhoz-iratokat-adathordozokat-foglaltak-le",
-          "scope": "belfold"
-        },
-        {
-          "text": "Hivatalos a Racing Bulls jövő évi versenyzői felállása, Liam Lawson és Arvid Lindblad lesz a csapat pilótája.",
-          "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/f1/2026/11/f1-hivatalos-a-racing-bulls-jovo-evi-versenyzoi-felallasa-teljes-a-mezony",
-          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-12T13:40:32.288Z",
+      "updatedAt": "2026-11-12T21:48:45.419Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/12/gyaloglo-eb-lesz-bekescsaban"
+          "link": "https://infostart.hu/sport/2026/11/12/meg-nem-dontott-a-folytatasrol-a-kapus-akinek-a-szabalytalansaga-miatt-meghalt-a-tenerife-jatekosa"
         },
         {
           "name": "Nemzeti Sport",
@@ -105,48 +117,48 @@
     "technologia": {
       "items": [
         {
-          "text": "Az Európai Unió a tervek szerint korlátozná a mikrotranzakciókat a játékiparban.",
+          "text": "Jensen Huang, az Nvidia vezérigazgatója lemondott pozíciójáról.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167374/lemondott-jensen-huang-az-nvidia-vezerigazgatoja",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Az Európai Unió tervezi a mikrotranzakciók korlátozását, ami a játékipar nemtetszését váltotta ki.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/jatek/167372/a-jatekiparnak-nagyon-nem-tetszik-hogy-az-eu-korlatozna-a-mikrotranzakciokat",
           "scope": "kulfold"
         },
         {
-          "text": "A Samsung egy saját MI által létrehozott K-pop együttessel népszerűsíti magát.",
+          "text": "Az Anduril olyan műholdat fejleszt, amely éjszaka is képes az ellenfelek nyomon követésére.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/tudomany/167373/az-anduril-olyan-muholdat-fejlesztett-amely-ejszaka-sem-vesziti-szem-elol-az-ell",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Samsung saját mesterséges intelligencia által létrehozott K-pop együttessel népszerűsíti magát.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/167368/sajat-mi-altal-letrehozott-k-pop-egyuttessel-nepszerusiti-magat-a-samsung",
           "scope": "kulfold"
         },
         {
-          "text": "Az Anthropic vállalat becsült értéke elérheti az 1400 milliárd dollárt.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167357/1400-milliard-dollart-erhet-az-anthropic",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A Binance elleni sikeres hackertámadáshoz egyetlen alkalmazott hibája vezetett.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167363/egyetlen-alkalmazott-hibaja-eleg-volt-a-binance-elleni-hackertamadas-sikerehez",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A Semmelweis Egyetem virtuális valósággal kezeli a skizofréniás betegeket.",
+          "text": "A Semmelweis Egyetem virtuális valósággal kezeli a skizofréniás betegeket, segítve őket a hallott hangokkal való szembenézésben.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/11/11/arcot-kap-a-belso-hang-virtualis-valosaggal-kezeli-a-skizofrenias-betegeket-a-semmelweis-egyetem",
           "scope": "belfold"
         },
         {
-          "text": "A klímakutatók szerint a mesterséges intelligencia energiaigénye akadályozhatja a kibocsátáscsökkentési célokat.",
+          "text": "A mesterséges intelligencia energiaközpontok jelentős fogyasztása akadályt jelenthet a klímaküzdelemben.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/11/10/urge-vorsatz-diana-megnyilt-az-esely-arra-hogy-ne-szalljanak-el-vegleg-a-homersekletek-de-lett-egy-uj-kihivas",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-12T13:40:40.102Z",
+      "updatedAt": "2026-11-12T21:48:56.263Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/jatek/167372/a-jatekiparnak-nagyon-nem-tetszik-hogy-az-eu-korlatozna-a-mikrotranzakciokat"
+          "link": "https://sg.hu/cikkek/it-tech/167374/lemondott-jensen-huang-az-nvidia-vezerigazgatoja"
         },
         {
           "name": "Infostart Tudomány",
@@ -158,52 +170,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "Hatósági ellenőrzést tartottak a Lezsák Sándorhoz köthető lakitelki Népfőiskola Alapítványnál a milliárdos állami támogatások felülvizsgálata miatt.",
+          "text": "Hatalmas, hatszoros túljegyzés érkezett az Anthropic tőzsdei kibocsátása során, mely több mint kilencvenmilliárd dollár tőkét vonna be.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261112/megjelentek-a-hatosagok-lezsak-sandor-tizmilliardos-tamogatast-kapo-alapitvanynal-876066",
-          "scope": "belfold"
-        },
-        {
-          "text": "A magyar műtárgypiac 2026 őszén élénkülést és óvatosságot is mutat, a klasszikus modern és kortárs alkotások iránti érdeklődés egyaránt bővül.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/befektetes/20261112/hogy-kell-vagyonadot-fizetni-a-festmenyek-utan-a-kerdes-atirhatja-a-mutargypiacot-874988",
-          "scope": "belfold"
-        },
-        {
-          "text": "Az Economist szerint Jensen Huangnak, az Nvidia vezérének le kellene mondania egy Megaspeed nevű céggel kötött több milliárd dolláros hardvervásárlás miatti botrány miatt.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/befektetes/20261112/economist-jensen-huangnak-le-kell-mondania-875980",
+          "link": "https://www.portfolio.hu/uzlet/20261112/hatalmas-tozsdei-kibocsatas-keszulodik-hatszoros-tuljegyzes-az-anthropic-papirjaira-876178",
           "scope": "kulfold"
         },
         {
-          "text": "Az állam jelentősen felgyorsítaná a közbeszerzési eljárásokat, és több mint 1000 milliárd forint értékű vasútfejlesztési közbeszerzés indulhat a következő hónapokban.",
+          "text": "Kedvezőtlen makrogazdasági adatok hatására az Egyesült Államokban a spekulánsok növelik short pozícióikat a kamatérzékeny részvényekben.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/ingatlan/20261112/felgyorsulnak-az-allami-kozbeszerzesek-duborog-a-future-of-construction-2026-konferencia-875884",
+          "link": "https://www.portfolio.hu/befektetes/20261112/megjott-a-jelzes-az-egyesult-allamokbol-ujbol-lecsaptak-a-spekulansok-a-tozsden-876176",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A dollár féléves csúcsra erősödött a forinttal szemben a befektetői kockázatkerülés fokozódása miatt.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/deviza/20261112/feleves-csucsra-erosodott-a-dollar-a-forinttal-szemben-875910",
           "scope": "belfold"
         },
         {
-          "text": "Az ExxonMobil olajipari vállalat választottbírósági eljárást kezdeményezett az Európai Unióval szemben, mivel nem ért egyet az európai szén-dioxid-szabályozással.",
+          "text": "Az Államadósság Kezelő Központ a meghirdetettnél több 10 éves kötvényt adott el az erős kereslet mellett a csütörtöki aukción.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/11/12/eros-kereslet-a-10-eves-allampapir-aukcion",
+          "scope": "belfold"
+        },
+        {
+          "text": "Az ExxonMobil választottbírósági eljárást kezdeményezett az Európai Unióval szemben az európai szén-dioxid-szabályozással kapcsolatos viták miatt.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/11/12/nem-tetszik-az-exxonmobilnak-az-europai-szen-dioxid-szabalyozas-birosaghoz-fordult",
           "scope": "kulfold"
         },
         {
-          "text": "A Richter Gedeon kizárólagos licencmegállapodást kötött az Eli Lilly and Company amerikai gyógyszeripari vállalattal nőgyógyászati gyógyszerek fejlesztésére.",
+          "text": "A Richter Gedeon kizárólagos licencmegállapodást kötött az Eli Lilly amerikai gyógyszeripari vállalattal nőgyógyászati gyógyszerek fejlesztésére.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/11/12/hatalmas-amerikai-uzlet-a-richternel",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-12T13:40:56.179Z",
+      "updatedAt": "2026-11-12T21:49:09.127Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261112/megjelentek-a-hatosagok-lezsak-sandor-tizmilliardos-tamogatast-kapo-alapitvanynal-876066"
+          "link": "https://www.portfolio.hu/uzlet/20261112/hatalmas-tozsdei-kibocsatas-keszulodik-hatszoros-tuljegyzes-az-anthropic-papirjaira-876178"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/12/nem-tetszik-az-exxonmobilnak-az-europai-szen-dioxid-szabalyozas-birosaghoz-fordult"
+          "link": "https://infostart.hu/gazdasag/2026/11/12/eros-kereslet-a-10-eves-allampapir-aukcion"
         }
       ],
       "skipped": []
@@ -211,36 +223,36 @@
     "kornyezet": {
       "items": [
         {
-          "text": "A Tisza-kormány vízmegtartási programjának keretösszegét az elmúlt 126 év legsúlyosabb aszálya után emelték meg.",
+          "text": "Egy újonnan felfedezett egzotikus varázsgomba érintésre barnáról kékre színeződik, és egyszerre termel pszichedelikus és mérgező anyagokat.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/12/a-semminel-tobb-de-a-megoldashoz-aligha-eleg-a-tisza-kormany-vizmegtartasi-programja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "belfold"
-        },
-        {
-          "text": "A vízmegtartási program központi büdzséjét 49 milliárd forintról 221 milliárd forintra emelték.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/12/a-semminel-tobb-de-a-megoldashoz-aligha-eleg-a-tisza-kormany-vizmegtartasi-programja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "belfold"
-        },
-        {
-          "text": "Magyarország egyre kiszolgáltatottabbá válik a növekvő mezőgazdasági birtokkoncentráció miatt.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/12/ed-a-folyamatosan-novekvo-mezogazdasagi-birtokkoncentracio-miatt-egyre-kiszolgaltatottabba-valik-magyarorszag?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "belfold"
-        },
-        {
-          "text": "Az Európai Unióban is jellemző, hogy a mezőgazdasági területeket egyre kevesebb gazdálkodó műveli.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/12/ed-a-folyamatosan-novekvo-mezogazdasagi-birtokkoncentracio-miatt-egyre-kiszolgaltatottabba-valik-magyarorszag?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/11/12/egy-ujonnan-felfedezett-egzotikus-varazsgomba-egyszerre-termel-pszichedelikus-es-mergezo-anyagokat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
+        },
+        {
+          "text": "Az Egyesült Királyság a világon elsőként nevezett ki klímabiztonsági különmegbízottat.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/11/12/az-egyesult-kiralysag-a-vilagon-elsokent-nevezett-ki-klimabiztonsagi-kulonmegbizottat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Andy Burnham, brit miniszterelnök, nemzetbiztonsági kérdésnek nevezte az éghajlatváltozás okozta természeti katasztrófákat a COP31 klímacsúcson.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/11/12/az-egyesult-kiralysag-a-vilagon-elsokent-nevezett-ki-klimabiztonsagi-kulonmegbizottat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Tisza-kormány vízmegtartási programjának keretösszegét 49 milliárdról 221 milliárd forintra emelték.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/11/12/a-semminel-tobb-de-a-megoldashoz-aligha-eleg-a-tisza-kormany-vizmegtartasi-programja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-12T13:41:08.767Z",
+      "updatedAt": "2026-11-12T21:49:23.237Z",
       "sourceLinks": [
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/11/12/az-europai-urugynokseg-elkezdte-vizsgalni-azt-az-aszteroidat-aminek-a-nasa-urszondaja-korabban-nekiutkozott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/11/12/egy-ujonnan-felfedezett-egzotikus-varazsgomba-egyszerre-termel-pszichedelikus-es-mergezo-anyagokat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": [
@@ -250,44 +262,32 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Az árfolyamokról szóló adatok 15 perccel késleltetve jelennek meg.",
+          "text": "Jövő héten jóváhagyhatják a Magyarországnak járó 10 milliárd eurós uniós pénzt.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/reszvenyek",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az EU-csúcson Dublinban Magyarország súlyos figyelmeztetéseket kapott, és felmerült, hogy fizetnie kell Ukrajnának.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/eu-csucs-dublin-magyar-peter-magyarorszag-ukrajna-penz",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A nagy magyar ipari termelők szerint az aktuális energiaár óriási gondot jelent, ami jelentősen visszaüthet.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/energia-koltseg-adatkozpont-ipari-termelo-borsod-ief",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/brusszel-unios-tamogatas-helyreallitas-kohezio-jogallam",
           "scope": "belfold"
         },
         {
-          "text": "A magyar ipari termelők óriási terhek alatt nyögnek, miközben a hálózatot hamarosan telibe kapják az adatközpontok.",
+          "text": "A régióban már olcsóbb tankolni, mint Magyarországon, ami a dízeleseknek különösen fájhat.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/energia-koltseg-adatkozpont-ipari-termelo-borsod-ief",
+          "link": "https://www.vg.hu/energia-vgplus/2026/11/uzemanyagarak-unios-rangsorban-dizel-benzin",
           "scope": "belfold"
         },
         {
-          "text": "Putyin és Trump emberei Moszkvában tárgyalnak egy Ukrajnával kapcsolatos alkuról, Európa nélkül.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kulpolitika/europa-nelkul-kothetnek-alkut-ukrajnarol-putyin-trump-embereivel-targyal.html?utm_source=rss&utm_medium=referral",
-          "scope": "kulfold"
+          "text": "Magyarország elvesztette korábbi legolcsóbb pozícióját, és a régióban a középmezőnybe került.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/energia-vgplus/2026/11/uzemanyagarak-unios-rangsorban-dizel-benzin",
+          "scope": "belfold"
         },
         {
-          "text": "Egyre jobb hírek érkeznek a hazai kutakról, mivel csökkennek az árak.",
+          "text": "Az euró árfolyama estére tovább emelkedett a forinthoz képest.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/egyre-jobb-hirek-erkeznek-a-hazai-kutakrol.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/befektetes/nagyon-nem-alakult-jol-a-nap-a-forintnak-.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-12T13:41:20.003Z",
+      "updatedAt": "2026-11-12T21:49:34.226Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -295,11 +295,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozelet/tortenelmi-megallapodast-irt-ala-karacsony-gergely-es-vitezy-david-.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/kulpolitika/putyinnal-targyalt-trump-ket-embere-ujabb-egyeztetest-jelentettek-be.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-11-12T17:28:52.893Z"
+  }
 }
