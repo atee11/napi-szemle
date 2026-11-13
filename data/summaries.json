@@ -1,93 +1,73 @@
 {
-  "generatedAt": "2026-11-13T12:59:09.889Z",
+  "generatedAt": "2026-11-13T21:23:09.339Z",
   "fx": {
-    "rate": 365.097,
-    "date": "2026-11-13T15:14:14.000Z",
+    "rate": 364.354,
+    "date": "2026-11-13T21:23:08.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "Orbán Viktor nem látogatja meg börtönben lévő öccsét, Orbán Áront, akit a szülei felkerestek.",
-          "source": "Telex",
-          "link": "https://telex.hu/belfold/2026/11/13/meglatogattak-szulei-a-letartoztatott-orban-aront-a-bortonben-szabo-balint-video",
+          "text": "Az NVVH nyomozói milliárdokat foglaltak le Seszták Miklós elrejtett készpénztartalékából.",
+          "source": "HVG",
+          "link": "https://hvg.hu/gazdasag/20261113_sesztak-eldugott-milliardok-nvvh-nyomozas",
           "scope": "belfold"
         },
         {
-          "text": "A kormány feljelentést tesz a Tempus Közalapítvány vagyonával való visszaélések miatt.",
-          "source": "Telex",
-          "link": "https://telex.hu/belfold/2026/11/13/feljelentest-tesz-a-kormany-a-tempus-kozalapitvany-vagyonaval-valo-visszaelesek-miatt",
-          "scope": "belfold"
-        },
-        {
-          "text": "Velkey György egy 2023-as emailt posztolt ki, amelyben Orbán Áron együttműködést ajánlott Szijjártó Péternek.",
-          "source": "Telex",
-          "link": "https://telex.hu/belfold/2026/11/13/orban-aron-szijjarto-peter-kulugyminiszterium-velkey-gyorgy",
-          "scope": "belfold"
-        },
-        {
-          "text": "Egy volt fideszes képviselő, Ékes Ilona zsarolás és kapcsolati erőszak miatt feljelentette Magyar Pétert.",
+          "text": "Hadházy Ákos szerint a Seszták-ügyben megtalált milliárdok csak aprópénzt jelentenek az összes ellopott vagyonhoz képest.",
           "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/11/13/ekes-ilona-feljelentes-magyar-peter/",
+          "link": "https://24.hu/belfold/2026/11/13/hadhazy-a-sesztak-ugyrol-a-megtalalt-milliardokkal-meg-nincs-vege-az-orban-maffianak/",
           "scope": "belfold"
         },
         {
-          "text": "Feljelentették Magyar Pétert Varga Judit korábbi parlamenti vizsgálóbizottság előtti kijelentései alapján.",
-          "source": "HVG",
-          "link": "https://hvg.hu/itthon/20261113_magyar-peter-feljelentes-varga-judit-ekes-ilona-vedvonal-hangfelvetel-zsarolas",
+          "text": "Karácsony Gergely főpolgármester a Seszták-ügyben talált több milliárdnyi készpénzre reagálva azt mondta, hogy „itt már a döbbenet is gyökeret ereszt”.",
+          "source": "24.hu",
+          "link": "https://24.hu/belfold/2026/11/13/sesztak-miklos-karacsony-gergely-keszpenz-nvvh/",
           "scope": "belfold"
         },
         {
-          "text": "A Schadl–Völner-ügyben érintett lehet Bolcsik Zoltán, a Nemzeti Védelmi Szolgálat korábbi főigazgatója, akinek fia számlagyárban dolgozott.",
+          "text": "Kaja Kallas észt miniszterelnök szerint Moszkva csapdát állít, amikor Európa biztonságáról akar tárgyalni.",
+          "source": "24.hu",
+          "link": "https://24.hu/kulfold/2026/11/13/kallas-moszkva-europa-biztonsag-targyalas/",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Ursula von der Leyen, az Európai Bizottság elnöke 500 milliárd euró finanszírozást tart szükségesnek az európai MI-startupok relevánssá válásához.",
           "source": "HVG",
-          "link": "https://hvg.hu/360/20261113_bolcsik-zoltan-fia-szamlagyar-fuzik-zsolt-schadl-volner-ugy-nyerges-zsolt",
-          "scope": "belfold"
+          "link": "https://hvg.hu/eurologus/20261113_eu-mi-csucs-von-der-leyen-szerint-500-milliard-euro-kell-az-europai-ai-startupok-relevanssa-valasahoz",
+          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-13T12:58:14.261Z",
+      "updatedAt": "2026-11-13T21:21:35.928Z",
       "sourceLinks": [
         {
-          "name": "Telex",
-          "link": "https://telex.hu/sport/2026/11/13/manchester-united-mauricio-pochettino-edzovaltas-michael-carrick"
-        },
-        {
           "name": "24.hu",
-          "link": "https://24.hu/tudomany/2026/11/13/pentek-13-balszerencse-szerencsetlenseg-babona/"
+          "link": "https://24.hu/belfold/2026/11/13/hadhazy-a-sesztak-ugyrol-a-megtalalt-milliardokkal-meg-nincs-vege-az-orban-maffianak/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/elet/20261113_orban-viktor-tao-rendszer-szoboszlai-dominik-felcsut"
+          "link": "https://hvg.hu/eurologus/20261113_eu-mi-csucs-von-der-leyen-szerint-500-milliard-euro-kell-az-europai-ai-startupok-relevanssa-valasahoz"
         }
       ],
-      "skipped": []
+      "skipped": [
+        "Telex"
+      ]
     },
     "sport": {
       "items": [
         {
-          "text": "Gyulay Zsolt, a Magyar Olimpiai Bizottság elnöke szerint a politikának ki kellene maradnia a sportból a hosszútávú kiszámíthatóság és eredményesség érdekében.",
+          "text": "Mário Jardel, a brazil góllövő bevallotta, hogy majdnem belehalt, amikor 2002-ben kihagyták a vb-keretből.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/12/gyulay-zsolt-valtozast-surget-a-politikanak-ki-kellene-maradnia-a-sportbol",
-          "scope": "belfold"
-        },
-        {
-          "text": "Szoboszlai Dominik kötéssel a térdén vett részt a magyar válogatott edzésén Telkiben.",
-          "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/magyar-valogatott/2026/11/szoboszlai-kotessel-a-terden-vett-reszt-a-valogatott-penteki-edzesen-kepek",
-          "scope": "belfold"
-        },
-        {
-          "text": "A magyar válogatottra két fontos mérkőzés vár idegenben Grúzia, a Puskás Arénában pedig Észak-Írország ellen.",
-          "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/magyar-valogatott/2026/11/idegenben-gruzia-a-puskas-arenaban-eszak-irorszag-minden-egy-helyen-a-magyar-valogatott-soron-kovetkezo-merkozeseirol",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Manchester United bejelentette, hogy Mauricio Pochettino november 18-tól veszi át a csapat irányítását.",
-          "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/angol-labdarugas/2026/11/a-manchester-united-bejelentette-az-uj-szakvezetojet",
+          "link": "https://infostart.hu/sport/2026/11/13/mario-jardel-bevallotta-majdnem-belehalt-mikor-annak-idejen-kihagytak-a-vb-keretbol",
           "scope": "kulfold"
+        },
+        {
+          "text": "A Budapest Sportiroda (BSI) a 23. Balaton Maraton és Félmaratonnal zárja az őszi futószezont Siófokon a hétvégén.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/13/kulonleges-versennyel-zarhato-a-futoideny-a-balatonnal",
+          "scope": "belfold"
         },
         {
           "text": "Az olasz válogatott 3–1-re legyőzte a francia csapatot a Nemzetek Ligája ötödik fordulójának csütörtöki játéknapján.",
@@ -96,18 +76,30 @@
           "scope": "kulfold"
         },
         {
-          "text": "A Racing Bulls Liam Lawsonnal és Arvid Lindbladdal versenyez a 2027-es Forma-1-es szezonban, ezzel teljessé vált a mezőny.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/12/teljes-a-forma-1-mezonye",
-          "scope": "kulfold"
+          "text": "Betlehem Dávid magyar úszó eltörte a szárkapocscsontját edzés közben, és hat hétig gipszben lesz a lába.",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/uszas/2026/11/betlehem-david-eltorte-a-szarkapocscsontjat-hat-hetig-gipszben-lesz-a-laba",
+          "scope": "belfold"
+        },
+        {
+          "text": "Siklósi Gergely aranyérmet nyert a berni vívó világkupa-viadalon.",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/egyeb-egyeni/2026/11/vivas-siklosi-gergely-aranyermes-a-berni-vilagkupa-viadalon",
+          "scope": "belfold"
+        },
+        {
+          "text": "Alicia Toublanc, a DVSC klasszis jobbszélsője visszatér korábbi csapatához, a Brest Bretagne-hoz.",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/kezilabda/2026/11/noi-kezilabda-nb-i-visszater-korabbi-csapatahoz-a-dvsc-klasszis-jobbszelsoje-hivatalos",
+          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-13T12:58:27.456Z",
+      "updatedAt": "2026-11-13T21:22:03.894Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/13/nemzetek-ligaja-es-triatlon-sport-a-teveben"
+          "link": "https://infostart.hu/sport/2026/11/13/mario-jardel-bevallotta-majdnem-belehalt-mikor-annak-idejen-kihagytak-a-vb-keretbol"
         },
         {
           "name": "Nemzeti Sport",
@@ -119,13 +111,19 @@
     "technologia": {
       "items": [
         {
-          "text": "Lemondott Jensen Huang, az Nvidia vezérigazgatója.",
+          "text": "Jensen Huang lemondott az Nvidia vezérigazgatói posztjáról.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/167374/lemondott-jensen-huang-az-nvidia-vezerigazgatoja",
           "scope": "kulfold"
         },
         {
-          "text": "Jensen Huang távozásával előtérbe kerülhetnek az MI szigorúbb szabályozását támogató szereplők.",
+          "text": "Az 1,5 millió Nvidia MI-chip Kínába csempészése állhat Jensen Huang távozásának hátterében.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167383/1-5-millio-nvidia-mi-chip-kinaba-csempeszese-allhat-jensen-huang-tavozasanak-hat",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Jensen Huang távozásával előtérbe kerülhetnek a mesterséges intelligencia szigorúbb szabályozását támogató szereplők.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/167376/jensen-huang-tavozasaval-eloterbe-kerulhetnek-az-mi-szigorubb-szabalyozasat-tamo",
           "scope": "kulfold"
@@ -137,34 +135,28 @@
           "scope": "kulfold"
         },
         {
-          "text": "Az OpenAI egy új rendszert fejlesztett ki, amely 35 másodperc alatt képes leállítani az elszabaduló mesterséges intelligenciát.",
+          "text": "Az OpenAI egy vészleállító rendszert fejlesztett, amely legfeljebb 35 másodperc alatt képes leállítani a potenciálisan veszélyes mesterségesintelligencia-modellek működését.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/11/13/35-masodperc-alatt-allithatja-le-az-elszabadulo-ai-t-az-openai-uj-rendszere",
           "scope": "kulfold"
         },
         {
-          "text": "A napelemek „receptjének” kis módosításával látványos javulás érhető el.",
+          "text": "Magyar kutatók is részt vettek az Európai Űrügynökség kilencszáz millió galaxis adatait tartalmazó felmérésének elkészítésében.",
           "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/11/13/eleg-volt-csak-egy-kicsit-modositani-a-napelemek-receptjen-a-latvanyos-javulashoz",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az Amazon a világ teljes termékkínálatának adatait igyekszik megszerezni.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167382/az-amazon-a-vilag-teljes-termekkinalatanak-adatait-meg-akarja-szerezni",
-          "scope": "kulfold"
+          "link": "https://infostart.hu/tudomany/2026/11/13/galaxisok-szazmillioinak-adatait-tette-hozzaferhetove-az-europai-urugynokseg",
+          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-13T12:58:37.852Z",
+      "updatedAt": "2026-11-13T21:22:20.410Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167376/jensen-huang-tavozasaval-eloterbe-kerulhetnek-az-mi-szigorubb-szabalyozasat-tamo"
+          "link": "https://sg.hu/cikkek/it-tech/167383/1-5-millio-nvidia-mi-chip-kinaba-csempeszese-allhat-jensen-huang-tavozasanak-hat"
         },
         {
           "name": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/11/13/eleg-volt-csak-egy-kicsit-modositani-a-napelemek-receptjen-a-latvanyos-javulashoz"
+          "link": "https://infostart.hu/tudomany/2026/11/13/galaxisok-szazmillioinak-adatait-tette-hozzaferhetove-az-europai-urugynokseg"
         }
       ],
       "skipped": []
@@ -172,52 +164,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "Decemberben 20 milliárd, jövő tavasszal pedig további 10 milliárd forintra pályázhatnak a vidéki mikro- és kisvállalkozások üzleti folyamataik megújítására.",
+          "text": "Az amerikai termelőiár-index (PPI) vártnál kedvezőbb adatai erősen reagáltatták a piacokat, heves kilengéseket okozva.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/unios-forrasok/20261113/vegre-megnyilik-az-unios-penzcsap-tobb-tizmilliard-forintos-keretre-csaphatnak-le-a-magyar-cegek-876304",
-          "scope": "belfold"
-        },
-        {
-          "text": "A kormányfő 1,7–1,8 százalékos idei és 2,4 százalékos jövő évi gazdasági növekedéssel számol, miközben a kormány 2027-re 3 százalékos inflációval tervez.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261113/tisza-kormany-tortenelmi-bejelenteseket-tett-magyar-peter-a-nok-vedelmeben-johet-a-talalkozo-zelenszkij-elnokkel-876200",
-          "scope": "belfold"
-        },
-        {
-          "text": "Nyomás alatt voltak az amerikai részvénypiacok az Nvidia vezérigazgatójának távozása és az olajárak megugrása miatt.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/uzlet/20261113/nvidia-botrany-utan-mutatjuk-mi-tortenik-a-tozsdeken-876198",
+          "link": "https://www.portfolio.hu/uzlet/20261113/fordulni-probal-az-nvidia-arfolyama-876198",
           "scope": "kulfold"
         },
         {
-          "text": "Szeptemberben az építőipari termelés volumene 5,6 százalékkal elmaradt az egy évvel korábbitól, augusztus 19,7 százalékos növekedése után.",
+          "text": "A Microsoft bocsánatot kért internetes szoftvereinek világméretű leállása miatt, és bejelentette, hogy nagymértékben újraindította szolgáltatásait.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/uzlet/20261113/elnezest-kert-a-microsoft-kiderult-mi-allt-a-globalis-leallas-hattereben-876420",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Magyar Reklámszövetség elnöke szerint a reklámadó rontja a magyar cégek versenyképességét, és hatással lesz a tartalomszolgáltatás minőségére.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/11/13/novak-peter-ujabb-teher-sujthatja-a-magyar-mediat-a-tartalom-minosege-is-veszelybe-kerulhet",
+          "scope": "belfold"
+        },
+        {
+          "text": "Szeptemberben az építőipari termelés volumene 5,6 százalékkal elmaradt az egy évvel korábbitól, miután augusztusban 19,7 százalékos növekedést mutatott.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/11/13/egy-honap-alatt-nagyot-fordult-az-epitoipar",
           "scope": "belfold"
         },
         {
-          "text": "Szeptemberben az ipari termelés volumene 8,2 százalékkal nőtt az egy évvel korábbihoz viszonyítva.",
+          "text": "Szeptemberben az ipari termelés volumene 8,2 százalékkal nőtt az egy évvel korábbihoz viszonyítva, és 0,9 százalékkal nagyobb volt az augusztusinál.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/11/13/szaguldott-a-jarmugyartas-nagyot-ugrott-az-ipari-termeles",
           "scope": "belfold"
         },
         {
-          "text": "Az ExxonMobil választottbírósági eljárást kezdeményezett az Európai Unióval szemben a szén-dioxid-szabályozás miatt.",
+          "text": "Az ExxonMobil választottbírósági eljárást kezdeményezett az Európai Unióval szemben az európai szén-dioxid-szabályozás miatt.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/11/12/nem-tetszik-az-exxonmobilnak-az-europai-szen-dioxid-szabalyozas-birosaghoz-fordult",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-13T12:58:52.029Z",
+      "updatedAt": "2026-11-13T21:22:36.954Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/unios-forrasok/20261113/vegre-megnyilik-az-unios-penzcsap-tobb-tizmilliard-forintos-keretre-csaphatnak-le-a-magyar-cegek-876304"
+          "link": "https://www.portfolio.hu/uzlet/20261113/fordulni-probal-az-nvidia-arfolyama-876198"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/13/nem-mindenkinek-hozott-jo-hirt-a-pentek-a-benzinkutakon"
+          "link": "https://infostart.hu/gazdasag/2026/11/13/novak-peter-ujabb-teher-sujthatja-a-magyar-mediat-a-tartalom-minosege-is-veszelybe-kerulhet"
         }
       ],
       "skipped": []
@@ -231,30 +223,30 @@
           "scope": "kulfold"
         },
         {
-          "text": "Egy újonnan felfedezett egzotikus varázsgomba érintésre elszíneződik, és egyedi génátviteli eljárás miatt pszichedelikus és mérgező anyagokat is tartalmaz.",
+          "text": "Jordán Ferenc biológussal és Keszthelyi Gabriella matematikussal beszélgettek a modellek képességeiről és a bizonytalansággal való együttélés szükségességéről.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/11/13/a-mai-napra-josoltak-a-vilagveget-66-evvel-ezelott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "belfold"
+        },
+        {
+          "text": "Egy újonnan felfedezett egzotikus varázsgomba egy nem szokványos génátviteli eljárás miatt egyszerre termel pszichedelikus és mérgező anyagokat.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/11/12/egy-ujonnan-felfedezett-egzotikus-varazsgomba-egyszerre-termel-pszichedelikus-es-mergezo-anyagokat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Az Egyesült Királyság a világon elsőként nevezett ki klímabiztonsági különmegbízottat.",
+          "text": "A Starship rakétarendszert most először próbálják épségben visszajuttatni az indítóállásra, ami megnyithatja az utat a teljes újrafelhasználáshoz.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/12/az-egyesult-kiralysag-a-vilagon-elsokent-nevezett-ki-klimabiztonsagi-kulonmegbizottat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/11/13/most-hetvegen-dolhet-el-hogy-uj-korszakot-nyit-e-a-starship-az-urkutatasban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
-        },
-        {
-          "text": "A Tisza-kormány vízmegtartási programjának keretösszegét 49 milliárdról 221 milliárd forintra emelték az elmúlt 126 év legsúlyosabb aszálya után.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/12/a-semminel-tobb-de-a-megoldashoz-aligha-eleg-a-tisza-kormany-vizmegtartasi-programja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-13T12:59:01.868Z",
+      "updatedAt": "2026-11-13T21:22:55.257Z",
       "sourceLinks": [
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/11/13/az-nvidia-vezerenek-lemondasaval-elmergesedhet-az-amerikai-kinai-technologiai-haboru?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/11/13/most-hetvegen-dolhet-el-hogy-uj-korszakot-nyit-e-a-starship-az-urkutatasban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": [
@@ -264,32 +256,32 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "A Magyar Telekom részvényeinek árfolyama 3000 forint fölé emelkedett.",
+          "text": "Az árfolyamadatok 15 perccel késleltetve jelennek meg.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/penz-es-tokepiac/2026/11/magyar-telekom-breaking-3000-forint-fole-tort",
+          "link": "https://www.vg.hu/reszvenyek",
           "scope": "belfold"
         },
         {
-          "text": "A hétvége előtt kedvezően alakulnak az üzemanyagárak, ami a dízelautósoknak különösen örömhír.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/igy-alakulnak-az-uzemanyagarak-a-hetvege-elott.html?utm_source=rss&utm_medium=referral",
-          "scope": "belfold"
+          "text": "Magyarország még 9 napig vásárolhat biztosan orosz olajat.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/olajimport-oroszorszag-ofac-szankciok-orban-anita",
+          "scope": "kulfold"
         },
         {
-          "text": "A magyar folyó fizetési mérleg többletbe fordult szeptemberben, köszönhetően a jelentősen javuló áruforgalomnak.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/tobbletbe-fordult-a-magyar-folyo-fizetesi-merleg-szeptemberben.html?utm_source=rss&utm_medium=referral",
-          "scope": "belfold"
+          "text": "Orbán Anita külügyminiszter egyelőre nem közölt részleteket az orosz olaj további beszerzésének feltételeiről, pedig a november 21-i határidő rohamosan közeleg.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/olajimport-oroszorszag-ofac-szankciok-orban-anita",
+          "scope": "kulfold"
         },
         {
-          "text": "Az év végére recesszióba kerülhet a magyar építőipar, de még idén bevezetik a Nemzeti Épületfelújítási Tervet.",
+          "text": "Péntek estére erősödni tudott a forint.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/ev-vegere-recesszioba-kerulhet-a-magyar-epitoipar.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/befektetes/ennyit-ert-a-forint-pentek-estere--nezze-meg-az-arfolyamot.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-13T12:59:09.824Z",
+      "updatedAt": "2026-11-13T21:23:09.243Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -297,11 +289,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kultura/511-millio-forintot-kapott-tanacsadasert-eperjes-karoly-de-a-valasztas-utan-felbontottak-a-szerzodest.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/kozelet/irgalmatlan-mennyisegu-keszpenzt-astak-el-a-sesztak-botrannyal-osszefuggesben-videoval.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-11-13T15:14:14.253Z"
+  }
 }
