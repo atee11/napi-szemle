@@ -1,56 +1,94 @@
 {
-  "generatedAt": "2026-11-15T20:17:59.826Z",
+  "generatedAt": "2026-11-16T13:30:52.788Z",
   "fx": {
-    "rate": 364.781,
-    "date": "2026-11-16T09:19:18.000Z",
+    "rate": 364.247,
+    "date": "2026-11-16T13:30:51.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "Nem tudni, kinek a pénze az elásott vagyon a Seszták-ügyben.",
-          "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/11/15/a-nap-legfontosabb-hirei-2026-11-15/",
-          "scope": "belfold"
-        },
-        {
-          "text": "Schadl György elhagyta a házi őrizetet.",
-          "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/11/15/a-nap-legfontosabb-hirei-2026-11-15/",
-          "scope": "belfold"
-        },
-        {
-          "text": "Unger Anna szerint hat és félmilliárd forintot találtak a Seszták-ügyben, melynek gazdája még ismeretlen.",
-          "source": "HVG",
-          "link": "https://hvg.hu/itthon/20261115_unger-anna-nemzeti-vagyonvisszaszerzesi-es-vagyonvedelmi-hivatal-sesztak-miklos-interju",
-          "scope": "belfold"
-        },
-        {
-          "text": "Több százezren tiltakoztak Prágában a közmédia védelmében a kormány finanszírozási tervei miatt.",
-          "source": "HVG",
-          "link": "https://hvg.hu/vilag/20261115_csehorszag-kozmedia-finanszirozas-fuggetlenseg-praga-tuntetes",
+          "text": "Több ország, köztük az Egyesült Királyság és Kanada, felszólította Izraelt a humanitárius segélyek Gázába történő beengedésére.",
+          "source": "Telex",
+          "link": "https://telex.hu/kulfold/2026/11/16/egyesult-kiralysag-kanada-olaszorszag-ausztralia-izrael-gaza-segelyek-bejutas",
           "scope": "kulfold"
+        },
+        {
+          "text": "Az Európai Unió 101 szervezetre és 12 személyre vetett ki szankciókat, köztük orosz e-kereskedők tulajdonosaira és árnyékflotta üzemeltetőire.",
+          "source": "Telex",
+          "link": "https://telex.hu/kulfold/2026/11/16/oroszorszag-szankciok-europai-unio-tanacs-finanszirozas",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Schmidt Gábor az összeférhetetlenségi törvényjavaslat miatt mondott le a Magyar Kajak-Kenu Szövetség elnöki posztjáról.",
+          "source": "Telex",
+          "link": "https://telex.hu/sport/2026/11/16/schmidt-gabor-lemondas-magyar-kajak-kenu-szovetseg-elnoki-poszt-lemondas",
+          "scope": "belfold"
+        },
+        {
+          "text": "A KDNP képviselői az ügynökaktákkal kapcsolatos felelősségvállalásról kérdezték Magyar Pétert.",
+          "source": "24.hu",
+          "link": "https://24.hu/belfold/2026/11/16/ugynokaktak-magyar-petert-kerdeztek-o-tarr-zoltanra-tarr-az-allamtitkarara-bizta-a-valaszt/",
+          "scope": "belfold"
+        },
+        {
+          "text": "Pócs János agrártémában kérdezte Bóna Szabolcs minisztert arról, hogy a kormány miért bünteti az agrárágazat szereplőit.",
+          "source": "24.hu",
+          "link": "https://24.hu/belfold/2026/11/16/bona-szabolcs-pocs-janosnak-onok-ezt-a-penzt-elastak/",
+          "scope": "belfold"
+        },
+        {
+          "text": "Sportvezetők szerint állami támogatás nélkül nem tartható fenn egy Bajnokok Ligája-győztes magyar csapat, és a magyar sport sem tud működni.",
+          "source": "HVG",
+          "link": "https://hvg.hu/sport/20261116_sportfinanszirozas-tao-sportszervezetek-szponzoracio-kerekasztal",
+          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-15T20:16:43.560Z",
+      "updatedAt": "2026-11-16T13:29:33.255Z",
       "sourceLinks": [
         {
+          "name": "Telex",
+          "link": "https://telex.hu/kulfold/2026/11/16/egyesult-kiralysag-kanada-olaszorszag-ausztralia-izrael-gaza-segelyek-bejutas"
+        },
+        {
           "name": "24.hu",
-          "link": "https://24.hu/belfold/2026/11/15/kecskemet-ovoda-bantalmazas-gyerekek/"
+          "link": "https://24.hu/belfold/2026/11/16/ugynokaktak-magyar-petert-kerdeztek-o-tarr-zoltanra-tarr-az-allamtitkarara-bizta-a-valaszt/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/elet/20261115_itt-vannak-a-hatoslotto-nyeroszamai"
+          "link": "https://hvg.hu/kultura/20261116_hogyan-tudnek-elni-nelkuled-2-rekord-nezok-bevetel-nyitohetvege-mozi"
         }
       ],
-      "skipped": [
-        "Telex"
-      ]
+      "skipped": []
     },
     "sport": {
       "items": [
+        {
+          "text": "Schmidt Gábor lemondott a Magyar Kajak-Kenu Szövetség elnöki posztjáról.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/16/lemondott-elnoki-posztjarol-schmidt-gabor",
+          "scope": "belfold"
+        },
+        {
+          "text": "Marco Rossi szövetségi kapitány a belfastihoz hasonló taktikával küldi pályára a magyar labdarúgó-válogatottat az északírek elleni mérkőzésen.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/16/szoboszlai-visszater-rossi-pedig-mar-tudja-hogyan-kell-felulmulni-az-eszakireket",
+          "scope": "belfold"
+        },
+        {
+          "text": "Lukács Dániel sérülés miatt nem lép pályára a magyar labdarúgó-válogatott Észak-Írország elleni mérkőzésén.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/15/magyar-eszakir-a-serult-lukacs-daniel-elhagyta-a-valogatottat",
+          "scope": "belfold"
+        },
+        {
+          "text": "A francia és a belga válogatott jutott negyeddöntőbe az A divízió 1. csoportjából a labdarúgó Nemzetek Ligájában.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/16/ujabb-olasz-focikudarc-de-a-spanyolok-is-betliztek-itt-az-nl-csoportkor-vege",
+          "scope": "kulfold"
+        },
         {
           "text": "Ronaldinho, a brazilok világbajnok futballklasszisa több mint tizenegy év után újra hivatalos mérkőzésen lépett pályára.",
           "source": "Infostart Sport",
@@ -58,42 +96,18 @@
           "scope": "kulfold"
         },
         {
-          "text": "Pánics Gergely ortopéd-traumatológus, az FTC egészségügyi vezetője szerint a mellkast érő nagy erejű ütés életveszélyes lehet sporteseményeken.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/15/eletveszelyes-serulesek-sportpalyan-megvan-pontosan-mit-es-hogyan-csinaljon-az-orvos-panics-gergely-az-arenaban",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Tenerife labdarúgócsapata két hét után visszatért a pályára, és megható módon emlékezett Jesus De Miguel játékosára.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/15/visszatert-a-palyara-a-tenerife-meghato-modon-emlekezett-jesus-de-miguelre",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az V. Magyar Sportpszichológiai Konferencián a sportolók mentális válságának felismerését és kezelését tárgyalják.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/15/goschi-gabriella-apro-dolgoktol-is-letrejohet-traumatizaltsag-a-sport-nagyon-eros-eredmenykozpontu-helyzeteben",
-          "scope": "belfold"
-        },
-        {
-          "text": "A magyar női párbajtőrcsapat aranyérmet nyert a kínai vuhszi világkupaversenyen.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/15/aranyermes-a-noi-parbajtorcsapat-vuhsziban",
-          "scope": "belfold"
-        },
-        {
-          "text": "Ronaldinho, a brazil aranylabdás 46 évesen, az olasz harmadosztályban tért vissza a profi futballba több mint 11 év után.",
+          "text": "Elhunyt Abel Núñez fiatal argentin labdarúgó, akit egy felszabadító rúgás talált el a pályán.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/olasz-labdarugas/2026/11/tobb-mint-11-ev-utan-ismet-profi-merkozesen-lepett-palyara-ronaldinho",
+          "link": "https://www.nemzetisport.hu/minden-mas-foci/2026/11/gyasz-elhunyt-a-labdaval-fejbe-lott-fiatal-argentin-labdarugo",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-15T20:16:56.324Z",
+      "updatedAt": "2026-11-16T13:29:48.531Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/15/hihetetlen-ujra-tetmerkozest-jatszott-ronaldinho"
+          "link": "https://infostart.hu/sport/2026/11/16/szoboszlai-visszater-rossi-pedig-mar-tudja-hogyan-kell-felulmulni-az-eszakireket"
         },
         {
           "name": "Nemzeti Sport",
@@ -105,52 +119,52 @@
     "technologia": {
       "items": [
         {
-          "text": "A SpaceX indítótornya elkapta a Földre visszatérő Starshipet.",
+          "text": "A SpaceX indítótornya sikeresen elkapta a Földre visszatérő Starshipet.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/tudomany/167390/a-spacex-inditotornya-elkapta-a-foldre-visszatero-starshipet",
           "scope": "kulfold"
         },
         {
-          "text": "A Microsoft globális leállása az eddigi legsúlyosabbak közé tartozhat.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167388/a-microsoft-globalis-leallasa-az-eddigi-legsulyosabbak-koze-tartozhat",
-          "scope": "kulfold"
-        },
-        {
-          "text": "1,5 millió Nvidia mesterséges intelligencia chip Kínába csempészése állhat Jensen Huang távozásának hátterében.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167383/1-5-millio-nvidia-mi-chip-kinaba-csempeszese-allhat-jensen-huang-tavozasanak-hat",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Történelmet írt a SpaceX, épségben visszatért a Starship.",
+          "text": "A SpaceX történelmet írt azzal, hogy a Starship épségben visszatért a Földre.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/11/15/tortenelmet-irt-a-spacex-epsegben-visszatert-a-starship",
           "scope": "kulfold"
         },
         {
-          "text": "Bővül a mesterséges intelligenciával működő jelzőlámpák hálózata Bécsben.",
-          "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/11/15/ha-erre-jar-jol-figyeljen-mar-ai-jelzolampak-iranyitjak-a-forgalmat",
+          "text": "A Microsoft globális leállása az eddigi legsúlyosabbak közé sorolható.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167388/a-microsoft-globalis-leallasa-az-eddigi-legsulyosabbak-koze-tartozhat",
           "scope": "kulfold"
         },
         {
-          "text": "A Microsoft szerint a globális műszaki hiba már megoldódott.",
+          "text": "Sok felhasználónál problémák merültek fel a Windows 11 novemberi frissítőcsomagjával.",
           "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/tech/2026/11/14/a-microsoft-azt-mondja-mar-minden-mukodik",
+          "link": "https://infostart.hu/tudomany/tech/2026/11/15/ujabb-gond-a-microsoftnal-a-windows-frissites-is-akadozik",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Észtország tervei szerint a kormánya a felhőbe költözne, ha Oroszország megszállná az országot.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167391/esztorszag-a-felhobe-koltoztetne-kormanyat-ha-oroszorszag-megszallna-az-orszagot",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Bécsben bővül a mesterséges intelligenciával működő jelzőlámpák hálózata, amelyek képesek a gyalogosok észlelésére.",
+          "source": "Infostart Tudomány",
+          "link": "https://infostart.hu/tudomany/2026/11/15/ha-erre-jar-jol-figyeljen-mar-ai-jelzolampak-iranyitjak-a-forgalmat",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-15T20:17:10.782Z",
+      "updatedAt": "2026-11-16T13:30:04.231Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/tudomany/167390/a-spacex-inditotornya-elkapta-a-foldre-visszatero-starshipet"
+          "link": "https://sg.hu/cikkek/it-tech/167391/esztorszag-a-felhobe-koltoztetne-kormanyat-ha-oroszorszag-megszallna-az-orszagot"
         },
         {
           "name": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/tech/2026/11/15/ujabb-gond-a-microsoftnal-a-windows-frissites-is-akadozik"
+          "link": "https://infostart.hu/tudomany/2026/11/16/az-amerikai-hadsereg-megbizasabol-indult-titkos-urkuldetes"
         }
       ],
       "skipped": []
@@ -158,48 +172,48 @@
     "gazdasag": {
       "items": [
         {
-          "text": "Több mint hatmilliárd forintnak megfelelő készpénzt foglalt le a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal Seszták Miklós, egykori miniszter ellen folyó ügyben.",
+          "text": "Az Európai Bizottság feltétel nélkül jóváhagyta az olasz UniCredit és a német Commerzbank fúzióját.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261115/tisza-kormany-keszpenzmilliardok-az-erdoben-mi-lesz-a-sesztak-ugy-kovetkezo-fejlemenye-876510",
+          "link": "https://www.portfolio.hu/bank/20261116/dontott-az-europai-bizottsag-felvasarolhatja-az-unicredit-a-commerzbankot-876748",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Kedden találkoznak a munkaadói, munkavállalói és kormányzati képviselők, hogy megállapodjanak a 2027-es minimálbérről és a garantált bérminimumról.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/gazdasag/20261116/minimalber-2027-pillanatokon-belul-megszulethet-az-egyezseg-876694",
           "scope": "belfold"
         },
         {
-          "text": "A Fidesz az Alkotmánybírósághoz fordult az Otthon Start Program „drasztikus és embertelen kivezetése miatt”.",
+          "text": "Warren Buffett mintegy 5,5 milliárd dollár értékű Berkshire Hathaway-részvényt adományozott négy jótékonysági alapítványnak.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/uzlet/20261116/oriasi-vagyont-ajandekoz-el-warren-buffett-876738",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Fidesz az Alkotmánybírósághoz fordult az Otthon Start Program drasztikus és embertelen kivezetése miatt.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/11/15/a-fidesz-az-alkotmanybirosaghoz-fordul-az-otthon-start-hirtelen-kivezetese-miatt",
           "scope": "belfold"
+        },
+        {
+          "text": "Az Európai Unió 2028 utáni agrárpolitikájának tervezetéből kikerülhet egy fontos munkavállalói garancia, az úgynevezett szociális feltételesség.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/11/15/eppen-akkor-kerulhet-veszelybe-egy-fontos-munkavedelmi-garancia-amikor-nagy-szukseg-lenne-ra",
+          "scope": "kulfold"
         },
         {
           "text": "A reklámadó rontja a magyar cégek versenyképességét és hatással lehet a tartalomszolgáltatás minőségére.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/11/13/novak-peter-ujabb-teher-sujthatja-a-magyar-mediat-a-tartalom-minosege-is-veszelybe-kerulhet",
           "scope": "belfold"
-        },
-        {
-          "text": "A Grand Theft Auto VI debütálása minden idők legnagyobb videójáték-piaci eseménye lehet, melynek hatása túlmutat a játékiparon.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/uzlet/20261115/megallhat-a-munka-a-cegeknel-tomegek-vesznek-ki-szabadsagot-a-legjobban-vart-videojatek-miatt-876570",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az Európai Unió agrárpolitikájának tervezetéből kikerülhet a szociális feltételesség nevű munkavállalói garancia.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/15/eppen-akkor-kerulhet-veszelybe-egy-fontos-munkavedelmi-garancia-amikor-nagy-szukseg-lenne-ra",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Szerbia a kőolajtartalékához nyúl a pancsovai finomító működésének biztosítására.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/14/a-koolajtartalekhoz-nyul-szerbia",
-          "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-15T20:17:27.244Z",
+      "updatedAt": "2026-11-16T13:30:15.743Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/uzlet/20261115/megallhat-a-munka-a-cegeknel-tomegek-vesznek-ki-szabadsagot-a-legjobban-vart-videojatek-miatt-876570"
+          "link": "https://www.portfolio.hu/bank/20261116/dontott-az-europai-bizottsag-felvasarolhatja-az-unicredit-a-commerzbankot-876748"
         },
         {
           "name": "Infostart Gazdaság",
@@ -211,48 +225,42 @@
     "kornyezet": {
       "items": [
         {
-          "text": "A Starship egy nap után sikeresen visszatért saját indítóállására.",
+          "text": "Az ázsiai elefántok populációjának zsugorodása károsítja a faj társas kapcsolatait.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/14/tortenelmet-irt-a-spacex-egy-nap-utan-visszatert-sajat-inditoallasara-a-starship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/11/16/az-azsiai-elefantok-tarsas-kapcsolatait-is-karositja-a-faj-populacioinak-zsugorodasa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "A repülés nagy lépés a Starship rakétarendszer teljes újrafelhasználhatósága felé.",
+          "text": "A témában a Science folyóiratban megjelent tanulmány 12 éven át végzett Srí Lankai terepkutatások eredményeit összegzi.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/14/tortenelmet-irt-a-spacex-egy-nap-utan-visszatert-sajat-inditoallasara-a-starship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/11/16/az-azsiai-elefantok-tarsas-kapcsolatait-is-karositja-a-faj-populacioinak-zsugorodasa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Elon Musk cége a Starshipet most először szeretné épségben visszajuttatni az indítóállásra.",
+          "text": "A dániai Rødhals-ember maradványai segítenek rekonstruálni a 6 ezer évvel ezelőtti agrárforradalmat.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/13/most-hetvegen-dolhet-el-hogy-uj-korszakot-nyit-e-a-starship-az-urkutatasban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/11/16/a-6-ezer-evvel-ezelotti-neolitikus-forradalmat-rekonstrualja-a-mai-dania-teruleterol-elokerult-rodhals-ember-tanuja-volt-a-6-ezer-evvel-ezelotti-agrarforradalomnak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "A sikeres visszatérés megnyithatja az utat a Starship teljes újrafelhasználásához.",
+          "text": "A régészek egy időszámítás előtt 3900 körül elhunyt, 40-es férfi meglepően épen fennmaradt sírját és maradványait vizsgálták.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/13/most-hetvegen-dolhet-el-hogy-uj-korszakot-nyit-e-a-starship-az-urkutatasban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/11/16/a-6-ezer-evvel-ezelotti-neolitikus-forradalmat-rekonstrualja-a-mai-dania-teruleterol-elokerult-rodhals-ember-tanuja-volt-a-6-ezer-evvel-ezelotti-agrarforradalomnak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Az európai Euclid űrtávcső egymilliárd galaxis megfigyelésével indított.",
+          "text": "A vizsgálatokat a Göteborgi Egyetem és a Leibniz-i Régészeti Központ archeológusai végezték.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/13/egymilliard-galaxis-megfigyelesevel-inditott-az-europai-urtavcso-ami-a-sotet-univerzum-titkait-kutatja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A Euclid űrtávcső a sötét anyag és a sötét energia szerepét kutatja az univerzum szerkezetének alakulásában.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/13/egymilliard-galaxis-megfigyelesevel-inditott-az-europai-urtavcso-ami-a-sotet-univerzum-titkait-kutatja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/11/16/a-6-ezer-evvel-ezelotti-neolitikus-forradalmat-rekonstrualja-a-mai-dania-teruleterol-elokerult-rodhals-ember-tanuja-volt-a-6-ezer-evvel-ezelotti-agrarforradalomnak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-15T20:17:49.454Z",
+      "updatedAt": "2026-11-16T13:30:40.943Z",
       "sourceLinks": [
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/11/15/tardos-gergely-evi-2000-milliardot-sporolhatunk-a-kamatkiadasokon-a-gazdasagpolitikai-fordulattal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/11/16/budapest-bunos-titkai-wukancsek-pal-majomfarago-mestertol-a-viszkisig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": [
@@ -262,32 +270,38 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "A társasházi tiltás a panaszmentes Airbnb-lakásokat is érintheti, szigorítást hozva a rövid távú szálláshelyek piacán.",
+          "text": "A dollár már csaknem egy hete keményen gyomrozza a forintot, amire a választások óta nem volt példa.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/ingatlan/2026/11/airbnb-rovid-tavu-lakaskiadas-xiii-kerulet-rendelet",
+          "link": "https://www.vg.hu/penz-es-tokepiac/2026/11/forint-megallithatatlan-a-dollar-gyomrozza-a-forintot",
           "scope": "belfold"
         },
         {
-          "text": "Lakossági panaszok miatt a belvárosi kerületekben a már működő Airbnb szálláshelyeket is betilthatják a társasházak.",
+          "text": "Varga Mihály legfontosabb embere szerint túl sok készpénz van a magyaroknál, pedig vannak olyan befektetések, amelyekkel mindenki nyerhet.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/ingatlan/2026/11/airbnb-rovid-tavu-lakaskiadas-xiii-kerulet-rendelet",
+          "link": "https://www.vg.hu/penz-es-tokepiac/2026/11/befektetes-banai-peter-mnb-tozsde-keszpenz-bet50",
           "scope": "belfold"
         },
         {
-          "text": "Az Airbnb globális esőbiztosítást indít, amely megoldást kínál az eső által elmosott külföldi utazások kockázatára.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/turizmus/mi-van-ha-elmossa-az-eso-a-kulfoldi-utazast-az-airbnb-nek-mar-erre-is-van-megoldasa.html?utm_source=rss&utm_medium=referral",
+          "text": "Trump, Putyin és Hszi Csin-ping a világ sorsáról tárgyal, miközben Európa a legrosszabbtól tart egy esetleges új Jalta miatt.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/kozelet/2026/11/trump-putyin-hszi-csin-ping-uj-jalta",
           "scope": "kulfold"
         },
         {
-          "text": "A Fidesz az Alkotmánybíróságon támadja meg az Otthon Start program kivezetését.",
+          "text": "Az európai gazdák Brüsszelbe vonulnak, hogy újabb tüntetést tartsanak az uniós agrártámogatások megvágása ellen.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/agrar/2026/11/gazdatuntetes-brusszel-kap-agrartamogatasok-kap",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Egyre több cégnél kérdés, hogy a kínált fizetés elég vonzó-e, mivel 10-ből 4 cég nem tudja, milyen béreket határozzon meg.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozelet/az-alkotmanybirosagon-tamadja-meg-a-fidesz-magyar-peterek-egyik-intezkedeset.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/vallalatok/egyre-tobb-cegnel-kerdes-eleg-vonzo-e-a-fizetes-amit-kinal.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-15T20:17:59.661Z",
+      "updatedAt": "2026-11-16T13:30:52.693Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -295,11 +309,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/turizmus/mi-van-ha-elmossa-az-eso-a-kulfoldi-utazast-az-airbnb-nek-mar-erre-is-van-megoldasa.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/makro/itt-az-nmhh-uj-koltsegvetese--igy-gazdalkodhat-a-mediatanacs-sajat-beveteleibol.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-11-16T09:19:19.022Z"
+  }
 }
