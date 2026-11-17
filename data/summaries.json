@@ -1,60 +1,60 @@
 {
-  "generatedAt": "2026-11-17T14:16:16.590Z",
+  "generatedAt": "2026-11-17T22:51:34.978Z",
   "fx": {
-    "rate": 366.264,
-    "date": "2026-11-17T21:40:44.000Z",
+    "rate": 365.98,
+    "date": "2026-11-17T22:46:44.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "Forsthoffer Ágnes, az Országgyűlés elnöke egy videóban reagált az őt ért ellenzéki támadásokra, mondván, nincs rejtegetnivalója.",
+          "text": "Németh Balázs utólag írt be milliókat a vagyonnyilatkozatába az Országgyűlés elnöke szerint.",
           "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/11/17/forsthoffer-agnes-vagyonnyilatkozat-mentelmi-bizottsag-fidesz/",
+          "link": "https://24.hu/fn/gazdasag/2026/11/17/forsthoffer-agnes-nemeth-balazs-vagyonnyilatkozat/",
           "scope": "belfold"
         },
         {
-          "text": "A brit sajtó szerint a kormány gyakorlatilag eldöntötte, hogy visszacsinálja a brexitet.",
+          "text": "Előrelépés történt a jövő évi minimálbérről szóló tárgyalásokon, és akár ezen a héten megállapodás születhet.",
           "source": "24.hu",
-          "link": "https://24.hu/kulfold/2026/11/17/brexit-burnham-europai-unio-visszateres-24extra/",
+          "link": "https://24.hu/fn/gazdasag/2026/11/17/bertargyalas-minimalber-megallapodas-kozeledik/",
+          "scope": "belfold"
+        },
+        {
+          "text": "A kecskeméti egyetem alapítványa 1,25 milliárd forintért vásárolt egy wellnessrészleggel és borospincével ellátott ingatlanegyüttest.",
+          "source": "24.hu",
+          "link": "https://24.hu/fn/gazdasag/2026/11/17/neumann-janos-egyetemert-alapitvany-ingatlan-wellness-borospince/",
+          "scope": "belfold"
+        },
+        {
+          "text": "Kirúgták a paksi vezért.",
+          "source": "24.hu",
+          "link": "https://24.hu/belfold/2026/11/17/a-nap-legfontosabb-hirei-2026-november-17/",
+          "scope": "belfold"
+        },
+        {
+          "text": "Csődbe ment a román állami teherfuvarozási vasúttársaság.",
+          "source": "HVG",
+          "link": "https://hvg.hu/kkv/20261117_csod-romania-teherfuvarozas-vasuttarsasag-cfr-marfa",
           "scope": "kulfold"
         },
         {
-          "text": "Az Európai Bizottság szerint a Temu nem ellenőrzi megfelelően a termékeket.",
-          "source": "24.hu",
-          "link": "https://24.hu/fn/gazdasag/2026/11/17/temu-europai-bizottsag-ellenorzes-biztonsag/",
+          "text": "Leállt az amerikai Nemzetbiztonsági Ügynökség szigorúan titkos kommunikációs hálózata, amit a Fehér Ház is elismert.",
+          "source": "HVG",
+          "link": "https://hvg.hu/vilag/20261117_nemzetbiztonsagi-ugynokseg-titkos-kommunikacios-halozat-leallas",
           "scope": "kulfold"
-        },
-        {
-          "text": "Az Egyesült Államok meghosszabbította a Mol és az MVM mentességét az orosz tranzakciókra.",
-          "source": "24.hu",
-          "link": "https://24.hu/fn/gazdasag/2026/11/17/kulugyminiszterium-ofac-mol-mvm-hosszabbitas-orosz-koolaj/",
-          "scope": "belfold"
-        },
-        {
-          "text": "Felfüggesztett börtönbüntetést kapott egy férfi, aki Orbán Viktor megölésével fenyegetőzött a TikTokon.",
-          "source": "HVG",
-          "link": "https://hvg.hu/itthon/20261117_felfuggesztett-bortonbuntetest-kapott-egy-ferfi-aki-orban-viktor-megolesevel-fenyegetozott",
-          "scope": "belfold"
-        },
-        {
-          "text": "Folytatódik a nyomozás az ügyészi befolyásolással összefüggésben az aranykonvojügyben, miután hatályon kívül helyezték a feljelentés elutasítását.",
-          "source": "HVG",
-          "link": "https://hvg.hu/itthon/20261117_aranykonvojugy-nyomozas-ugyeszi-befolyasolas-feljelentes",
-          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-17T14:15:07.408Z",
+      "updatedAt": "2026-11-17T22:50:36.642Z",
       "sourceLinks": [
         {
           "name": "24.hu",
-          "link": "https://24.hu/belfold/2026/11/17/forsthoffer-agnes-vagyonnyilatkozat-mentelmi-bizottsag-fidesz/"
+          "link": "https://24.hu/sport/foci/2026/11/17/nem-sikerult-egyenes-agon-a-divizioba-jutni/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/itthon/20261117_felfuggesztett-bortonbuntetest-kapott-egy-ferfi-aki-orban-viktor-megolesevel-fenyegetozott"
+          "link": "https://hvg.hu/sport/20261117_magyarorszag-eszak-irorszag-nemzetek-ligaja-valogatott-meccs-osszefoglalo-ebx"
         }
       ],
       "skipped": [
@@ -64,48 +64,48 @@
     "sport": {
       "items": [
         {
-          "text": "A magyar válogatott a Nemzetek Ligája A-divíziójába juthat az északírek elleni mérkőzés után.",
+          "text": "A magyar válogatott 1–1-es döntetlennel zárta az északírek elleni mérkőzését a Puskás Arénában.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/17/magyar-dan-utan-magyar-eszakir-sport-a-teveben",
+          "link": "https://infostart.hu/sport/2026/11/17/nem-szalai-attila-helyettesiti-willi-orbant-itt-az-osszeallitas",
           "scope": "belfold"
         },
         {
-          "text": "Marco Rossi szövetségi kapitány négy játékosára sem számíthat az északírek elleni esti Nemzetek Ligája mérkőzésen.",
-          "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/magyar-valogatott/2026/11/a-csoportgyozelem-a-tet-az-eszakirek-ellen-felvezeto-a-meccs-elott",
-          "scope": "belfold"
-        },
-        {
-          "text": "Az NS-erősorrend szerint a Veszprém is a három kiemelkedőnek tűnő csapat között van a férfi kézilabda Bajnokok Ligájában.",
-          "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/kezilabda/2026/11/a-veszprem-is-a-harom-kiemelkedonek-tuno-csapat-kozott-a-ferfi-kezi-bl-ben",
-          "scope": "belfold"
-        },
-        {
-          "text": "Három hónapnyi kóma után, 31 éves korában elhunyt Lee Reeves ír profi ökölvívó, aki egy mérkőzésen szenvedett súlyos sérülést.",
+          "text": "A magyar válogatott a csoport második helyén végzett, pótselejtezőt játszik majd az A-ligába jutásért.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/17/harom-honapnyi-koma-utan-meghalt-a-ringben-megserult-ir-bokszolo",
+          "link": "https://infostart.hu/sport/2026/11/17/nem-szalai-attila-helyettesiti-willi-orbant-itt-az-osszeallitas",
+          "scope": "belfold"
+        },
+        {
+          "text": "Tóth Balázs kapus szinte biztos abban, hogy törése van az Észak-Írország elleni mérkőzés után.",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/magyar-valogatott/2026/11/toth-balazs-szinte-biztos-benne-hogy-torese-van",
+          "scope": "belfold"
+        },
+        {
+          "text": "Pozitív hírek érkeztek Szoboszlai Dominik sérülésével kapcsolatban.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/17/tovabbra-is-tema-szoboszlai-terde-az-angol-nyelvu-sajtoban",
+          "scope": "belfold"
+        },
+        {
+          "text": "Az Arsenal és több más klub is érdeklődik Endrick iránt a januári átigazolási időszak előtt.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/17/az-arsenal-ismet-kinezett-maganak-egy-csatart-a-real-madridbol",
           "scope": "kulfold"
         },
         {
-          "text": "Pep Guardiola elutasította az Egyesült Államok férfi labdarúgó válogatottjának szövetségi kapitányi posztjára szóló felkérést.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/17/guardiola-nemet-mondott-de-europai-nagyagyuk-vannak-meg-a-kalapban",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az UEFA négyéves megállapodást kötött a Nike sportszermárkával, mely szerint a következő szezontól a cég termékeit használják a kupasorozatokban.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/17/rengeteget-rugjak-majd-a-hires-amerikait",
+          "text": "Erling Haaland két góllal 68 találatos a norvég válogatottban.",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/minden-mas-foci/2026/11/cr7-utan-cf7-a-portugalok-az-uj-hetesuk-goljaval-nyertek-cardiffban",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-17T14:15:21.276Z",
+      "updatedAt": "2026-11-17T22:51:02.073Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/17/vinicius-junior-elarulta-miert-jatszott-gyengen-az-elozo-honapokban"
+          "link": "https://infostart.hu/sport/2026/11/17/sajnos-nincs-ha-eltort-a-kapus-keze-ertekelesek-a-magyar-eszakir-utan"
         },
         {
           "name": "Nemzeti Sport",
@@ -117,52 +117,46 @@
     "technologia": {
       "items": [
         {
+          "text": "Az Nvidia eddig a mesterséges intelligencia gazdaságának korlátlan pénzügyi támogatója volt.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167410/eddig-az-nvidia-volt-az-mi-gazdasag-korlatlan-penzugyi-tamogatoja-mi-lesz-nelkul",
+          "scope": "kulfold"
+        },
+        {
           "text": "Robbanásszerűen terjednek a mesterséges intelligencia által generált, gyermekek szexuális bántalmazását ábrázoló képek.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/167407/robbanasszeruen-terjednek-az-mi-altal-generalt-gyermekek-szexualis-bantalmazasat",
           "scope": "kulfold"
         },
         {
-          "text": "Az IBM jövőre ad ki egy kétprocesszoros kvantumszámítógépet.",
+          "text": "Az IBM jövőre kétprocesszoros kvantumszámítógépet ad ki.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/167404/ketprocesszoros-kvantumszamitogepet-ad-ki-jovore-az-ibm",
           "scope": "kulfold"
         },
         {
-          "text": "Sikeresen zajlott a kínai fejlesztésű elektromos repülőgép emberes tesztrepülése.",
+          "text": "Sikeresen lezajlott egy kínai fejlesztésű elektromos repülőgép emberes tesztrepülése.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/11/17/sikeres-volt-a-kinai-fejlesztesu-elektromos-repulogep-emberes-tesztrepulese-video",
           "scope": "kulfold"
         },
         {
-          "text": "A Windows 11 novemberi frissítőcsomagjával kapcsolatban sok felhasználó tapasztal gondokat.",
+          "text": "Akadozik a Windows 11 novemberi frissítőcsomagjának telepítése, újabb gondot okozva a Microsoftnak.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/tech/2026/11/15/ujabb-gond-a-microsoftnal-a-windows-frissites-is-akadozik",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A SpaceX történelmet írt a Starship épségben való visszatérésével.",
-          "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/11/15/tortenelmet-irt-a-spacex-epsegben-visszatert-a-starship",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Bővül a mesterséges intelligenciával működő jelzőlámpák hálózata Bécsben.",
-          "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/11/15/ha-erre-jar-jol-figyeljen-mar-ai-jelzolampak-iranyitjak-a-forgalmat",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-17T14:15:30.045Z",
+      "updatedAt": "2026-11-17T22:51:13.041Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167394/az-alapitok-nelkulozhetetlensegenek-mitoszat-kerdojelezi-meg-huang-tavozasa"
+          "link": "https://sg.hu/cikkek/it-tech/167410/eddig-az-nvidia-volt-az-mi-gazdasag-korlatlan-penzugyi-tamogatoja-mi-lesz-nelkul"
         },
         {
           "name": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/11/17/sikeres-volt-a-kinai-fejlesztesu-elektromos-repulogep-emberes-tesztrepulese-video"
+          "link": "https://infostart.hu/tudomany/2026/11/17/hivatalosan-is-szuper-statuszt-kapott-az-idei-el-nino"
         }
       ],
       "skipped": []
@@ -170,52 +164,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "Az MNB Monetáris Tanácsa 5,5%-on tartotta az alapkamatot.",
+          "text": "Az Nvidia harmadik negyedéves árbevétele és profitja felülmúlta az elemzői várakozásokat.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261117/dontott-az-mnb-hamarosan-megszolal-varga-mihaly-877062",
-          "scope": "belfold"
-        },
-        {
-          "text": "Az euró másfél éves mélyponton van, miközben a dollár erősödött.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/deviza/20261117/ez-is-megtortent-masfel-eves-melyponton-az-euro-876908",
+          "link": "https://www.portfolio.hu/befektetes/20261117/kijott-az-ev-legfontosabb-gyorsjelentese-mutatjuk-az-nvidia-friss-szamait-877116",
           "scope": "kulfold"
         },
         {
-          "text": "A forint a dollárral szemben gyengült, árfolyama már 331 körül jár.",
+          "text": "A norvég kormány hosszabb távon hetven évre emelné a nyugdíjkorhatárt.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/deviza/20261117/ez-is-megtortent-masfel-eves-melyponton-az-euro-876908",
-          "scope": "belfold"
+          "link": "https://www.portfolio.hu/global/20261117/70-eves-nyugdijkorhatar-johet-europa-egyik-leggazdagabb-orszagaban-mar-be-is-mutattak-a-tervet-877224",
+          "scope": "kulfold"
         },
         {
-          "text": "A munkáltatók pénztári hozzájárulással és pénzügyi tudatosság erősítésével segíthetik dolgozóikat a hosszú távú megtakarításokban.",
+          "text": "A forint 333 fölé gyengült a dollárral és 366 fölé az euróval szemben.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261117/hosszu-tavu-megtakaritasok-a-munkaltatok-oriasit-lendithetnek-a-dolgozoi-tudatossagon-877104",
+          "link": "https://www.portfolio.hu/deviza/20261117/megutottek-a-forintot-az-mnb-uzenete-utan-876908",
           "scope": "belfold"
         },
         {
-          "text": "A Gazdasági és Energetikai Minisztérium 2,6 milliárd forinttal megemelte a költségmegosztók felszerelését ösztönző felhívás keretösszegét.",
+          "text": "Chile rézkitermelése idén 6,6 százalékkal, 5,034 millió tonnára csökkenhet.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/global/20261117/valami-nagyon-nincs-rendben-a-vilag-reznagyhatalmanal-23-eve-nem-lattunk-ilyet-877214",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Új rekordokkal zárhatnak az idén a hazai önkéntes nyugdíj- és egészségpénztárak az első háromnegyedévi teljesítmények alapján.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/17/26-milliard-forintos-dontes-szuletett-sok-tarsashaz-lakoja-orulhet",
+          "link": "https://infostart.hu/gazdasag/2026/11/17/nyugdij-elotakarekossag-a-penztarak-nagy-ossznepi-ebredest-latnak",
           "scope": "belfold"
         },
         {
-          "text": "A benzin ára tovább folytatja a múlt héten kezdődött csökkenő tendenciát.",
+          "text": "Az MBH Bank korrigált konszolidált adózás utáni eredménye 26,8 százalékkal csökkent idén az első kilenc hónapban az előző év azonos időszakához képest.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/17/meg-mindig-tudnak-meglepetest-okozni-az-uzemanyagok",
+          "link": "https://infostart.hu/gazdasag/2026/11/17/gozon-gergely-csokkent-az-eredmeny-de-a-toke-es-likviditasi-helyzet-stabil-az-mbh-nal",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-17T14:15:40.941Z",
+      "updatedAt": "2026-11-17T22:51:24.820Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261117/dontott-az-mnb-hamarosan-megszolal-varga-mihaly-877062"
+          "link": "https://www.portfolio.hu/befektetes/20261117/kijott-az-ev-legfontosabb-gyorsjelentese-mutatjuk-az-nvidia-friss-szamait-877116"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/17/26-milliard-forintos-dontes-szuletett-sok-tarsashaz-lakoja-orulhet"
+          "link": "https://infostart.hu/gazdasag/2026/11/17/nyugdij-elotakarekossag-a-penztarak-nagy-ossznepi-ebredest-latnak"
         }
       ],
       "skipped": []
@@ -223,30 +217,36 @@
     "kornyezet": {
       "items": [
         {
-          "text": "Brazíliában olyan növényvédő szerek használata megengedett, amelyek az Európai Unióban már évek óta be vannak tiltva, és hatalmas károkat okoznak az élővilágban.",
+          "text": "Egy UNESCO és University College London kutatás szerint a nagy nyelvi modellek klímaszkeptikussá válhatnak, ha klímaszkeptikusnak érzik a beszélgetőpartnert.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/17/braziliaban-pusztitanak-az-europaban-betiltott-novenyvedo-szerek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/11/17/az-ai-modellek-minimalis-nyomasra-is-lelkes-klimaszkeptikussa-valnak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Videón örökítették meg, ahogy egy nyugati síkvidéki gorilla segít testvérének elérni egy 4,5 méter magasan lévő ágat.",
+          "text": "A Karácsony-szigeten megkezdődött a rákok vándorlása, melynek során körülbelül százmillió rák kel útra az erdőből a tengerpart felé.",
+          "source": "Qubit",
+          "link": "https://qubit.hu/2026/11/17/megindult-a-rakok-vandorlasa-a-karacsony-szigeten?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Videón örökítették meg, ahogyan egy nyugati síkvidéki gorilla segít a testvérének elérni egy magas ágon lévő élelmet.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/11/17/videora-vettek-ahogyan-egy-gorilla-segit-egy-masiknak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Wisconsini Egyetem kutatói kiszámolták, hogy egy 1 megatonnás bomba felrobbantása 500 kilométeres magasságban elpusztítaná a Föld körüli összes műholdat.",
+          "text": "Brazíliában olyan növényvédő szereket használnak, melyek az Európai Unióban már be vannak tiltva, és ezek az élővilágban is károkat okoznak.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/17/egyetlen-atombombaval-el-lehetne-pusztitani-a-fold-korul-keringo-osszes-muholdat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/11/17/braziliaban-pusztitanak-az-europaban-betiltott-novenyvedo-szerek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-17T14:16:04.671Z",
+      "updatedAt": "2026-11-17T22:51:32.374Z",
       "sourceLinks": [
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/11/17/igy-lett-a-kezemben-draga-hobbi-a-vilag-legegyszerubb-tevekenysegebol-a-kotesbol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/11/17/az-ai-modellek-minimalis-nyomasra-is-lelkes-klimaszkeptikussa-valnak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": [
@@ -256,38 +256,32 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Az évtized legjobban várt játéka, a GTA VI pár nap alatt dollármilliárdokat hozhat a befektetőknek.",
+          "text": "Botrányok ide vagy oda, az Nvidia olyat húzott, amire még a Wall Street sem számított – de a vezérigazgató bukása után komoly veszélyek leselkednek a chipóriásra.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/gta-vi-megjelenes-vilagrekord-bevetel-eladas-gaming",
+          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/nvidia-gyorsjelentes-huang-chipgyarto",
           "scope": "kulfold"
         },
         {
-          "text": "Az Egyesült Államok meghosszabbította a szankciós mentességet, így a Mol és az MVM továbbra is vásárolhat orosz energiahordozókat.",
+          "text": "Zelenszkij szinte győzelmet hirdetett a kercsi híd megsemmisítése után: oyan csapást mértek az ukránok Putyin egyik legfontosabb hídjára, amilyenre még nem volt példa.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/szankcio-ofac-kulugyminiszterium-mvm-mol-orosz-olaj",
-          "scope": "belfold"
+          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/zelenszkij-kercsi-hid-tamadas-putyin-haboru-oroszorszag",
+          "scope": "kulfold"
         },
         {
-          "text": "Az MNB monetáris tanácsa egy hónap elteltével ismét ülésezett.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/varga-mihaly-jegybank-alapkamat-monetaris-tanacs-mnb",
-          "scope": "belfold"
-        },
-        {
-          "text": "Varga Mihály az MNB sajtótájékoztatóján ismertette az idei év hátralevő részére vonatkozó várakozásait.",
+          "text": "Schadl György: „Ha megkapom az engedélyt a bíróságtól, mindenképp elmegyek az ülésre”.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/mire-szamit-varga-mihaly-az-idei-ev-hatralevo-reszeben.html?utm_source=rss&utm_medium=referral",
-          "scope": "belfold"
+          "link": "https://mfor.hu/cikkek/kozelet/schadl-gyorgy-ha-megkapom-az-engedelyt-a-birosagtol-mindenkepp-elmegyek-az-ulesre.html?utm_source=rss&utm_medium=referral",
+          "scope": "kulfold"
         },
         {
-          "text": "Varga Mihályék fontos döntést közöltek az alapkamat mértékéről.",
+          "text": "Szijjártó Péter különleges bánásmódot kért Orbán Áron cégeinek a vietnámi konzulátusoktól.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/fontos-dontest-kozoltek-varga-mihalyek.html?utm_source=rss&utm_medium=referral",
-          "scope": "belfold"
+          "link": "https://mfor.hu/cikkek/kozelet/szijjarto-peter-kulonleges-banasmodot-kert-orban-aron-cegeinek-a-vietnami-konzulatusoktol.html?utm_source=rss&utm_medium=referral",
+          "scope": "kulfold"
         }
       ],
-      "engine": "gemini",
-      "updatedAt": "2026-11-17T14:16:16.495Z",
+      "engine": "extractive",
+      "updatedAt": "2026-11-17T22:51:34.916Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -295,11 +289,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozelet/kossuth-dijas-szineszt-jelol-a-mi-hazank-a-fuggetlen-kozmedia-testuletbe.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/kozelet/schadl-gyorgy-ha-megkapom-az-engedelyt-a-birosagtol-mindenkepp-elmegyek-az-ulesre.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-11-17T21:40:45.576Z"
+  }
 }
