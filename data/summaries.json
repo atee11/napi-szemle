@@ -1,60 +1,54 @@
 {
-  "generatedAt": "2026-11-18T22:33:45.183Z",
+  "generatedAt": "2026-11-19T14:16:44.546Z",
   "fx": {
-    "rate": 368.935,
-    "date": "2026-11-19T12:42:26.000Z",
+    "rate": 369.679,
+    "date": "2026-11-19T14:16:43.000Z",
     "source": "Yahoo Finance"
   },
   "categories": {
     "politika": {
       "items": [
         {
-          "text": "A Tisza párt azon dolgozik, hogy a GTA VII-ért már kevesebbet kelljen itthon dolgozni, ami a jövő évi költségvetéssel is összefügg.",
+          "text": "Orbán Viktor öccse, Orbán Áron segítséget kért az iraki nagykövettől 16 fő vízumügyében.",
           "source": "24.hu",
-          "link": "https://24.hu/tech/2026/11/18/toth-norbert-tisza-gta-6/",
+          "link": "https://24.hu/belfold/2026/11/19/orban-aron-vizumugy-tisza/",
           "scope": "belfold"
         },
         {
-          "text": "A kormány véget vet a dohányboltellátó monopóliumnak és az autópályakoncessziónak.",
-          "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/11/18/a-nap-legfontosabb-hirei-2026-11-18/",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Telex értesülései szerint Mészárosék áprilistól visszaadják az államnak minden autópálya üzemeltetését, kivéve az M1-es bővítését.",
+          "text": "Hét NAV-os vezetőt váltottak le 24 órán belül, köztük informatikai elnökhelyettest és igazgatóságvezetőket.",
           "source": "HVG",
-          "link": "https://hvg.hu/gazdasag/20261118_m1-bovites-autopalya-uzemeltetes-vissza-allamnak-meszaros",
+          "link": "https://hvg.hu/itthon/20261119_ket-ujabb-nav-os-vezetot-is-levaltottak-24-oran-belul",
           "scope": "belfold"
         },
         {
-          "text": "Az államfő is lökdösi a kormányt, hogy szánjon több forrást és figyelmet az azbesztügyre.",
+          "text": "Az I. kerület betiltja az Airbnb-t a budai Várban, és engedélyhez köti a rövid távú lakáskiadást a Váron kívüli részen.",
           "source": "HVG",
-          "link": "https://hvg.hu/gazdasag/20261118_azbesztszennyezes-mentesites-palyazat-azbesztalap-kszgysz-szombatahely-oladi-plato",
+          "link": "https://hvg.hu/kkv/20261119_betiltjak-az-airbnb-t-a-budai-varban-rovid-tavu-lakaskiadas",
           "scope": "belfold"
         },
         {
-          "text": "A Kúria megsemmisítette Pilis önkormányzatának önazonosság-védelmi rendeletét, mely büntetett előélet vagy vagyoni alap alapján tiltott volna lakcím-létesítést.",
+          "text": "Két vegyszerellenes aktivista hamut szórt Várhelyi Olivér uniós biztos arcába, tiltakozva a növényvédő szerek ellen.",
           "source": "HVG",
-          "link": "https://hvg.hu/itthon/20261118_dac-kormanyhivatal-kuria-megsemmisit-pilis-onkormanyzat-onazonossag-rendelet",
-          "scope": "belfold"
-        },
-        {
-          "text": "A brit kormány arra kéri a Google-t, hogy töröljék Russell Brand YouTube-csatornáját, miután felesége felolvasta a börtönből küldött üzenetét.",
-          "source": "HVG",
-          "link": "https://hvg.hu/elet/20261118_russell-brand-brit-kormany-youtube-csatorna-szexualis-eroszak-borton-uzenet",
+          "link": "https://hvg.hu/gazdasag/20261119_varhelyi-oliver-hamu-tuntetok-cancer-colere",
           "scope": "kulfold"
+        },
+        {
+          "text": "Jámbor András szerint az Országos Baleseti Intézet sürgősségi osztályán az ápolók fele felmondott.",
+          "source": "24.hu",
+          "link": "https://24.hu/belfold/2026/11/19/jambor-andras-koton-magyar-peter/",
+          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-18T22:32:25.976Z",
+      "updatedAt": "2026-11-19T14:15:26.723Z",
       "sourceLinks": [
         {
           "name": "24.hu",
-          "link": "https://24.hu/sport/2026/11/18/kezilabda-bajnokok-ligaja-kozepdonto-plock-veszprem/"
+          "link": "https://24.hu/sport/foci/2026/11/19/lyon-sajtotajekoztato-gta/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/tudomany/20261118_grand-theft-auto-vi-gta-6-kritikusok-velemenyek-teszt-videojatek"
+          "link": "https://hvg.hu/itthon/20261119_ket-ujabb-nav-os-vezetot-is-levaltottak-24-oran-belul"
         }
       ],
       "skipped": [
@@ -64,48 +58,48 @@
     "sport": {
       "items": [
         {
-          "text": "A magyar labdarúgó-válogatott egymást követő harmadik évben nem jutott vissza a Nemzetek Ligája A-divíziójába.",
+          "text": "Az UEFA 35 ezer eurós büntetés megfizetésére kötelezte a Ferencvárost a szurkolók milánói Európa-liga-mérkőzésen tanúsított magatartása miatt.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/18/hanyast-erdemel-marco-rossi-valogatottja-2026-ban",
+          "link": "https://infostart.hu/sport/2026/11/19/buntettek-a-ferencvarost",
           "scope": "belfold"
         },
         {
-          "text": "A magyar labdarúgó-válogatott 1-1-es döntetlent ért el Észak-Írország ellen a Nemzetek Ligája B-divíziós csoportdöntőjén.",
+          "text": "Három helyen eltört Tóth Balázs, a magyar labdarúgó-válogatott kapusának kézközépcsontja az északírek elleni Nemzetek Ligája-mérkőzésen.",
           "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/17/sajnos-nincs-ha-eltort-a-kapus-keze-ertekelesek-a-magyar-eszakir-utan",
+          "link": "https://infostart.hu/sport/2026/11/18/magyar-eszakir-3-helyen-eltort-toth-balazs-kezkozepcsontja",
           "scope": "belfold"
         },
         {
-          "text": "Három helyen eltört Tóth Balázs, a magyar válogatott kapusának kézközépcsontja, de műtétre nincs szüksége.",
-          "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/magyar-valogatott/2026/11/harom-helyen-eltort-toth-balazs-kezkozepcsontja",
+          "text": "A magyar labdarúgó-válogatott a Nemzetek Ligája B-divízió 2. csoportjában a második helyen végzett, így osztályozót vív majd az A-divízióba jutásért.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/18/igy-alakul-a-magyar-valogatott-sorsa-az-eszakirek-elleni-dontetlen-utan",
           "scope": "belfold"
         },
         {
-          "text": "Romário, a korábbi brazil csatár, Carlo Ancelotti, a válogatott szövetségi kapitányának menesztését követeli.",
+          "text": "Romário, a korábbi brazil csatár ismét Carlo Ancelotti szövetségi kapitány menesztését követeli.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/2026/11/18/romario-ujabb-tamadast-intezett-carlo-ancelotti-ellen",
           "scope": "kulfold"
         },
         {
-          "text": "A Győri Audi ETO KC fölényes győzelmet aratott az Alba Fehérvár ellen.",
+          "text": "Vincent Kompany, a Bayern München vezetőedzője vírusfertőzése után már ismét jól érzi magát.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/kezilabda/2026/11/ujabb-folenyes-gyozelmet-aratott-a-gyori-audi-eto-kc",
-          "scope": "belfold"
+          "link": "https://www.nemzetisport.hu/nemet-labdarugas/2026/11/kompany-nem-figyeltem-elegge-a-testem-jelzeseire",
+          "scope": "kulfold"
         },
         {
-          "text": "Az FTC hét gólt lőtt a Villach csapatának, David Silye triplázott.",
+          "text": "Az UEFA 35 ezer eurós büntetést szabott ki a Ferencvárosra a milánói görögtüzekért, és jegyértékesítési tiltásról is döntöttek, amelyet próbaidőre felfüggesztettek.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/jegkorong/2026/11/az-utolso-harmadban-ellepett-az-ftc-het-golt-ramolt-be-a-villach-kapujaba",
+          "link": "https://www.nemzetisport.hu/europa-liga/2026/11/az-uefa-35-ezer-euros-buntetest-szabott-ki-a-ferencvarosra",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-18T22:32:46.737Z",
+      "updatedAt": "2026-11-19T14:15:47.317Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/18/hanyast-erdemel-marco-rossi-valogatottja-2026-ban"
+          "link": "https://infostart.hu/sport/2026/11/19/buntettek-a-ferencvarost"
         },
         {
           "name": "Nemzeti Sport",
@@ -117,42 +111,48 @@
     "technologia": {
       "items": [
         {
-          "text": "Az első kritikák alapján a GTA VI beváltotta a hozzá fűzött reményeket.",
+          "text": "Hollandia elfogadhatatlannak tartja az ASML kínai üzleteire vonatkozó amerikai korlátozásokat.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167419/hollandia-elfogadhatatlannak-tartja-az-asml-kinai-uzleteinek-amerikai-korlatozas",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Claude fejlesztője hatalmas befektetői érdeklődés mellett lépett tőzsdére.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/it-tech/167449/hatalmas-befektetoi-erdeklodes-mellett-lepett-tozsdere-a-claude-fejlesztoje",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Az első kritikák szerint a GTA VI beváltotta a hozzá fűzött reményeket.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/jatek/167442/az-elso-kritikak-alapjan-a-gta-vi-bevaltotta-a-hozza-fuzott-remenyeket",
           "scope": "kulfold"
         },
         {
-          "text": "A Copilotot „a munka új operációs rendszerének” nevezték.",
+          "text": "A Copilotot „a munka új operációs rendszerének” nevezik.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/167440/a-copilot-a-munka-uj-operacios-rendszere",
           "scope": "kulfold"
         },
         {
-          "text": "Eddig az Nvidia volt az MI-gazdaság korlátlan pénzügyi támogatója.",
+          "text": "Az Nvidia igazgatótanácsa nem veszi vissza Jensen Huangot.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167410/eddig-az-nvidia-volt-az-mi-gazdasag-korlatlan-penzugyi-tamogatoja-mi-lesz-nelkul",
+          "link": "https://sg.hu/cikkek/it-tech/167416/az-nvidia-igazgatotanacsa-nem-veszi-vissza-jensen-huangot",
           "scope": "kulfold"
         },
         {
-          "text": "A Voyager-1 űrszonda elérte a Földtől mért egy fénynapnyi, mintegy 26 milliárd kilométeres távolságot.",
+          "text": "A Voyager-1 űrszonda szerdán délelőtt elérte a Földtől mért egy fénynapnyi, mintegy 26 milliárd kilométeres távolságot.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/11/18/atlepte-a-kulcsfontottsagu-hatart-a-veteran-urszonda",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Sikeres volt a kínai fejlesztésű elektromos repülőgép emberes tesztrepülése.",
-          "source": "Infostart Tudomány",
-          "link": "https://infostart.hu/tudomany/2026/11/17/sikeres-volt-a-kinai-fejlesztesu-elektromos-repulogep-emberes-tesztrepulese-video",
           "scope": "kulfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-18T22:33:02.067Z",
+      "updatedAt": "2026-11-19T14:16:01.485Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
-          "link": "https://sg.hu/cikkek/jatek/167442/az-elso-kritikak-alapjan-a-gta-vi-bevaltotta-a-hozza-fuzott-remenyeket"
+          "link": "https://sg.hu/cikkek/it-tech/167419/hollandia-elfogadhatatlannak-tartja-az-asml-kinai-uzleteinek-amerikai-korlatozas"
         },
         {
           "name": "Infostart Tudomány",
@@ -164,52 +164,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "Az AI-forradalom zászlajának számító Nvidia közzétette harmadik negyedéves gyorsjelentését, melyet nagy nemzetközi befektetői figyelem övezett.",
+          "text": "A forint gyengülni kezdett, majd csütörtök reggel kissé erősödött.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/uzlet/20261118/jon-a-piacok-nagy-tesztje-egy-ai-cegre-figyel-mindenki-877240",
+          "link": "https://www.portfolio.hu/deviza/20261119/gyengulni-kezdett-a-forint-araszol-a-370-fele-877594",
+          "scope": "belfold"
+        },
+        {
+          "text": "A dollár 19 havi csúcsra erősödött a decemberi amerikai kamatemelés esélye miatt, az euró pedig 1,10 dollár alá esett.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/deviza/20261119/gyengulni-kezdett-a-forint-araszol-a-370-fele-877594",
           "scope": "kulfold"
         },
         {
-          "text": "A magyar forint gyengült a devizapiacon, az euró jegyzése 368,5, a dolláré pedig 336 fölé emelkedett.",
+          "text": "Az amerikai hadiipar beszállítói 2027-től nem használhatnak Kínából, Oroszországból, Iránból és Észak-Koreából származó ritkaföldfémeket és más ásványokat.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/deviza/20261118/masfel-honapos-melypontig-pofoztak-a-forintot-877188",
+          "link": "https://www.portfolio.hu/global/20261119/nagy-bajba-sodorhatja-sajat-hadiiparat-amerika-mar-csak-hetek-vannak-hatra-877730",
+          "scope": "kulfold"
+        },
+        {
+          "text": "A Nébih visszahívta a Richard Royal Winter ízesített fekete teát a forgalomból engedély nélküli növényvédőszer-maradék miatt.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/gazdasag/20261119/teat-hivott-vissza-a-nebih-877780",
           "scope": "belfold"
         },
         {
-          "text": "A magyar állam jövő év április elsejével visszaveszi az autópálya-hálózat üzemeltetését a Magyar Koncessziós Infrastruktúra Fejlesztő Zrt.-től.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261118/az-m1-est-meg-befejezik-aztan-mindent-atad-szijj-es-meszaros-konzorciuma-az-allamnak-877536",
-          "scope": "belfold"
-        },
-        {
-          "text": "A világ egyik legismertebb szélenergia-vállalata két amerikai projektjét is leállította a dráguló építés és az emelkedő kamatok miatt.",
+          "text": "Magyarország szélerőművek építésére készül, miközben az energiaárak, a vámháborúk és a bizonytalan kamatkilátások próbára teszik a megtérülést.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/11/18/az-ingyenes-szel-ara-ki-fizet-ha-elszall-a-megterules",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az MVM ONEnergy és a lengyel Orlen együttműködési megállapodást kötött a lengyelországi LNG-terminálokon keresztüli gázszállítás lehetőségének vizsgálatára Magyarországra.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/18/ujabb-utvonalon-erkezhet-gaz-az-orszagba-az-mvm-mar-lepett-is",
           "scope": "belfold"
         },
         {
-          "text": "A bruttó átlagkereset éves növekedési üteme 7,3 százalékra, a nettó átlagkereseté pedig 9,0 százalékra lassult.",
+          "text": "Az MVM ONEnergy és a lengyel Orlen együttműködési megállapodást kötött, hogy megvizsgálják a lengyelországi LNG-terminálokon keresztül történő gázszállítás lehetőségét Magyarországra.",
           "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/18/435-600-forintnal-az-orszag-fele-tobbet-keres-fele-kevesebbet-friss-adatok",
+          "link": "https://infostart.hu/gazdasag/2026/11/18/ujabb-utvonalon-erkezhet-gaz-az-orszagba-az-mvm-mar-lepett-is",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-18T22:33:16.538Z",
+      "updatedAt": "2026-11-19T14:16:20.997Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/uzlet/20261118/jon-a-piacok-nagy-tesztje-egy-ai-cegre-figyel-mindenki-877240"
+          "link": "https://www.portfolio.hu/deviza/20261119/gyengulni-kezdett-a-forint-araszol-a-370-fele-877594"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/18/az-ingyenes-szel-ara-ki-fizet-ha-elszall-a-megterules"
+          "link": "https://infostart.hu/gazdasag/2026/11/19/ma-mar-barki-hangjaval-felhivhatnak-minket-a-csalok-es-barmire-ravehetnek-parej-aron-biztonsagtechnikai-mernok-az-arenaban"
         }
       ],
       "skipped": []
@@ -217,36 +217,24 @@
     "kornyezet": {
       "items": [
         {
-          "text": "Verreaux-i sasok karmaikkal akár egy 26 kilogrammos majmot is képesek felemelni, és egy friss kutatás szerint a kistestű ősemberekre is veszélyt jelenthettek.",
+          "text": "században sincs vége a boszorkányok történetének: a mai napig többé-kevésbé élő hagyományról van szó, csak senki nem reklámozza – derült ki a Néprajzi Múzeum Artist Talk sorozatának ötödik részében.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/18/egy-afrikai-sasfaj-pavianokra-vadaszik-es-korabban-a-kisebb-sulyu-osembereket-is-elkaphatta?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/11/19/boszorkanyok-marpedig-vannak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Egy kísérletben patkányok ingerszegény környezetben túladagolták magukat kokainnal, ami a választási lehetőség hiányában történt.",
+          "text": "A Java a világ harmadik legnépszerűbb programozási nyelve, használják banki és pénzügyi rendszerek, de kritikus közszolgáltatások is.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/18/elet-a-ketrecben-amikor-a-szerhasznalat-racionalis-dontes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A NASA Voyager-1 űrszondája közel ötven év alatt mintegy 26 milliárd kilométerre repült a Földtől, rekord távolságra felfedezve a csillagközi teret.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/18/a-nasa-voyager-1-urszondaja-rekord-tavolsagra-repult-a-foldtol-amihez-kozel-otven-ev-kellett?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az USA közel harminc év után elvesztette a kanyarómentes státuszát, az elmúlt hat évben jelentősen csökkent átoltott óvodás arány miatt.",
-          "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/18/az-usa-kozel-harminc-ev-utan-elvesztette-a-kanyaromentes-statuszat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/11/19/az-ai-segitett-megtalalni-a-java-programnyelv-kritikus-sebezhetoseget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         }
       ],
-      "engine": "gemini",
-      "updatedAt": "2026-11-18T22:33:36.034Z",
+      "engine": "extractive",
+      "updatedAt": "2026-11-19T14:16:30.199Z",
       "sourceLinks": [
         {
           "name": "Qubit",
-          "link": "https://qubit.hu/2026/11/18/egy-afrikai-sasfaj-pavianokra-vadaszik-es-korabban-a-kisebb-sulyu-osembereket-is-elkaphatta?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "link": "https://qubit.hu/2026/11/19/boszorkanyok-marpedig-vannak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ],
       "skipped": [
@@ -256,56 +244,49 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Magyar Péter bejelentette, hogy a kormány döntött Mészáros Lőrinc autópálya-koncessziójának megszüntetéséről.",
+          "text": "A Telekom leépítést jelentett be Magyarországon, januártól szüntetik meg a munkahelyeket.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/magyar-peter-meszaros-lorinc-autopalya-koncesszio-vege",
+          "link": "https://www.vg.hu/cegvilag/2026/11/magyar-telekom-bermegallapodas-jovo-evi-beremele",
           "scope": "belfold"
         },
         {
-          "text": "A kormány megszünteti az MKIF-fel kötött 35 éves autópálya-koncessziót.",
+          "text": "Csányi Sándor bankvezér villámtempóban tárazza be a készpénzt.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/magyar-peter-meszaros-lorinc-autopalya-koncesszio-vege",
+          "link": "https://www.vg.hu/penz-es-tokepiac/2026/11/csanyi-sandor-reszveny-eladas-mol-vagyonado-keszpenz",
           "scope": "belfold"
         },
         {
-          "text": "Lesz kétoldalú Putyin-Trump találkozó az APEC-csúcson a csütörtöki plenáris ülés után.",
+          "text": "A magyar kormány zöld jelzést kapott Brüsszelben egy tervére, amellyel milliárdokat szerzett.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kulpolitika/kiderult-lesz-ketoldalu-putyin-trump-talalkozo-az-apec-csucson.html?utm_source=rss&utm_medium=referral",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Átalakul a turisztikai irányítás, búcsút mondva a központosított stratégiai szemléletnek.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/turizmus/uj-strategiai-szemlelet-bucsu-a-kozpontositott-turisztikai-iranyitastol.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/kulpolitika/zold-jelzest-kapott-a-magyar-terv--milliardokat-szerzett-brusszelben-a-kormany.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         },
         {
-          "text": "Szerdán gyengült a magyar fizetőeszköz, az euró maga alá gyűrte a forintot.",
+          "text": "Vitézy Dávid rossz hírt hozott Mészáros Lőrincéknek a legújabb Magyar Közlöny megjelenésével.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/befektetes/maga-ala-gyurte-az-euro-a-forintot.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/kozelet/itt-a-vege-vitezy-david-rossz-hirt-hozott-meszaros-lorinceknek.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         },
         {
-          "text": "A KSH szeptemberi kereseti adatai szerint a bányászatban jobban megéri dolgozni, mint az egészségügyben.",
+          "text": "A hazai lízingpiac tovább bővült, ami elengedhetetlen a gazdaság élénkítéséhez.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/a-banyaszatban-jobban-megeri-dolgozni-mint-az-egeszsegugyben.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/szemelyes_penzugyek/duborog-a-lizingpiac-ez-elengedhetetlen-a-gazdasag-elenkitesehez.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-18T22:33:45.059Z",
+      "updatedAt": "2026-11-19T14:16:44.314Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
-          "link": "https://www.vg.hu/reszvenyek"
+          "link": "https://www.vg.hu/kozelet/2026/11/orban-viktor-ensz-fotitkar-trump-putyin-hszi-csin-ping"
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozerdeku/teljesen-atalakult-a-katasztrofavedelem.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/kulpolitika/zold-jelzest-kapott-a-magyar-terv--milliardokat-szerzett-brusszelben-a-kormany.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-11-19T12:42:27.712Z"
+  }
 }
