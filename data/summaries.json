@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T13:13:15.288Z",
+  "generatedAt": "2026-11-22T21:00:33.860Z",
   "fx": {
     "rate": 372.9,
     "date": "2026-11-22T18:00:39.000Z",
@@ -9,105 +9,97 @@
     "politika": {
       "items": [
         {
-          "text": "Magyar Péter a magyar utak állapotára hívta fel a figyelmet, és 120 milliárdos gumimentő programot ígért.",
-          "source": "HVG",
-          "link": "https://hvg.hu/elet/20261122_magyar-peter-a-gumi-mar-csak-ilyen-neha-kilyukad-vagy-kiszakad",
-          "scope": "belfold"
-        },
-        {
-          "text": "Egy angol falu lakói megszavazták, hogy kilépnek az Egyesült Királyságból, tiltakozva a kormány menedékkérőket érintő tervei ellen.",
-          "source": "Telex",
-          "link": "https://telex.hu/kulfold/2026/11/22/egy-angol-faluban-megszavaztak-a-lakok-hogy-kilepnek-az-egyesult-kiralysagbol",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Négy feljelentés ellenére sem nyomoz a BRFK a Jagelló-páncél ügyében, ahol hűtlen kezelést feltételeznek.",
+          "text": "Semjén Zsolt átadja a Kereszténydemokrata Néppárt (KDNP) vezetését, és Rétvári Bencét kitűnő arcnak tartja a párt számára.",
           "source": "24.hu",
-          "link": "https://24.hu/belfold/2026/11/22/jagello-pancel-negy-feljelentes-ellenere-sem-nyomoznak-az-evszazad-muzeumi-rablasaban/",
+          "link": "https://24.hu/belfold/2026/11/22/semjen-zsolt-atadja-a-kdnp-elnokseget-szerinte-retvari-bence-kituno-arca-lehetne-a-partnak/",
           "scope": "belfold"
         },
         {
-          "text": "Az Európai Unió elutasította a klímacsúcs-nyilatkozat tervezetét, mert nem említi a fosszilis energiahordozókat.",
-          "source": "HVG",
-          "link": "https://hvg.hu/gazdasag/20261122_az-eu-elutasitotta-a-klimacsucs-nyilatkozat-tervezetet",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A KDNP önálló választási induláson dolgozik, mivel úgy látják, a kereszténység hiteles képviselete vonzerőt jelenthet.",
-          "source": "HVG",
-          "link": "https://hvg.hu/itthon/20261122_latorcai-csaba-kdnp-onallo-indulas",
-          "scope": "belfold"
-        },
-        {
-          "text": "Milorad Dodik fia válhat a boszniai Szerb Köztársaság miniszterelnökévé, amiről a parlament dönt.",
+          "text": "Gulyás Gergely megszólalt, rámutatva, hogy régóta nem volt kormányinfó, és sérelmezte, hogy a jobboldali konzervatív orgánumok alig kérdezhetnek.",
           "source": "24.hu",
-          "link": "https://24.hu/kulfold/2026/11/22/milorad-dodik-fia-igor-dodik-boszniai-szerb-koztarsasag/",
-          "scope": "kulfold"
+          "link": "https://24.hu/belfold/2026/11/22/megszolalt-gulyas-gergely-kormanyinfo/",
+          "scope": "belfold"
+        },
+        {
+          "text": "Semjén Zsolt, a KDNP elnöke Bayer Zsolt műsorában beszélt a pártvezetés stafétaátadásáról, Seszták Miklósról és saját magáról.",
+          "source": "HVG",
+          "link": "https://hvg.hu/itthon/20261122_semjen-zsolt-azert-retvari-bencenek-adna-at-a-partot-mert-slagfertig-es-o-epitgette-eveken-at",
+          "scope": "belfold"
+        },
+        {
+          "text": "Erdélyben magyar közpénzből képeztek újságírókat az úgynevezett „dollármédiáról”, melyhez Demeter Szilárdhoz köthető cég is jutott pénzhez.",
+          "source": "HVG",
+          "link": "https://hvg.hu/itthon/20261122_dollarmediarol-is-kepeztek-ujsagirokat-erdelyben-magyar-kozpenzbol",
+          "scope": "belfold"
+        },
+        {
+          "text": "Jogszerűnek ítélték, hogy Seszták Miklós cégét a hatóságok még a meggyanúsítása előtt zár alá vették.",
+          "source": "HVG",
+          "link": "https://hvg.hu/itthon/20261122_sesztak-ceg-zar-ala-vetel",
+          "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-22T13:12:12.520Z",
+      "updatedAt": "2026-11-22T20:59:21.934Z",
       "sourceLinks": [
         {
-          "name": "Telex",
-          "link": "https://telex.hu/techtud/2026/11/22/autoteszt-plug-in-hibrid-byd-seal-6-skoda-superb"
-        },
-        {
           "name": "24.hu",
-          "link": "https://24.hu/belfold/2026/11/22/bocskei-balazs-miert-nem-tud-forradalmi-lenni-a-magyar-kormany-kozpolitikaja/"
+          "link": "https://24.hu/belfold/2026/11/22/semjen-zsolt-atadja-a-kdnp-elnokseget-szerinte-retvari-bence-kituno-arca-lehetne-a-partnak/"
         },
         {
           "name": "HVG",
-          "link": "https://hvg.hu/gazdasag/20261122_az-eu-elutasitotta-a-klimacsucs-nyilatkozat-tervezetet"
+          "link": "https://hvg.hu/itthon/20261122_semjen-zsolt-azert-retvari-bencenek-adna-at-a-partot-mert-slagfertig-es-o-epitgette-eveken-at"
         }
       ],
-      "skipped": []
+      "skipped": [
+        "Telex"
+      ]
     },
     "sport": {
       "items": [
         {
-          "text": "Sajtóértesülések szerint rendkívüli elnökségi ülést tartottak a Győri Audi ETO KC-t működtető gazdasági társaságnál.",
+          "text": "Kopasz Bálint nyolcadszor lett az év magyar férfi kajakozója.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/22/visszater-a-csapathajokhoz-es-a-hazai-vb-dontore-keszul-kopasz-balint",
+          "scope": "belfold"
+        },
+        {
+          "text": "Szoboszlai Dominik gólra váltotta szabadrúgását a Liverpool–Manchester United mérkőzésen.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/22/elo-liverpool-manchester-united-2-0-golszerzo-szoboszlai-is",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Szoboszlai Dominik a Manchester United ellen beállította Gera Zoltán Premier League-gólrekordját.",
+          "source": "Nemzeti Sport",
+          "link": "https://www.nemzetisport.hu/angol-labdarugas/2026/11/video-szoboszlai-szabadrugasbol-szerezte-meg-a-vezetest-az-mu-ellen",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Mintegy százharminc szurkoló csapott össze Nyíregyházán a Nyíregyháza–DVSC élvonalbeli labdarúgó-mérkőzés előtt.",
+          "source": "Infostart Sport",
+          "link": "https://infostart.hu/sport/2026/11/22/durva-szurkoloi-verekedes-nyiregyhazan-lengyel-huliganok-donthettek-el-az-osszecsapast",
+          "scope": "belfold"
+        },
+        {
+          "text": "Meg nem erősített sajtóértesülések szerint rendkívüli elnökségi ülést tartottak a Győri Audi ETO KC-t működtető egyesületnél, ahol felmerült Fata Edina ügyvezető és Görbicz Anita elnök távozása, ám hivatalos bejelentés még nem történt.",
           "source": "Infostart Sport",
           "link": "https://infostart.hu/sport/2026/11/22/lefejezhetik-a-gyort-ket-noi-sportvezeto-tavozasarol-szolnak-az-ertesulesek",
           "scope": "belfold"
         },
         {
-          "text": "A Ferencváros 22 mérkőzéses veretlenségi sorozata véget ért, otthon kapott ki.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/21/vege-a-fradi-22-meccses-veretlensegi-sorozatanak-otthon-kapott-ki",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Manchester City jogi csatározásai jelentősen akadályt jelentenek a klub további finanszírozásában.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/21/ha-az-eddigi-adag-meg-mindig-nem-lenne-eleg-a-manchester-citynek",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Gulácsi Péter először játszik a Barcelona ellen.",
+          "text": "A DVSC hat gólt szerzett Nyíregyházán, zsinórban ötödik bajnoki győzelmét aratva.",
           "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/spanyol-labdarugas/2026/11/la-liga-barcelona-villarreal-5",
-          "scope": "kulfold"
-        },
-        {
-          "text": "A Liverpool Szoboszlai Dominikkal várja az új edzővel érkező Manchester Unitedet.",
-          "source": "Nemzeti Sport",
-          "link": "https://www.nemzetisport.hu/angol-labdarugas/2026/11/szoboszlai-dominikkal-varja-az-uj-edzovel-erkezo-unitedet-a-liverpool",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Dárdai Pál egyik fia 567 nap után játszott újra kezdőként.",
-          "source": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/21/567-napig-ult-dardai-pal-egyik-fia-a-kezdo-sipszo-pillanataban",
+          "link": "https://www.nemzetisport.hu/labdarugo-nb-i/2026/11/hat-golt-szerzett-nyiregyhazan-es-zsinorban-otodik-bajnoki-gyozelmet-aratta-a-dvsc",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-22T13:12:31.887Z",
+      "updatedAt": "2026-11-22T20:59:41.100Z",
       "sourceLinks": [
         {
           "name": "Infostart Sport",
-          "link": "https://infostart.hu/sport/2026/11/22/lefejezhetik-a-gyort-ket-noi-sportvezeto-tavozasarol-szolnak-az-ertesulesek"
+          "link": "https://infostart.hu/sport/2026/11/22/visszater-a-csapathajokhoz-es-a-hazai-vb-dontore-keszul-kopasz-balint"
         },
         {
           "name": "Nemzeti Sport",
@@ -119,44 +111,44 @@
     "technologia": {
       "items": [
         {
-          "text": "A mesterséges intelligencia újfajta káoszt idéz elő a világban.",
+          "text": "A mesterséges intelligencia által előidézett káosz új korszakában élünk.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/it-tech/167473/a-mesterseges-intelligencia-altal-eloidezett-kaosz-uj-korszakaban-elunk",
           "scope": "kulfold"
         },
         {
-          "text": "Az Európai Unió adót vetne ki az amerikai technológiai óriásokra.",
-          "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167470/trump-meggyengult-az-eu-gyorsan-adot-vetne-ki-az-amerikai-technologiai-oriasokra",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Az Anthropic egyik kutatója azt állítja, hogy Claude mesterséges intelligencia segítségével megoldotta a Riemann-sejtést.",
+          "text": "Az Anthropic egyik kutatója azt állítja, hogy az általa fejlesztett Claude mesterséges intelligencia segítségével megoldotta a Riemann-sejtést.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/tudomany/167468/az-anthropic-kutatoja-azt-allitja-hogy-claude-segitsegevel-megoldotta-a-riemann-",
           "scope": "kulfold"
         },
         {
-          "text": "A Nissan egy kibertámadás miatt világszerte leállította a javításokhoz használt rendszerét.",
+          "text": "A Nissan világszerte leállította a javításokhoz használt rendszerét egy kibertámadás következtében.",
           "source": "SG.hu",
           "link": "https://sg.hu/cikkek/auto/167466/a-nissan-vilagszerte-leallitotta-a-javitasokhoz-hasznalt-rendszeret-egy-kibertam",
           "scope": "kulfold"
         },
         {
-          "text": "A mesterséges intelligencia az összeomlás szélére sodorja az önkéntesek által fenntartott internetet.",
+          "text": "Az Európai Unió gyorsan adót vetne ki az amerikai technológiai óriásokra Trump meggyengülése miatt.",
           "source": "SG.hu",
-          "link": "https://sg.hu/cikkek/it-tech/167465/az-mi-az-osszeomlas-szelere-sodorja-az-onkentesek-altal-fenntartott-internetet",
+          "link": "https://sg.hu/cikkek/it-tech/167470/trump-meggyengult-az-eu-gyorsan-adot-vetne-ki-az-amerikai-technologiai-oriasokra",
           "scope": "kulfold"
         },
         {
-          "text": "Magyar kutatók a hidrogén üzemanyag-ellátási infrastruktúra fejlesztésén dolgoznak egy új programban.",
+          "text": "A GTA VI sikeressége azt mutatja, hogy egyetlen kasszasiker többet ér sok közepes játéknál.",
+          "source": "SG.hu",
+          "link": "https://sg.hu/cikkek/jatek/167478/a-gta-vi-bizonyitja-hogy-egyetlen-kasszasiker-tobbet-er-sok-kozepes-jateknal",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Egy magyar tudományos program keretében a hidrogéntöltés 6-7 éven belül hétköznapivá válhat a meglévő üzemanyag-infrastruktúra felhasználásával.",
           "source": "Infostart Tudomány",
           "link": "https://infostart.hu/tudomany/2026/11/21/6-7-ev-es-hetkoznapi-lehet-a-hidrogentoltes-egy-magyar-tudomanyos-folyamat-reszletei",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-22T13:12:47.034Z",
+      "updatedAt": "2026-11-22T20:59:52.385Z",
       "sourceLinks": [
         {
           "name": "SG.hu",
@@ -172,52 +164,52 @@
     "gazdasag": {
       "items": [
         {
-          "text": "A dél-koreai kormány azonnali piaci beavatkozásra készül, miután a szöuli tőzsde tíz hónapos mélypontra zuhant.",
+          "text": "A hitelintézetek háztartási hitelállománya 21,8 százalékkal, a vállalati hitelállomány pedig 11,3 százalékkal bővült a 2026. szeptembert megelőző egy évben Magyarországon.",
           "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/befektetes/20261122/kormanyzati-beavatkozas-johet-del-koreaban-a-tozsde-zuhanasa-miatt-878298",
+          "link": "https://www.portfolio.hu/bank/20261122/mnb-europa-csucsan-a-magyar-lakossagi-hitelezes-megtorhet-a-vallalati-hitelek-lendulete-878348",
+          "scope": "belfold"
+        },
+        {
+          "text": "A Wall Street-i befektetési bankok történelmük egyik legjövedelmezőbb évét zárhatják a tőzsdei bevezetések terén.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/bank/20261122/aranyev-a-befektetesi-bankoknal-jol-megtomik-a-zsebuket-a-tozsdei-bevezeteseken-878346",
           "scope": "kulfold"
         },
         {
-          "text": "2027. január 1-jétől az eddigi egy százalékról két százalékra emelkedik a helyi iparűzési adó mértéke Gödön.",
+          "text": "A spanyol kormány meghosszabbítja a banki különadót, amelyből 1,4 milliárd euró bevételt lakhatási programokra fordítanak.",
+          "source": "Portfolio.hu",
+          "link": "https://www.portfolio.hu/bank/20261122/ujabb-europai-orszag-hosszabbitja-meg-a-banki-kulonadot-lakhatasi-programokra-forditjak-a-bevetelt-878342",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Kapitány István gazdasági és energetikai miniszter szerint decemberben több mint 3 milliárd eurónyi uniós forrás érkezik gazdaságfejlesztési és energetikai programokra.",
+          "source": "Infostart Gazdaság",
+          "link": "https://infostart.hu/gazdasag/2026/11/22/decemberben-jonnek-az-euromilliardok",
+          "scope": "belfold"
+        },
+        {
+          "text": "Gödön 2027. január 1-jétől egyről két százalékra emelik a helyi iparűzési adó mértékét.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/11/22/duplajara-emeltek-az-adot-godon-a-samsung-all-a-hatterben",
           "scope": "belfold"
         },
         {
-          "text": "November 1-jétől új, kedvezőbb szabályok léptek életbe a babaváró hiteleknél.",
+          "text": "November 1-jétől új, kedvezőbb szabályok léptek életbe a babaváró hiteleknél, melyek enyhítik a korábbi adósok terheit és mérséklik az újonnan szerződő párok kockázatait.",
           "source": "Infostart Gazdaság",
           "link": "https://infostart.hu/gazdasag/2026/11/22/belenyultak-a-babavaro-hitelbe-sokan-fellelegezhetnek-majd",
-          "scope": "belfold"
-        },
-        {
-          "text": "A Grand Theft Auto VI megjelenése első 24 órája alatt minden idők legnagyobb, 3,79 milliárd dolláros bevételét érte el.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/21/igy-tarolta-le-24-ora-alatt-a-vilagot-a-gta-vi-minden-idok-legdurvabb-szamai",
-          "scope": "kulfold"
-        },
-        {
-          "text": "Uniós forrásból kezdődnek meg a Nyugati pályaudvar biztosítóberendezésének és bevezető vágányhálózatának korszerűsítéséhez szükséges tervezési és előkészítő munkálatok.",
-          "source": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/gazdasag/20261122/fontos-vasuti-fejlesztest-jelentett-be-vitezy-david-a-nyugati-palyaudvarnal-878296",
-          "scope": "belfold"
-        },
-        {
-          "text": "Tavaly 15 százalékkal kevesebb külföldi vásárolt lakást vagy házat Magyarországon, mint egy évvel korábban.",
-          "source": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/21/mar-nem-a-budapesti-belvaros-a-kulfoldiek-kedvence",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-22T13:13:03.218Z",
+      "updatedAt": "2026-11-22T21:00:08.474Z",
       "sourceLinks": [
         {
           "name": "Portfolio.hu",
-          "link": "https://www.portfolio.hu/befektetes/20261122/kormanyzati-beavatkozas-johet-del-koreaban-a-tozsde-zuhanasa-miatt-878298"
+          "link": "https://www.portfolio.hu/global/20261122/eszkalalodik-a-nato-teruleten-elkovetett-sulyos-katonai-incidens-rendkivuli-ulest-hivtak-ossze-hireink-az-orosz-ukran-haborurol-vasarnap-878264"
         },
         {
           "name": "Infostart Gazdaság",
-          "link": "https://infostart.hu/gazdasag/2026/11/22/duplajara-emeltek-az-adot-godon-a-samsung-all-a-hatterben"
+          "link": "https://infostart.hu/gazdasag/2026/11/22/az-euro-nem-hoz-innovaciot"
         }
       ],
       "skipped": []
@@ -225,20 +217,20 @@
     "kornyezet": {
       "items": [
         {
-          "text": "Kilencven évvel ezelőtt saját tanítványa vetett véget életének.",
+          "text": "Az ősi kardszárnyú delfinek 2,5 millió évvel ezelőtt éltek az Északi-tengerben.",
           "source": "Qubit",
-          "link": "https://qubit.hu/2026/11/22/a-becsi-egyetem-lepcsojen-lottek-le-a-modern-filozofia-szokrateszet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "link": "https://qubit.hu/2026/11/20/balnakra-vadaszo-hatalmas-kardszarnyu-delfin-uralhatta-egykor-az-eszaki-tengert?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         },
         {
-          "text": "Az ősi kardszárnyú delfinek 2,5 millió évvel ezelőtt éltek az Északi-tengerben.",
+          "text": "Fosszíliáik arra utalnak, hogy az orkák már ekkor az óceánok csúcsragadozói voltak.",
           "source": "Qubit",
           "link": "https://qubit.hu/2026/11/20/balnakra-vadaszo-hatalmas-kardszarnyu-delfin-uralhatta-egykor-az-eszaki-tengert?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "scope": "kulfold"
         }
       ],
-      "engine": "extractive",
-      "updatedAt": "2026-11-22T13:13:06.038Z",
+      "engine": "gemini",
+      "updatedAt": "2026-11-22T21:00:19.567Z",
       "sourceLinks": [
         {
           "name": "Qubit",
@@ -252,44 +244,44 @@
     "vilaggazdasag": {
       "items": [
         {
-          "text": "Sok napelemes cég áramszerződése szűnhet meg az év végén, a harmincnapos határidőre figyelemmel.",
+          "text": "Egy világpolitikai csúcstalálkozón egyeztettek a világ jövőjéről, amelyről Európa kimaradt.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/ceges-aramszerzodes-lejarata-kereskedovaltas-eves-szaldo",
-          "scope": "belfold"
-        },
-        {
-          "text": "Nem született megállapodás a törökországi klímakonferencián.",
-          "source": "VG.hu",
-          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/nem-szuletett-megallapodas-a-torokorszagi-klimakonferencian",
+          "link": "https://www.vg.hu/kozelet/2026/11/csucstalalkozo-trump-hszi-putyin-vilagrend-europai-unio",
           "scope": "kulfold"
         },
         {
-          "text": "Két vidéki nagyvárosban szinte ugyanaz a használt lakások vételára, mégis az egyikben jóval tovább kell törleszteni.",
+          "text": "Egy festő életét tönkretette egy korábbi tőzsdekrach.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/lakas-hasznalt-uj-atlagber-havi-torleszto-otthon-start",
-          "scope": "belfold"
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/gauguin-paul-festmeny-szepmuveszeti-muzeum-tozsde",
+          "scope": "kulfold"
         },
         {
-          "text": "A kisebb lakásméretek miatt az átlagos négyzetméterár közel 5 százalékkal emelkedett, és megközelítette az 1,4 millió forintot.",
+          "text": "Amerikában a Black Friday vásárlások menthetik meg az összeomlástól rettegő tőzsdét.",
           "source": "VG.hu",
-          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/lakas-hasznalt-uj-atlagber-havi-torleszto-otthon-start",
-          "scope": "belfold"
+          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/black-friday-tozsde-amerika-fogyasztoi-kereslet",
+          "scope": "kulfold"
         },
         {
-          "text": "A Moody's már döntött Magyarország hitelminősítéséről, és heteken belül érkeznek az S&P és a Fitch Ratings minősítései is.",
-          "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/agrarium/a-moodys-mar-dontott-de-hogyan-lathatja-magyarorszagot-az-sp-es-a-fitch-ratings.html?utm_source=rss&utm_medium=referral",
-          "scope": "belfold"
+          "text": "A technológiai részvények zuhanórepülésbe kapcsoltak a mesterséges intelligenciával kapcsolatos félelmek miatt.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/black-friday-tozsde-amerika-fogyasztoi-kereslet",
+          "scope": "kulfold"
         },
         {
-          "text": "A K&H-nál felpörgött a qvik szolgáltatás, már közel 20 milliárd forint értékben teljesítettek kérelmeket.",
+          "text": "A Wall Street az amerikai vásárlók pénztárcájában keres menedéket.",
+          "source": "VG.hu",
+          "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/black-friday-tozsde-amerika-fogyasztoi-kereslet",
+          "scope": "kulfold"
+        },
+        {
+          "text": "Magyarország több mint 1120 milliárd forint uniós forráshoz jut decemberben.",
           "source": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/makro/felporgott-a-qvik-a-kh-nal-mar-kozel-20-milliard-forint-ertekben-teljesitettek-kerelmeket.html?utm_source=rss&utm_medium=referral",
+          "link": "https://mfor.hu/cikkek/makro/dobbenetes-osszegu-unios-forrashoz-jut-magyarorszag-decemberben.html?utm_source=rss&utm_medium=referral",
           "scope": "belfold"
         }
       ],
       "engine": "gemini",
-      "updatedAt": "2026-11-22T13:13:15.230Z",
+      "updatedAt": "2026-11-22T21:00:33.728Z",
       "sourceLinks": [
         {
           "name": "VG.hu",
@@ -297,11 +289,10 @@
         },
         {
           "name": "MFOR.hu",
-          "link": "https://mfor.hu/cikkek/kozelet/ideje-fokozni-az-ellenallast--reagalt-a-mi-hazank-elnoke-a-kozmedia-uj-vezetojenek-megvalasztasara.html?utm_source=rss&utm_medium=referral"
+          "link": "https://mfor.hu/cikkek/makro/ugynokaktak-van-akiknek-transzgeneracios-traumafeldolgozas-kell.html?utm_source=rss&utm_medium=referral"
         }
       ],
       "skipped": []
     }
-  },
-  "fxUpdatedAt": "2026-11-22T19:18:52.244Z"
+  }
 }
